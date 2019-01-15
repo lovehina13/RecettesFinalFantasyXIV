@@ -3,7 +3,7 @@
 # ==============================================================================
 # Name        : RecuperationPersonnages.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
-# Version     : 1.5 (08/01/2019)
+# Version     : 1.6 (15/01/2019)
 # Description : Récupération des personnages
 # ==============================================================================
 
@@ -65,6 +65,8 @@ class LecteurPagePersonnage(object):
                 classe = u"Mage noir"
             elif u"Arcaniste" in classe or u"Invocateur" in classe:
                 classe = u"Invocateur"
+            elif u"Mage bleu" in classe:
+                classe = u"Mage bleu"
             if len(item.parent.contents) > 1:
                 niveau = int(item.parent.contents[1].strip()) if item.parent.contents[1].strip() != "-" else 0
                 self.personnage.classes[classe] = niveau

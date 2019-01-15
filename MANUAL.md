@@ -50,7 +50,7 @@ Exemple d'utilisation :
 
     python RecuperationPersonnages.py 9233364398528028107 ListePersonnages.csv
 
-Il convient de modifier le fichier *RecuperationPersonnages.py (ligne 79)* afin d'ajuster le nombre de pages relatives à la compagnie libre considérée.
+Il convient de modifier le fichier *RecuperationPersonnages.py (ligne 81)* afin d'ajuster le nombre de pages relatives à la compagnie libre considérée.
 
 Exemple pour une compagnie libre avec 80 membres, soit 2 pages :
 
@@ -148,4 +148,4 @@ Les critères disponibles sont les suivants : *noms*, *classes*, *niveaux*, *cat
 
 ## 4. Informations
 
-L'application est en version 1.5 au 8 janvier 2019 et réalisée par [Alexis Foerster](mailto:alexis.foerster@gmail.com), joueur du personnage [Yuna Hikari](https://fr.finalfantasyxiv.com/lodestone/character/8095216/).
+L'application est en version 1.6 au 15 janvier 2019 et réalisée par [Alexis Foerster](mailto:alexis.foerster@gmail.com), joueur du personnage [Yuna Hikari](https://fr.finalfantasyxiv.com/lodestone/character/8095216/).

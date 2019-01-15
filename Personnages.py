@@ -3,7 +3,7 @@
 # ==============================================================================
 # Name        : Personnages.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
-# Version     : 1.5 (08/01/2019)
+# Version     : 1.6 (15/01/2019)
 # Description : Définition d'un personnage et d'une liste de personnages
 # ==============================================================================
 
@@ -84,8 +84,9 @@ class Personnage(object):
 
     classes = ["Paladin", "Guerrier", "Chevalier noir", "Mage blanc", "Érudit", "Astromancien",
                "Moine", "Chevalier dragon", "Ninja", "Samouraï", "Barde", "Machiniste", "Mage noir",
-               "Invocateur", "Mage rouge", "Menuisier", "Forgeron", "Armurier", "Orfèvre",
-               "Tanneur", "Couturier", "Alchimiste", "Cuisinier", "Mineur", "Botaniste", "Pêcheur"]
+               "Invocateur", "Mage rouge", "Mage bleu", "Menuisier", "Forgeron", "Armurier",
+               "Orfèvre", "Tanneur", "Couturier", "Alchimiste", "Cuisinier", "Mineur", "Botaniste",
+               "Pêcheur"]
 
     categories = ["Tank", "Soigneur", "DPS de mêlée", "DPS physique à distance",
                   "DPS magique à distance", "Combattants / Mages", "Artisans", "Récolteurs",
@@ -95,21 +96,22 @@ class Personnage(object):
                          "Soigneur": ["Mage blanc", "Érudit", "Astromancien"],
                          "DPS de mêlée": ["Moine", "Chevalier dragon", "Ninja", "Samouraï"],
                          "DPS physique à distance": ["Barde", "Machiniste"],
-                         "DPS magique à distance": ["Mage noir", "Invocateur", "Mage rouge"],
+                         "DPS magique à distance": ["Mage noir", "Invocateur", "Mage rouge",
+                                                    "Mage bleu"],
                          "Combattants / Mages": ["Paladin", "Guerrier", "Chevalier noir",
                                                  "Mage blanc", "Érudit", "Astromancien", "Moine",
                                                  "Chevalier dragon", "Ninja", "Samouraï", "Barde",
                                                  "Machiniste", "Mage noir", "Invocateur",
-                                                 "Mage rouge"],
+                                                 "Mage rouge", "Mage bleu"],
                          "Artisans": ["Menuisier", "Forgeron", "Armurier", "Orfèvre", "Tanneur",
                                       "Couturier", "Alchimiste", "Cuisinier"],
                          "Récolteurs": ["Mineur", "Botaniste", "Pêcheur"],
                          "Général": ["Paladin", "Guerrier", "Chevalier noir", "Mage blanc",
                                      "Érudit", "Astromancien", "Moine", "Chevalier dragon", "Ninja",
                                      "Samouraï", "Barde", "Machiniste", "Mage noir", "Invocateur",
-                                     "Mage rouge", "Menuisier", "Forgeron", "Armurier", "Orfèvre",
-                                     "Tanneur", "Couturier", "Alchimiste", "Cuisinier", "Mineur",
-                                     "Botaniste", "Pêcheur"]}
+                                     "Mage rouge", "Mage bleu", "Menuisier", "Forgeron", "Armurier",
+                                     "Orfèvre", "Tanneur", "Couturier", "Alchimiste", "Cuisinier",
+                                     "Mineur", "Botaniste", "Pêcheur"]}
 
 
 class ListePersonnages(object):

@@ -3,7 +3,7 @@
 # ==============================================================================
 # Name        : Traitements.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
-# Version     : 1.5 (08/01/2019)
+# Version     : 1.6 (15/01/2019)
 # Description : Traitements des récupérations
 # ==============================================================================
 
