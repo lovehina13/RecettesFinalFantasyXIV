@@ -110,7 +110,11 @@ class ListeRecettes(object):
             if qualites and recette.qualite not in qualites:
                 continue
             # TODO Corriger les sélections par matériaux et cristaux
-            recettes.append(recette)
+            if noms and recette.nom in noms:
+                for _ in range(noms.count(recette.nom)):
+                    recettes.append(recette)
+            else:
+                recettes.append(recette)
         return recettes
 
 
