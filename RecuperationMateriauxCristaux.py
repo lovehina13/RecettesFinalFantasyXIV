@@ -12,23 +12,36 @@ def recupererMateriauxCristaux(nomFichierRecettes, nomFichierMateriauxCristaux):
 
     # Fonction de récupération des matériaux et des cristaux
     def recupererListeMateriauxCristaux(recettesSelectionnees, listeRecettes):
+        from math import ceil
+        # Initialisation des listes de matériaux et de cristaux
         listeMateriaux = {}
         listeCristaux = {}
+        # Récupération du degré maximal des recettes sélectionnées
+        degreRecetteMax = max(recette.degre for recette in recettesSelectionnees)
+        # Constitution des recettes par degré
+        recettesDegres = {degre: {} for degre in range(1, degreRecetteMax + 1)}
+        # Ajout des recettes sélectionnées par degré
         for recette in recettesSelectionnees:
-            materiaux = recette.materiaux
-            for materiau, quantite in sorted(materiaux.iteritems()):
-                sousRecette = listeRecettes.recupererRecette(materiau)
-                if sousRecette and len(sousRecette.materiaux):
-                    sousListeMateriaux, sousListeCristaux = recupererListeMateriauxCristaux([sousRecette], listeRecettes)
-                    for sousMateriau, sousQuantite in sorted(sousListeMateriaux.iteritems()):
-                        listeMateriaux[sousMateriau] = (sousQuantite * quantite) if sousMateriau not in listeMateriaux else listeMateriaux[sousMateriau] + (sousQuantite * quantite)
-                    for sousCristal, sousQuantite in sorted(sousListeCristaux.iteritems()):
-                        listeCristaux[sousCristal] = (sousQuantite * quantite) if sousCristal not in listeCristaux else listeCristaux[sousCristal] + (sousQuantite * quantite)
-                else:
-                    listeMateriaux[materiau] = quantite if materiau not in listeMateriaux else listeMateriaux[materiau] + quantite
-            cristaux = recette.cristaux
-            for cristal, quantite in sorted(cristaux.iteritems()):
-                listeCristaux[cristal] = quantite if cristal not in listeCristaux else listeCristaux[cristal] + quantite
+            degreRecette = recette.degre
+            if recette not in recettesDegres[degreRecette]:
+                recettesDegres[degreRecette][recette] = 0
+            recettesDegres[degreRecette][recette] += 1.0 / recette.quantite
+        # Traitement des recettes sélectionnées par degré
+        for degre, recettes in sorted(recettesDegres.iteritems(), reverse=True):
+            for recette, quantiteRecette in sorted(recettes.iteritems()):
+                quantiteRecette = ceil(quantiteRecette)
+                for materiau, quantite in sorted(recette.materiaux.iteritems()):
+                    sousRecette = listeRecettes.recupererRecette(materiau)
+                    if sousRecette and len(sousRecette.materiaux):
+                        degreSousRecette = sousRecette.degre
+                        if sousRecette not in recettesDegres[degreSousRecette]:
+                            recettesDegres[degreSousRecette][sousRecette] = 0
+                        recettesDegres[degreSousRecette][sousRecette] += quantite * quantiteRecette / sousRecette.quantite
+                    else:
+                        listeMateriaux[materiau] = quantite * quantiteRecette if materiau not in listeMateriaux else listeMateriaux[materiau] + quantite * quantiteRecette
+                for cristal, quantite in sorted(recette.cristaux.iteritems()):
+                    listeCristaux[cristal] = quantite * quantiteRecette if cristal not in listeCristaux else listeCristaux[cristal] + quantite * quantiteRecette
+        # Transmission des listes de matériaux et de cristaux
         return listeMateriaux, listeCristaux
 
     # Fonction de récupération des données des matériaux et des cristaux
