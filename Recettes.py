@@ -11,7 +11,8 @@
 class Recette(object):
 
     def __init__(self, nom=str(), classe=str(), niveau=int(), categorie=str(), materiaux=None,
-                 cristaux=None, quantite=int(), difficulte=int(), solidite=int(), qualite=int()):
+                 cristaux=None, quantite=int(), difficulte=int(), solidite=int(), qualite=int(),
+                 degre=int()):
         if materiaux is None:
             materiaux = {}
         if cristaux is None:
@@ -26,13 +27,24 @@ class Recette(object):
         self.difficulte = difficulte
         self.solidite = solidite
         self.qualite = qualite
+        self.degre = degre
+
+    def calculerDegre(self, listeRecettes):
+        degreRecette = 1
+        for materiau, _ in sorted(self.materiaux.iteritems()):
+            sousRecette = listeRecettes.recupererRecette(materiau)
+            if sousRecette and len(sousRecette.materiaux):
+                degreSousRecette = sousRecette.calculerDegre(listeRecettes)
+                if degreSousRecette >= degreRecette:
+                    degreRecette = degreSousRecette + 1
+        return degreRecette
 
     def getTexteBrut(self):
-        patron = "%s;%s;%d;%s;%s;%s;%d;%d;%d;%d"
+        patron = "%s;%s;%d;%s;%s;%s;%d;%d;%d;%d;%d"
         texte = patron % (self.nom, self.classe, self.niveau, self.categorie,
                           Recette.objetsVersTexte(self.materiaux),
                           Recette.objetsVersTexte(self.cristaux), self.quantite, self.difficulte,
-                          self.solidite, self.qualite)
+                          self.solidite, self.qualite, self.degre)
         return texte
 
     def getTexteRiche(self):
@@ -47,10 +59,11 @@ class Recette(object):
         patron += "Difficulté: %d\n"
         patron += "Solidité: %d\n"
         patron += "Qualité maximum: %d\n"
+        patron += "Degré: %d\n"
         texte = patron % (self.nom, self.classe, self.niveau, self.categorie,
                           Recette.objetsVersTexte(self.materiaux),
                           Recette.objetsVersTexte(self.cristaux), self.quantite, self.difficulte,
-                          self.solidite, self.qualite)
+                          self.solidite, self.qualite, self.degre)
         return texte
 
     @staticmethod
@@ -136,4 +149,6 @@ def construireListeRecettes(nomFichier):
         recette = Recette(nom, classe, niveau, categorie, materiaux, cristaux, quantite, difficulte,
                           solidite, qualite)
         listeRecettes.ajouterRecette(recette)
+    for recette in listeRecettes.recupererRecettes():
+        recette.degre = recette.calculerDegre(listeRecettes)
     return listeRecettes
