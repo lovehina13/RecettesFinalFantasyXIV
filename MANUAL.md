@@ -20,7 +20,7 @@ Les fonctionnalités de l'application sont les suivantes :
 
 L'application est réalisée en Python 2.7.13 et nécessite la bibliothèque BeautifulSoup 4.5.3.
 
-## 2. Installation des prérequis de l'application
+## 2. Installation de l'application
 
 ### 2.1. Installation de l'interpréteur Python 2.7.13
 
@@ -35,6 +35,10 @@ La bibliothèque BeautifulSoup 4.5.3 peut également s'installer via l'installeu
 Syntaxe d'utilisation :
 
     python -m pip install bs4
+
+### 2.3. Installation de l'application UtilitairesFinalFantasyXIV
+
+L'application est disponible en [version actuelle](https://github.com/lovehina13/UtilitairesFinalFantasyXIV) ou en [version stable (1.7)](https://github.com/lovehina13/UtilitairesFinalFantasyXIV/releases/tag/v1.7.0). Il convient de récupérer puis d'installer les éléments concernés.
 
 ## 3. Utilisation de l'application
 
@@ -105,7 +109,7 @@ Exemple d'utilisation :
 
 Il convient de modifier le fichier *RecuperationRecettes.py (ligne 63)* afin d'ajuster le nombre de pages relatives aux recettes.
 
-Exemple pour la version 4.50, soit 141 pages :
+Exemple pour la version 4.58, soit 141 pages :
 
     nombrePagesRecettes = 141
 
@@ -121,7 +125,7 @@ Exemple d'utilisation :
 
     python RecuperationMateriauxCristaux.py ListeRecettes.csv ListeMateriauxCristaux.csv
 
-Il convient de modifier le fichier *RecuperationMateriauxCristaux.py (ligne 56)* afin de spécifier les recettes à considérer.
+Il convient de modifier le fichier *RecuperationMateriauxCristaux.py (ligne 69)* afin de spécifier les recettes à considérer.
 Les éléments doivent être entre crochets, séparés par des virgules et entre guillemets.
 Les sauts de lignes sont possibles entre les éléments.
 
@@ -134,7 +138,7 @@ Exemple pour les équipements d'artisans de niveau 50 :
             "Guêtres de patricien"]
     recettes = listeRecettes.recupererRecettes(noms=noms)
 
-Il convient de modifier le fichier *RecuperationMateriauxCristaux.py (ligne 56)* afin de spécifier les critères supplémentaires à considérer.
+Il convient de modifier le fichier *RecuperationMateriauxCristaux.py (ligne 69)* afin de spécifier les critères supplémentaires à considérer.
 Les éléments doivent être entre crochets, séparés par des virgules et entre guillemets (sauf les nombres).
 Les sauts de lignes sont possibles entre les éléments d'un même critère.
 
@@ -148,4 +152,4 @@ Les critères disponibles sont les suivants : *noms*, *classes*, *niveaux*, *cat
 
 ## 4. Informations
 
-L'application est en version 1.6 au 15 janvier 2019 et réalisée par [Alexis Foerster](mailto:alexis.foerster@gmail.com), joueur du personnage [Yuna Hikari](https://fr.finalfantasyxiv.com/lodestone/character/8095216/).
+L'application est en version 1.7 au 21 juin 2019 et réalisée par [Alexis Foerster](mailto:alexis.foerster@gmail.com), joueur du personnage [Yuna Hikari](https://fr.finalfantasyxiv.com/lodestone/character/8095216/).

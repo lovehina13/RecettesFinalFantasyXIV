@@ -3,7 +3,7 @@
 # ==============================================================================
 # Name        : RecuperationRecettes.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
-# Version     : 1.6 (15/01/2019)
+# Version     : 1.7 (21/06/2019)
 # Description : Récupération des recettes
 # ==============================================================================
 
