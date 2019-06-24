@@ -107,7 +107,7 @@ Exemple d'utilisation :
 
     python RecuperationRecettes.py ListeRecettes.csv
 
-Il convient de modifier le fichier *RecuperationRecettes.py (ligne 63)* afin d'ajuster le nombre de pages relatives aux recettes.
+Il convient de modifier le fichier *RecuperationRecettes.py (ligne 61)* afin d'ajuster le nombre de pages relatives aux recettes.
 
 Exemple pour la version 4.58, soit 141 pages :
 

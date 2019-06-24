@@ -38,8 +38,6 @@ class LecteurPageRecette(object):
         self.recette.difficulte = int(soup.find("ul", {"class": "db-view__recipe__craftdata"}).contents[2].contents[1].strip())
         self.recette.solidite = int(soup.find("ul", {"class": "db-view__recipe__craftdata"}).contents[3].contents[1].strip())
         self.recette.qualite = int(soup.find("ul", {"class": "db-view__recipe__craftdata"}).contents[4].contents[1].strip())
-        self.recette.materiaux = {}
-        self.recette.cristaux = {}
         for item in soup.find_all("div", {"class": "db-view__data__reward__item__name"}):
             objet = item.contents[3].contents[1].contents[0].contents[0].strip()
             quantite = int(item.contents[1].contents[0].strip())
