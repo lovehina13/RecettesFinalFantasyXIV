@@ -21,6 +21,12 @@ if __name__ == "__main__":
     from RecuperationMateriauxCristaux import recupererMateriauxCristaux
     recupererMateriauxCristaux("ListeRecettes.csv", "ListeMateriauxCristaux.csv")
 
+    from RecuperationRecoltes import recupererRecoltes
+    recupererRecoltes("ListeRecoltes.csv")
+
+    from RecuperationPointsRecolte import recupererPointsRecolte
+    recupererPointsRecolte("ListeRecoltes.csv", "ListePointsRecoltes.csv")
+
     from Personnages import construireListePersonnages
     listePersonnages = construireListePersonnages("ListePersonnages.csv")
     for nom, personnage in sorted(listePersonnages.personnages.iteritems()):
@@ -32,3 +38,9 @@ if __name__ == "__main__":
     for nom, recette in sorted(listeRecettes.recettes.iteritems()):
         print "==================== %s ====================" % (nom)
         print "%s" % (recette.getTexteRiche())
+
+    from Recoltes import construireListeRecoltes
+    listeRecoltes = construireListeRecoltes("ListeRecoltes.csv")
+    for (nom, sousClasse), recolte in sorted(listeRecoltes.recoltes.iteritems()):
+        print "==================== %s ====================" % (nom)
+        print "%s" % (recolte.getTexteRiche())
