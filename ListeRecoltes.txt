@@ -1,0 +1,4255 @@
+Nom: Abricot
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Ingrédient
+Points de récolte: Noscea centrale - ??? (Niv. 50)
+
+Nom: Agate brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 51
+Catégorie: Pierre
+Points de récolte: Avant-pays dravanien - Terres fumantes (Niv. 55)
+
+Nom: Agrégat d'eau
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: L'Écume des cieux d'Abalathia - ??? (Niv. 60), Mor Dhona - ??? (Niv. 50)
+
+Nom: Agrégat d'eau
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: L'Écume des cieux d'Abalathia - ??? (Niv. 60)
+
+Nom: Agrégat d'eau
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: Mor Dhona - ??? (Niv. 50), Thanalan occidental - ??? (Niv. 50)
+
+Nom: Agrégat de feu
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: Mor Dhona - ??? (Niv. 50)
+
+Nom: Agrégat de feu
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: Avant-pays dravanien - ??? (Niv. 60)
+
+Nom: Agrégat de feu
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: Arrière-pays dravanien - Quartier des Fabricateurs (Niv. 60), Avant-pays dravanien - Déclin d'Avalonia (Niv. 60), L'Écume des cieux de Dravania - Colonie des Maîtres terriens (Niv. 60), Mor Dhona - ??? (Niv. 50), Noscea centrale - ??? (Niv. 50)
+
+Nom: Agrégat de feu
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: Avant-pays dravanien - ??? (Niv. 60)
+
+Nom: Agrégat de foudre
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: L'Écume des cieux d'Abalathia - ??? (Niv. 60), Mor Dhona - ??? (Niv. 50)
+
+Nom: Agrégat de foudre
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: Hautes terres du Coerthas occidental - Rougebord (Niv. 60), L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60), Mor Dhona - ??? (Niv. 50)
+
+Nom: Agrégat de glace
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: Mor Dhona - ??? (Niv. 50)
+
+Nom: Agrégat de glace
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: Hautes terres du Coerthas occidental - ??? (Niv. 60)
+
+Nom: Agrégat de glace
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: Mor Dhona - ??? (Niv. 50)
+
+Nom: Agrégat de glace
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: Hautes terres du Coerthas occidental - ??? (Niv. 60)
+
+Nom: Agrégat de matière sombre
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Catalyseur
+Points de récolte: Forêt centrale - ??? (Niv. 50), Forêt du nord - ??? (Niv. 50), Forêt du sud - ??? (Niv. 50), Haute-Noscea - ??? (Niv. 50), Hautes terres du Coerthas central - ??? (Niv. 50), Mor Dhona - ??? (Niv. 50), Noscea centrale - ??? (Niv. 50), Noscea orientale - ??? (Niv. 50)
+
+Nom: Agrégat de matière sombre
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Catalyseur
+Points de récolte: Basse-Noscea - ??? (Niv. 50), Hautes terres du Coerthas central - ??? (Niv. 50), Hautes terres du Coerthas occidental - ??? (Niv. 50), Thanalan central - ??? (Niv. 50), Thanalan méridional - ??? (Niv. 50), Thanalan oriental - ??? (Niv. 50), Thanalan septentrional - ??? (Niv. 50)
+
+Nom: Agrégat de matière sombre
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 50
+Catégorie: Catalyseur
+Points de récolte: Forêt du sud - ??? (Niv. 50), Hautes terres du Coerthas central - ??? (Niv. 50), Mor Dhona - ??? (Niv. 50), Noscea centrale - ??? (Niv. 50), Noscea orientale - ??? (Niv. 50), Thanalan occidental - ??? (Niv. 50), Thanalan oriental - ??? (Niv. 50)
+
+Nom: Agrégat de matière sombre
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Catalyseur
+Points de récolte: Avant-pays dravanien - ??? (Niv. 50), Basse-Noscea - ??? (Niv. 50), Forêt centrale - ??? (Niv. 50), Forêt de l'est - ??? (Niv. 50), Noscea occidentale - ??? (Niv. 50), Noscea orientale - ??? (Niv. 50), Thanalan oriental - ??? (Niv. 50)
+
+Nom: Agrégat de terre
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: L'Écume des cieux de Dravania - ??? (Niv. 60), Mor Dhona - ??? (Niv. 50)
+
+Nom: Agrégat de terre
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: L'Écume des cieux de Dravania - ??? (Niv. 60)
+
+Nom: Agrégat de terre
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: Mor Dhona - ??? (Niv. 50)
+
+Nom: Agrégat de terre
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: Arrière-pays dravanien - Quartier académique (Niv. 60), Avant-pays dravanien - Déclin d'Avalonia (Niv. 60), L'Écume des cieux de Dravania - Eil Tohm (Niv. 60)
+
+Nom: Agrégat de vent
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: Mor Dhona - ??? (Niv. 50)
+
+Nom: Agrégat de vent
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: Arrière-pays dravanien - ??? (Niv. 60)
+
+Nom: Agrégat de vent
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: Mor Dhona - ??? (Niv. 50)
+
+Nom: Agrégat de vent
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Cristal
+Points de récolte: Arrière-pays dravanien - ??? (Niv. 60), Hautes terres du Coerthas occidental - Les Jumeaux (Niv. 60), L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60)
+
+Nom: Aigue-marine brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 35
+Catégorie: Pierre
+Points de récolte: Noscea orientale - Rives sanglantes (Niv. 35)
+
+Nom: Ail garlemaldais
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 11
+Catégorie: Ingrédient
+Points de récolte: Thanalan occidental - Sources de Nophica (Niv. 15)
+
+Nom: Akaso
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Tissu
+Points de récolte: Les Marges - Confins est (Niv. 60)
+
+Nom: Almandin
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 70
+Catégorie: Pierre
+Points de récolte: Les Lacs - Hautes berges (Niv. 70)
+
+Nom: Aloès
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 32
+Catégorie: Ingrédient
+Points de récolte: Thanalan méridional - Eaux-Mortes (Niv. 35)
+
+Nom: Alun
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 19
+Catégorie: Réactif
+Points de récolte: Thanalan oriental - Les Os desséchés (Niv. 20)
+
+Nom: Alun gyrabanien
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Réactif
+Points de récolte: Les Marges - Confins est (Niv. 60)
+
+Nom: Alun noir
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 40
+Catégorie: Réactif
+Points de récolte: Forêt du sud - Le Don d'Urth (Niv. 40)
+
+Nom: Alun rouge
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Réactif
+Points de récolte: Azys Lla - ??? (Niv. 60)
+
+Nom: Alysson
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 68
+Catégorie: Réactif
+Points de récolte: Les Pics - Mont Yorn (Niv. 70)
+
+Nom: Amandes
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 40
+Catégorie: Ingrédient
+Points de récolte: Noscea orientale - Ravine des Cueillepluies (Niv. 40)
+
+Nom: Amandes mielleuses
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 60
+Catégorie: Ingrédient
+Points de récolte: L'Écume des cieux d'Abalathia - ??? (Niv. 60)
+
+Nom: Amanori
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 64
+Catégorie: Ingrédient
+Points de récolte: Mer de Rubis - Rasen Kaikyo (Niv. 65)
+
+Nom: Ambre brut
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 44
+Catégorie: Pierre
+Points de récolte: Thanalan oriental - Les Os desséchés (Niv. 45)
+
+Nom: Améthyste brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 34
+Catégorie: Pierre
+Points de récolte: Forêt centrale - Havre des Renouées (Niv. 35)
+
+Nom: Ananas épineux
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Ingrédient
+Points de récolte: Noscea orientale - ??? (Niv. 50)
+
+Nom: Aneth
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 52
+Catégorie: Ingrédient
+Points de récolte: Hautes terres du Coerthas occidental - Les Jumeaux (Niv. 55)
+
+Nom: Ardoise
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 62
+Catégorie: Pierre
+Points de récolte: Les Pics - Rocrouillé (Niv. 65)
+
+Nom: Argile
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 10
+Catégorie: Réactif
+Points de récolte: Forêt du nord - Futaie des Murmures (Niv. 10)
+
+Nom: Argile granuleuse
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 56
+Catégorie: Réactif
+Points de récolte: Arrière-pays dravanien - Quartier académique (Niv. 60), Avant-pays dravanien - Déclin d'Avalonia (Niv. 60), L'Écume des cieux de Dravania - Eil Tohm (Niv. 60)
+
+Nom: Armoise
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 37
+Catégorie: Ingrédient
+Points de récolte: Noscea orientale - Ravine des Cueillepluies (Niv. 40)
+
+Nom: Artichaut de la vierge
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 38
+Catégorie: Ingrédient
+Points de récolte: Noscea orientale - Ravine des Cueillepluies (Niv. 40)
+
+Nom: Aubergine du mage
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 27
+Catégorie: Ingrédient
+Points de récolte: Forêt du nord - Sources de l'Aulne (Niv. 30)
+
+Nom: Azurite brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 66
+Catégorie: Pierre
+Points de récolte: Steppe d'Azim - ??? (Niv. 70)
+
+Nom: Baie vampire
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Réactif
+Points de récolte: Hautes terres du Coerthas central - ??? (Niv. 50)
+
+Nom: Banane céleste
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 57
+Catégorie: Ingrédient
+Points de récolte: Arrière-pays dravanien - ??? (Niv. 60)
+
+Nom: Baron rouge
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 33
+Catégorie: Tissu
+Points de récolte: Thanalan méridional - Eaux-Mortes (Niv. 35)
+
+Nom: Basilic béni
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 70
+Catégorie: Réactif
+Points de récolte: Les Pics - ??? (Niv. 70)
+
+Nom: Basilic hyurois
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 32
+Catégorie: Ingrédient
+Points de récolte: Noscea orientale - Rives sanglantes (Niv. 35)
+
+Nom: Basilic sacré
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 63
+Catégorie: Réactif
+Points de récolte: Les Marges - Ternebois (Niv. 65)
+
+Nom: Belladone
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 18
+Catégorie: Réactif
+Points de récolte: Forêt de l'est - Neuf-Lierres (Niv. 20)
+
+Nom: Betterave sucrière
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 64
+Catégorie: Ingrédient
+Points de récolte: Les Pics - Dernière forêt (Niv. 65)
+
+Nom: Betteraves de magma
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 55
+Catégorie: Ingrédient
+Points de récolte: L'Écume des cieux de Dravania - Colonie des Maîtres terriens (Niv. 55)
+
+Nom: Bijou de la dynastie des Cotter
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Divers
+Points de récolte: Les Marges - Confins est (Niv. 60)
+
+Nom: Bijou de la dynastie des Cotter
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Divers
+Points de récolte: Les Marges - Confins est (Niv. 60)
+
+Nom: Blé
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 11
+Catégorie: Ingrédient
+Points de récolte: Noscea centrale - Estival (Niv. 15)
+
+Nom: Blé des hautes terres
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 53
+Catégorie: Ingrédient
+Points de récolte: Avant-pays dravanien - Forêt des chocobos (Niv. 55)
+
+Nom: Blé des plateaux
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Ingrédient
+Points de récolte: Les Marges - Confins est (Niv. 60)
+
+Nom: Bolet
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 51
+Catégorie: Ingrédient
+Points de récolte: L'Écume des cieux de Dravania - ??? (Niv. 55)
+
+Nom: Boule de braises
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 64
+Catégorie: Pierre
+Points de récolte: Mer de Rubis - Onokoro (Niv. 65)
+
+Nom: Boule de braises
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 64
+Catégorie: Pierre
+Points de récolte: Mer de Rubis - Couvercle des enfers (Niv. 65)
+
+Nom: Branche d'if
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 20
+Catégorie: Bois
+Points de récolte: Forêt de l'est - Neuf-Lierres (Niv. 20)
+
+Nom: Branche d'érable
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 5
+Catégorie: Bois
+Points de récolte: Forêt centrale - Berges de Jade (Niv. 5), Forêt du nord - Futaie des Murmures (Niv. 5)
+
+Nom: Branche de bouleau
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 58
+Catégorie: Bois
+Points de récolte: L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60)
+
+Nom: Branche de camphrier
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 60
+Catégorie: Bois
+Points de récolte: L'Écume des cieux de Dravania - Eil Tohm (Niv. 60)
+
+Nom: Branche de châtaignier sombre
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 55
+Catégorie: Bois
+Points de récolte: Avant-pays dravanien - Terres fumantes (Niv. 55)
+
+Nom: Branche de chêne
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 31
+Catégorie: Bois
+Points de récolte: Forêt du sud - Bas-Chemins (Niv. 35)
+
+Nom: Branche de cèdre
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Bois
+Points de récolte: Hautes terres du Coerthas occidental - Deux-Rivières (Niv. 50)
+
+Nom: Branche de frêne
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 9
+Catégorie: Bois
+Points de récolte: Forêt centrale - Larmeverte (Niv. 10), Forêt du nord - Futaie des Murmures (Niv. 10)
+
+Nom: Branche de hêtre
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 60
+Catégorie: Bois
+Points de récolte: Les Marges - ??? (Niv. 60)
+
+Nom: Branche de kaya
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 70
+Catégorie: Bois
+Points de récolte: Les Lacs - Crâne d'Abalathia (Niv. 70)
+
+Nom: Branche de palissandre
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 47
+Catégorie: Bois
+Points de récolte: Forêt de l'est - Massif de ronces (Niv. 50)
+
+Nom: Bringèle domienne
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 69
+Catégorie: Ingrédient
+Points de récolte: Yanxia - Doma (Niv. 70)
+
+Nom: Bulbe d'oignon sauvage
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 12
+Catégorie: Jardinage
+Points de récolte: Thanalan occidental - Sources de Nophica (Niv. 15)
+
+Nom: Bulbe de trille
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Réactif
+Points de récolte: Forêt de l'est - ??? (Niv. 50)
+
+Nom: Calcaire noir
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Noscea occidentale - Quartpierre (Niv. 50)
+
+Nom: Camomille
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 24
+Catégorie: Réactif
+Points de récolte: Haute-Noscea - La Chênaie (Niv. 25)
+
+Nom: Cannelle
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 4
+Catégorie: Ingrédient
+Points de récolte: Forêt du nord - Futaie des Murmures (Niv. 5)
+
+Nom: Carapace de tortue marine
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 49
+Catégorie: Os
+Points de récolte: Thanalan septentrional - Brumebleue (Niv. 50)
+
+Nom: Carotte du Coerthas
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 13
+Catégorie: Ingrédient
+Points de récolte: Thanalan occidental - Confins d'Horizon (Niv. 15)
+
+Nom: Carotte gyrabanienne
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 66
+Catégorie: Ingrédient
+Points de récolte: Les Pics - Mont Yorn (Niv. 70)
+
+Nom: Cataire
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Réactif
+Points de récolte: Arrière-pays dravanien - Quartier académique (Niv. 60)
+
+Nom: Cendres de bombo
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 26
+Catégorie: Réactif
+Points de récolte: Thanalan méridional - Désert de Sagolii (Niv. 30)
+
+Nom: Cendres de grenado
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 40
+Catégorie: Réactif
+Points de récolte: Thanalan septentrional - Brumebleue (Niv. 40)
+
+Nom: Champignon bouton
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 22
+Catégorie: Ingrédient
+Points de récolte: Thanalan oriental - Les Os desséchés (Niv. 25)
+
+Nom: Champignon brun
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 60
+Catégorie: Ingrédient
+Points de récolte: L'Écume des cieux de Dravania - ??? (Niv. 60)
+
+Nom: Chanterelle
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 11
+Catégorie: Ingrédient
+Points de récolte: Forêt centrale - Brancharquée (Niv. 15)
+
+Nom: Chou hyurois
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 28
+Catégorie: Ingrédient
+Points de récolte: Forêt du nord - Sources de l'Aulne (Niv. 30)
+
+Nom: Chou-bourgeon
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 52
+Catégorie: Ingrédient
+Points de récolte: Hautes terres du Coerthas occidental - ??? (Niv. 55)
+
+Nom: Chou-soleil
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 66
+Catégorie: Ingrédient
+Points de récolte: Steppe d'Azim - Retraite de Nhaama (Niv. 70)
+
+Nom: Chrysolite brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Pierre
+Points de récolte: Arrière-pays dravanien - Quartier des Fabricateurs (Niv. 60)
+
+Nom: Châtaigne de Gridania
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 14
+Catégorie: Ingrédient
+Points de récolte: Forêt centrale - Brancharquée (Niv. 15)
+
+Nom: Ciboulette
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 55
+Catégorie: Ingrédient
+Points de récolte: Hautes terres du Coerthas occidental - ??? (Niv. 55)
+
+Nom: Citrine brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 59
+Catégorie: Pierre
+Points de récolte: Hautes terres du Coerthas occidental - Rougebord (Niv. 60)
+
+Nom: Citron céleste
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 56
+Catégorie: Ingrédient
+Points de récolte: L'Écume des cieux d'Abalathia - ??? (Niv. 60)
+
+Nom: Citron miel
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Ingrédient
+Points de récolte: Noscea orientale - ??? (Niv. 50)
+
+Nom: Citron soleil
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 17
+Catégorie: Ingrédient
+Points de récolte: Basse-Noscea - La Cédrière (Niv. 20)
+
+Nom: Citrouille des ogres
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 13
+Catégorie: Ingrédient
+Points de récolte: Thanalan occidental - Sources de Nophica (Niv. 15)
+
+Nom: Cocon de vers à soie
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Tissu
+Points de récolte: Forêt de l'est - ??? (Niv. 50)
+
+Nom: Cocon double
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 69
+Catégorie: Tissu
+Points de récolte: Les Pics - Mont Yorn (Niv. 70)
+
+Nom: Cordiérite brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Thanalan septentrional - ??? (Niv. 50)
+
+Nom: Coriandre
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 59
+Catégorie: Réactif
+Points de récolte: Hautes terres du Coerthas occidental - Les Jumeaux (Niv. 60)
+
+Nom: Cornaline brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 58
+Catégorie: Pierre
+Points de récolte: Avant-pays dravanien - Déclin d'Avalonia (Niv. 60)
+
+Nom: Corne d'ogre
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Os
+Points de récolte: Thanalan septentrional - Brumebleue (Niv. 50)
+
+Nom: Corne de bête
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Os
+Points de récolte: Avant-pays dravanien - Déclin d'Avalonia (Niv. 60)
+
+Nom: Courgette corne de bélier
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 39
+Catégorie: Ingrédient
+Points de récolte: Noscea orientale - Ravine des Cueillepluies (Niv. 40)
+
+Nom: Crapaud arboricole
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 11
+Catégorie: Ingrédient
+Points de récolte: Forêt centrale - Brancharquée (Niv. 15)
+
+Nom: Crapaud lavique
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 49
+Catégorie: Ingrédient
+Points de récolte: Thanalan méridional - Désert de Sagolii (Niv. 50)
+
+Nom: Cristal d'eau
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60), Mer de Rubis - Onokoro (Niv. 65), Noscea orientale - Rives sanglantes (Niv. 30)
+
+Nom: Cristal d'eau
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60), Mer de Rubis - Fosse de Turquoise (Niv. 60)
+
+Nom: Cristal d'eau
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: Mer de Rubis - Rasen Kaikyo (Niv. 65), Thanalan occidental - Sources de Nophica (Niv. 30)
+
+Nom: Cristal d'eau
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: Mer de Rubis - Île de Bekko (Niv. 60)
+
+Nom: Cristal de feu
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: Avant-pays dravanien - Terres fumantes (Niv. 55), Les Marges - Confins est (Niv. 65), Noscea centrale - Le Coude de Trois-Malms (Niv. 30)
+
+Nom: Cristal de feu
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: Avant-pays dravanien - Forêt des chocobos (Niv. 55), Yanxia - Chaîne du Gensui (Niv. 65)
+
+Nom: Cristal de feu
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: Thanalan oriental - Bois du Renouveau (Niv. 30), Yanxia - Railleries d'au-delà (Niv. 70)
+
+Nom: Cristal de feu
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: Avant-pays dravanien - Forêt des chocobos (Niv. 55), Les Marges - Confins est (Niv. 60)
+
+Nom: Cristal de foudre
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: Thanalan central - Bassin des Désépinés (Niv. 30)
+
+Nom: Cristal de foudre
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60), Steppe d'Azim - Onsal Hakair (Niv. 70)
+
+Nom: Cristal de foudre
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: Steppe d'Azim - Onsal Hakair (Niv. 70), Thanalan méridional - Eaux-Mortes (Niv. 30)
+
+Nom: Cristal de foudre
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: L'Écume des cieux d'Abalathia - La Fenêtre bleue (Niv. 60), Les Pics - Dernière forêt (Niv. 60)
+
+Nom: Cristal de glace
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: Forêt du sud - Hauts-Chemins (Niv. 30), Hautes terres du Coerthas occidental - Deux-Rivières (Niv. 50), Les Lacs - Crâne d'Abalathia (Niv. 70)
+
+Nom: Cristal de glace
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: Hautes terres du Coerthas occidental - Deux-Rivières (Niv. 50), Les Lacs - Hautes berges (Niv. 70)
+
+Nom: Cristal de glace
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: Hautes terres du Coerthas occidental - Les Jumeaux (Niv. 55), Noscea occidentale - Quartpierre (Niv. 30)
+
+Nom: Cristal de glace
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: Hautes terres du Coerthas occidental - Les Jumeaux (Niv. 55)
+
+Nom: Cristal de terre
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: Forêt du nord - Sommière de la Paix (Niv. 30), L'Écume des cieux de Dravania - Eil Tohm (Niv. 60)
+
+Nom: Cristal de terre
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: Les Pics - Pierres-qui-dorment (Niv. 60)
+
+Nom: Cristal de terre
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: Basse-Noscea - La Cédrière (Niv. 30), L'Écume des cieux de Dravania - Colonie des Maîtres terriens (Niv. 60), Les Pics - Rocrouillé (Niv. 65)
+
+Nom: Cristal de terre
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: L'Écume des cieux de Dravania - Colonie des Maîtres terriens (Niv. 55), Steppe d'Azim - Retraite de Nhaama (Niv. 70)
+
+Nom: Cristal de vent
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: Forêt centrale - Brancharquée (Niv. 30), Yanxia - Envol du Héron (Niv. 65)
+
+Nom: Cristal de vent
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: Arrière-pays dravanien - Quartier des Fabricateurs (Niv. 60), Les Marges - Confins est (Niv. 60)
+
+Nom: Cristal de vent
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: Forêt de l'est - Neuf-Lierres (Niv. 30)
+
+Nom: Cristal de vent
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 26
+Catégorie: Cristal
+Points de récolte: Arrière-pays dravanien - Quartier académique (Niv. 60), Yanxia - Doma (Niv. 70)
+
+Nom: Cristal terni
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Forêt centrale - ??? (Niv. 50), Forêt du nord - ??? (Niv. 50), Forêt du sud - ??? (Niv. 50), Haute-Noscea - ??? (Niv. 50), Hautes terres du Coerthas central - ??? (Niv. 50), Mor Dhona - ??? (Niv. 50), Noscea centrale - ??? (Niv. 50), Noscea orientale - ??? (Niv. 50)
+
+Nom: Cristal terni
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Basse-Noscea - ??? (Niv. 50), Hautes terres du Coerthas central - ??? (Niv. 50), Thanalan central - ??? (Niv. 50), Thanalan méridional - ??? (Niv. 50), Thanalan oriental - ??? (Niv. 50), Thanalan septentrional - ??? (Niv. 50)
+
+Nom: Cristal terni
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Forêt du sud - ??? (Niv. 50), Hautes terres du Coerthas central - ??? (Niv. 50), Mor Dhona - ??? (Niv. 50), Noscea centrale - ??? (Niv. 50), Noscea orientale - ??? (Niv. 50), Thanalan occidental - ??? (Niv. 50), Thanalan oriental - ??? (Niv. 50)
+
+Nom: Cristal terni
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Basse-Noscea - ??? (Niv. 50), Forêt centrale - ??? (Niv. 50), Forêt de l'est - ??? (Niv. 50), Noscea occidentale - ??? (Niv. 50), Noscea orientale - ??? (Niv. 50), Thanalan oriental - ??? (Niv. 50)
+
+Nom: Cèpe
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 19
+Catégorie: Ingrédient
+Points de récolte: Forêt de l'est - Neuf-Lierres (Niv. 20)
+
+Nom: Cèpe des nuages
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 59
+Catégorie: Réactif
+Points de récolte: L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60)
+
+Nom: Danburite brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 18
+Catégorie: Pierre
+Points de récolte: Noscea occidentale - Vallée du Crâne (Niv. 20)
+
+Nom: Diamant brut
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Thanalan central - ??? (Niv. 50)
+
+Nom: Disthène brut
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 62
+Catégorie: Pierre
+Points de récolte: Les Marges - Roches rayées (Niv. 65)
+
+Nom: Eau boueuse
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 3
+Catégorie: Réactif
+Points de récolte: Thanalan central - Bassin des Désépinés (Niv. 5), Thanalan occidental - Martelterre (Niv. 5)
+
+Nom: Eau de Gyr Abania
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 61
+Catégorie: Réactif
+Points de récolte: Les Marges - Roches rayées (Niv. 65)
+
+Nom: Eau de roche
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 64
+Catégorie: Réactif
+Points de récolte: Yanxia - Chaîne du Gensui (Niv. 65)
+
+Nom: Eau de source d'Abalathia
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 57
+Catégorie: Réactif
+Points de récolte: L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60)
+
+Nom: Eau de source de Dravania
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 54
+Catégorie: Réactif
+Points de récolte: Avant-pays dravanien - Terres fumantes (Niv. 55)
+
+Nom: Eau de source de Gyr Abania
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 70
+Catégorie: Réactif
+Points de récolte: Les Pics - ??? (Niv. 70)
+
+Nom: Eau de source de la Steppe d'Azim
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 70
+Catégorie: Réactif
+Points de récolte: Steppe d'Azim - ??? (Niv. 70)
+
+Nom: Eau effervescente
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 24
+Catégorie: Réactif
+Points de récolte: Forêt du sud - Hauts-Chemins (Niv. 25)
+
+Nom: Escargot allagois
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 2
+Catégorie: Ingrédient
+Points de récolte: Forêt centrale - Berges de Jade (Niv. 5)
+
+Nom: Eulalie
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Tissu
+Points de récolte: Thanalan méridional - Désert de Sagolii (Niv. 50)
+
+Nom: Fenouil
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 66
+Catégorie: Ingrédient
+Points de récolte: Steppe d'Azim - Retraite de Nhaama (Niv. 70)
+
+Nom: Feuille de laurier de Menphina
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Ingrédient
+Points de récolte: Arrière-pays dravanien - Quartier académique (Niv. 60), Avant-pays dravanien - Déclin d'Avalonia (Niv. 60), Hautes terres du Coerthas occidental - Les Jumeaux (Niv. 60), L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60), L'Écume des cieux de Dravania - Eil Tohm (Niv. 60)
+
+Nom: Feuilles de plaqueminier
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 66
+Catégorie: Réactif
+Points de récolte: Les Marges - Ternebois (Niv. 70)
+
+Nom: Feuilles de thé de Tinolqa
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Réactif
+Points de récolte: Forêt centrale - ??? (Niv. 50)
+
+Nom: Feuilles de thé du Coerthas
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 53
+Catégorie: Ingrédient
+Points de récolte: Hautes terres du Coerthas occidental - ??? (Niv. 55)
+
+Nom: Feuilles de thé du Thanalan
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 48
+Catégorie: Ingrédient
+Points de récolte: Thanalan méridional - Désert de Sagolii (Niv. 50)
+
+Nom: Fibres de lin
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 31
+Catégorie: Tissu
+Points de récolte: Forêt du sud - Bas-Chemins (Niv. 35)
+
+Nom: Fibres de lin hingashien
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 70
+Catégorie: Tissu
+Points de récolte: Les Pics - ??? (Niv. 70)
+
+Nom: Figue de barbarie
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 18
+Catégorie: Ingrédient
+Points de récolte: Thanalan central - Roncenoire (Niv. 20)
+
+Nom: Figue du vieux continent
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Ingrédient
+Points de récolte: Avant-pays dravanien - ??? (Niv. 50)
+
+Nom: Fleur astrale
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Réactif
+Points de récolte: L'Écume des cieux de Dravania - ??? (Niv. 60)
+
+Nom: Fleur de coton
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 14
+Catégorie: Tissu
+Points de récolte: Forêt centrale - Brancharquée (Niv. 15)
+
+Nom: Fleur de coton arc-en-ciel
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 51
+Catégorie: Tissu
+Points de récolte: Hautes terres du Coerthas occidental - Les Jumeaux (Niv. 55)
+
+Nom: Fleur de coton d'Azim
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 70
+Catégorie: Tissu
+Points de récolte: Steppe d'Azim - ??? (Niv. 70)
+
+Nom: Fleur de coton de Yanxia
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 70
+Catégorie: Tissu
+Points de récolte: Yanxia - ??? (Niv. 70)
+
+Nom: Fleur de coton des neiges
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Tissu
+Points de récolte: Hautes terres du Coerthas occidental - ??? (Niv. 60)
+
+Nom: Fleur de coton des étoiles
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Tissu
+Points de récolte: Azys Lla - ??? (Niv. 60)
+
+Nom: Fleur de coton du givre
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Tissu
+Points de récolte: Hautes terres du Coerthas occidental - Les Jumeaux (Niv. 60)
+
+Nom: Fleur de rubicoton
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 63
+Catégorie: Tissu
+Points de récolte: Mer de Rubis - Rasen Kaikyo (Niv. 65)
+
+Nom: Fluorine brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 17
+Catégorie: Pierre
+Points de récolte: Thanalan oriental - Les Os desséchés (Niv. 20)
+
+Nom: Fragment d'alvéoles
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 5
+Catégorie: Réactif
+Points de récolte: Forêt du nord - Futaie des Murmures (Niv. 5)
+
+Nom: Fragment d'os
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 5
+Catégorie: Os
+Points de récolte: Thanalan central - Bassin des Désépinés (Niv. 5)
+
+Nom: Fève kukuru
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 9
+Catégorie: Ingrédient
+Points de récolte: Basse-Noscea - La Cédrière (Niv. 10)
+
+Nom: Fémur sale
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 8
+Catégorie: Os
+Points de récolte: Thanalan central - Roncenoire (Niv. 10), Thanalan occidental - Martelterre (Niv. 10)
+
+Nom: Gingembre jhammel
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 68
+Catégorie: Ingrédient
+Points de récolte: Les Lacs - ??? (Niv. 70)
+
+Nom: Gingembre perlé
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 24
+Catégorie: Ingrédient
+Points de récolte: Thanalan oriental - Les Os desséchés (Niv. 25)
+
+Nom: Ginseng jaune
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 11
+Catégorie: Réactif
+Points de récolte: Thanalan central - Le Nid (Niv. 15)
+
+Nom: Girofle
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 10
+Catégorie: Ingrédient
+Points de récolte: Thanalan central - Bassin des Désépinés (Niv. 10)
+
+Nom: Gland de fer
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 36
+Catégorie: Ingrédient
+Points de récolte: Noscea orientale - Ravine des Cueillepluies (Niv. 40)
+
+Nom: Gnaphale orientale
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 68
+Catégorie: Réactif
+Points de récolte: Yanxia - Doma (Niv. 70)
+
+Nom: Goshénite brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 33
+Catégorie: Pierre
+Points de récolte: Noscea orientale - Rives sanglantes (Niv. 35)
+
+Nom: Gousse de vanille
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Ingrédient
+Points de récolte: Hautes terres du Coerthas occidental - ??? (Niv. 60)
+
+Nom: Goémon corallin
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 67
+Catégorie: Ingrédient
+Points de récolte: Mer de Rubis - Rasen Kaikyo (Niv. 70)
+
+Nom: Graines d'ail garlemaldais
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 11
+Catégorie: Jardinage
+Points de récolte: Thanalan occidental - Sources de Nophica (Niv. 15)
+
+Nom: Graines d'amandier
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 40
+Catégorie: Jardinage
+Points de récolte: Noscea orientale - Ravine des Cueillepluies (Niv. 40)
+
+Nom: Graines d'ananas épineux
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Jardinage
+Points de récolte: Noscea orientale - ??? (Niv. 50)
+
+Nom: Graines d'aubergine du mage
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 27
+Catégorie: Jardinage
+Points de récolte: Forêt du nord - Sources de l'Aulne (Niv. 30)
+
+Nom: Graines d'herbéclat d'eau
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 1
+Catégorie: Jardinage
+Points de récolte: Thanalan occidental - Confins d'Horizon (Niv. 15)
+
+Nom: Graines d'herbéclat de feu
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 1
+Catégorie: Jardinage
+Points de récolte: Noscea centrale - Estival (Niv. 15)
+
+Nom: Graines d'herbéclat de foudre
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 1
+Catégorie: Jardinage
+Points de récolte: Thanalan central - Le Nid (Niv. 15)
+
+Nom: Graines d'herbéclat de glace
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 1
+Catégorie: Jardinage
+Points de récolte: Noscea occidentale - Quartpierre (Niv. 20)
+
+Nom: Graines d'herbéclat de terre
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 1
+Catégorie: Jardinage
+Points de récolte: Basse-Noscea - Baie de Moraby (Niv. 15)
+
+Nom: Graines d'herbéclat de vent
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 1
+Catégorie: Jardinage
+Points de récolte: Forêt centrale - Brancharquée (Niv. 15)
+
+Nom: Graines d'olive cendrée
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 13
+Catégorie: Jardinage
+Points de récolte: Basse-Noscea - Baie de Moraby (Niv. 15)
+
+Nom: Graines d'oranger noscéen
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 7
+Catégorie: Jardinage
+Points de récolte: Basse-Noscea - La Cédrière (Niv. 10)
+
+Nom: Graines de basilic hyurois
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 32
+Catégorie: Jardinage
+Points de récolte: Noscea orientale - Rives sanglantes (Niv. 35)
+
+Nom: Graines de camomille
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 24
+Catégorie: Jardinage
+Points de récolte: Haute-Noscea - La Chênaie (Niv. 25)
+
+Nom: Graines de carotte du Coerthas
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 13
+Catégorie: Jardinage
+Points de récolte: Thanalan occidental - Confins d'Horizon (Niv. 15)
+
+Nom: Graines de chou hyurois
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 28
+Catégorie: Jardinage
+Points de récolte: Forêt du nord - Sources de l'Aulne (Niv. 30)
+
+Nom: Graines de chou-bourgeon
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 52
+Catégorie: Jardinage
+Points de récolte: Hautes terres du Coerthas occidental - ??? (Niv. 55)
+
+Nom: Graines de citronnier miel
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Jardinage
+Points de récolte: Noscea orientale - ??? (Niv. 50)
+
+Nom: Graines de citronnier soleil
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 17
+Catégorie: Jardinage
+Points de récolte: Basse-Noscea - La Cédrière (Niv. 20)
+
+Nom: Graines de cumin
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 65
+Catégorie: Ingrédient
+Points de récolte: Mer de Rubis - Côte orientale d'Othard (Niv. 65)
+
+Nom: Graines de figuier du vieux continent
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Jardinage
+Points de récolte: Avant-pays dravanien - ??? (Niv. 50)
+
+Nom: Graines de groseillier sanguin
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 36
+Catégorie: Jardinage
+Points de récolte: Forêt du sud - Bas-Chemins (Niv. 40)
+
+Nom: Graines de laitue noscéenne
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 13
+Catégorie: Jardinage
+Points de récolte: Noscea centrale - Estival (Niv. 15)
+
+Nom: Graines de lavande
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 12
+Catégorie: Jardinage
+Points de récolte: Forêt centrale - Brancharquée (Niv. 15)
+
+Nom: Graines de lin
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 31
+Catégorie: Jardinage
+Points de récolte: Forêt du sud - Bas-Chemins (Niv. 35)
+
+Nom: Graines de mandragore
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 33
+Catégorie: Jardinage
+Points de récolte: Noscea orientale - Rives sanglantes (Niv. 35)
+
+Nom: Graines de milli-maïs
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 25
+Catégorie: Jardinage
+Points de récolte: Thanalan oriental - Les Os desséchés (Niv. 25)
+
+Nom: Graines de moutarde mhigoise
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 23
+Catégorie: Jardinage
+Points de récolte: Thanalan oriental - Les Os desséchés (Niv. 25)
+
+Nom: Graines de paprika
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 16
+Catégorie: Jardinage
+Points de récolte: Noscea occidentale - Quartpierre (Niv. 20)
+
+Nom: Graines de pommier de fée
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 16
+Catégorie: Jardinage
+Points de récolte: Forêt de l'est - Neuf-Lierres (Niv. 20)
+
+Nom: Graines de pommier luisant
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 42
+Catégorie: Jardinage
+Points de récolte: Hautes terres du Coerthas central - L'Arête blanche (Niv. 45)
+
+Nom: Graines de prunier sylphe
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 21
+Catégorie: Jardinage
+Points de récolte: Haute-Noscea - La Chênaie (Niv. 25)
+
+Nom: Graines de raisin des plaines
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 11
+Catégorie: Jardinage
+Points de récolte: Basse-Noscea - Baie de Moraby (Niv. 15)
+
+Nom: Graines de rolanbaie
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 43
+Catégorie: Jardinage
+Points de récolte: Haute-Noscea - Lac d'Airain (Niv. 45)
+
+Nom: Graines de sarrasin
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 62
+Catégorie: Ingrédient
+Points de récolte: Les Pics - Dernière forêt (Niv. 65)
+
+Nom: Graines de théier du Coerthas
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 53
+Catégorie: Jardinage
+Points de récolte: Hautes terres du Coerthas occidental - ??? (Niv. 55)
+
+Nom: Graines de tomate Dzemael
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Jardinage
+Points de récolte: Noscea orientale - ??? (Niv. 50)
+
+Nom: Grains de poivre noir
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 14
+Catégorie: Jardinage
+Points de récolte: Thanalan central - Le Nid (Niv. 15)
+
+Nom: Grand radis oriental
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 66
+Catégorie: Ingrédient
+Points de récolte: Yanxia - Doma (Niv. 70)
+
+Nom: Granit
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 31
+Catégorie: Pierre
+Points de récolte: Forêt centrale - Havre des Renouées (Niv. 35)
+
+Nom: Granulat astral
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 60
+Catégorie: Pierre
+Points de récolte: Hautes terres du Coerthas occidental - ??? (Niv. 60)
+
+Nom: Granulat astral rayonnant
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 60
+Catégorie: Pierre
+Points de récolte: Arrière-pays dravanien - Quartier des Fabricateurs (Niv. 60), Avant-pays dravanien - Déclin d'Avalonia (Niv. 60), Hautes terres du Coerthas occidental - Rougebord (Niv. 60), L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60), L'Écume des cieux de Dravania - Colonie des Maîtres terriens (Niv. 60)
+
+Nom: Granulat de feu
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 56
+Catégorie: Pierre
+Points de récolte: Arrière-pays dravanien - Quartier des Fabricateurs (Niv. 60), Avant-pays dravanien - Déclin d'Avalonia (Niv. 60), L'Écume des cieux de Dravania - Colonie des Maîtres terriens (Niv. 60)
+
+Nom: Granulat de feu flamboyant
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 60
+Catégorie: Pierre
+Points de récolte: Arrière-pays dravanien - Quartier des Fabricateurs (Niv. 60), Avant-pays dravanien - Déclin d'Avalonia (Niv. 60), L'Écume des cieux de Dravania - Colonie des Maîtres terriens (Niv. 60)
+
+Nom: Granulat de foudre
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 56
+Catégorie: Pierre
+Points de récolte: Hautes terres du Coerthas occidental - Rougebord (Niv. 60), L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60)
+
+Nom: Granulat de foudre flamboyant
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 60
+Catégorie: Pierre
+Points de récolte: Hautes terres du Coerthas occidental - Rougebord (Niv. 60), L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60)
+
+Nom: Grenat brut
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 31
+Catégorie: Pierre
+Points de récolte: Noscea orientale - Rives sanglantes (Niv. 35)
+
+Nom: Grenouille flèche
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 45
+Catégorie: Réactif
+Points de récolte: Haute-Noscea - Lac d'Airain (Niv. 45)
+
+Nom: Groseille sanguine
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 36
+Catégorie: Ingrédient
+Points de récolte: Forêt du sud - Bas-Chemins (Niv. 40)
+
+Nom: Grès
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 13
+Catégorie: Pierre
+Points de récolte: Thanalan central - Roncenoire (Niv. 15)
+
+Nom: Gui
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 44
+Catégorie: Réactif
+Points de récolte: Hautes terres du Coerthas central - L'Arête blanche (Niv. 45)
+
+Nom: Gui d'Abalathia
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 58
+Catégorie: Réactif
+Points de récolte: L'Écume des cieux d'Abalathia - ??? (Niv. 60)
+
+Nom: Gui de Dravania
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 54
+Catégorie: Réactif
+Points de récolte: L'Écume des cieux de Dravania - ??? (Niv. 55)
+
+Nom: Gui de Nophica
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 23
+Catégorie: Réactif
+Points de récolte: Forêt du sud - Hauts-Chemins (Niv. 25)
+
+Nom: Gui de Thavnair
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Réactif
+Points de récolte: Hautes terres du Coerthas central - ??? (Niv. 50)
+
+Nom: Gui de Tinolqa
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 6
+Catégorie: Réactif
+Points de récolte: Forêt centrale - Larmeverte (Niv. 10), Forêt du nord - Futaie des Murmures (Niv. 10)
+
+Nom: Haricots buffle
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 12
+Catégorie: Ingrédient
+Points de récolte: Forêt centrale - Brancharquée (Niv. 15)
+
+Nom: Haricots émeraude
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 55
+Catégorie: Ingrédient
+Points de récolte: L'Écume des cieux de Dravania - Colonie des Maîtres terriens (Niv. 55)
+
+Nom: Herbe de moko
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 11
+Catégorie: Tissu
+Points de récolte: Thanalan occidental - Confins d'Horizon (Niv. 15)
+
+Nom: Herbes de Mazlaya
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Divers
+Points de récolte: Basse-Noscea - ??? (Niv. 50), Forêt centrale - ??? (Niv. 50), Forêt de l'est - ??? (Niv. 50), Noscea occidentale - ??? (Niv. 50), Thanalan oriental - ??? (Niv. 50)
+
+Nom: Herbes de Yafaem
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 31
+Catégorie: Divers
+Points de récolte: Thanalan méridional - Eaux-Mortes (Niv. 35)
+
+Nom: Humus
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 13
+Catégorie: Réactif
+Points de récolte: Forêt centrale - Brancharquée (Niv. 15)
+
+Nom: Héliodore brut
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 32
+Catégorie: Pierre
+Points de récolte: Thanalan méridional - Désert de Sagolii (Niv. 35)
+
+Nom: Jade
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 39
+Catégorie: Pierre
+Points de récolte: Hautes terres du Coerthas central - Tête du dragon (Niv. 40)
+
+Nom: Jade du couchant
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Pierre
+Points de récolte: Arrière-pays dravanien - Quartier des Fabricateurs (Niv. 60), Avant-pays dravanien - Déclin d'Avalonia (Niv. 60), Hautes terres du Coerthas occidental - Rougebord (Niv. 60), L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60)
+
+Nom: Jade impérial brut
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 68
+Catégorie: Pierre
+Points de récolte: Yanxia - ??? (Niv. 70)
+
+Nom: Jeunes épinards des Cieldalaes
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Ingrédient
+Points de récolte: Basse-Noscea - ??? (Niv. 50)
+
+Nom: Joyau en rubis
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 64
+Catégorie: Divers
+Points de récolte: Mer de Rubis - Rasen Kaikyo (Niv. 65)
+
+Nom: Joyau en rubis
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 64
+Catégorie: Divers
+Points de récolte: Mer de Rubis - Rasen Kaikyo (Niv. 65)
+
+Nom: Kaki
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 67
+Catégorie: Ingrédient
+Points de récolte: Les Marges - Ternebois (Niv. 70)
+
+Nom: Koban de Shishu
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Divers
+Points de récolte: Mer de Rubis - Fosse de Turquoise (Niv. 60)
+
+Nom: Koban de Shishu
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Divers
+Points de récolte: Mer de Rubis - Île de Bekko (Niv. 60)
+
+Nom: Kudzu
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 65
+Catégorie: Ingrédient
+Points de récolte: Les Marges - Ternebois (Niv. 65)
+
+Nom: Lainuchairelle
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Ingrédient
+Points de récolte: Arrière-pays dravanien - ??? (Niv. 60)
+
+Nom: Laitue noscéenne
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 13
+Catégorie: Ingrédient
+Points de récolte: Noscea centrale - Estival (Niv. 15)
+
+Nom: Lamier amplexicaule
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 68
+Catégorie: Réactif
+Points de récolte: Steppe d'Azim - Retraite de Nhaama (Niv. 70)
+
+Nom: Lapis-lazuli brut
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 7
+Catégorie: Pierre
+Points de récolte: Forêt du nord - Futaie des Murmures (Niv. 10)
+
+Nom: Larimar brut
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 53
+Catégorie: Pierre
+Points de récolte: Hautes terres du Coerthas occidental - Prairie de Gorgagne (Niv. 55)
+
+Nom: Larve de coblyn
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Mascotte
+Points de récolte: Thanalan oriental - ??? (Niv. 50)
+
+Nom: Latex
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 1
+Catégorie: Réactif
+Points de récolte: Forêt centrale - Berges de Jade (Niv. 5), Forêt du nord - Futaie des Murmures (Niv. 5)
+
+Nom: Laurier
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 34
+Catégorie: Ingrédient
+Points de récolte: Thanalan méridional - Eaux-Mortes (Niv. 35)
+
+Nom: Lavande
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 12
+Catégorie: Réactif
+Points de récolte: Forêt centrale - Brancharquée (Niv. 15)
+
+Nom: Lentilles lalafelles
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 17
+Catégorie: Ingrédient
+Points de récolte: Noscea occidentale - Quartpierre (Niv. 20)
+
+Nom: Liquide isolant
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 63
+Catégorie: Divers
+Points de récolte: Hautes terres du Coerthas occidental - Lit d'os (Niv. 65)
+
+Nom: Liquide isolant
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 63
+Catégorie: Divers
+Points de récolte: Hautes terres du Coerthas occidental - Prairie de Gorgagne (Niv. 65)
+
+Nom: Légumes cabus
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Ingrédient
+Points de récolte: Hautes terres du Coerthas occidental - ??? (Niv. 60)
+
+Nom: Lœss
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 66
+Catégorie: Pierre
+Points de récolte: Steppe d'Azim - Retraite de Nhaama (Niv. 70)
+
+Nom: Malachite brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 16
+Catégorie: Pierre
+Points de récolte: Thanalan oriental - Les Os desséchés (Niv. 20)
+
+Nom: Mandragore
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 33
+Catégorie: Réactif
+Points de récolte: Noscea orientale - Rives sanglantes (Niv. 35)
+
+Nom: Marbre
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 45
+Catégorie: Pierre
+Points de récolte: Haute-Noscea - Lac d'Airain (Niv. 45)
+
+Nom: Marjolaine
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 15
+Catégorie: Ingrédient
+Points de récolte: Forêt centrale - Brancharquée (Niv. 15)
+
+Nom: Marron sombre
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 55
+Catégorie: Ingrédient
+Points de récolte: Avant-pays dravanien - Terres fumantes (Niv. 55)
+
+Nom: Matière carbonique grade I
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 20
+Catégorie: Catalyseur
+Points de récolte: Noscea occidentale - Vallée du Crâne (Niv. 20)
+
+Nom: Matière carbonique grade I
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 20
+Catégorie: Catalyseur
+Points de récolte: Noscea centrale - Le Coude de Trois-Malms (Niv. 20)
+
+Nom: Matière première pour alambic
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 65
+Catégorie: Divers
+Points de récolte: Yanxia - Envol du Héron (Niv. 65)
+
+Nom: Matière première pour alambic
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 65
+Catégorie: Divers
+Points de récolte: Yanxia - Chaîne du Gensui (Niv. 65)
+
+Nom: Matière première pour pièce décorative du Bord du gouffre
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 68
+Catégorie: Divers
+Points de récolte: Les Lacs - Crâne d'Abalathia (Niv. 70)
+
+Nom: Matière première pour pièce décorative du Bord du gouffre
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 68
+Catégorie: Divers
+Points de récolte: Les Lacs - Hautes berges (Niv. 70)
+
+Nom: Mauve des vents
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 66
+Catégorie: Réactif
+Points de récolte: Yanxia - Doma (Niv. 70)
+
+Nom: Menthe douce
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 58
+Catégorie: Ingrédient
+Points de récolte: Hautes terres du Coerthas occidental - Les Jumeaux (Niv. 60), L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60)
+
+Nom: Menthe galago
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 16
+Catégorie: Ingrédient
+Points de récolte: Forêt de l'est - Neuf-Lierres (Niv. 20)
+
+Nom: Mica blanc
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 58
+Catégorie: Pierre
+Points de récolte: L'Écume des cieux de Dravania - Colonie des Maîtres terriens (Niv. 60)
+
+Nom: Mica doré
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 60
+Catégorie: Pierre
+Points de récolte: L'Écume des cieux d'Abalathia - ??? (Niv. 60)
+
+Nom: Milli-maïs
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 25
+Catégorie: Ingrédient
+Points de récolte: Thanalan oriental - Les Os desséchés (Niv. 25)
+
+Nom: Minerai d'adamant
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Pierre
+Points de récolte: Azys Lla - ??? (Niv. 60)
+
+Nom: Minerai d'argent
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 25
+Catégorie: Pierre
+Points de récolte: Forêt du sud - Hauts-Chemins (Niv. 25)
+
+Nom: Minerai d'aurum regis
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Pierre
+Points de récolte: L'Écume des cieux de Dravania - ??? (Niv. 60)
+
+Nom: Minerai d'hématite
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 57
+Catégorie: Pierre
+Points de récolte: Arrière-pays dravanien - ??? (Niv. 60)
+
+Nom: Minerai d'or
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Thanalan oriental - ??? (Niv. 50)
+
+Nom: Minerai d'électrum
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 43
+Catégorie: Pierre
+Points de récolte: Haute-Noscea - Lac d'Airain (Niv. 45)
+
+Nom: Minerai d'étain
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 6
+Catégorie: Pierre
+Points de récolte: Thanalan central - Roncenoire (Niv. 10), Thanalan occidental - Martelterre (Niv. 10)
+
+Nom: Minerai de chalcocite
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 53
+Catégorie: Pierre
+Points de récolte: Avant-pays dravanien - ??? (Niv. 55)
+
+Nom: Minerai de chromite
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 70
+Catégorie: Pierre
+Points de récolte: Les Pics - ??? (Niv. 70)
+
+Nom: Minerai de cobalt
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 47
+Catégorie: Pierre
+Points de récolte: Thanalan septentrional - Brumebleue (Niv. 50)
+
+Nom: Minerai de cuivre
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 1
+Catégorie: Pierre
+Points de récolte: Thanalan central - Bassin des Désépinés (Niv. 5), Thanalan occidental - Martelterre (Niv. 5)
+
+Nom: Minerai de cuivre jaune
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Hautes terres du Coerthas occidental - ??? (Niv. 50)
+
+Nom: Minerai de cuprite
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 59
+Catégorie: Pierre
+Points de récolte: Arrière-pays dravanien - ??? (Niv. 60)
+
+Nom: Minerai de cupronickel
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 63
+Catégorie: Pierre
+Points de récolte: Mer de Rubis - Couvercle des enfers (Niv. 65)
+
+Nom: Minerai de durargent
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 58
+Catégorie: Pierre
+Points de récolte: Arrière-pays dravanien - Quartier des Fabricateurs (Niv. 60)
+
+Nom: Minerai de durium
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 68
+Catégorie: Pierre
+Points de récolte: Yanxia - Railleries d'au-delà (Niv. 70)
+
+Nom: Minerai de fer
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 14
+Catégorie: Pierre
+Points de récolte: Thanalan occidental - Confins d'Horizon (Niv. 15)
+
+Nom: Minerai de fer beitetsu
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 65
+Catégorie: Pierre
+Points de récolte: Yanxia - Chaîne du Gensui (Niv. 65)
+
+Nom: Minerai de ferbérite
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Thanalan septentrional - ??? (Niv. 50)
+
+Nom: Minerai de graçargent
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 70
+Catégorie: Pierre
+Points de récolte: Steppe d'Azim - ??? (Niv. 70)
+
+Nom: Minerai de limonite
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 54
+Catégorie: Pierre
+Points de récolte: Avant-pays dravanien - ??? (Niv. 55)
+
+Nom: Minerai de luminium
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Pierre
+Points de récolte: Azys Lla - ??? (Niv. 60)
+
+Nom: Minerai de lumithrite
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Pierre
+Points de récolte: L'Écume des cieux de Dravania - ??? (Niv. 60)
+
+Nom: Minerai de mithril
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 34
+Catégorie: Pierre
+Points de récolte: Thanalan méridional - Désert de Sagolii (Niv. 35)
+
+Nom: Minerai de mithrite
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 53
+Catégorie: Pierre
+Points de récolte: Hautes terres du Coerthas occidental - Prairie de Gorgagne (Niv. 55)
+
+Nom: Minerai de molybdène
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 70
+Catégorie: Pierre
+Points de récolte: Les Lacs - Hautes berges (Niv. 70)
+
+Nom: Minerai de noctacier
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 70
+Catégorie: Pierre
+Points de récolte: Mer de Rubis - ??? (Niv. 70)
+
+Nom: Minerai de palladium
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 70
+Catégorie: Pierre
+Points de récolte: Yanxia - ??? (Niv. 70)
+
+Nom: Minerai de platine
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Thanalan méridional - ??? (Niv. 50)
+
+Nom: Minerai de pyrite
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 51
+Catégorie: Pierre
+Points de récolte: Avant-pays dravanien - ??? (Niv. 55)
+
+Nom: Minerai de pérennéclat
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 70
+Catégorie: Pierre
+Points de récolte: Les Lacs - ??? (Niv. 70)
+
+Nom: Minerai de smithsonite
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Pierre
+Points de récolte: L'Écume des cieux d'Abalathia - ??? (Niv. 60)
+
+Nom: Minerai de sombracier
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Hautes terres du Coerthas central - ??? (Niv. 50)
+
+Nom: Minerai de titane
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 55
+Catégorie: Pierre
+Points de récolte: Avant-pays dravanien - Forêt des chocobos (Niv. 55)
+
+Nom: Minerai de tungstite
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Pierre
+Points de récolte: Hautes terres du Coerthas occidental - ??? (Niv. 60)
+
+Nom: Minerai de zinc
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 9
+Catégorie: Pierre
+Points de récolte: Thanalan central - Roncenoire (Niv. 10), Thanalan occidental - Martelterre (Niv. 10)
+
+Nom: Minerai de zéolite
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 60
+Catégorie: Pierre
+Points de récolte: Arrière-pays dravanien - ??? (Niv. 60)
+
+Nom: Minerai gyrabanien
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 70
+Catégorie: Pierre
+Points de récolte: Les Marges - ??? (Niv. 70)
+
+Nom: Mini-mini-mandragore
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Mascotte
+Points de récolte: Forêt de l'est - ??? (Niv. 50)
+
+Nom: Minium
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 15
+Catégorie: Réactif
+Points de récolte: Thanalan occidental - Confins d'Horizon (Niv. 15)
+
+Nom: Morille
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 59
+Catégorie: Ingrédient
+Points de récolte: Arrière-pays dravanien - ??? (Niv. 60)
+
+Nom: Mormorion brut
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 54
+Catégorie: Pierre
+Points de récolte: Hautes terres du Coerthas occidental - Prairie de Gorgagne (Niv. 55)
+
+Nom: Mouron blanc
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 68
+Catégorie: Réactif
+Points de récolte: Steppe d'Azim - Retraite de Nhaama (Niv. 70)
+
+Nom: Mousse tombe-crépuscule
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 59
+Catégorie: Réactif
+Points de récolte: L'Écume des cieux de Dravania - Colonie des Maîtres terriens (Niv. 60)
+
+Nom: Mousse tombe-crépuscule
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 59
+Catégorie: Réactif
+Points de récolte: L'Écume des cieux de Dravania - Fort-Heaume (Niv. 60)
+
+Nom: Moutarde mhigoise
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 23
+Catégorie: Ingrédient
+Points de récolte: Thanalan oriental - Les Os desséchés (Niv. 25)
+
+Nom: Mudstone
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 20
+Catégorie: Pierre
+Points de récolte: Noscea occidentale - Vallée du Crâne (Niv. 20)
+
+Nom: Météorite
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Pierre
+Points de récolte: L'Écume des cieux d'Abalathia - ??? (Niv. 60)
+
+Nom: Noix de Gridania
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 21
+Catégorie: Ingrédient
+Points de récolte: Forêt du sud - Hauts-Chemins (Niv. 25)
+
+Nom: Noix de muscade
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 39
+Catégorie: Ingrédient
+Points de récolte: Noscea orientale - Ravine des Cueillepluies (Niv. 40)
+
+Nom: Nèfle gyrabanienne
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 61
+Catégorie: Ingrédient
+Points de récolte: Les Marges - Confins est (Niv. 65)
+
+Nom: Oignon sauvage
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 12
+Catégorie: Ingrédient
+Points de récolte: Thanalan occidental - Sources de Nophica (Niv. 15)
+
+Nom: Olive cendrée
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 13
+Catégorie: Ingrédient
+Points de récolte: Basse-Noscea - Baie de Moraby (Niv. 15)
+
+Nom: Opale brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 57
+Catégorie: Pierre
+Points de récolte: Avant-pays dravanien - Déclin d'Avalonia (Niv. 60)
+
+Nom: Orange noscéenne
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 7
+Catégorie: Ingrédient
+Points de récolte: Basse-Noscea - La Cédrière (Niv. 10)
+
+Nom: Orange sanguine
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Ingrédient
+Points de récolte: Haute-Noscea - ??? (Niv. 50)
+
+Nom: Origan
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 56
+Catégorie: Ingrédient
+Points de récolte: Hautes terres du Coerthas occidental - Les Jumeaux (Niv. 60), L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60)
+
+Nom: Orties indigo
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 70
+Catégorie: Tissu
+Points de récolte: Steppe d'Azim - ??? (Niv. 70)
+
+Nom: Os de dragon fossilisé
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 56
+Catégorie: Os
+Points de récolte: L'Écume des cieux de Dravania - Colonie des Maîtres terriens (Niv. 60)
+
+Nom: Paille
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 12
+Catégorie: Tissu
+Points de récolte: Noscea centrale - Estival (Niv. 15)
+
+Nom: Panais alpin
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 15
+Catégorie: Ingrédient
+Points de récolte: Thanalan central - Le Nid (Niv. 15)
+
+Nom: Paprika
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 16
+Catégorie: Ingrédient
+Points de récolte: Noscea occidentale - Quartpierre (Niv. 20)
+
+Nom: Paprika dravanien
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Ingrédient
+Points de récolte: Hautes terres du Coerthas occidental - ??? (Niv. 60)
+
+Nom: Penne de la Mer de nuages
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 65
+Catégorie: Divers
+Points de récolte: L'Écume des cieux de Dravania - Colonie des Maîtres terriens (Niv. 65)
+
+Nom: Penne de la Mer de nuages
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 65
+Catégorie: Divers
+Points de récolte: L'Écume des cieux de Dravania - Ohl Tahn (Niv. 65)
+
+Nom: Perlite
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 66
+Catégorie: Pierre
+Points de récolte: Yanxia - Railleries d'au-delà (Niv. 70)
+
+Nom: Persil hyurgoth
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 15
+Catégorie: Ingrédient
+Points de récolte: Basse-Noscea - Baie de Moraby (Niv. 15)
+
+Nom: Pervenche
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Réactif
+Points de récolte: Arrière-pays dravanien - Quartier académique (Niv. 60), Avant-pays dravanien - Déclin d'Avalonia (Niv. 60), L'Écume des cieux d'Abalathia - La Fenêtre bleue (Niv. 60), L'Écume des cieux de Dravania - Fort-Heaume (Niv. 60)
+
+Nom: Petit ver
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 31
+Catégorie: Divers
+Points de récolte: Thanalan méridional - Désert de Sagolii (Niv. 35)
+
+Nom: Pierre calcaire
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 17
+Catégorie: Pierre
+Points de récolte: Noscea occidentale - Vallée du Crâne (Niv. 20)
+
+Nom: Pierre d'eau
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 25
+Catégorie: Pierre
+Points de récolte: Haute-Noscea - La Chênaie (Niv. 25)
+
+Nom: Pierre de feu
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 23
+Catégorie: Pierre
+Points de récolte: Haute-Noscea - La Chênaie (Niv. 25)
+
+Nom: Pierre de feu intense
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 58
+Catégorie: Pierre
+Points de récolte: Arrière-pays dravanien - Quartier des Fabricateurs (Niv. 60), Avant-pays dravanien - Déclin d'Avalonia (Niv. 60), L'Écume des cieux de Dravania - Colonie des Maîtres terriens (Niv. 60)
+
+Nom: Pierre de foudre
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 24
+Catégorie: Pierre
+Points de récolte: Haute-Noscea - La Chênaie (Niv. 25)
+
+Nom: Pierre de foudre intense
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 58
+Catégorie: Pierre
+Points de récolte: Hautes terres du Coerthas occidental - Rougebord (Niv. 60), L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60)
+
+Nom: Pierre de glace
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 23
+Catégorie: Pierre
+Points de récolte: Forêt du sud - Hauts-Chemins (Niv. 25)
+
+Nom: Pierre de soleil brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 7
+Catégorie: Pierre
+Points de récolte: Basse-Noscea - La Cédrière (Niv. 10)
+
+Nom: Pierre de terre
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 21
+Catégorie: Pierre
+Points de récolte: Forêt du sud - Hauts-Chemins (Niv. 25)
+
+Nom: Pierre de vent
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 24
+Catégorie: Pierre
+Points de récolte: Forêt du sud - Hauts-Chemins (Niv. 25)
+
+Nom: Pierre ponce
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Noscea orientale - ??? (Niv. 50)
+
+Nom: Pigment arc-en-ciel
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Teinture
+Points de récolte: Avant-pays dravanien - Déclin d'Avalonia (Niv. 60)
+
+Nom: Pigment arc-en-ciel
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Teinture
+Points de récolte: Avant-pays dravanien - Déclin d'Avalonia (Niv. 60)
+
+Nom: Pigment bleu
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 28
+Catégorie: Teinture
+Points de récolte: Noscea orientale - Rives sanglantes (Niv. 30)
+
+Nom: Pigment bleu
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 28
+Catégorie: Teinture
+Points de récolte: Thanalan occidental - Sources de Nophica (Niv. 30)
+
+Nom: Pigment brun
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 28
+Catégorie: Teinture
+Points de récolte: Forêt du nord - Sommière de la Paix (Niv. 30)
+
+Nom: Pigment brun
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 28
+Catégorie: Teinture
+Points de récolte: Basse-Noscea - La Cédrière (Niv. 30)
+
+Nom: Pigment gris
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 28
+Catégorie: Teinture
+Points de récolte: Forêt du sud - Hauts-Chemins (Niv. 30)
+
+Nom: Pigment gris
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 28
+Catégorie: Teinture
+Points de récolte: Noscea occidentale - Quartpierre (Niv. 30)
+
+Nom: Pigment jaune
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 28
+Catégorie: Teinture
+Points de récolte: Forêt du nord - Sommière de la Paix (Niv. 30)
+
+Nom: Pigment jaune
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 28
+Catégorie: Teinture
+Points de récolte: Basse-Noscea - La Cédrière (Niv. 30)
+
+Nom: Pigment rouge
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 28
+Catégorie: Teinture
+Points de récolte: Noscea centrale - Le Coude de Trois-Malms (Niv. 30)
+
+Nom: Pigment rouge
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 28
+Catégorie: Teinture
+Points de récolte: Thanalan oriental - Bois du Renouveau (Niv. 30)
+
+Nom: Pigment vert
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 28
+Catégorie: Teinture
+Points de récolte: Forêt centrale - Brancharquée (Niv. 30)
+
+Nom: Pigment vert
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 28
+Catégorie: Teinture
+Points de récolte: Forêt de l'est - Neuf-Lierres (Niv. 30)
+
+Nom: Pigment violet
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 28
+Catégorie: Teinture
+Points de récolte: Thanalan central - Bassin des Désépinés (Niv. 30)
+
+Nom: Pigment violet
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 28
+Catégorie: Teinture
+Points de récolte: Thanalan méridional - Eaux-Mortes (Niv. 30)
+
+Nom: Pigments gyrabaniens
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Divers
+Points de récolte: Les Pics - Pierres-qui-dorment (Niv. 60)
+
+Nom: Pigments gyrabaniens
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Divers
+Points de récolte: Les Pics - Dernière forêt (Niv. 60)
+
+Nom: Piment dragon
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 35
+Catégorie: Ingrédient
+Points de récolte: Noscea orientale - Rives sanglantes (Niv. 35)
+
+Nom: Pissenlit
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 59
+Catégorie: Réactif
+Points de récolte: L'Écume des cieux de Dravania - Fort-Heaume (Niv. 60)
+
+Nom: Pièce de harpon
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 62
+Catégorie: Divers
+Points de récolte: Les Marges - Roches rayées (Niv. 65)
+
+Nom: Pièce de harpon
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 62
+Catégorie: Divers
+Points de récolte: Les Marges - Ternebois (Niv. 65)
+
+Nom: Pièce de monnaie ancienne de Radz-at-Han
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 57
+Catégorie: Divers
+Points de récolte: Arrière-pays dravanien - Quartier des Fabricateurs (Niv. 60)
+
+Nom: Pièce de monnaie ancienne de Radz-at-Han
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 57
+Catégorie: Divers
+Points de récolte: Arrière-pays dravanien - Quartier académique (Niv. 60)
+
+Nom: Plume de chocobo
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 29
+Catégorie: Tissu
+Points de récolte: Forêt du sud - Charmille silencieuse (Niv. 30)
+
+Nom: Plume de coq
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 6
+Catégorie: Tissu
+Points de récolte: Thanalan central - Bassin des Désépinés (Niv. 10)
+
+Nom: Plume de corbeau
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 10
+Catégorie: Tissu
+Points de récolte: Forêt centrale - Larmeverte (Niv. 10)
+
+Nom: Plume de sauvagine
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Tissu
+Points de récolte: Noscea occidentale - ??? (Niv. 50)
+
+Nom: Plume de tetrax
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 34
+Catégorie: Tissu
+Points de récolte: Forêt du sud - Bas-Chemins (Niv. 35)
+
+Nom: Poire alligator
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 30
+Catégorie: Ingrédient
+Points de récolte: Forêt du sud - Charmille silencieuse (Niv. 30)
+
+Nom: Poireau des marais
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 34
+Catégorie: Ingrédient
+Points de récolte: Noscea orientale - Rives sanglantes (Niv. 35)
+
+Nom: Poireau gyrabanien
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 64
+Catégorie: Ingrédient
+Points de récolte: Les Pics - Dernière forêt (Niv. 65)
+
+Nom: Poireau noscéen
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Ingrédient
+Points de récolte: Noscea occidentale - ??? (Niv. 50)
+
+Nom: Pois de jade
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 26
+Catégorie: Ingrédient
+Points de récolte: Forêt du nord - Sources de l'Aulne (Niv. 30)
+
+Nom: Poivre noir
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 14
+Catégorie: Ingrédient
+Points de récolte: Thanalan central - Le Nid (Niv. 15)
+
+Nom: Pomme de fée
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 16
+Catégorie: Ingrédient
+Points de récolte: Forêt de l'est - Neuf-Lierres (Niv. 20)
+
+Nom: Pomme luisante
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 42
+Catégorie: Ingrédient
+Points de récolte: Hautes terres du Coerthas central - L'Arête blanche (Niv. 45)
+
+Nom: Popoto
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 18
+Catégorie: Ingrédient
+Points de récolte: Thanalan oriental - Le Seuil de sable (Niv. 20)
+
+Nom: Popoto des montagnes
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 62
+Catégorie: Ingrédient
+Points de récolte: Les Pics - Dernière forêt (Niv. 65)
+
+Nom: Poudre minérale thérapeutique
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 61
+Catégorie: Divers
+Points de récolte: Les Pics - Rocrouillé (Niv. 65)
+
+Nom: Poudre minérale thérapeutique
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 61
+Catégorie: Divers
+Points de récolte: Les Pics - Dernière forêt (Niv. 65)
+
+Nom: Pousse de bambou
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 63
+Catégorie: Ingrédient
+Points de récolte: Yanxia - ??? (Niv. 65)
+
+Nom: Pousse noscéenne
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 20
+Catégorie: Réactif
+Points de récolte: Noscea occidentale - Quartpierre (Niv. 20)
+
+Nom: Pousse sombrelinçoise
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 20
+Catégorie: Réactif
+Points de récolte: Forêt de l'est - Neuf-Lierres (Niv. 20)
+
+Nom: Pousse thanalanaise
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 20
+Catégorie: Réactif
+Points de récolte: Thanalan oriental - Le Seuil de sable (Niv. 20)
+
+Nom: Premier œuf de basilic
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Thanalan septentrional - ??? (Niv. 50)
+
+Nom: Prune d'Othard
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 70
+Catégorie: Ingrédient
+Points de récolte: Steppe d'Azim - ??? (Niv. 70)
+
+Nom: Prunes sylphes
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 21
+Catégorie: Ingrédient
+Points de récolte: Haute-Noscea - La Chênaie (Niv. 25)
+
+Nom: Pépite d'or natif
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Thanalan central - ??? (Niv. 50)
+
+Nom: Péridot brut
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 33
+Catégorie: Pierre
+Points de récolte: Forêt centrale - Havre des Renouées (Niv. 35)
+
+Nom: Quartz bleu
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 60
+Catégorie: Pierre
+Points de récolte: Arrière-pays dravanien - ??? (Niv. 60)
+
+Nom: Quartz jaune
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 52
+Catégorie: Pierre
+Points de récolte: L'Écume des cieux de Dravania - ??? (Niv. 55)
+
+Nom: Quartz rouge
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 58
+Catégorie: Pierre
+Points de récolte: L'Écume des cieux d'Abalathia - ??? (Niv. 60)
+
+Nom: Quartz vert
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 55
+Catégorie: Pierre
+Points de récolte: L'Écume des cieux de Dravania - ??? (Niv. 55)
+
+Nom: Quartz violet
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 60
+Catégorie: Pierre
+Points de récolte: Hautes terres du Coerthas occidental - ??? (Niv. 60)
+
+Nom: Quartzite
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 61
+Catégorie: Pierre
+Points de récolte: Les Pics - Rocrouillé (Niv. 65)
+
+Nom: Racine de kudzu doré
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Divers
+Points de récolte: Les Pics - Pierres-qui-dorment (Niv. 60)
+
+Nom: Racine de kudzu doré
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Divers
+Points de récolte: Les Pics - Dernière forêt (Niv. 60)
+
+Nom: Raisin des plaines
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 11
+Catégorie: Ingrédient
+Points de récolte: Basse-Noscea - Baie de Moraby (Niv. 15)
+
+Nom: Raisin noble
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 22
+Catégorie: Ingrédient
+Points de récolte: Haute-Noscea - La Chênaie (Niv. 25)
+
+Nom: Rhizome de gingembre perlé
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 24
+Catégorie: Jardinage
+Points de récolte: Thanalan oriental - Les Os desséchés (Niv. 25)
+
+Nom: Rhizome de lotus
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 66
+Catégorie: Ingrédient
+Points de récolte: Yanxia - ??? (Niv. 70)
+
+Nom: Rhodonite brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 70
+Catégorie: Pierre
+Points de récolte: Les Pics - ??? (Niv. 70)
+
+Nom: Riz gluant
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 25
+Catégorie: Ingrédient
+Points de récolte: Haute-Noscea - La Chênaie (Niv. 25)
+
+Nom: Roche antéombrale
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Thanalan oriental - ??? (Niv. 50)
+
+Nom: Roche astrale
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Hautes terres du Coerthas central - ??? (Niv. 50)
+
+Nom: Roche ombrale
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Forêt du sud - ??? (Niv. 50)
+
+Nom: Rolanbaie
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 43
+Catégorie: Ingrédient
+Points de récolte: Haute-Noscea - Lac d'Airain (Niv. 45)
+
+Nom: Romarin
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Réactif
+Points de récolte: Forêt de l'est - ??? (Niv. 50)
+
+Nom: Rondin d'acajou
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 37
+Catégorie: Bois
+Points de récolte: Noscea orientale - Ravine des Cueillepluies (Niv. 40)
+
+Nom: Rondin d'if
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 19
+Catégorie: Bois
+Points de récolte: Forêt de l'est - Neuf-Lierres (Niv. 20)
+
+Nom: Rondin d'orme
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 12
+Catégorie: Bois
+Points de récolte: Forêt centrale - Brancharquée (Niv. 15)
+
+Nom: Rondin d'urunday
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 70
+Catégorie: Bois
+Points de récolte: Les Pics - ??? (Niv. 70)
+
+Nom: Rondin d'ébène
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Bois
+Points de récolte: Noscea centrale - ??? (Niv. 50)
+
+Nom: Rondin d'épicéa
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Bois
+Points de récolte: Hautes terres du Coerthas central - ??? (Niv. 50)
+
+Nom: Rondin d'érable
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 3
+Catégorie: Bois
+Points de récolte: Forêt centrale - Berges de Jade (Niv. 5), Forêt du nord - Futaie des Murmures (Niv. 5)
+
+Nom: Rondin de bouleau
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 58
+Catégorie: Bois
+Points de récolte: L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60)
+
+Nom: Rondin de camphrier
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 60
+Catégorie: Bois
+Points de récolte: L'Écume des cieux de Dravania - Eil Tohm (Niv. 60)
+
+Nom: Rondin de châtaignier sombre
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 54
+Catégorie: Bois
+Points de récolte: Avant-pays dravanien - Terres fumantes (Niv. 55)
+
+Nom: Rondin de chêne
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 32
+Catégorie: Bois
+Points de récolte: Forêt du sud - Bas-Chemins (Niv. 35)
+
+Nom: Rondin de cyprès
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Bois
+Points de récolte: Forêt centrale - ??? (Niv. 50)
+
+Nom: Rondin de cèdre
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Bois
+Points de récolte: Hautes terres du Coerthas occidental - Deux-Rivières (Niv. 50)
+
+Nom: Rondin de frêne
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 8
+Catégorie: Bois
+Points de récolte: Forêt centrale - Larmeverte (Niv. 10), Forêt du nord - Futaie des Murmures (Niv. 10)
+
+Nom: Rondin de hêtre
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 61
+Catégorie: Bois
+Points de récolte: Les Marges - Confins est (Niv. 65)
+
+Nom: Rondin de kaya
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 70
+Catégorie: Bois
+Points de récolte: Les Lacs - ??? (Niv. 70)
+
+Nom: Rondin de mélèze
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 63
+Catégorie: Bois
+Points de récolte: Mer de Rubis - Onokoro (Niv. 65)
+
+Nom: Rondin de noyer
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 24
+Catégorie: Bois
+Points de récolte: Forêt du sud - Hauts-Chemins (Niv. 25)
+
+Nom: Rondin de palissandre
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 46
+Catégorie: Bois
+Points de récolte: Forêt de l'est - Massif de ronces (Niv. 50)
+
+Nom: Rondin de pin
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 65
+Catégorie: Bois
+Points de récolte: Yanxia - Envol du Héron (Niv. 65)
+
+Nom: Rondin de plaqueminier
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 67
+Catégorie: Bois
+Points de récolte: Les Marges - Ternebois (Niv. 70)
+
+Nom: Rondin de saule noir
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 70
+Catégorie: Bois
+Points de récolte: Les Marges - ??? (Niv. 70)
+
+Nom: Rondin de teck
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 60
+Catégorie: Bois
+Points de récolte: Arrière-pays dravanien - ??? (Niv. 60)
+
+Nom: Rondin de zelkova
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 70
+Catégorie: Bois
+Points de récolte: Les Lacs - Crâne d'Abalathia (Niv. 70)
+
+Nom: Rondin fragrant
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Bois
+Points de récolte: Forêt centrale - ??? (Niv. 50)
+
+Nom: Rondin odorant
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Bois
+Points de récolte: Forêt du sud - ??? (Niv. 50)
+
+Nom: Rubellite brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 45
+Catégorie: Pierre
+Points de récolte: Thanalan oriental - Les Os desséchés (Niv. 45)
+
+Nom: Rubis brut
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Basse-Noscea - ??? (Niv. 50)
+
+Nom: Rubis étoilé brut
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 55
+Catégorie: Pierre
+Points de récolte: Avant-pays dravanien - Forêt des chocobos (Niv. 55)
+
+Nom: Rue des jardins
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 58
+Catégorie: Réactif
+Points de récolte: Hautes terres du Coerthas occidental - Les Jumeaux (Niv. 60)
+
+Nom: Résine de pin
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 64
+Catégorie: Réactif
+Points de récolte: Yanxia - Envol du Héron (Niv. 65)
+
+Nom: Sable d'argent
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 22
+Catégorie: Pierre
+Points de récolte: Forêt du sud - Hauts-Chemins (Niv. 25)
+
+Nom: Sable d'aurum regis
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 59
+Catégorie: Pierre
+Points de récolte: L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60)
+
+Nom: Sable d'or
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Thanalan oriental - ??? (Niv. 50)
+
+Nom: Sable d'électrum
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 42
+Catégorie: Pierre
+Points de récolte: Haute-Noscea - Lac d'Airain (Niv. 45)
+
+Nom: Sable de cuivre
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 11
+Catégorie: Pierre
+Points de récolte: Thanalan occidental - Confins d'Horizon (Niv. 15)
+
+Nom: Sable de cupronickel
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 61
+Catégorie: Pierre
+Points de récolte: Les Pics - Rocrouillé (Niv. 65)
+
+Nom: Sable de durargent
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 56
+Catégorie: Pierre
+Points de récolte: L'Écume des cieux de Dravania - Colonie des Maîtres terriens (Niv. 60)
+
+Nom: Sable de durium
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 66
+Catégorie: Pierre
+Points de récolte: Steppe d'Azim - Onsal Hakair (Niv. 70)
+
+Nom: Sable de fer
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 14
+Catégorie: Pierre
+Points de récolte: Thanalan occidental - Confins d'Horizon (Niv. 15)
+
+Nom: Sable de lumithrite
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 60
+Catégorie: Pierre
+Points de récolte: L'Écume des cieux de Dravania - Colonie des Maîtres terriens (Niv. 60)
+
+Nom: Sable de mithril
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 33
+Catégorie: Pierre
+Points de récolte: Thanalan méridional - Labyrinthe rouge (Niv. 35)
+
+Nom: Sable de mithrite
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 51
+Catégorie: Pierre
+Points de récolte: Hautes terres du Coerthas occidental - Les Jumeaux (Niv. 55)
+
+Nom: Sable de palladium
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 69
+Catégorie: Pierre
+Points de récolte: Steppe d'Azim - Onsal Hakair (Niv. 70)
+
+Nom: Sable de tamahagane
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 67
+Catégorie: Pierre
+Points de récolte: Steppe d'Azim - Onsal Hakair (Niv. 70)
+
+Nom: Sable fin
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 11
+Catégorie: Pierre
+Points de récolte: Thanalan central - Roncenoire (Niv. 15)
+
+Nom: Sablétoile
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Divers
+Points de récolte: Les Marges - Confins est (Niv. 60)
+
+Nom: Sablétoile
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Divers
+Points de récolte: Les Marges - Confins est (Niv. 60)
+
+Nom: Safran du désert
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 35
+Catégorie: Ingrédient
+Points de récolte: Thanalan méridional - Eaux-Mortes (Niv. 35)
+
+Nom: Salpêtre
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 30
+Catégorie: Réactif
+Points de récolte: Thanalan oriental - Bois du Renouveau (Niv. 30)
+
+Nom: Sangsue des landes
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 30
+Catégorie: Réactif
+Points de récolte: Forêt du nord - Sources de l'Aulne (Niv. 30)
+
+Nom: Saphir brut
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Basse-Noscea - ??? (Niv. 50)
+
+Nom: Saphir étoilé brut
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 55
+Catégorie: Pierre
+Points de récolte: Avant-pays dravanien - Forêt des chocobos (Niv. 55)
+
+Nom: Sargasse tamamo
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 62
+Catégorie: Ingrédient
+Points de récolte: Mer de Rubis - Rasen Kaikyo (Niv. 65)
+
+Nom: Sarment de kudzu
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 65
+Catégorie: Tissu
+Points de récolte: Les Marges - Ternebois (Niv. 65)
+
+Nom: Sauge de Sagolii
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 41
+Catégorie: Ingrédient
+Points de récolte: Haute-Noscea - Lac d'Airain (Niv. 45)
+
+Nom: Sauge noble
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Ingrédient
+Points de récolte: Avant-pays dravanien - ??? (Niv. 60)
+
+Nom: Sauge sclarée
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Ingrédient
+Points de récolte: Hautes terres du Coerthas occidental - Les Jumeaux (Niv. 60), L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60)
+
+Nom: Schörl
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 66
+Catégorie: Pierre
+Points de récolte: Steppe d'Azim - Onsal Hakair (Niv. 70)
+
+Nom: Scorpion blanc
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 20
+Catégorie: Réactif
+Points de récolte: Thanalan oriental - Le Seuil de sable (Niv. 20)
+
+Nom: Scorpion noir
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 42
+Catégorie: Réactif
+Points de récolte: Haute-Noscea - Lac d'Airain (Niv. 45)
+
+Nom: Seigle
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 11
+Catégorie: Ingrédient
+Points de récolte: Thanalan occidental - Confins d'Horizon (Niv. 15)
+
+Nom: Sel d'Ala Mhigo
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 69
+Catégorie: Réactif
+Points de récolte: Les Lacs - ??? (Niv. 70)
+
+Nom: Sel gemme
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 12
+Catégorie: Réactif
+Points de récolte: Thanalan central - Roncenoire (Niv. 15)
+
+Nom: Sel gemme d'Abalathia
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 56
+Catégorie: Ingrédient
+Points de récolte: L'Écume des cieux d'Abalathia - ??? (Niv. 60)
+
+Nom: Sel gemme noscéen
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 50
+Catégorie: Réactif
+Points de récolte: Noscea orientale - ??? (Niv. 50)
+
+Nom: Shiitake
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 65
+Catégorie: Ingrédient
+Points de récolte: Mer de Rubis - Onokoro (Niv. 65)
+
+Nom: Silice
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 27
+Catégorie: Réactif
+Points de récolte: Thanalan méridional - Désert de Sagolii (Niv. 30)
+
+Nom: Siltstone
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 30
+Catégorie: Pierre
+Points de récolte: Haute-Noscea - La Chênaie (Niv. 30)
+
+Nom: Soja
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 64
+Catégorie: Ingrédient
+Points de récolte: Mer de Rubis - Côte orientale d'Othard (Niv. 65)
+
+Nom: Soufre
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 29
+Catégorie: Réactif
+Points de récolte: Haute-Noscea - La Chênaie (Niv. 30)
+
+Nom: Sphène brut
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 17
+Catégorie: Pierre
+Points de récolte: Forêt du nord - Sommière de la Paix (Niv. 20)
+
+Nom: Spinelle brut
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 37
+Catégorie: Pierre
+Points de récolte: Forêt du sud - Le Don d'Urth (Niv. 40)
+
+Nom: Spinelle étoilé brut
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 63
+Catégorie: Pierre
+Points de récolte: Mer de Rubis - ??? (Niv. 65)
+
+Nom: Stalagmite de glace
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 58
+Catégorie: Réactif
+Points de récolte: Hautes terres du Coerthas occidental - Rougebord (Niv. 60)
+
+Nom: Stalagmite de glace
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 58
+Catégorie: Réactif
+Points de récolte: Hautes terres du Coerthas occidental - Les Jumeaux (Niv. 60)
+
+Nom: Sève cristallisée
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 60
+Catégorie: Réactif
+Points de récolte: L'Écume des cieux de Dravania - ??? (Niv. 60)
+
+Nom: Sève d'érable
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 2
+Catégorie: Réactif
+Points de récolte: Forêt du nord - Futaie des Murmures (Niv. 5)
+
+Nom: Sève de bouleau
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 59
+Catégorie: Ingrédient
+Points de récolte: L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60)
+
+Nom: Sève durcie de vieil arbre
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 70
+Catégorie: Réactif
+Points de récolte: Les Marges - ??? (Niv. 70)
+
+Nom: Sève écarlate
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Réactif
+Points de récolte: Forêt du nord - ??? (Niv. 50)
+
+Nom: Sésame
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 57
+Catégorie: Ingrédient
+Points de récolte: L'Écume des cieux d'Abalathia - La Fenêtre bleue (Niv. 60)
+
+Nom: Tanaisie
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 57
+Catégorie: Réactif
+Points de récolte: Arrière-pays dravanien - Quartier académique (Niv. 60)
+
+Nom: Tarentule
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 35
+Catégorie: Réactif
+Points de récolte: Forêt du sud - Bas-Chemins (Niv. 35)
+
+Nom: Tectite
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 59
+Catégorie: Pierre
+Points de récolte: L'Écume des cieux de Dravania - Colonie des Maîtres terriens (Niv. 60)
+
+Nom: Telline du levant
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 19
+Catégorie: Produit de la pêche
+Points de récolte: Noscea occidentale - Vallée du Crâne (Niv. 20)
+
+Nom: Terre diatomée
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 63
+Catégorie: Pierre
+Points de récolte: Mer de Rubis - Rasen Kaikyo (Niv. 65)
+
+Nom: Terreau de Yanxia
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 70
+Catégorie: Pierre
+Points de récolte: Les Lacs - Hautes berges (Niv. 70), Steppe d'Azim - Onsal Hakair (Niv. 70)
+
+Nom: Terreau de Yanxia
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 70
+Catégorie: Pierre
+Points de récolte: Yanxia - Railleries d'au-delà (Niv. 70)
+
+Nom: Terreau noir
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Réactif
+Points de récolte: Arrière-pays dravanien - Quartier académique (Niv. 60), Avant-pays dravanien - Déclin d'Avalonia (Niv. 60), L'Écume des cieux de Dravania - Eil Tohm (Niv. 60)
+
+Nom: Terreau noscéen I
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 30
+Catégorie: Jardinage
+Points de récolte: Basse-Noscea - La Cédrière (Niv. 30)
+
+Nom: Terreau noscéen II
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 46
+Catégorie: Jardinage
+Points de récolte: Basse-Noscea - La Poigne des Dieux (Niv. 50)
+
+Nom: Terreau noscéen III
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 50
+Catégorie: Jardinage
+Points de récolte: Noscea centrale - ??? (Niv. 50)
+
+Nom: Terreau sombrelinçois I
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 30
+Catégorie: Jardinage
+Points de récolte: Forêt de l'est - Neuf-Lierres (Niv. 30)
+
+Nom: Terreau sombrelinçois II
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 46
+Catégorie: Jardinage
+Points de récolte: Forêt de l'est - Massif de ronces (Niv. 50)
+
+Nom: Terreau sombrelinçois III
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 50
+Catégorie: Jardinage
+Points de récolte: Forêt du sud - ??? (Niv. 50)
+
+Nom: Terreau thanalanais I
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 30
+Catégorie: Jardinage
+Points de récolte: Thanalan oriental - Bois du Renouveau (Niv. 30)
+
+Nom: Terreau thanalanais II
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 46
+Catégorie: Jardinage
+Points de récolte: Thanalan occidental - Bazar argenté (Niv. 50)
+
+Nom: Terreau thanalanais III
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 50
+Catégorie: Jardinage
+Points de récolte: Thanalan occidental - ??? (Niv. 50)
+
+Nom: Thym
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 39
+Catégorie: Ingrédient
+Points de récolte: Forêt du sud - Bas-Chemins (Niv. 40)
+
+Nom: Tige de bambou
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 50
+Catégorie: Bois
+Points de récolte: Haute-Noscea - ??? (Niv. 50)
+
+Nom: Tige de ramie
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 54
+Catégorie: Tissu
+Points de récolte: Avant-pays dravanien - Forêt des chocobos (Niv. 55)
+
+Nom: Tomate Dzemael
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Ingrédient
+Points de récolte: Noscea orientale - ??? (Niv. 50)
+
+Nom: Tomate rubis
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 15
+Catégorie: Ingrédient
+Points de récolte: Noscea centrale - Estival (Niv. 15)
+
+Nom: Topaze brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Thanalan septentrional - ??? (Niv. 50)
+
+Nom: Tourbe
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 58
+Catégorie: Réactif
+Points de récolte: Arrière-pays dravanien - Quartier académique (Niv. 60), Avant-pays dravanien - Déclin d'Avalonia (Niv. 60), L'Écume des cieux de Dravania - Eil Tohm (Niv. 60)
+
+Nom: Tourmaline brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 36
+Catégorie: Pierre
+Points de récolte: Forêt du sud - Le Don d'Urth (Niv. 40)
+
+Nom: Trille
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Réactif
+Points de récolte: Forêt de l'est - ??? (Niv. 50)
+
+Nom: Triphane brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Pierre
+Points de récolte: Les Marges - ??? (Niv. 60)
+
+Nom: Truffe blanche
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 33
+Catégorie: Ingrédient
+Points de récolte: Forêt du sud - Bas-Chemins (Niv. 35)
+
+Nom: Truffe noire
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 50
+Catégorie: Ingrédient
+Points de récolte: Thanalan oriental - ??? (Niv. 50)
+
+Nom: Tubercule de popoto
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 18
+Catégorie: Jardinage
+Points de récolte: Thanalan oriental - Le Seuil de sable (Niv. 20)
+
+Nom: Turquoise brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 41
+Catégorie: Pierre
+Points de récolte: Haute-Noscea - Lac d'Airain (Niv. 45)
+
+Nom: Ver grégaire
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Divers
+Points de récolte: Basse-Noscea - ??? (Niv. 50), Hautes terres du Coerthas central - ??? (Niv. 50), Thanalan central - ??? (Niv. 50), Thanalan méridional - ??? (Niv. 50), Thanalan oriental - ??? (Niv. 50), Thanalan septentrional - ??? (Niv. 50)
+
+Nom: Verveine de Yanxia
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 70
+Catégorie: Ingrédient
+Points de récolte: Les Lacs - Crâne d'Abalathia (Niv. 70)
+
+Nom: Verveine de Yanxia
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 70
+Catégorie: Ingrédient
+Points de récolte: Steppe d'Azim - Retraite de Nhaama (Niv. 70), Yanxia - Doma (Niv. 70)
+
+Nom: Veuve des vents
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 56
+Catégorie: Réactif
+Points de récolte: L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60)
+
+Nom: Vieux camphrier
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 60
+Catégorie: Bois
+Points de récolte: L'Écume des cieux de Dravania - ??? (Niv. 60)
+
+Nom: Vipère des prés
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 12
+Catégorie: Réactif
+Points de récolte: Thanalan occidental - Confins d'Horizon (Niv. 15)
+
+Nom: Zircon brut
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 38
+Catégorie: Pierre
+Points de récolte: Hautes terres du Coerthas central - Tête du dragon (Niv. 40)
+
+Nom: Échalion cyclope
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 53
+Catégorie: Ingrédient
+Points de récolte: Avant-pays dravanien - Forêt des chocobos (Niv. 55)
+
+Nom: Échinacée
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 56
+Catégorie: Réactif
+Points de récolte: Avant-pays dravanien - Déclin d'Avalonia (Niv. 60)
+
+Nom: Éclat d'eau
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Noscea orientale - Rives sanglantes (Niv. 30)
+
+Nom: Éclat d'eau
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Noscea orientale - Rives sanglantes (Niv. 35), Thanalan occidental - Martelterre (Niv. 5)
+
+Nom: Éclat d'eau
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Thanalan occidental - Confins d'Horizon (Niv. 15)
+
+Nom: Éclat d'eau
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Noscea orientale - Rives sanglantes (Niv. 35), Thanalan occidental - Sources de Nophica (Niv. 15)
+
+Nom: Éclat d'obsidienne
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 10
+Catégorie: Pierre
+Points de récolte: Thanalan occidental - Martelterre (Niv. 10)
+
+Nom: Éclat d'obsidienne de dragon
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Hautes terres du Coerthas occidental - Deux-Rivières (Niv. 50)
+
+Nom: Éclat d'obsidienne de wyrm
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Pierre
+Points de récolte: Arrière-pays dravanien - Quartier des Fabricateurs (Niv. 60)
+
+Nom: Éclat d'obsidienne de wyverne
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 28
+Catégorie: Pierre
+Points de récolte: Thanalan oriental - Bois du Renouveau (Niv. 30)
+
+Nom: Éclat de feu
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Noscea centrale - Le Coude de Trois-Malms (Niv. 30)
+
+Nom: Éclat de feu
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Thanalan occidental - Martelterre (Niv. 5), Thanalan oriental - Les Os desséchés (Niv. 20)
+
+Nom: Éclat de feu
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Noscea centrale - Le Coude de Trois-Malms (Niv. 20), Thanalan oriental - Bois du Renouveau (Niv. 30)
+
+Nom: Éclat de feu
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Noscea centrale - Estival (Niv. 15), Thanalan oriental - Le Seuil de sable (Niv. 20)
+
+Nom: Éclat de foudre
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Mor Dhona - L'Enchevêtrement (Niv. 5), Thanalan central - Bassin des Désépinés (Niv. 10)
+
+Nom: Éclat de foudre
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Mor Dhona - L'Enchevêtrement (Niv. 5), Thanalan central - Bassin des Désépinés (Niv. 5), Thanalan méridional - Désert de Sagolii (Niv. 35)
+
+Nom: Éclat de foudre
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Thanalan central - Roncenoire (Niv. 15), Thanalan méridional - Eaux-Mortes (Niv. 30)
+
+Nom: Éclat de foudre
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Thanalan central - Le Nid (Niv. 15), Thanalan méridional - Eaux-Mortes (Niv. 35)
+
+Nom: Éclat de glace
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Forêt centrale - Berges de Jade (Niv. 5), Forêt du sud - Hauts-Chemins (Niv. 25), Hautes terres du Coerthas central - L'Arête blanche (Niv. 5), Noscea occidentale - Vallée du Crâne (Niv. 20)
+
+Nom: Éclat de glace
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Forêt du sud - Hauts-Chemins (Niv. 25), Hautes terres du Coerthas central - L'Arête blanche (Niv. 5), Noscea occidentale - Vallée du Crâne (Niv. 20)
+
+Nom: Éclat de glace
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Forêt du sud - Hauts-Chemins (Niv. 25), Noscea occidentale - Vallée du Crâne (Niv. 20)
+
+Nom: Éclat de glace
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Forêt du sud - Bas-Chemins (Niv. 35), Noscea occidentale - Quartpierre (Niv. 20)
+
+Nom: Éclat de terre
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Basse-Noscea - La Cédrière (Niv. 10), Forêt du nord - Ruines de Gelmorra (Niv. 5)
+
+Nom: Éclat de terre
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Basse-Noscea - La Cédrière (Niv. 10), Forêt du nord - Ruines de Gelmorra (Niv. 5), Haute-Noscea - Lac d'Airain (Niv. 45)
+
+Nom: Éclat de terre
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Basse-Noscea - La Cédrière (Niv. 30), Haute-Noscea - La Chênaie (Niv. 25)
+
+Nom: Éclat de terre
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Basse-Noscea - Baie de Moraby (Niv. 15), Forêt du nord - Sources de l'Aulne (Niv. 30), Haute-Noscea - La Chênaie (Niv. 25)
+
+Nom: Éclat de vent
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Forêt centrale - Berges de Jade (Niv. 5), Forêt de l'est - Neuf-Lierres (Niv. 20)
+
+Nom: Éclat de vent
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Forêt centrale - Havre des Renouées (Niv. 35), Thanalan central - Bassin des Désépinés (Niv. 5), Thanalan septentrional - Brumebleue (Niv. 50)
+
+Nom: Éclat de vent
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Forêt de l'est - Neuf-Lierres (Niv. 30), Thanalan septentrional - Brumebleue (Niv. 40)
+
+Nom: Éclat de vent
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 1
+Catégorie: Cristal
+Points de récolte: Forêt centrale - Brancharquée (Niv. 15), Forêt de l'est - Neuf-Lierres (Niv. 20)
+
+Nom: Écorce d'acacia
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 60
+Catégorie: Bois
+Points de récolte: Azys Lla - ??? (Niv. 60)
+
+Nom: Élément nécessaire à une fermentation
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 70
+Catégorie: Divers
+Points de récolte: Les Marges - Ternebois (Niv. 70)
+
+Nom: Élément nécessaire à une fermentation
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 70
+Catégorie: Divers
+Points de récolte: Yanxia - Railleries d'au-delà (Niv. 70)
+
+Nom: Émeraude brute
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 50
+Catégorie: Pierre
+Points de récolte: Thanalan central - ??? (Niv. 50)
+
+Nom: Épices de la Steppe d'Azim
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 66
+Catégorie: Ingrédient
+Points de récolte: Steppe d'Azim - Onsal Hakair (Niv. 70)
+
+Nom: Épices de la Steppe d'Azim
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 66
+Catégorie: Ingrédient
+Points de récolte: Steppe d'Azim - Retraite de Nhaama (Niv. 70)
+
+Nom: Épinards des Cieldalaes
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 14
+Catégorie: Ingrédient
+Points de récolte: Basse-Noscea - Baie de Moraby (Niv. 15)
+
+Nom: Œil-de-faucon
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 70
+Catégorie: Pierre
+Points de récolte: Mer de Rubis - ??? (Niv. 70)
+
+Nom: Œil-de-tigre brut
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 52
+Catégorie: Pierre
+Points de récolte: Avant-pays dravanien - Terres fumantes (Niv. 55)
+
+Nom: Œil-de-verre
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 60
+Catégorie: Divers
+Points de récolte: L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60)
+
+Nom: Œil-de-verre
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 60
+Catégorie: Divers
+Points de récolte: L'Écume des cieux d'Abalathia - La Fenêtre bleue (Niv. 60)
+
+Nom: Œillet
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 13
+Catégorie: Réactif
+Points de récolte: Forêt centrale - Brancharquée (Niv. 15)
+
+Nom: Œnanthe de Yanxia
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 68
+Catégorie: Réactif
+Points de récolte: Yanxia - Doma (Niv. 70)
+
+Nom: Œuf de basilic
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 46
+Catégorie: Pierre
+Points de récolte: Thanalan septentrional - Brumebleue (Niv. 50)
