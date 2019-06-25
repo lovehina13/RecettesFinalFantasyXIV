@@ -3,7 +3,7 @@
 # ==============================================================================
 # Name        : RecuperationProfils.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
-# Version     : 1.7 (21/06/2019)
+# Version     : 1.8 (25/06/2019)
 # Description : Récupération des profils des personnages
 # ==============================================================================
 

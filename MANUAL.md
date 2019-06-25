@@ -2,7 +2,7 @@
 
 ## 1. Présentation de l'application
 
-UtilitairesFinalFantasyXIV est une application console permettant la gestion des membres d'une compagnie libre et des recettes du jeu Final Fantasy XIV.
+UtilitairesFinalFantasyXIV est une application console permettant la gestion des membres d'une compagnie libre, des recettes et des récoltes du jeu Final Fantasy XIV.
 
 Les fonctionnalités de l'application sont les suivantes :
 
@@ -10,13 +10,19 @@ Les fonctionnalités de l'application sont les suivantes :
    - Récupération de la liste complète des membres d'une compagnie libre à partir de la base de données d'Éorzéa,
    - Sauvegarde de la liste complète des membres d'une compagnie libre dans un fichier au format tabulé,
    - Sélection par l'utilisateur d'une liste de membres d'une compagnie libre (personnalisée ou filtrée par critères),
-   - Affichage des caractéristiques, des niveaux par classes et par catégories des membres d'une compagnie libre.
+   - Affichage des caractéristiques, des niveaux par classes et par catégories des membres d'une compagnie libre sélectionnés.
 
  - Gestion des recettes :
    - Récupération de la liste complète des recettes à partir de la base de données d'Éorzéa,
    - Sauvegarde de la liste complète des recettes dans un fichier au format tabulé,
    - Sélection par l'utilisateur d'une liste de recettes (personnalisée ou filtrée par critères),
-   - Calcul des quantités de matériaux et de cristaux nécessaires afin de réaliser les recettes sélectionnées.
+   - Calcul et affichage des quantités de matériaux et de cristaux nécessaires afin de réaliser les recettes sélectionnées.
+
+ - Gestion des récoltes :
+   - Récupération de la liste complète des récoltes à partir de la base de données d'Éorzéa,
+   - Sauvegarde de la liste complète des récoltes dans un fichier au format tabulé,
+   - Sélection par l'utilisateur d'une liste de récoltes (personnalisée ou filtrée par critères),
+   - Affichage des points de récoltes nécessaires afin de réaliser les récoltes sélectionnées.
 
 L'application est réalisée en Python 2.7.13 et nécessite la bibliothèque BeautifulSoup 4.5.3.
 
@@ -38,7 +44,7 @@ Syntaxe d'utilisation :
 
 ### 2.3. Installation de l'application UtilitairesFinalFantasyXIV
 
-L'application est disponible en [version actuelle](https://github.com/lovehina13/UtilitairesFinalFantasyXIV) ou en [version stable (1.7)](https://github.com/lovehina13/UtilitairesFinalFantasyXIV/releases/tag/v1.7.0). Il convient de récupérer puis d'installer les éléments concernés.
+L'application est disponible en [version actuelle](https://github.com/lovehina13/UtilitairesFinalFantasyXIV) ou en [version stable (1.8)](https://github.com/lovehina13/UtilitairesFinalFantasyXIV/releases/tag/v1.8.0). Il convient de récupérer puis d'installer les éléments concernés.
 
 ## 3. Utilisation de l'application
 
@@ -115,7 +121,7 @@ Exemple pour la version 4.58, soit 141 pages :
 
 ### 3.4. Fonctionnalité de récupération des matériaux et des cristaux
 
-La fonctionnalité *RecuperationMateriauxCristaux* permet la sélection par l'utilisateur d'une liste de recettes (personnalisée ou filtrée par critères) et de calculer les quantités de matériaux et de cristaux nécessaires à leur réalisation.
+La fonctionnalité *RecuperationMateriauxCristaux* permet la sélection par l'utilisateur d'une liste de recettes (personnalisée ou filtrée par critères) et de calculer et d'afficher les quantités de matériaux et de cristaux nécessaires à leur réalisation.
 
 Syntaxe d'utilisation :
 
@@ -150,6 +156,62 @@ Exemple pour les recettes de tanneur et de couturier entre les niveaux 1 et 10 :
 
 Les critères disponibles sont les suivants : *noms*, *classes*, *niveaux*, *categories*, *quantites*, *difficultes*, *solidites* et *qualites* (les critères *materiaux* et *cristaux* seront disponibles prochainement).
 
+### 3.5. Fonctionnalité de récupération des récoltes
+
+La fonctionnalité *RecuperationRecoltes* permet de récupérer la liste complète des récoltes à partir de la base de données d'Éorzéa et de la sauvegarder dans un fichier au format tabulé.
+
+Syntaxe d'utilisation :
+
+    python RecuperationRecoltes.py $fichierRecoltes
+
+Exemple d'utilisation :
+
+    python RecuperationRecoltes.py ListeRecoltes.csv
+
+Il convient de modifier le fichier *RecuperationRecoltes.py (ligne 55)* afin d'ajuster le nombre de pages relatives aux récoltes.
+
+Exemple pour la version 4.58, soit 13 pages :
+
+    nombrePagesRecoltes = 13
+
+### 3.6. Fonctionnalité de récupération des points de récolte
+
+La fonctionnalité *RecuperationPointsRecolte* permet la sélection par l'utilisateur d'une liste de récoltes (personnalisée ou filtrée par critères) et d'afficher les points de récolte nécessaires à leur réalisation.
+
+Syntaxe d'utilisation :
+
+    python RecuperationPointsRecolte.py $fichierRecoltes $fichierPointsRecolte
+
+Exemple d'utilisation :
+
+    python RecuperationPointsRecolte.py ListeRecoltes.csv ListePointsRecolte.csv
+
+Il convient de modifier le fichier *RecuperationPointsRecolte.py (ligne 36)* afin de spécifier les récoltes à considérer.
+Les éléments doivent être entre crochets, séparés par des virgules et entre guillemets.
+Les sauts de lignes sont possibles entre les éléments.
+
+Exemple pour les cristaux :
+
+    noms = ["Cristal de feu",
+            "Cristal de glace",
+            "Cristal de vent",
+            "Cristal de terre",
+            "Cristal de foudre",
+            "Cristal d'eau"]
+    recoltes = listeRecoltes.recupererRecoltes(noms=noms)
+
+Il convient de modifier le fichier *RecuperationPointsRecolte.py (ligne 36)* afin de spécifier les critères supplémentaires à considérer.
+Les éléments doivent être entre crochets, séparés par des virgules et entre guillemets (sauf les nombres).
+Les sauts de lignes sont possibles entre les éléments d'un même critère.
+
+Exemple pour les récoltes de mineur et de botaniste entre les niveaux 1 et 10 :
+
+    classes = ["Mineur", "Botaniste"]
+    niveaux = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    recoltes = listeRecoltes.recupererRecoltes(classes=classes, niveaux=niveaux)
+
+Les critères disponibles sont les suivants : *noms*, *classes*, *sousClasses*, *niveaux* et *categories* (le critère *pointsRecolte* sera disponible prochainement).
+
 ## 4. Informations
 
-L'application est en version 1.7 au 21 juin 2019 et réalisée par [Alexis Foerster](mailto:alexis.foerster@gmail.com), joueur du personnage [Yuna Hikari](https://fr.finalfantasyxiv.com/lodestone/character/8095216/).
+L'application est en version 1.8 au 25 juin 2019 et réalisée par [Alexis Foerster](mailto:alexis.foerster@gmail.com), joueur du personnage [Yuna Hikari](https://fr.finalfantasyxiv.com/lodestone/character/8095216/).
