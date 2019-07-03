@@ -3,7 +3,7 @@
 # ==============================================================================
 # Name        : Personnages.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
-# Version     : 1.8 (25/06/2019)
+# Version     : 2.0 (03/07/2019)
 # Description : Définition d'un personnage et d'une liste de personnages
 # ==============================================================================
 
@@ -167,7 +167,7 @@ def construireListePersonnages(nomFichier):
     listePersonnages = ListePersonnages()
     lignes = open(nomFichier, "r").readlines()
     for ligne in lignes:
-        elements = ligne.split(";")
+        elements = ligne.strip("\n").split(";")
         nom = elements[0]
         titre = elements[1]
         serveur = elements[2]

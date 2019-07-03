@@ -3,7 +3,7 @@
 # ==============================================================================
 # Name        : Recettes.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
-# Version     : 1.8 (25/06/2019)
+# Version     : 2.0 (03/07/2019)
 # Description : Définition d'une recette et d'une liste de recettes
 # ==============================================================================
 
@@ -135,7 +135,7 @@ def construireListeRecettes(nomFichier):
     listeRecettes = ListeRecettes()
     lignes = open(nomFichier, "r").readlines()
     for ligne in lignes:
-        elements = ligne.split(";")
+        elements = ligne.strip("\n").split(";")
         nom = elements[0]
         classe = elements[1]
         niveau = int(elements[2])

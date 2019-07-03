@@ -3,7 +3,7 @@
 # ==============================================================================
 # Name        : Recoltes.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
-# Version     : 1.8 (25/06/2019)
+# Version     : 2.0 (03/07/2019)
 # Description : Définition d'une récolte et d'une liste de récoltes
 # ==============================================================================
 
@@ -94,7 +94,7 @@ def construireListeRecoltes(nomFichier):
     listeRecoltes = ListeRecoltes()
     lignes = open(nomFichier, "r").readlines()
     for ligne in lignes:
-        elements = ligne.split(";")
+        elements = ligne.strip("\n").split(";")
         nom = elements[0]
         classe = elements[1]
         sousClasse = elements[2]

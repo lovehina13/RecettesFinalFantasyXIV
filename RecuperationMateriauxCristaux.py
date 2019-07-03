@@ -3,7 +3,7 @@
 # ==============================================================================
 # Name        : RecuperationMateriauxCristaux.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
-# Version     : 1.8 (25/06/2019)
+# Version     : 2.0 (03/07/2019)
 # Description : Récupération des matériaux et des cristaux des recettes
 # ==============================================================================
 

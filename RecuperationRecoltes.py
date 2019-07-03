@@ -3,7 +3,7 @@
 # ==============================================================================
 # Name        : RecuperationRecoltes.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
-# Version     : 1.8 (25/06/2019)
+# Version     : 2.0 (03/07/2019)
 # Description : Récupération des récoltes
 # ==============================================================================
 
@@ -40,8 +40,8 @@ class LecteurPageRecolte(object):
             self.recolte.classe = u"Botaniste"
         for item in soup.find_all("dl", {"class": "db-view__gathering__point"}):
             zone = item.contents[1].contents[0].strip()
-            sousZone = " ".join(item.contents[3].contents[0].strip().replace("\n", " ").replace("\t", "").split()[2:])
-            niveauSousZone = " ".join(item.contents[3].contents[0].strip().replace("\n", " ").replace("\t", "").split()[:2])
+            sousZone = " ".join(item.contents[3].contents[0 if len(item.contents[3].contents) == 1 else 2].strip().replace("\n", " ").replace("\t", "").split()[2:])
+            niveauSousZone = " ".join(item.contents[3].contents[0 if len(item.contents[3].contents) == 1 else 2].strip().replace("\n", " ").replace("\t", "").split()[:2])
             pointRecolte = "%s - %s (%s)" % (zone, sousZone, niveauSousZone)
             self.recolte.pointsRecolte.append(pointRecolte)
 
@@ -52,7 +52,7 @@ def recupererRecoltes(nomFichierRecoltes):
     import sys
 
     # Récupération des pages des récoltes
-    nombrePagesRecoltes = 13
+    nombrePagesRecoltes = 14
     adressesPagesRecoltes = []
     for numeroPageRecoltes in range(1, nombrePagesRecoltes + 1):
         print "Traitement de la liste de récoltes %d sur %d" % (numeroPageRecoltes, nombrePagesRecoltes)
