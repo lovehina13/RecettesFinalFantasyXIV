@@ -82,36 +82,38 @@ class Personnage(object):
             classes[classe] = niveau
         return classes
 
-    classes = ["Paladin", "Guerrier", "Chevalier noir", "Mage blanc", "Érudit", "Astromancien",
-               "Moine", "Chevalier dragon", "Ninja", "Samouraï", "Barde", "Machiniste", "Mage noir",
-               "Invocateur", "Mage rouge", "Mage bleu", "Menuisier", "Forgeron", "Armurier",
-               "Orfèvre", "Tanneur", "Couturier", "Alchimiste", "Cuisinier", "Mineur", "Botaniste",
-               "Pêcheur"]
+    classes = ["Paladin", "Guerrier", "Chevalier noir", "Pistosabreur", "Mage blanc", "Érudit",
+               "Astromancien", "Moine", "Chevalier dragon", "Ninja", "Samouraï", "Barde",
+               "Machiniste", "Danseur", "Mage noir", "Invocateur", "Mage rouge", "Mage bleu",
+               "Menuisier", "Forgeron", "Armurier", "Orfèvre", "Tanneur", "Couturier", "Alchimiste",
+               "Cuisinier", "Mineur", "Botaniste", "Pêcheur"]
 
     categories = ["Tank", "Soigneur", "DPS de mêlée", "DPS physique à distance",
                   "DPS magique à distance", "Combattants / Mages", "Artisans", "Récolteurs",
                   "Général"]
 
-    classesCategories = {"Tank": ["Paladin", "Guerrier", "Chevalier noir"],
+    classesCategories = {"Tank": ["Paladin", "Guerrier", "Chevalier noir", "Pistosabreur"],
                          "Soigneur": ["Mage blanc", "Érudit", "Astromancien"],
                          "DPS de mêlée": ["Moine", "Chevalier dragon", "Ninja", "Samouraï"],
-                         "DPS physique à distance": ["Barde", "Machiniste"],
+                         "DPS physique à distance": ["Barde", "Machiniste", "Danseur"],
                          "DPS magique à distance": ["Mage noir", "Invocateur", "Mage rouge",
                                                     "Mage bleu"],
                          "Combattants / Mages": ["Paladin", "Guerrier", "Chevalier noir",
-                                                 "Mage blanc", "Érudit", "Astromancien", "Moine",
-                                                 "Chevalier dragon", "Ninja", "Samouraï", "Barde",
-                                                 "Machiniste", "Mage noir", "Invocateur",
-                                                 "Mage rouge", "Mage bleu"],
+                                                 "Pistosabreur", "Mage blanc", "Érudit",
+                                                 "Astromancien", "Moine", "Chevalier dragon",
+                                                 "Ninja", "Samouraï", "Barde", "Machiniste",
+                                                 "Danseur", "Mage noir", "Invocateur", "Mage rouge",
+                                                 "Mage bleu"],
                          "Artisans": ["Menuisier", "Forgeron", "Armurier", "Orfèvre", "Tanneur",
                                       "Couturier", "Alchimiste", "Cuisinier"],
                          "Récolteurs": ["Mineur", "Botaniste", "Pêcheur"],
-                         "Général": ["Paladin", "Guerrier", "Chevalier noir", "Mage blanc",
-                                     "Érudit", "Astromancien", "Moine", "Chevalier dragon", "Ninja",
-                                     "Samouraï", "Barde", "Machiniste", "Mage noir", "Invocateur",
-                                     "Mage rouge", "Mage bleu", "Menuisier", "Forgeron", "Armurier",
-                                     "Orfèvre", "Tanneur", "Couturier", "Alchimiste", "Cuisinier",
-                                     "Mineur", "Botaniste", "Pêcheur"]}
+                         "Général": ["Paladin", "Guerrier", "Chevalier noir", "Pistosabreur",
+                                     "Mage blanc", "Érudit", "Astromancien", "Moine",
+                                     "Chevalier dragon", "Ninja", "Samouraï", "Barde", "Machiniste",
+                                     "Danseur", "Mage noir", "Invocateur", "Mage rouge",
+                                     "Mage bleu", "Menuisier", "Forgeron", "Armurier", "Orfèvre",
+                                     "Tanneur", "Couturier", "Alchimiste", "Cuisinier", "Mineur",
+                                     "Botaniste", "Pêcheur"]}
 
 
 class ListePersonnages(object):
