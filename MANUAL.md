@@ -24,19 +24,19 @@ Les fonctionnalités de l'application sont les suivantes :
    - Sélection par l'utilisateur d'une liste de récoltes (personnalisée ou filtrée par critères),
    - Affichage des points de récoltes nécessaires afin de réaliser les récoltes sélectionnées.
 
-L'application est réalisée en Python 2.7.13 et nécessite la bibliothèque BeautifulSoup 4.5.3.
+L'application est réalisée en [Python 2.7.16](https://www.python.org/downloads/release/python-2716/) et nécessite la bibliothèque [BeautifulSoup 4.7.1](https://pypi.org/project/beautifulsoup4/).
 
 ## 2. Installation de l'application
 
-### 2.1. Installation de l'interpréteur Python 2.7.13
+### 2.1. Installation de l'interpréteur Python 2.7.16
 
-L'application nécessite l'interpréteur [Python 2.7.13](https://www.python.org/downloads/release/python-2713/). Il convient de récupérer puis d'installer les éléments concernés.
+L'application nécessite l'interpréteur [Python 2.7.16](https://www.python.org/downloads/release/python-2716/). Il convient de récupérer puis d'installer les éléments concernés.
 
-### 2.2 Installation de la bibliothèque BeautifulSoup 4.5.3
+### 2.2 Installation de la bibliothèque BeautifulSoup 4.7.1
 
-L'application nécessite la bibliothèque [BeautifulSoup 4.5.3](https://pypi.org/project/beautifulsoup4/4.5.3/#files). Il convient de récupérer puis d'installer les éléments concernés.
+L'application nécessite la bibliothèque [BeautifulSoup 4.7.1](https://pypi.org/project/beautifulsoup4/). Il convient de récupérer puis d'installer les éléments concernés.
 
-La bibliothèque BeautifulSoup 4.5.3 peut également s'installer via l'installeur de paquets Python.
+La bibliothèque BeautifulSoup 4.7.1 peut également s'installer via l'installeur de paquets Python.
 
 Syntaxe d'utilisation :
 

@@ -22,4 +22,4 @@ Les fonctionnalités de l'application sont les suivantes :
    - Sélection par l'utilisateur d'une liste de récoltes (personnalisée ou filtrée par critères),
    - Affichage des points de récoltes nécessaires afin de réaliser les récoltes sélectionnées.
 
-L'application est réalisée en Python 2.7.13 et nécessite la bibliothèque BeautifulSoup 4.5.3.
+L'application est réalisée en [Python 2.7.16](https://www.python.org/downloads/release/python-2716/) et nécessite la bibliothèque [BeautifulSoup 4.7.1](https://pypi.org/project/beautifulsoup4/).
