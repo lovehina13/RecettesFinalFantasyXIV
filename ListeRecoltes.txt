@@ -24,7 +24,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: 
+Points de récolte: Rak'tika - La Frairie sauvage (Niv. 80)
 
 Nom: Agrégat d'eau
 Classe: Mineur
@@ -45,7 +45,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Arrière-pays dravanien - Quartier des Fabricateurs (Niv. 60), Avant-pays dravanien - Déclin d'Avalonia (Niv. 60), L'Écume des cieux de Dravania - Colonie des Maîtres terriens (Niv. 60), Mor Dhona - Rive nord de Pleurargent (Niv. 50), Noscea centrale - Dérive du Zéphyr (Niv. 50)
+Points de récolte: Arrière-pays dravanien - Quartier des Fabricateurs (Niv. 60), Avant-pays dravanien - Déclin d'Avalonia (Niv. 60), Kholusia - Amistie (Niv. 80), L'Écume des cieux de Dravania - Colonie des Maîtres terriens (Niv. 60), Mor Dhona - Rive nord de Pleurargent (Niv. 50), Noscea centrale - Dérive du Zéphyr (Niv. 50)
 
 Nom: Agrégat de foudre
 Classe: Botaniste
@@ -59,7 +59,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: 
+Points de récolte: Grand-Lac - Église de l'Aurore (Niv. 80)
 
 Nom: Agrégat de foudre
 Classe: Mineur
@@ -87,7 +87,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: 
+Points de récolte: Kholusia - Plateau aux Rocs (Niv. 80)
 
 Nom: Agrégat de matière sombre
 Classe: Botaniste
@@ -136,7 +136,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Arrière-pays dravanien - Quartier académique (Niv. 60), Avant-pays dravanien - Déclin d'Avalonia (Niv. 60), L'Écume des cieux de Dravania - Eil Tohm (Niv. 60)
+Points de récolte: Arrière-pays dravanien - Quartier académique (Niv. 60), Avant-pays dravanien - Déclin d'Avalonia (Niv. 60), Grand-Lac - Ivraie (Niv. 80), L'Écume des cieux de Dravania - Eil Tohm (Niv. 60)
 
 Nom: Agrégat de vent
 Classe: Botaniste
@@ -157,7 +157,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Hautes terres du Coerthas occidental - Les Jumeaux (Niv. 60), L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60)
+Points de récolte: Hautes terres du Coerthas occidental - Les Jumeaux (Niv. 60), L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60), Rak'tika - La Frairie sauvage (Niv. 80)
 
 Nom: Aigue-marine brute
 Classe: Mineur
@@ -213,7 +213,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 70
 Catégorie: Réactif
-Points de récolte: 
+Points de récolte: Amh Araeng - Auberge du Grand Départ (Niv. 70)
 
 Nom: Alun noir
 Classe: Mineur
@@ -241,7 +241,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 76
 Catégorie: Réactif
-Points de récolte: 
+Points de récolte: Rak'tika - La Frairie sauvage (Niv. 80)
 
 Nom: Amandes
 Classe: Botaniste
@@ -297,7 +297,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 76
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Amh Araeng - La Louche (Niv. 80)
 
 Nom: Ardoise
 Classe: Mineur
@@ -381,7 +381,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 78
 Catégorie: Réactif
-Points de récolte: 
+Points de récolte: Grand-Lac - Ivraie (Niv. 80)
 
 Nom: Basilic hyurois
 Classe: Botaniste
@@ -409,7 +409,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 72
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Il Mheg - Route de la Laine (Niv. 75)
 
 Nom: Betterave sucrière
 Classe: Botaniste
@@ -458,7 +458,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 73
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Kholusia - Tour de Mervoir (Niv. 75)
 
 Nom: Blé des plateaux
 Classe: Botaniste
@@ -535,7 +535,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 70
 Catégorie: Bois
-Points de récolte: 
+Points de récolte: Kholusia - Chantier naval de Venmont (Niv. 70)
 
 Nom: Branche de cèdre
 Classe: Botaniste
@@ -640,7 +640,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 71
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Grand-Lac - Forêt du Berger égaré (Niv. 75)
 
 Nom: Cataire
 Classe: Botaniste
@@ -682,7 +682,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 75
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Rak'tika - Géant accroupi (Niv. 75)
 
 Nom: Chanterelle
 Classe: Botaniste
@@ -787,14 +787,14 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 72
 Catégorie: Tissu
-Points de récolte: 
+Points de récolte: Il Mheg - Route de la Laine (Niv. 75)
 
 Nom: Cocon mousseux
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 80
 Catégorie: Tissu
-Points de récolte: 
+Points de récolte: Grand-Lac - Sanctuaire inviolé (Niv. 80)
 
 Nom: Cordiérite brute
 Classe: Mineur
@@ -857,35 +857,35 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60), Mer de Rubis - Onokoro (Niv. 65), Noscea orientale - Rives sanglantes (Niv. 30)
+Points de récolte: Il Mheg - Halte de Dammroen (Niv. 75), L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60), Mer de Rubis - Onokoro (Niv. 65), Noscea orientale - Rives sanglantes (Niv. 30)
 
 Nom: Cristal d'eau
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60), Mer de Rubis - Fosse de Turquoise (Niv. 60)
+Points de récolte: Il Mheg - Villégiature du Lettré (Niv. 75), L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60), Mer de Rubis - Fosse de Turquoise (Niv. 60), Rak'tika - La Frairie sauvage (Niv. 80)
 
 Nom: Cristal d'eau
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Mer de Rubis - Rasen Kaikyo (Niv. 65), Thanalan occidental - Sources de Nophica (Niv. 30)
+Points de récolte: Mer de Rubis - Rasen Kaikyo (Niv. 65), Rak'tika - Conquête de Lozatl (Niv. 75), Thanalan occidental - Sources de Nophica (Niv. 30)
 
 Nom: Cristal d'eau
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Mer de Rubis - Île de Bekko (Niv. 60)
+Points de récolte: Il Mheg - Route de la Laine (Niv. 75), Mer de Rubis - Île de Bekko (Niv. 60)
 
 Nom: Cristal de feu
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Avant-pays dravanien - Terres fumantes (Niv. 55), Les Marges - Confins est (Niv. 65), Noscea centrale - Le Coude de Trois-Malms (Niv. 30)
+Points de récolte: Amh Araeng - La Louche (Niv. 80), Avant-pays dravanien - Terres fumantes (Niv. 55), Les Marges - Confins est (Niv. 65), Noscea centrale - Le Coude de Trois-Malms (Niv. 30)
 
 Nom: Cristal de feu
 Classe: Mineur
@@ -899,14 +899,14 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Thanalan oriental - Bois du Renouveau (Niv. 30), Yanxia - Railleries d'au-delà (Niv. 70)
+Points de récolte: Kholusia - Lenteroute (Niv. 75), Thanalan oriental - Bois du Renouveau (Niv. 30), Yanxia - Railleries d'au-delà (Niv. 70)
 
 Nom: Cristal de feu
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Avant-pays dravanien - Forêt des chocobos (Niv. 55), Les Marges - Confins est (Niv. 60)
+Points de récolte: Amh Araeng - La Truffe (Niv. 70), Avant-pays dravanien - Forêt des chocobos (Niv. 55), Les Marges - Confins est (Niv. 60)
 
 Nom: Cristal de foudre
 Classe: Botaniste
@@ -920,7 +920,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60), Steppe d'Azim - Onsal Hakair (Niv. 70)
+Points de récolte: Grand-Lac - Ivraie (Niv. 75), L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60), Steppe d'Azim - Onsal Hakair (Niv. 70)
 
 Nom: Cristal de foudre
 Classe: Mineur
@@ -941,7 +941,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Forêt du sud - Hauts-Chemins (Niv. 30), Hautes terres du Coerthas occidental - Deux-Rivières (Niv. 50), Les Lacs - Crâne d'Abalathia (Niv. 70)
+Points de récolte: Forêt du sud - Hauts-Chemins (Niv. 30), Hautes terres du Coerthas occidental - Deux-Rivières (Niv. 50), Kholusia - Falaises éclatantes (Niv. 75), Les Lacs - Crâne d'Abalathia (Niv. 70)
 
 Nom: Cristal de glace
 Classe: Mineur
@@ -962,14 +962,14 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Hautes terres du Coerthas occidental - Les Jumeaux (Niv. 55)
+Points de récolte: Hautes terres du Coerthas occidental - Les Jumeaux (Niv. 55), Kholusia - Tour de Mervoir (Niv. 75)
 
 Nom: Cristal de terre
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Forêt du nord - Sommière de la Paix (Niv. 30), L'Écume des cieux de Dravania - Eil Tohm (Niv. 60)
+Points de récolte: Forêt du nord - Sommière de la Paix (Niv. 30), Grand-Lac - Les mille Lacis (Niv. 75), L'Écume des cieux de Dravania - Eil Tohm (Niv. 60)
 
 Nom: Cristal de terre
 Classe: Mineur
@@ -990,14 +990,14 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: L'Écume des cieux de Dravania - Colonie des Maîtres terriens (Niv. 55), Steppe d'Azim - Retraite de Nhaama (Niv. 70)
+Points de récolte: Grand-Lac - Forêt du Berger égaré (Niv. 75), L'Écume des cieux de Dravania - Colonie des Maîtres terriens (Niv. 55), Steppe d'Azim - Retraite de Nhaama (Niv. 70)
 
 Nom: Cristal de vent
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Forêt centrale - Brancharquée (Niv. 30), Yanxia - Envol du Héron (Niv. 65)
+Points de récolte: Forêt centrale - Brancharquée (Niv. 30), Rak'tika - Solide Serment (Niv. 75), Yanxia - Envol du Héron (Niv. 65)
 
 Nom: Cristal de vent
 Classe: Mineur
@@ -1011,21 +1011,21 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Forêt de l'est - Neuf-Lierres (Niv. 30)
+Points de récolte: Amh Araeng - Auberge du Grand Départ (Niv. 70), Forêt de l'est - Neuf-Lierres (Niv. 30)
 
 Nom: Cristal de vent
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Arrière-pays dravanien - Quartier académique (Niv. 60), Yanxia - Doma (Niv. 70)
+Points de récolte: Arrière-pays dravanien - Quartier académique (Niv. 60), Rak'tika - Géant accroupi (Niv. 75), Yanxia - Doma (Niv. 70)
 
 Nom: Cristal iridescent
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 80
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Il Mheg - Temple de Saint-Fathric (Niv. 80)
 
 Nom: Cristal terni
 Classe: Botaniste
@@ -1088,7 +1088,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 72
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Il Mheg - Bas-fond des Sextuplets (Niv. 75)
 
 Nom: Disthène brut
 Classe: Mineur
@@ -1102,14 +1102,14 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 73
 Catégorie: Autre
-Points de récolte: 
+Points de récolte: Grand-Lac - Ivraie (Niv. 75)
 
 Nom: Déjection d'animal sauvage
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 73
 Catégorie: Autre
-Points de récolte: 
+Points de récolte: Grand-Lac - Forêt du Berger égaré (Niv. 75)
 
 Nom: Eau boueuse
 Classe: Mineur
@@ -1165,7 +1165,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 73
 Catégorie: Réactif
-Points de récolte: 
+Points de récolte: Il Mheg - Villégiature du Lettré (Niv. 75)
 
 Nom: Eau effervescente
 Classe: Mineur
@@ -1179,14 +1179,14 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 78
 Catégorie: Réactif
-Points de récolte: 
+Points de récolte: Grand-Lac - Église de l'Aurore (Niv. 80)
 
 Nom: Eau très effervescente
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 76
 Catégorie: Réactif
-Points de récolte: 
+Points de récolte: Rak'tika - La Frairie sauvage (Niv. 80)
 
 Nom: Escargot allagois
 Classe: Botaniste
@@ -1256,7 +1256,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 71
 Catégorie: Tissu
-Points de récolte: 
+Points de récolte: Grand-Lac - Forêt du Berger égaré (Niv. 75)
 
 Nom: Fibres de lin hingashien
 Classe: Botaniste
@@ -1340,14 +1340,14 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 79
 Catégorie: Tissu
-Points de récolte: 
+Points de récolte: Kholusia - Plateau aux Rocs (Niv. 80)
 
 Nom: Fleur de coton pixie
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 74
 Catégorie: Tissu
-Points de récolte: 
+Points de récolte: Rak'tika - Géant accroupi (Niv. 75)
 
 Nom: Fleur de rubicoton
 Classe: Botaniste
@@ -1382,7 +1382,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 71
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Grand-Lac - Les mille Lacis (Niv. 75)
 
 Nom: Fève kukuru
 Classe: Botaniste
@@ -1403,14 +1403,14 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 72
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Il Mheg - Phisor Lran (Niv. 75)
 
 Nom: Gerberas lumineuses
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 79
 Catégorie: Réactif
-Points de récolte: 
+Points de récolte: Grand-Lac - Ivraie (Niv. 80)
 
 Nom: Gingembre jhammel
 Classe: Botaniste
@@ -1739,7 +1739,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 78
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Kholusia - Plateau aux Rocs (Niv. 80)
 
 Nom: Grains de poivre noir
 Classe: Botaniste
@@ -1928,7 +1928,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 70
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Kholusia - Potager du gouverneur (Niv. 70)
 
 Nom: Jade
 Classe: Mineur
@@ -1956,7 +1956,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 78
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Rak'tika - Halte de l'Archère (Niv. 80)
 
 Nom: Jeunes épinards des Cieldalaes
 Classe: Botaniste
@@ -2075,14 +2075,14 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 77
 Catégorie: Réactif
-Points de récolte: 
+Points de récolte: Rak'tika - La Frairie sauvage (Niv. 80)
 
 Nom: Lazurite brute
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 74
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Rak'tika - Cabane des clercs (Niv. 75)
 
 Nom: Lentilles lalafelles
 Classe: Botaniste
@@ -2110,7 +2110,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 79
 Catégorie: Réactif
-Points de récolte: 
+Points de récolte: Grand-Lac - Ivraie (Niv. 80)
 
 Nom: Légumes cabus
 Classe: Botaniste
@@ -2159,7 +2159,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 76
 Catégorie: Réactif
-Points de récolte: 
+Points de récolte: Rak'tika - La Frairie sauvage (Niv. 80)
 
 Nom: Marron sombre
 Classe: Botaniste
@@ -2236,7 +2236,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 74
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Grand-Lac - Embrasure (Niv. 75)
 
 Nom: Mica blanc
 Classe: Mineur
@@ -2299,7 +2299,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 72
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Il Mheg - Villégiature du Lettré (Niv. 75)
 
 Nom: Minerai d'électrum
 Classe: Mineur
@@ -2320,7 +2320,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 77
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Grand-Lac - Église de l'Aurore (Niv. 80)
 
 Nom: Minerai de chalcocite
 Classe: Mineur
@@ -2446,7 +2446,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 80
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Grand-Lac - Église de l'Aurore (Niv. 80)
 
 Nom: Minerai de mithrite
 Classe: Mineur
@@ -2530,7 +2530,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 80
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: La Tempête - Crypte du Sans branchies (Niv. 80)
 
 Nom: Minerai de zinc
 Classe: Mineur
@@ -2621,7 +2621,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 71
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Kholusia - Lenteroute (Niv. 75)
 
 Nom: Météorite
 Classe: Mineur
@@ -2635,7 +2635,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 75
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Rak'tika - Solide Serment (Niv. 75)
 
 Nom: Noix de Gridania
 Classe: Botaniste
@@ -2677,7 +2677,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 80
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: La Tempête - Gorges de Caliban (Niv. 80)
 
 Nom: Opale brute
 Classe: Mineur
@@ -2775,7 +2775,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 71
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Il Mheg - Route de la Laine (Niv. 75)
 
 Nom: Persil hyurgoth
 Classe: Botaniste
@@ -2796,7 +2796,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 80
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Kholusia - L'Aigrette (Niv. 80)
 
 Nom: Petit ver
 Classe: Mineur
@@ -2817,7 +2817,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 74
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Grand-Lac - Ivraie (Niv. 75)
 
 Nom: Pierre d'eau
 Classe: Mineur
@@ -2866,7 +2866,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 76
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Rak'tika - La Frairie sauvage (Niv. 80)
 
 Nom: Pierre de soleil brute
 Classe: Mineur
@@ -2894,7 +2894,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 76
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Grand-Lac - Église de l'Aurore (Niv. 80)
 
 Nom: Pierre ponce
 Classe: Mineur
@@ -3153,7 +3153,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 70
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Amh Araeng - La Truffe (Niv. 70)
 
 Nom: Pomme de fée
 Classe: Botaniste
@@ -3174,7 +3174,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 71
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Il Mheg - Halte de Dammroen (Niv. 75)
 
 Nom: Popoto
 Classe: Botaniste
@@ -3188,7 +3188,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 76
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Amh Araeng - La Queuequeue (Niv. 80)
 
 Nom: Popoto des montagnes
 Classe: Botaniste
@@ -3279,7 +3279,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 78
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Grand-Lac - Ivraie (Niv. 80)
 
 Nom: Quartz bleu
 Classe: Mineur
@@ -3293,7 +3293,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 80
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Kholusia - Amistie (Niv. 80)
 
 Nom: Quartz jaune
 Classe: Mineur
@@ -3363,7 +3363,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 75
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Rak'tika - Géant accroupi (Niv. 75)
 
 Nom: Rhizome de gingembre perlé
 Classe: Botaniste
@@ -3391,7 +3391,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 78
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Kholusia - Plateau aux Rocs (Niv. 80)
 
 Nom: Riz gluant
 Classe: Botaniste
@@ -3517,7 +3517,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 71
 Catégorie: Bois
-Points de récolte: 
+Points de récolte: Kholusia - Falaises éclatantes (Niv. 75)
 
 Nom: Rondin de cyprès
 Classe: Botaniste
@@ -3545,14 +3545,14 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 74
 Catégorie: Bois
-Points de récolte: 
+Points de récolte: Rak'tika - Solide Serment (Niv. 75)
 
 Nom: Rondin de gaïac
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 80
 Catégorie: Bois
-Points de récolte: 
+Points de récolte: Grand-Lac - Le Guêpier (Niv. 80)
 
 Nom: Rondin de hêtre
 Classe: Botaniste
@@ -3608,14 +3608,14 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 72
 Catégorie: Bois
-Points de récolte: 
+Points de récolte: Il Mheg - Halte de Dammroen (Niv. 75)
 
 Nom: Rondin de santal blanc
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 80
 Catégorie: Bois
-Points de récolte: 
+Points de récolte: Rak'tika - La Nostalgie de Mjrl (Niv. 80)
 
 Nom: Rondin de saule noir
 Classe: Botaniste
@@ -3636,7 +3636,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 76
 Catégorie: Bois
-Points de récolte: 
+Points de récolte: Amh Araeng - La Louche (Niv. 80)
 
 Nom: Rondin de zelkova
 Classe: Botaniste
@@ -3664,7 +3664,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 78
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Grand-Lac - Le Guêpier (Niv. 80)
 
 Nom: Rubellite brute
 Classe: Mineur
@@ -3699,14 +3699,14 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 75
 Catégorie: Autre
-Points de récolte: 
+Points de récolte: Il Mheg - Villégiature du Lettré (Niv. 75)
 
 Nom: Résidu alimentaire d'animal géant
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 75
 Catégorie: Autre
-Points de récolte: 
+Points de récolte: Il Mheg - Route de la Laine (Niv. 75)
 
 Nom: Résine de pin
 Classe: Botaniste
@@ -3741,7 +3741,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 71
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Kholusia - Lenteroute (Niv. 75)
 
 Nom: Sable d'électrum
 Classe: Mineur
@@ -3755,7 +3755,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 76
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Amh Araeng - Grandes mines de Biran (Niv. 80)
 
 Nom: Sable de cuivre
 Classe: Mineur
@@ -3804,7 +3804,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 75
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Rak'tika - Conquête de Lozatl (Niv. 75)
 
 Nom: Sable de mithril
 Classe: Mineur
@@ -3818,7 +3818,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 79
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Amh Araeng - Grandes mines de Biran (Niv. 80)
 
 Nom: Sable de mithrite
 Classe: Mineur
@@ -3881,7 +3881,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 70
 Catégorie: Réactif
-Points de récolte: 
+Points de récolte: Amh Araeng - Auberge du Grand Départ (Niv. 70)
 
 Nom: Sangsue des landes
 Classe: Botaniste
@@ -3937,7 +3937,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 80
 Catégorie: Réactif
-Points de récolte: 
+Points de récolte: Grand-Lac - Ivraie (Niv. 80)
 
 Nom: Sauge sclarée
 Classe: Botaniste
@@ -4154,7 +4154,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 76
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Kholusia - Plateau aux Rocs (Niv. 80)
 
 Nom: Terreau de Yanxia
 Classe: Mineur
@@ -4280,7 +4280,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 71
 Catégorie: Ingrédient
-Points de récolte: 
+Points de récolte: Il Mheg - Route de la Laine (Niv. 75)
 
 Nom: Topaze brute
 Classe: Mineur
@@ -4308,28 +4308,28 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 78
 Catégorie: Autre
-Points de récolte: 
+Points de récolte: Rak'tika - La Frairie sauvage (Niv. 80)
 
 Nom: Trace d'animal géant
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 78
 Catégorie: Autre
-Points de récolte: 
+Points de récolte: Rak'tika - La Frairie sauvage (Niv. 80)
 
 Nom: Trace d'animal sauvage
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 70
 Catégorie: Autre
-Points de récolte: 
+Points de récolte: Amh Araeng - Auberge du Grand Départ (Niv. 70)
 
 Nom: Trace d'animal sauvage
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 70
 Catégorie: Autre
-Points de récolte: 
+Points de récolte: Amh Araeng - La Truffe (Niv. 70)
 
 Nom: Trille
 Classe: Botaniste
@@ -4350,7 +4350,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 76
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Amh Araeng - La Louche (Niv. 80)
 
 Nom: Truffe blanche
 Classe: Botaniste
@@ -4378,7 +4378,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 76
 Catégorie: Pierre
-Points de récolte: 
+Points de récolte: Kholusia - Amistie (Niv. 80)
 
 Nom: Turquoise brute
 Classe: Mineur

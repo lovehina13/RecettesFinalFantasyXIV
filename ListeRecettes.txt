@@ -766,6 +766,18 @@ Solidité: 80
 Qualité maximum: 9065
 Degré: 2
 
+Nom: Alastor
+Classe: Forgeron
+Niveau: 80
+Catégorie: Arme de maraudeur
+Matériaux: 1 Barre iridescente, 3 Eau chimérique de vitalité II, 3 Lingot d'acier au tungstène, 1 Onyx, 1 Pépite d'or pétré
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Alfange en or pétré
 Classe: Orfèvre
 Niveau: 71
@@ -1046,7 +1058,7 @@ Nom: Amulette d'attaquant en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 74
 Catégorie: Bracelet
-Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimèrique de force I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent
+Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimérique de force I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3407
@@ -1058,7 +1070,7 @@ Nom: Amulette d'incantateur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 74
 Catégorie: Bracelet
-Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimèrique d'intelligence I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent
+Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimérique d'intelligence I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3407
@@ -1070,7 +1082,7 @@ Nom: Amulette de pisteur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 74
 Catégorie: Bracelet
-Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimèrique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent
+Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimérique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3407
@@ -1082,7 +1094,7 @@ Nom: Amulette de protecteur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 74
 Catégorie: Bracelet
-Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimèrique de vitalité I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent
+Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimérique de vitalité I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3407
@@ -1094,7 +1106,7 @@ Nom: Amulette de soigneur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 74
 Catégorie: Bracelet
-Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimèrique d'esprit I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent
+Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimérique d'esprit I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3407
@@ -3130,6 +3142,18 @@ Solidité: 80
 Qualité maximum: 14071
 Degré: 2
 
+Nom: Bague d'attaquant de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Bague
+Matériaux: 1 Barre iridescente, 1 Eau chimérique de force II, 1 Onyx
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Bague d'attaquant de loup insulaire
 Classe: Orfèvre
 Niveau: 71
@@ -3242,7 +3266,7 @@ Nom: Bague d'attaquant en lazurite
 Classe: Orfèvre
 Niveau: 75
 Catégorie: Bague
-Matériaux: 1 Eau chimèrique de force I, 1 Lazurite, 1 Pépite de mana-argent
+Matériaux: 1 Eau chimérique de force I, 1 Lazurite, 1 Pépite de mana-argent
 Cristaux: 6 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -3302,7 +3326,7 @@ Nom: Bague d'attaquant en pétalite
 Classe: Orfèvre
 Niveau: 78
 Catégorie: Bague
-Matériaux: 1 Eau chimèrique de force I, 1 Pépite de mithril noble, 1 Pétalite
+Matériaux: 1 Eau chimérique de force I, 1 Pépite de mithril noble, 1 Pétalite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -3362,12 +3386,24 @@ Nom: Bague d'attaquant en triphylite
 Classe: Orfèvre
 Niveau: 76
 Catégorie: Bague
-Matériaux: 1 Eau chimèrique de force I, 1 Pépite de bronze titané, 1 Triphylite
+Matériaux: 1 Eau chimérique de force I, 1 Pépite de bronze titané, 1 Triphylite
 Cristaux: 6 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
 Solidité: 80
 Qualité maximum: 17024
+Degré: 3
+
+Nom: Bague d'incantateur de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Bague
+Matériaux: 1 Barre iridescente, 1 Eau chimérique d'intelligence II, 1 Onyx
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 3
 
 Nom: Bague d'incantateur de loup insulaire
@@ -3482,7 +3518,7 @@ Nom: Bague d'incantateur en lazurite
 Classe: Orfèvre
 Niveau: 75
 Catégorie: Bague
-Matériaux: 1 Eau chimèrique d'intelligence I, 1 Lazurite, 1 Pépite de mana-argent
+Matériaux: 1 Eau chimérique d'intelligence I, 1 Lazurite, 1 Pépite de mana-argent
 Cristaux: 6 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -3542,7 +3578,7 @@ Nom: Bague d'incantateur en pétalite
 Classe: Orfèvre
 Niveau: 78
 Catégorie: Bague
-Matériaux: 1 Eau chimèrique d'intelligence I, 1 Pépite de mithril noble, 1 Pétalite
+Matériaux: 1 Eau chimérique d'intelligence I, 1 Pépite de mithril noble, 1 Pétalite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -3602,7 +3638,7 @@ Nom: Bague d'incantateur en triphylite
 Classe: Orfèvre
 Niveau: 76
 Catégorie: Bague
-Matériaux: 1 Eau chimèrique d'intelligence I, 1 Pépite de bronze titané, 1 Triphylite
+Matériaux: 1 Eau chimérique d'intelligence I, 1 Pépite de bronze titané, 1 Triphylite
 Cristaux: 6 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -3621,6 +3657,18 @@ Difficulté: 195
 Solidité: 80
 Qualité maximum: 2646
 Degré: 2
+
+Nom: Bague de pisteur de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Bague
+Matériaux: 1 Barre iridescente, 1 Eau chimérique de dextérité II, 1 Onyx
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
 
 Nom: Bague de pisteur de loup insulaire
 Classe: Orfèvre
@@ -3734,7 +3782,7 @@ Nom: Bague de pisteur en lazurite
 Classe: Orfèvre
 Niveau: 75
 Catégorie: Bague
-Matériaux: 1 Eau chimèrique de dextérité I, 1 Lazurite, 1 Pépite de mana-argent
+Matériaux: 1 Eau chimérique de dextérité I, 1 Lazurite, 1 Pépite de mana-argent
 Cristaux: 6 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -3794,7 +3842,7 @@ Nom: Bague de pisteur en pétalite
 Classe: Orfèvre
 Niveau: 78
 Catégorie: Bague
-Matériaux: 1 Eau chimèrique de dextérité I, 1 Pépite de mithril noble, 1 Pétalite
+Matériaux: 1 Eau chimérique de dextérité I, 1 Pépite de mithril noble, 1 Pétalite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -3854,12 +3902,24 @@ Nom: Bague de pisteur en triphylite
 Classe: Orfèvre
 Niveau: 76
 Catégorie: Bague
-Matériaux: 1 Eau chimèrique de dextérité I, 1 Pépite de bronze titané, 1 Triphylite
+Matériaux: 1 Eau chimérique de dextérité I, 1 Pépite de bronze titané, 1 Triphylite
 Cristaux: 6 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
 Solidité: 80
 Qualité maximum: 17024
+Degré: 3
+
+Nom: Bague de protecteur de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Bague
+Matériaux: 1 Barre iridescente, 1 Eau chimérique de vitalité II, 1 Onyx
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 3
 
 Nom: Bague de protecteur de loup insulaire
@@ -3974,7 +4034,7 @@ Nom: Bague de protecteur en lazurite
 Classe: Orfèvre
 Niveau: 75
 Catégorie: Bague
-Matériaux: 1 Eau chimèrique de vitalité I, 1 Lazurite, 1 Pépite de mana-argent
+Matériaux: 1 Eau chimérique de vitalité I, 1 Lazurite, 1 Pépite de mana-argent
 Cristaux: 6 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -4034,7 +4094,7 @@ Nom: Bague de protecteur en pétalite
 Classe: Orfèvre
 Niveau: 78
 Catégorie: Bague
-Matériaux: 1 Eau chimèrique de vitalité I, 1 Pépite de mithril noble, 1 Pétalite
+Matériaux: 1 Eau chimérique de vitalité I, 1 Pépite de mithril noble, 1 Pétalite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -4094,12 +4154,24 @@ Nom: Bague de protecteur en triphylite
 Classe: Orfèvre
 Niveau: 76
 Catégorie: Bague
-Matériaux: 1 Eau chimèrique de vitalité I, 1 Pépite de bronze titané, 1 Triphylite
+Matériaux: 1 Eau chimérique de vitalité I, 1 Pépite de bronze titané, 1 Triphylite
 Cristaux: 6 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
 Solidité: 80
 Qualité maximum: 17024
+Degré: 3
+
+Nom: Bague de soigneur de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Bague
+Matériaux: 1 Barre iridescente, 1 Eau chimérique d'esprit II, 1 Onyx
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 3
 
 Nom: Bague de soigneur de loup insulaire
@@ -4214,7 +4286,7 @@ Nom: Bague de soigneur en lazurite
 Classe: Orfèvre
 Niveau: 75
 Catégorie: Bague
-Matériaux: 1 Eau chimèrique d'esprit I, 1 Lazurite, 1 Pépite de mana-argent
+Matériaux: 1 Eau chimérique d'esprit I, 1 Lazurite, 1 Pépite de mana-argent
 Cristaux: 6 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -4274,7 +4346,7 @@ Nom: Bague de soigneur en pétalite
 Classe: Orfèvre
 Niveau: 78
 Catégorie: Bague
-Matériaux: 1 Eau chimèrique d'esprit I, 1 Pépite de mithril noble, 1 Pétalite
+Matériaux: 1 Eau chimérique d'esprit I, 1 Pépite de mithril noble, 1 Pétalite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -4334,7 +4406,7 @@ Nom: Bague de soigneur en triphylite
 Classe: Orfèvre
 Niveau: 76
 Catégorie: Bague
-Matériaux: 1 Eau chimèrique d'esprit I, 1 Pépite de bronze titané, 1 Triphylite
+Matériaux: 1 Eau chimérique d'esprit I, 1 Pépite de bronze titané, 1 Triphylite
 Cristaux: 6 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -6146,7 +6218,7 @@ Nom: Bandeau d'éclaireur en bronze titané
 Classe: Armurier
 Niveau: 76
 Catégorie: Tête
-Matériaux: 1 Cuir de zonure, 1 Eau chimèrique de dextérité I, 2 Pépite de bronze titané, 1 Pépite de durargent
+Matériaux: 1 Cuir de zonure, 1 Eau chimérique de dextérité I, 2 Pépite de bronze titané, 1 Pépite de durargent
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3526
@@ -6237,6 +6309,18 @@ Difficulté: 457
 Solidité: 80
 Qualité maximum: 1054
 Degré: 3
+
+Nom: Barathrum
+Classe: Forgeron
+Niveau: 80
+Catégorie: Arme de danseur
+Matériaux: 1 Barre iridescente, 3 Eau chimérique de dextérité II, 3 Lingot d'acier au tungstène, 1 Pierre à aiguiser en tuf volcanique
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
 
 Nom: Barbule des rafales
 Classe: Forgeron
@@ -6668,6 +6752,18 @@ Total fabriqué: 1
 Difficulté: 1703
 Solidité: 40
 Qualité maximum: 16091
+Degré: 1
+
+Nom: Barre iridescente
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Pierre
+Matériaux: 4 Cristal iridescent, 2 Résine de la halle
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 4777
+Solidité: 35
+Qualité maximum: 32753
 Degré: 1
 
 Nom: Barrette callas blanches
@@ -7690,11 +7786,23 @@ Solidité: 60
 Qualité maximum: 545
 Degré: 3
 
+Nom: Bas-de-corps d'abatteur de la halle
+Classe: Tanneur
+Niveau: 80
+Catégorie: Jambes
+Matériaux: 2 Cuir de chalicotherium, 2 Eau chimérique de force II, 2 Étoffe mousseuse
+Cristaux: 2 Agrégat de terre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Bas-de-corps d'abatteur en laine d'ovim
 Classe: Couturier
 Niveau: 77
 Catégorie: Jambes
-Matériaux: 1 Cuir de zonure, 2 Eau chimèrique de force I, 1 Fil de ramie, 3 Étoffe de laine d'ovim
+Matériaux: 1 Cuir de zonure, 2 Eau chimérique de force I, 1 Fil de ramie, 3 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de foudre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
@@ -7726,6 +7834,18 @@ Solidité: 80
 Qualité maximum: 15625
 Degré: 3
 
+Nom: Bas-de-corps d'incantateur de la halle
+Classe: Couturier
+Niveau: 80
+Catégorie: Jambes
+Matériaux: 1 Cuir d'atrociraptor, 2 Cuir de chalicotherium, 2 Eau chimérique d'intelligence II, 2 Étoffe mousseuse
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Bas-de-corps d'incantateur de pirate des cieux
 Classe: Couturier
 Niveau: 60
@@ -7742,7 +7862,7 @@ Nom: Bas-de-corps d'incantateur en laine d'ovim
 Classe: Couturier
 Niveau: 76
 Catégorie: Jambes
-Matériaux: 1 Cuir de zonure, 2 Eau chimèrique d'intelligence I, 1 Pépite de bronze titané, 1 Pépite de durargent, 2 Étoffe de laine d'ovim
+Matériaux: 1 Cuir de zonure, 2 Eau chimérique d'intelligence I, 1 Pépite de bronze titané, 1 Pépite de durargent, 2 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de foudre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -7786,11 +7906,23 @@ Solidité: 70
 Qualité maximum: 13187
 Degré: 3
 
+Nom: Bas-de-corps d'éclaireur de la halle
+Classe: Tanneur
+Niveau: 80
+Catégorie: Jambes
+Matériaux: 2 Cuir de chalicotherium, 2 Eau chimérique de dextérité II, 1 Étoffe de coton nain, 2 Étoffe mousseuse
+Cristaux: 2 Agrégat de terre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Bas-de-corps d'éclaireur en laine d'ovim
 Classe: Couturier
 Niveau: 76
 Catégorie: Jambes
-Matériaux: 1 Eau chimèrique de dextérité I, 2 Fil de laine d'ovim, 1 Pépite de durargent, 3 Étoffe de laine d'ovim
+Matériaux: 1 Eau chimérique de dextérité I, 2 Fil de laine d'ovim, 1 Pépite de durargent, 3 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de foudre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -7850,7 +7982,7 @@ Nom: Bas-de-corps de pisteur en laine d'ovim
 Classe: Couturier
 Niveau: 76
 Catégorie: Jambes
-Matériaux: 1 Cuir de zonure, 1 Eau chimèrique de dextérité I, 1 Fil de ramie, 3 Étoffe de laine d'ovim
+Matériaux: 1 Cuir de zonure, 1 Eau chimérique de dextérité I, 1 Fil de ramie, 3 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de foudre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -7886,7 +8018,7 @@ Nom: Bas-de-corps de protecteur en laine d'ovim
 Classe: Couturier
 Niveau: 77
 Catégorie: Jambes
-Matériaux: 1 Cuir de zonure, 2 Eau chimèrique de vitalité I, 1 Fil de ramie, 3 Étoffe de laine d'ovim
+Matériaux: 1 Cuir de zonure, 2 Eau chimérique de vitalité I, 1 Fil de ramie, 3 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de foudre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
@@ -8398,6 +8530,18 @@ Solidité: 40
 Qualité maximum: 4980
 Degré: 1
 
+Nom: Biscottes au beurre kukuru
+Classe: Cuisinier
+Niveau: 80
+Catégorie: Plat ou boisson
+Matériaux: 2 Eau souterraine, 1 Farine de blé des plateaux, 2 Fève kukuru criollo, 1 Lait de yak, 2 Sel d'Ala Mhigo
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de feu
+Total fabriqué: 3
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Biscuit au café
 Classe: Cuisinier
 Niveau: 79
@@ -8750,7 +8894,7 @@ Nom: Bonnet cache-oreilles d'incantateur en laine d'ovim
 Classe: Couturier
 Niveau: 76
 Catégorie: Tête
-Matériaux: 1 Eau chimèrique d'intelligence I, 1 Fil de ramie, 1 Poils de manzasiri, 1 Pépite de bronze titané, 2 Étoffe de laine d'ovim
+Matériaux: 1 Eau chimérique d'intelligence I, 1 Fil de ramie, 1 Poils de manzasiri, 1 Pépite de bronze titané, 2 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de foudre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -8762,7 +8906,7 @@ Nom: Bonnet cache-oreilles de soigneur en laine d'ovim
 Classe: Couturier
 Niveau: 76
 Catégorie: Tête
-Matériaux: 1 Eau chimèrique d'esprit I, 1 Fil de ramie, 1 Poils de manzasiri, 1 Pépite de bronze titané, 2 Étoffe de laine d'ovim
+Matériaux: 1 Eau chimérique d'esprit I, 1 Fil de ramie, 1 Poils de manzasiri, 1 Pépite de bronze titané, 2 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de foudre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -9106,6 +9250,18 @@ Solidité: 80
 Qualité maximum: 5783
 Degré: 3
 
+Nom: Bottes d'incantateur de la halle
+Classe: Tanneur
+Niveau: 80
+Catégorie: Pieds
+Matériaux: 2 Cuir de chalicotherium, 2 Eau chimérique d'intelligence II, 1 Madrier de santal blanc, 1 Pépite d'or pétré
+Cristaux: 2 Agrégat de terre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Bottes d'incantateur en cuir de dragon
 Classe: Tanneur
 Niveau: 57
@@ -9370,6 +9526,18 @@ Solidité: 70
 Qualité maximum: 8377
 Degré: 2
 
+Nom: Bottes de pisteur de la halle
+Classe: Tanneur
+Niveau: 80
+Catégorie: Pieds
+Matériaux: 2 Cuir de chalicotherium, 2 Eau chimérique de dextérité II, 1 Madrier de santal blanc, 1 Pépite d'or incarnat
+Cristaux: 2 Agrégat de terre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Bottes de pisteur de pirate des cieux
 Classe: Tanneur
 Niveau: 60
@@ -9550,11 +9718,23 @@ Solidité: 80
 Qualité maximum: 5783
 Degré: 2
 
+Nom: Bottes de soigneur de la halle
+Classe: Tanneur
+Niveau: 80
+Catégorie: Pieds
+Matériaux: 2 Cuir de chalicotherium, 2 Eau chimérique d'esprit II, 1 Madrier de santal blanc, 1 Pépite d'or pétré
+Cristaux: 2 Agrégat de terre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Bottes de soigneur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 74
 Catégorie: Pieds
-Matériaux: 1 Caoutchouc, 3 Cuir d'atrociraptor, 1 Eau chimèrique d'esprit I, 1 Fil de coton pixie, 1 Pépite de sombracier
+Matériaux: 1 Caoutchouc, 3 Cuir d'atrociraptor, 1 Eau chimérique d'esprit I, 1 Fil de coton pixie, 1 Pépite de sombracier
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3407
@@ -10406,7 +10586,7 @@ Nom: Boucle d'oreille d'attaquant en frêne blanc
 Classe: Menuisier
 Niveau: 75
 Catégorie: Boucle d'oreille
-Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimèrique de force I, 1 Fil arc-en-ciel, 1 Madrier de frêne blanc
+Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimérique de force I, 1 Fil arc-en-ciel, 1 Madrier de frêne blanc
 Cristaux: 6 Cristal de glace, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -10466,7 +10646,7 @@ Nom: Boucle d'oreille d'incantateur en frêne blanc
 Classe: Menuisier
 Niveau: 75
 Catégorie: Boucle d'oreille
-Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimèrique d'intelligence I, 1 Fil arc-en-ciel, 1 Madrier de frêne blanc
+Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimérique d'intelligence I, 1 Fil arc-en-ciel, 1 Madrier de frêne blanc
 Cristaux: 6 Cristal de glace, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -10526,7 +10706,7 @@ Nom: Boucle d'oreille de pisteur en frêne blanc
 Classe: Menuisier
 Niveau: 75
 Catégorie: Boucle d'oreille
-Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimèrique de dextérité I, 1 Fil arc-en-ciel, 1 Madrier de frêne blanc
+Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimérique de dextérité I, 1 Fil arc-en-ciel, 1 Madrier de frêne blanc
 Cristaux: 6 Cristal de glace, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -10586,7 +10766,7 @@ Nom: Boucle d'oreille de protecteur en frêne blanc
 Classe: Menuisier
 Niveau: 75
 Catégorie: Boucle d'oreille
-Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimèrique de vitalité I, 1 Fil arc-en-ciel, 1 Madrier de frêne blanc
+Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimérique de vitalité I, 1 Fil arc-en-ciel, 1 Madrier de frêne blanc
 Cristaux: 6 Cristal de glace, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -10646,7 +10826,7 @@ Nom: Boucle d'oreille de soigneur en frêne blanc
 Classe: Menuisier
 Niveau: 75
 Catégorie: Boucle d'oreille
-Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimèrique d'esprit I, 1 Fil arc-en-ciel, 1 Madrier de frêne blanc
+Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimérique d'esprit I, 1 Fil arc-en-ciel, 1 Madrier de frêne blanc
 Cristaux: 6 Cristal de glace, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -10870,6 +11050,18 @@ Solidité: 80
 Qualité maximum: 2026
 Degré: 2
 
+Nom: Boucles d'oreilles d'attaquant de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Boucle d'oreille
+Matériaux: 1 Barre iridescente, 1 Eau chimérique de force II, 2 Onyx
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Boucles d'oreilles d'attaquant de spinelles étoilés
 Classe: Orfèvre
 Niveau: 65
@@ -10994,7 +11186,7 @@ Nom: Boucles d'oreilles d'attaquant en pétalite
 Classe: Orfèvre
 Niveau: 78
 Catégorie: Boucle d'oreille
-Matériaux: 1 Eau chimèrique de force I, 1 Pépite de mithril noble, 2 Pétalite
+Matériaux: 1 Eau chimérique de force I, 1 Pépite de mithril noble, 2 Pétalite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -11018,7 +11210,7 @@ Nom: Boucles d'oreilles d'attaquant en triphylite
 Classe: Orfèvre
 Niveau: 76
 Catégorie: Boucle d'oreille
-Matériaux: 1 Eau chimèrique de force I, 1 Pépite de bronze titané, 2 Triphylite
+Matériaux: 1 Eau chimérique de force I, 1 Pépite de bronze titané, 2 Triphylite
 Cristaux: 6 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -11037,6 +11229,18 @@ Difficulté: 138
 Solidité: 80
 Qualité maximum: 2050
 Degré: 2
+
+Nom: Boucles d'oreilles d'incantateur de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Boucle d'oreille
+Matériaux: 1 Barre iridescente, 1 Eau chimérique d'intelligence II, 2 Onyx
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
 
 Nom: Boucles d'oreilles d'incantateur de spinelles étoilés
 Classe: Orfèvre
@@ -11162,7 +11366,7 @@ Nom: Boucles d'oreilles d'incantateur en pétalite
 Classe: Orfèvre
 Niveau: 78
 Catégorie: Boucle d'oreille
-Matériaux: 1 Eau chimèrique d'intelligence I, 1 Pépite de mithril noble, 2 Pétalite
+Matériaux: 1 Eau chimérique d'intelligence I, 1 Pépite de mithril noble, 2 Pétalite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -11186,7 +11390,7 @@ Nom: Boucles d'oreilles d'incantateur en triphylite
 Classe: Orfèvre
 Niveau: 76
 Catégorie: Boucle d'oreille
-Matériaux: 1 Eau chimèrique d'intelligence I, 1 Pépite de bronze titané, 2 Triphylite
+Matériaux: 1 Eau chimérique d'intelligence I, 1 Pépite de bronze titané, 2 Triphylite
 Cristaux: 6 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -11326,6 +11530,18 @@ Solidité: 70
 Qualité maximum: 1368
 Degré: 2
 
+Nom: Boucles d'oreilles de pisteur de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Boucle d'oreille
+Matériaux: 1 Barre iridescente, 1 Eau chimérique de dextérité II, 2 Onyx
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Boucles d'oreilles de pisteur de spinelles étoilés
 Classe: Orfèvre
 Niveau: 65
@@ -11450,7 +11666,7 @@ Nom: Boucles d'oreilles de pisteur en pétalite
 Classe: Orfèvre
 Niveau: 78
 Catégorie: Boucle d'oreille
-Matériaux: 1 Eau chimèrique de dextérité I, 1 Pépite de mithril noble, 2 Pétalite
+Matériaux: 1 Eau chimérique de dextérité I, 1 Pépite de mithril noble, 2 Pétalite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -11474,12 +11690,24 @@ Nom: Boucles d'oreilles de pisteur en triphylite
 Classe: Orfèvre
 Niveau: 76
 Catégorie: Boucle d'oreille
-Matériaux: 1 Eau chimèrique de dextérité I, 1 Pépite de bronze titané, 2 Triphylite
+Matériaux: 1 Eau chimérique de dextérité I, 1 Pépite de bronze titané, 2 Triphylite
 Cristaux: 6 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
 Solidité: 80
 Qualité maximum: 17024
+Degré: 3
+
+Nom: Boucles d'oreilles de protecteur de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Boucle d'oreille
+Matériaux: 1 Barre iridescente, 1 Eau chimérique de vitalité II, 2 Onyx
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 3
 
 Nom: Boucles d'oreilles de protecteur de spinelles étoilés
@@ -11606,7 +11834,7 @@ Nom: Boucles d'oreilles de protecteur en pétalite
 Classe: Orfèvre
 Niveau: 78
 Catégorie: Boucle d'oreille
-Matériaux: 1 Eau chimèrique de vitalité I, 1 Pépite de mithril noble, 2 Pétalite
+Matériaux: 1 Eau chimérique de vitalité I, 1 Pépite de mithril noble, 2 Pétalite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -11630,7 +11858,7 @@ Nom: Boucles d'oreilles de protecteur en triphylite
 Classe: Orfèvre
 Niveau: 76
 Catégorie: Boucle d'oreille
-Matériaux: 1 Eau chimèrique de vitalité I, 1 Pépite de bronze titané, 2 Triphylite
+Matériaux: 1 Eau chimérique de vitalité I, 1 Pépite de bronze titané, 2 Triphylite
 Cristaux: 6 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -11673,6 +11901,18 @@ Difficulté: 186
 Solidité: 80
 Qualité maximum: 2641
 Degré: 2
+
+Nom: Boucles d'oreilles de soigneur de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Boucle d'oreille
+Matériaux: 1 Barre iridescente, 1 Eau chimérique d'esprit II, 2 Onyx
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
 
 Nom: Boucles d'oreilles de soigneur de spinelles étoilés
 Classe: Orfèvre
@@ -11798,7 +12038,7 @@ Nom: Boucles d'oreilles de soigneur en pétalite
 Classe: Orfèvre
 Niveau: 78
 Catégorie: Boucle d'oreille
-Matériaux: 1 Eau chimèrique d'esprit I, 1 Pépite de mithril noble, 2 Pétalite
+Matériaux: 1 Eau chimérique d'esprit I, 1 Pépite de mithril noble, 2 Pétalite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -11822,7 +12062,7 @@ Nom: Boucles d'oreilles de soigneur en triphylite
 Classe: Orfèvre
 Niveau: 76
 Catégorie: Boucle d'oreille
-Matériaux: 1 Eau chimèrique d'esprit I, 1 Pépite de bronze titané, 2 Triphylite
+Matériaux: 1 Eau chimérique d'esprit I, 1 Pépite de bronze titané, 2 Triphylite
 Cristaux: 6 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -12994,6 +13234,18 @@ Solidité: 80
 Qualité maximum: 1961
 Degré: 2
 
+Nom: Bracelet d'attaquant de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Bracelet
+Matériaux: 1 Barre iridescente, 1 Eau chimérique de force II, 2 Onyx
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Bracelet d'attaquant de loup insulaire
 Classe: Orfèvre
 Niveau: 71
@@ -13130,7 +13382,7 @@ Nom: Bracelet d'attaquant en pétalite
 Classe: Orfèvre
 Niveau: 79
 Catégorie: Bracelet
-Matériaux: 1 Eau chimèrique de force I, 1 Pépite de mana-argent, 1 Pépite de mithril noble, 2 Pétalite
+Matériaux: 1 Eau chimérique de force I, 1 Pépite de mana-argent, 1 Pépite de mithril noble, 2 Pétalite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3705
@@ -13166,7 +13418,7 @@ Nom: Bracelet d'attaquant en triphylite
 Classe: Orfèvre
 Niveau: 77
 Catégorie: Bracelet
-Matériaux: 1 Cuir de dhalmel, 1 Eau chimèrique de force I, 1 Pépite de bronze titané, 2 Triphylite
+Matériaux: 1 Cuir de dhalmel, 1 Eau chimérique de force I, 1 Pépite de bronze titané, 2 Triphylite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
@@ -13185,6 +13437,18 @@ Difficulté: 129
 Solidité: 80
 Qualité maximum: 1961
 Degré: 2
+
+Nom: Bracelet d'incantateur de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Bracelet
+Matériaux: 1 Barre iridescente, 1 Eau chimérique d'intelligence II, 2 Onyx
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
 
 Nom: Bracelet d'incantateur de loup insulaire
 Classe: Orfèvre
@@ -13322,7 +13586,7 @@ Nom: Bracelet d'incantateur en pétalite
 Classe: Orfèvre
 Niveau: 79
 Catégorie: Bracelet
-Matériaux: 1 Eau chimèrique d'intelligence I, 1 Pépite de mana-argent, 1 Pépite de mithril noble, 2 Pétalite
+Matériaux: 1 Eau chimérique d'intelligence I, 1 Pépite de mana-argent, 1 Pépite de mithril noble, 2 Pétalite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3705
@@ -13358,7 +13622,7 @@ Nom: Bracelet d'incantateur en triphylite
 Classe: Orfèvre
 Niveau: 77
 Catégorie: Bracelet
-Matériaux: 1 Cuir de dhalmel, 1 Eau chimèrique d'intelligence I, 1 Pépite de bronze titané, 2 Triphylite
+Matériaux: 1 Cuir de dhalmel, 1 Eau chimérique d'intelligence I, 1 Pépite de bronze titané, 2 Triphylite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
@@ -13473,6 +13737,18 @@ Difficulté: 91
 Solidité: 70
 Qualité maximum: 1368
 Degré: 2
+
+Nom: Bracelet de pisteur de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Bracelet
+Matériaux: 1 Barre iridescente, 1 Eau chimérique de dextérité II, 2 Onyx
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
 
 Nom: Bracelet de pisteur de loup insulaire
 Classe: Orfèvre
@@ -13610,7 +13886,7 @@ Nom: Bracelet de pisteur en pétalite
 Classe: Orfèvre
 Niveau: 79
 Catégorie: Bracelet
-Matériaux: 1 Eau chimèrique de dextérité I, 1 Pépite de mana-argent, 1 Pépite de mithril noble, 2 Pétalite
+Matériaux: 1 Eau chimérique de dextérité I, 1 Pépite de mana-argent, 1 Pépite de mithril noble, 2 Pétalite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3705
@@ -13646,12 +13922,24 @@ Nom: Bracelet de pisteur en triphylite
 Classe: Orfèvre
 Niveau: 77
 Catégorie: Bracelet
-Matériaux: 1 Cuir de dhalmel, 1 Eau chimèrique de dextérité I, 1 Pépite de bronze titané, 2 Triphylite
+Matériaux: 1 Cuir de dhalmel, 1 Eau chimérique de dextérité I, 1 Pépite de bronze titané, 2 Triphylite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
 Solidité: 80
 Qualité maximum: 17490
+Degré: 3
+
+Nom: Bracelet de protecteur de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Bracelet
+Matériaux: 1 Barre iridescente, 1 Eau chimérique de vitalité II, 2 Onyx
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 3
 
 Nom: Bracelet de protecteur de loup insulaire
@@ -13790,7 +14078,7 @@ Nom: Bracelet de protecteur en pétalite
 Classe: Orfèvre
 Niveau: 79
 Catégorie: Bracelet
-Matériaux: 1 Eau chimèrique de vitalité I, 1 Pépite de mana-argent, 1 Pépite de mithril noble, 2 Pétalite
+Matériaux: 1 Eau chimérique de vitalité I, 1 Pépite de mana-argent, 1 Pépite de mithril noble, 2 Pétalite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3705
@@ -13826,7 +14114,7 @@ Nom: Bracelet de protecteur en triphylite
 Classe: Orfèvre
 Niveau: 77
 Catégorie: Bracelet
-Matériaux: 1 Cuir de dhalmel, 1 Eau chimèrique de vitalité I, 1 Pépite de bronze titané, 2 Triphylite
+Matériaux: 1 Cuir de dhalmel, 1 Eau chimérique de vitalité I, 1 Pépite de bronze titané, 2 Triphylite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
@@ -13869,6 +14157,18 @@ Difficulté: 172
 Solidité: 80
 Qualité maximum: 2524
 Degré: 2
+
+Nom: Bracelet de soigneur de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Bracelet
+Matériaux: 1 Barre iridescente, 1 Eau chimérique d'esprit II, 2 Onyx
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
 
 Nom: Bracelet de soigneur de loup insulaire
 Classe: Orfèvre
@@ -14006,7 +14306,7 @@ Nom: Bracelet de soigneur en pétalite
 Classe: Orfèvre
 Niveau: 79
 Catégorie: Bracelet
-Matériaux: 1 Eau chimèrique d'esprit I, 1 Pépite de mana-argent, 1 Pépite de mithril noble, 2 Pétalite
+Matériaux: 1 Eau chimérique d'esprit I, 1 Pépite de mana-argent, 1 Pépite de mithril noble, 2 Pétalite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3705
@@ -14042,7 +14342,7 @@ Nom: Bracelet de soigneur en triphylite
 Classe: Orfèvre
 Niveau: 77
 Catégorie: Bracelet
-Matériaux: 1 Cuir de dhalmel, 1 Eau chimèrique d'esprit I, 1 Pépite de bronze titané, 2 Triphylite
+Matériaux: 1 Cuir de dhalmel, 1 Eau chimérique d'esprit I, 1 Pépite de bronze titané, 2 Triphylite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
@@ -14462,7 +14762,7 @@ Nom: Braies d'abatteur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 75
 Catégorie: Jambes
-Matériaux: 3 Cuir d'atrociraptor, 2 Eau chimèrique de force I, 1 Pépite d'or rose, 1 Étoffe de coton pixie
+Matériaux: 3 Cuir d'atrociraptor, 2 Eau chimérique de force I, 1 Pépite d'or rose, 1 Étoffe de coton pixie
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -14786,7 +15086,7 @@ Nom: Braies de protecteur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 75
 Catégorie: Jambes
-Matériaux: 3 Cuir d'atrociraptor, 2 Eau chimèrique de vitalité I, 1 Pépite d'or rose, 1 Étoffe de coton pixie
+Matériaux: 3 Cuir d'atrociraptor, 2 Eau chimérique de vitalité I, 1 Pépite d'or rose, 1 Étoffe de coton pixie
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -15242,7 +15542,7 @@ Nom: Brailles d'éclaireur en coton pixie
 Classe: Couturier
 Niveau: 75
 Catégorie: Jambes
-Matériaux: 2 Cuir d'atrociraptor, 2 Eau chimèrique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite d'or rose, 2 Étoffe de coton pixie
+Matériaux: 2 Cuir d'atrociraptor, 2 Eau chimérique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite d'or rose, 2 Étoffe de coton pixie
 Cristaux: 7 Cristal de foudre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -15310,11 +15610,23 @@ Solidité: 80
 Qualité maximum: 2646
 Degré: 2
 
+Nom: Brailles de pisteur de la halle
+Classe: Couturier
+Niveau: 80
+Catégorie: Jambes
+Matériaux: 2 Cuir de chalicotherium, 2 Eau chimérique de dextérité II, 1 Étoffe de coton nain, 2 Étoffe mousseuse
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Brailles de pisteur en coton pixie
 Classe: Couturier
 Niveau: 75
 Catégorie: Jambes
-Matériaux: 2 Cuir d'atrociraptor, 2 Eau chimèrique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite d'or rose, 2 Étoffe de coton pixie
+Matériaux: 2 Cuir d'atrociraptor, 2 Eau chimérique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite d'or rose, 2 Étoffe de coton pixie
 Cristaux: 7 Cristal de foudre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -15494,7 +15806,7 @@ Nom: Brassières d'incantateur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 74
 Catégorie: Mains
-Matériaux: 1 Barre d'azuresprit, 2 Cuir d'atrociraptor, 1 Eau chimèrique d'intelligence I, 1 Fil de coton pixie, 1 Pépite de sombracier
+Matériaux: 1 Barre d'azuresprit, 2 Cuir d'atrociraptor, 1 Eau chimérique d'intelligence I, 1 Fil de coton pixie, 1 Pépite de sombracier
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3407
@@ -15909,6 +16221,18 @@ Difficulté: 284
 Solidité: 70
 Qualité maximum: 648
 Degré: 2
+
+Nom: Burattinaios
+Classe: Forgeron
+Niveau: 80
+Catégorie: Arme de pugiliste
+Matériaux: 2 Barre iridescente, 3 Eau chimérique de force II, 2 Lingot d'acier au tungstène, 1 Onyx, 1 Pépite d'or pétré
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
 
 Nom: Bureau Carbuncle
 Classe: Menuisier
@@ -16934,7 +17258,7 @@ Nom: Caligae d'abatteur en cuir de zonure
 Classe: Tanneur
 Niveau: 77
 Catégorie: Pieds
-Matériaux: 1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimèrique de force I, 1 Pépite de titane, 1 Étoffe de laine d'ovim
+Matériaux: 1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimérique de force I, 1 Pépite de titane, 1 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de terre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
@@ -16958,7 +17282,7 @@ Nom: Caligae d'agresseur en cuir de zonure
 Classe: Tanneur
 Niveau: 76
 Catégorie: Pieds
-Matériaux: 1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimèrique de force I, 1 Pépite de titane, 1 Étoffe de laine d'ovim
+Matériaux: 1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimérique de force I, 1 Pépite de titane, 1 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -16982,7 +17306,7 @@ Nom: Caligae d'éclaireur en cuir de zonure
 Classe: Tanneur
 Niveau: 76
 Catégorie: Pieds
-Matériaux: 2 Cuir de zonure, 1 Eau chimèrique de dextérité I, 1 Fil de ramie, 1 Étoffe de laine d'ovim
+Matériaux: 2 Cuir de zonure, 1 Eau chimérique de dextérité I, 1 Fil de ramie, 1 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -17018,7 +17342,7 @@ Nom: Caligae de protecteur en cuir de zonure
 Classe: Tanneur
 Niveau: 77
 Catégorie: Pieds
-Matériaux: 1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimèrique de vitalité I, 1 Pépite de titane, 1 Étoffe de laine d'ovim
+Matériaux: 1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimérique de vitalité I, 1 Pépite de titane, 1 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de terre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
@@ -17030,7 +17354,7 @@ Nom: Caligae de soigneur en cuir de zonure
 Classe: Tanneur
 Niveau: 76
 Catégorie: Pieds
-Matériaux: 1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimèrique d'esprit I, 1 Lingot de bronze titané
+Matériaux: 1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimérique d'esprit I, 1 Lingot de bronze titané
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -18314,7 +18638,7 @@ Nom: Capuche de soigneur en coton pixie
 Classe: Couturier
 Niveau: 74
 Catégorie: Tête
-Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimèrique d'esprit I, 1 Fil de coton pixie, 1 Pépite d'or rose, 2 Étoffe de coton pixie
+Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimérique d'esprit I, 1 Fil de coton pixie, 1 Pépite d'or rose, 2 Étoffe de coton pixie
 Cristaux: 7 Cristal de foudre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3407
@@ -18686,7 +19010,7 @@ Nom: Casque d'abatteur en azuresprit
 Classe: Armurier
 Niveau: 74
 Catégorie: Tête
-Matériaux: 2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimèrique de force I, 1 Pépite d'or rose
+Matériaux: 2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimérique de force I, 1 Pépite d'or rose
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3407
@@ -18710,7 +19034,7 @@ Nom: Casque d'abatteur en mithril noble
 Classe: Armurier
 Niveau: 78
 Catégorie: Tête
-Matériaux: 1 Eau chimèrique de force I, 2 Lingot de mithril noble, 2 Plume de tetrax, 1 Étoffe de coton nain
+Matériaux: 1 Eau chimérique de force I, 2 Lingot de mithril noble, 2 Plume de tetrax, 1 Étoffe de coton nain
 Cristaux: 7 Cristal de glace, 7 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3645
@@ -18734,7 +19058,7 @@ Nom: Casque d'agresseur en mithril noble
 Classe: Armurier
 Niveau: 78
 Catégorie: Tête
-Matériaux: 1 Eau chimèrique de force I, 2 Lingot de mithril noble, 2 Plume de tetrax, 1 Étoffe de coton nain
+Matériaux: 1 Eau chimérique de force I, 2 Lingot de mithril noble, 2 Plume de tetrax, 1 Étoffe de coton nain
 Cristaux: 7 Cristal de glace, 7 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3645
@@ -18806,7 +19130,7 @@ Nom: Casque de protecteur en azuresprit
 Classe: Armurier
 Niveau: 74
 Catégorie: Tête
-Matériaux: 2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimèrique de vitalité I, 1 Pépite d'or rose
+Matériaux: 2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimérique de vitalité I, 1 Pépite d'or rose
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3407
@@ -18830,7 +19154,7 @@ Nom: Casque de protecteur en mithril noble
 Classe: Armurier
 Niveau: 78
 Catégorie: Tête
-Matériaux: 1 Eau chimèrique de vitalité I, 2 Lingot de mithril noble, 2 Plume de tetrax, 1 Étoffe de coton nain
+Matériaux: 1 Eau chimérique de vitalité I, 2 Lingot de mithril noble, 2 Plume de tetrax, 1 Étoffe de coton nain
 Cristaux: 7 Cristal de glace, 7 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3645
@@ -18992,6 +19316,18 @@ Total fabriqué: 1
 Difficulté: 1436
 Solidité: 70
 Qualité maximum: 9430
+Degré: 3
+
+Nom: Catalyseur
+Classe: Menuisier
+Niveau: 80
+Catégorie: Arme à deux mains d'occultiste
+Matériaux: 1 Barre iridescente, 3 Eau chimérique d'intelligence II, 1 Lingot d'acier au tungstène, 2 Madrier de santal blanc, 1 Onyx
+Cristaux: 2 Agrégat de glace, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 3
 
 Nom: Caviar impérial
@@ -19786,6 +20122,18 @@ Solidité: 60
 Qualité maximum: 665
 Degré: 3
 
+Nom: Ceinture de plaques d'abatteur de la halle
+Classe: Armurier
+Niveau: 80
+Catégorie: Ceinture
+Matériaux: 1 Barre iridescente, 1 Eau chimérique de force II, 1 Lingot d'acier au tungstène, 1 Pépite d'or incarnat
+Cristaux: 2 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Ceinture de plaques d'abatteur en acier noble
 Classe: Armurier
 Niveau: 62
@@ -19814,7 +20162,7 @@ Nom: Ceinture de plaques d'abatteur en azuresprit
 Classe: Armurier
 Niveau: 74
 Catégorie: Ceinture
-Matériaux: 2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimèrique de force I
+Matériaux: 2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimérique de force I
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3407
@@ -19826,7 +20174,7 @@ Nom: Ceinture de plaques d'abatteur en mithril noble
 Classe: Armurier
 Niveau: 78
 Catégorie: Ceinture
-Matériaux: 1 Eau chimèrique de force I, 2 Lingot de mithril noble, 1 Pépite de mithril noble
+Matériaux: 1 Eau chimérique de force I, 2 Lingot de mithril noble, 1 Pépite de mithril noble
 Cristaux: 7 Cristal de glace, 7 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3645
@@ -19870,11 +20218,23 @@ Solidité: 80
 Qualité maximum: 5783
 Degré: 2
 
+Nom: Ceinture de plaques d'agresseur de la halle
+Classe: Armurier
+Niveau: 80
+Catégorie: Ceinture
+Matériaux: 1 Barre iridescente, 1 Eau chimérique de force II, 1 Lingot d'acier au tungstène, 1 Pépite d'or incarnat
+Cristaux: 2 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Ceinture de plaques d'agresseur en azuresprit
 Classe: Armurier
 Niveau: 74
 Catégorie: Ceinture
-Matériaux: 2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimèrique de force I
+Matériaux: 2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimérique de force I
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3407
@@ -19886,7 +20246,7 @@ Nom: Ceinture de plaques d'agresseur en mithril noble
 Classe: Armurier
 Niveau: 79
 Catégorie: Ceinture
-Matériaux: 1 Eau chimèrique de force I, 2 Lingot de mithril noble, 1 Pépite de mithril noble
+Matériaux: 1 Eau chimérique de force I, 2 Lingot de mithril noble, 1 Pépite de mithril noble
 Cristaux: 7 Cristal de glace, 7 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3705
@@ -19906,11 +20266,23 @@ Solidité: 80
 Qualité maximum: 14071
 Degré: 3
 
+Nom: Ceinture de plaques d'incantateur de la halle
+Classe: Armurier
+Niveau: 80
+Catégorie: Ceinture
+Matériaux: 1 Barre iridescente, 1 Eau chimérique d'intelligence II, 1 Lingot d'acier au tungstène, 1 Pépite d'or incarnat
+Cristaux: 2 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Ceinture de plaques d'incantateur en azuresprit
 Classe: Armurier
 Niveau: 74
 Catégorie: Ceinture
-Matériaux: 2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimèrique d'intelligence I
+Matériaux: 2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimérique d'intelligence I
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3407
@@ -19922,7 +20294,7 @@ Nom: Ceinture de plaques d'incantateur en mithril noble
 Classe: Armurier
 Niveau: 79
 Catégorie: Ceinture
-Matériaux: 1 Eau chimèrique d'intelligence I, 2 Lingot de mithril noble, 1 Pépite de mithril noble
+Matériaux: 1 Eau chimérique d'intelligence I, 2 Lingot de mithril noble, 1 Pépite de mithril noble
 Cristaux: 7 Cristal de glace, 7 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3705
@@ -19942,11 +20314,23 @@ Solidité: 80
 Qualité maximum: 14071
 Degré: 3
 
+Nom: Ceinture de plaques d'éclaireur de la halle
+Classe: Armurier
+Niveau: 80
+Catégorie: Ceinture
+Matériaux: 1 Barre iridescente, 1 Eau chimérique de dextérité II, 1 Lingot d'acier au tungstène, 1 Pépite d'or incarnat
+Cristaux: 2 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Ceinture de plaques d'éclaireur en azuresprit
 Classe: Armurier
 Niveau: 74
 Catégorie: Ceinture
-Matériaux: 2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimèrique de dextérité I
+Matériaux: 2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimérique de dextérité I
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3407
@@ -19958,7 +20342,7 @@ Nom: Ceinture de plaques d'éclaireur en mithril noble
 Classe: Armurier
 Niveau: 79
 Catégorie: Ceinture
-Matériaux: 1 Eau chimèrique de dextérité I, 2 Lingot de mithril noble, 1 Pépite de mithril noble
+Matériaux: 1 Eau chimérique de dextérité I, 2 Lingot de mithril noble, 1 Pépite de mithril noble
 Cristaux: 7 Cristal de glace, 7 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3705
@@ -19990,11 +20374,23 @@ Solidité: 80
 Qualité maximum: 2646
 Degré: 3
 
+Nom: Ceinture de plaques de pisteur de la halle
+Classe: Armurier
+Niveau: 80
+Catégorie: Ceinture
+Matériaux: 1 Barre iridescente, 1 Eau chimérique de dextérité II, 1 Lingot d'acier au tungstène, 1 Pépite d'or incarnat
+Cristaux: 2 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Ceinture de plaques de pisteur en azuresprit
 Classe: Armurier
 Niveau: 74
 Catégorie: Ceinture
-Matériaux: 2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimèrique de dextérité I
+Matériaux: 2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimérique de dextérité I
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3407
@@ -20006,7 +20402,7 @@ Nom: Ceinture de plaques de pisteur en mithril noble
 Classe: Armurier
 Niveau: 79
 Catégorie: Ceinture
-Matériaux: 1 Eau chimèrique de dextérité I, 2 Lingot de mithril noble, 1 Pépite de mithril noble
+Matériaux: 1 Eau chimérique de dextérité I, 2 Lingot de mithril noble, 1 Pépite de mithril noble
 Cristaux: 7 Cristal de glace, 7 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3705
@@ -20025,6 +20421,18 @@ Difficulté: 3149
 Solidité: 80
 Qualité maximum: 14071
 Degré: 3
+
+Nom: Ceinture de plaques de protecteur de la halle
+Classe: Armurier
+Niveau: 80
+Catégorie: Ceinture
+Matériaux: 1 Barre iridescente, 1 Eau chimérique de vitalité II, 1 Lingot d'acier au tungstène, 1 Pépite d'or incarnat
+Cristaux: 2 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
 
 Nom: Ceinture de plaques de protecteur en acier noble
 Classe: Armurier
@@ -20066,7 +20474,7 @@ Nom: Ceinture de plaques de protecteur en azuresprit
 Classe: Armurier
 Niveau: 74
 Catégorie: Ceinture
-Matériaux: 2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimèrique de vitalité I
+Matériaux: 2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimérique de vitalité I
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3407
@@ -20078,7 +20486,7 @@ Nom: Ceinture de plaques de protecteur en mithril noble
 Classe: Armurier
 Niveau: 78
 Catégorie: Ceinture
-Matériaux: 1 Eau chimèrique de vitalité I, 2 Lingot de mithril noble, 1 Pépite de mithril noble
+Matériaux: 1 Eau chimérique de vitalité I, 2 Lingot de mithril noble, 1 Pépite de mithril noble
 Cristaux: 7 Cristal de glace, 7 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3645
@@ -20122,11 +20530,23 @@ Solidité: 80
 Qualité maximum: 5783
 Degré: 2
 
+Nom: Ceinture de plaques de soigneur de la halle
+Classe: Armurier
+Niveau: 80
+Catégorie: Ceinture
+Matériaux: 1 Barre iridescente, 1 Eau chimérique d'esprit II, 1 Lingot d'acier au tungstène, 1 Pépite d'or incarnat
+Cristaux: 2 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Ceinture de plaques de soigneur en azuresprit
 Classe: Armurier
 Niveau: 74
 Catégorie: Ceinture
-Matériaux: 2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimèrique d'esprit I
+Matériaux: 2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimérique d'esprit I
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3407
@@ -20138,7 +20558,7 @@ Nom: Ceinture de plaques de soigneur en mithril noble
 Classe: Armurier
 Niveau: 79
 Catégorie: Ceinture
-Matériaux: 1 Eau chimèrique d'esprit I, 2 Lingot de mithril noble, 1 Pépite de mithril noble
+Matériaux: 1 Eau chimérique d'esprit I, 2 Lingot de mithril noble, 1 Pépite de mithril noble
 Cristaux: 7 Cristal de glace, 7 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3705
@@ -21338,7 +21758,7 @@ Nom: Chapeau d'agresseur en coton pixie
 Classe: Couturier
 Niveau: 74
 Catégorie: Tête
-Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimèrique de force I, 1 Fil arc-en-ciel, 2 Plume de tetrax, 2 Étoffe de coton pixie
+Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimérique de force I, 1 Fil arc-en-ciel, 2 Plume de tetrax, 2 Étoffe de coton pixie
 Cristaux: 7 Cristal de foudre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3407
@@ -21380,6 +21800,18 @@ Total fabriqué: 1
 Difficulté: 3543
 Solidité: 70
 Qualité maximum: 15837
+Degré: 3
+
+Nom: Chapeau d'incantateur de la halle
+Classe: Couturier
+Niveau: 80
+Catégorie: Tête
+Matériaux: 1 Cuir de chalicotherium, 2 Eau chimérique d'intelligence II, 1 Étoffe de coton nain, 2 Étoffe mousseuse
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 3
 
 Nom: Chapeau d'incantateur de pirate des cieux
@@ -21934,6 +22366,18 @@ Solidité: 80
 Qualité maximum: 2646
 Degré: 3
 
+Nom: Chapeau de soigneur de la halle
+Classe: Couturier
+Niveau: 80
+Catégorie: Tête
+Matériaux: 1 Cuir de chalicotherium, 2 Eau chimérique d'esprit II, 1 Étoffe de coton nain, 2 Étoffe mousseuse
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Chapeau de soigneur de pirate des cieux
 Classe: Orfèvre
 Niveau: 60
@@ -22442,7 +22886,7 @@ Nom: Chaussures d'abatteur en mithril noble
 Classe: Armurier
 Niveau: 78
 Catégorie: Pieds
-Matériaux: 1 Caoutchouc, 1 Cuir de glaucus, 1 Eau chimèrique de force I, 1 Fil de lin blanc, 2 Lingot de mithril noble
+Matériaux: 1 Caoutchouc, 1 Cuir de glaucus, 1 Eau chimérique de force I, 1 Fil de lin blanc, 2 Lingot de mithril noble
 Cristaux: 7 Cristal de glace, 7 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3645
@@ -22454,7 +22898,7 @@ Nom: Chaussures d'agresseur en cuir de glaucus
 Classe: Tanneur
 Niveau: 78
 Catégorie: Pieds
-Matériaux: 1 Caoutchouc, 2 Cuir de glaucus, 1 Eau chimèrique de force I, 1 Fil de lin blanc, 1 Étoffe de coton nain
+Matériaux: 1 Caoutchouc, 2 Cuir de glaucus, 1 Eau chimérique de force I, 1 Fil de lin blanc, 1 Étoffe de coton nain
 Cristaux: 7 Cristal de terre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -22586,7 +23030,7 @@ Nom: Chaussures d'incantateur en cuir de glaucus
 Classe: Tanneur
 Niveau: 79
 Catégorie: Pieds
-Matériaux: 1 Caoutchouc, 2 Cuir de glaucus, 1 Eau chimèrique d'intelligence I, 1 Fil de lin blanc, 1 Pépite de mithril noble
+Matériaux: 1 Caoutchouc, 2 Cuir de glaucus, 1 Eau chimérique d'intelligence I, 1 Fil de lin blanc, 1 Pépite de mithril noble
 Cristaux: 7 Cristal de terre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3705
@@ -22598,7 +23042,7 @@ Nom: Chaussures d'éclaireur en mithril noble
 Classe: Armurier
 Niveau: 78
 Catégorie: Pieds
-Matériaux: 1 Caoutchouc, 1 Cuir de glaucus, 1 Eau chimèrique de dextérité I, 1 Fil de lin blanc, 2 Lingot de mithril noble
+Matériaux: 1 Caoutchouc, 1 Cuir de glaucus, 1 Eau chimérique de dextérité I, 1 Fil de lin blanc, 2 Lingot de mithril noble
 Cristaux: 7 Cristal de glace, 7 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3645
@@ -22634,7 +23078,7 @@ Nom: Chaussures de pisteur en mithril noble
 Classe: Armurier
 Niveau: 78
 Catégorie: Pieds
-Matériaux: 1 Caoutchouc, 1 Cuir de glaucus, 1 Eau chimèrique de dextérité I, 1 Fil de lin blanc, 2 Lingot de mithril noble
+Matériaux: 1 Caoutchouc, 1 Cuir de glaucus, 1 Eau chimérique de dextérité I, 1 Fil de lin blanc, 2 Lingot de mithril noble
 Cristaux: 7 Cristal de glace, 7 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3645
@@ -22646,7 +23090,7 @@ Nom: Chaussures de protecteur en mithril noble
 Classe: Armurier
 Niveau: 78
 Catégorie: Pieds
-Matériaux: 1 Caoutchouc, 1 Cuir de glaucus, 1 Eau chimèrique de vitalité I, 1 Fil de lin blanc, 2 Lingot de mithril noble
+Matériaux: 1 Caoutchouc, 1 Cuir de glaucus, 1 Eau chimérique de vitalité I, 1 Fil de lin blanc, 2 Lingot de mithril noble
 Cristaux: 7 Cristal de glace, 7 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3645
@@ -22682,7 +23126,7 @@ Nom: Chaussures de soigneur en cuir de glaucus
 Classe: Tanneur
 Niveau: 79
 Catégorie: Pieds
-Matériaux: 1 Caoutchouc, 2 Cuir de glaucus, 1 Eau chimèrique d'esprit I, 1 Fil de lin blanc, 1 Pépite de mithril noble
+Matériaux: 1 Caoutchouc, 2 Cuir de glaucus, 1 Eau chimérique d'esprit I, 1 Fil de lin blanc, 1 Pépite de mithril noble
 Cristaux: 7 Cristal de terre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3705
@@ -24878,7 +25322,7 @@ Nom: Collier d'attaquant en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 75
 Catégorie: Collier
-Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimèrique de force I, 1 Lazurite, 1 Pépite d'or rose
+Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimérique de force I, 1 Lazurite, 1 Pépite d'or rose
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -24962,7 +25406,7 @@ Nom: Collier d'incantateur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 75
 Catégorie: Collier
-Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimèrique d'intelligence I, 1 Lazurite, 1 Pépite d'or rose
+Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimérique d'intelligence I, 1 Lazurite, 1 Pépite d'or rose
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -25046,7 +25490,7 @@ Nom: Collier de pisteur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 75
 Catégorie: Collier
-Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimèrique de dextérité I, 1 Lazurite, 1 Pépite d'or rose
+Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimérique de dextérité I, 1 Lazurite, 1 Pépite d'or rose
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -25130,7 +25574,7 @@ Nom: Collier de protecteur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 75
 Catégorie: Collier
-Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimèrique de vitalité I, 1 Lazurite, 1 Pépite d'or rose
+Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimérique de vitalité I, 1 Lazurite, 1 Pépite d'or rose
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -25214,7 +25658,7 @@ Nom: Collier de soigneur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 75
 Catégorie: Collier
-Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimèrique d'esprit I, 1 Lazurite, 1 Pépite d'or rose
+Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimérique d'esprit I, 1 Lazurite, 1 Pépite d'or rose
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -27142,6 +27586,18 @@ Solidité: 70
 Qualité maximum: 16638
 Degré: 4
 
+Nom: Cotte de mailles d'abatteur de la halle
+Classe: Armurier
+Niveau: 80
+Catégorie: Torse
+Matériaux: 1 Barre iridescente, 2 Eau chimérique de force II, 3 Lingot d'acier au tungstène, 1 Étoffe de coton nain
+Cristaux: 2 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Cotte de mailles d'abatteur en acier noble
 Classe: Armurier
 Niveau: 63
@@ -27182,7 +27638,7 @@ Nom: Cotte de mailles d'abatteur en mithril noble
 Classe: Armurier
 Niveau: 78
 Catégorie: Torse
-Matériaux: 2 Crinière de halgai, 1 Cuir de glaucus, 2 Eau chimèrique de force I, 1 Fil de lin blanc, 2 Lingot de mithril noble, 1 Étoffe de coton nain
+Matériaux: 2 Crinière de halgai, 1 Cuir de glaucus, 2 Eau chimérique de force I, 1 Fil de lin blanc, 2 Lingot de mithril noble, 1 Étoffe de coton nain
 Cristaux: 7 Cristal de glace, 7 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3645
@@ -27206,7 +27662,7 @@ Nom: Cotte de mailles d'agresseur en mithril noble
 Classe: Armurier
 Niveau: 78
 Catégorie: Torse
-Matériaux: 2 Crinière de halgai, 1 Cuir de glaucus, 2 Eau chimèrique de force I, 1 Fil de lin blanc, 2 Lingot de mithril noble, 1 Étoffe de coton nain
+Matériaux: 2 Crinière de halgai, 1 Cuir de glaucus, 2 Eau chimérique de force I, 1 Fil de lin blanc, 2 Lingot de mithril noble, 1 Étoffe de coton nain
 Cristaux: 7 Cristal de glace, 7 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3645
@@ -27238,6 +27694,18 @@ Solidité: 70
 Qualité maximum: 6820
 Degré: 4
 
+Nom: Cotte de mailles de protecteur de la halle
+Classe: Armurier
+Niveau: 80
+Catégorie: Torse
+Matériaux: 1 Barre iridescente, 2 Eau chimérique de vitalité II, 2 Lingot d'acier au tungstène, 1 Pépite d'or incarnat, 1 Étoffe mousseuse
+Cristaux: 2 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Cotte de mailles de protecteur en acier noble
 Classe: Armurier
 Niveau: 63
@@ -27254,7 +27722,7 @@ Nom: Cotte de mailles de protecteur en mithril noble
 Classe: Armurier
 Niveau: 78
 Catégorie: Torse
-Matériaux: 2 Crinière de halgai, 1 Cuir de glaucus, 2 Eau chimèrique de vitalité I, 1 Fil de lin blanc, 2 Lingot de mithril noble, 1 Étoffe de coton nain
+Matériaux: 2 Crinière de halgai, 1 Cuir de glaucus, 2 Eau chimérique de vitalité I, 1 Fil de lin blanc, 2 Lingot de mithril noble, 1 Étoffe de coton nain
 Cristaux: 7 Cristal de glace, 7 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3645
@@ -28750,6 +29218,18 @@ Solidité: 40
 Qualité maximum: 898
 Degré: 1
 
+Nom: Cuir de chalicotherium
+Classe: Tanneur
+Niveau: 80
+Catégorie: Cuir
+Matériaux: 2 Alun de la halle, 4 Peau de chalicotherium
+Cristaux: 2 Agrégat de terre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 4777
+Solidité: 35
+Qualité maximum: 32753
+Degré: 1
+
 Nom: Cuir de crapaud
 Classe: Tanneur
 Niveau: 26
@@ -29078,7 +29558,7 @@ Nom: Cuirasse d'abatteur en azuresprit
 Classe: Armurier
 Niveau: 75
 Catégorie: Torse
-Matériaux: 3 Barre d'azuresprit, 1 Cuir d'atrociraptor, 2 Eau chimèrique de force I, 2 Pépite d'or rose
+Matériaux: 3 Barre d'azuresprit, 1 Cuir d'atrociraptor, 2 Eau chimérique de force I, 2 Pépite d'or rose
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3467
@@ -29138,7 +29618,7 @@ Nom: Cuirasse de protecteur en azuresprit
 Classe: Armurier
 Niveau: 75
 Catégorie: Torse
-Matériaux: 3 Barre d'azuresprit, 1 Cuir d'atrociraptor, 2 Eau chimèrique de vitalité I, 2 Pépite d'or rose
+Matériaux: 3 Barre d'azuresprit, 1 Cuir d'atrociraptor, 2 Eau chimérique de vitalité I, 2 Pépite d'or rose
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3467
@@ -29342,7 +29822,7 @@ Nom: Cuissardes d'agresseur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 74
 Catégorie: Pieds
-Matériaux: 1 Caoutchouc, 2 Cuir d'atrociraptor, 1 Eau chimèrique de force I, 1 Fil arc-en-ciel, 1 Étoffe de coton pixie
+Matériaux: 1 Caoutchouc, 2 Cuir d'atrociraptor, 1 Eau chimérique de force I, 1 Fil arc-en-ciel, 1 Étoffe de coton pixie
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3407
@@ -29445,6 +29925,18 @@ Difficulté: 75
 Solidité: 70
 Qualité maximum: 1090
 Degré: 3
+
+Nom: Cuissardes d'éclaireur de la halle
+Classe: Tanneur
+Niveau: 80
+Catégorie: Pieds
+Matériaux: 2 Cuir de chalicotherium, 2 Eau chimérique de dextérité II, 1 Madrier de santal blanc, 1 Pépite d'or incarnat
+Cristaux: 2 Agrégat de terre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
 
 Nom: Cuissardes d'éclaireur en cuir d'amphiptère
 Classe: Tanneur
@@ -29918,7 +30410,7 @@ Nom: Culotte d'agresseur en coton pixie
 Classe: Couturier
 Niveau: 75
 Catégorie: Jambes
-Matériaux: 1 Cuir d'atrociraptor, 2 Eau chimèrique de force I, 1 Fil arc-en-ciel, 1 Pépite d'or rose, 3 Étoffe de coton pixie
+Matériaux: 1 Cuir d'atrociraptor, 2 Eau chimérique de force I, 1 Fil arc-en-ciel, 1 Pépite d'or rose, 3 Étoffe de coton pixie
 Cristaux: 7 Cristal de foudre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -30093,6 +30585,18 @@ Difficulté: 641
 Solidité: 80
 Qualité maximum: 6042
 Degré: 4
+
+Nom: Cyclas d'agresseur de la halle
+Classe: Tanneur
+Niveau: 80
+Catégorie: Torse
+Matériaux: 2 Cuir de chalicotherium, 2 Eau chimérique de force II, 1 Étoffe de coton nain, 2 Étoffe mousseuse
+Cristaux: 2 Agrégat de terre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
 
 Nom: Cyclas d'agresseur en feutre chimérique
 Classe: Couturier
@@ -30742,6 +31246,18 @@ Solidité: 80
 Qualité maximum: 5219
 Degré: 2
 
+Nom: Diadème d'abatteur de la halle
+Classe: Armurier
+Niveau: 80
+Catégorie: Tête
+Matériaux: 1 Cuir de chalicotherium, 2 Eau chimérique de force II, 2 Lingot d'acier au tungstène, 1 Pépite d'or incarnat
+Cristaux: 2 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Diadème d'abatteur en or pétré
 Classe: Orfèvre
 Niveau: 71
@@ -30764,6 +31280,18 @@ Total fabriqué: 1
 Difficulté: 3543
 Solidité: 70
 Qualité maximum: 15837
+Degré: 3
+
+Nom: Diadème d'agresseur de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Tête
+Matériaux: 2 Barre iridescente, 1 Cuir de chalicotherium, 2 Eau chimérique de force II, 1 Étoffe de coton nain
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 3
 
 Nom: Diadème d'agresseur en mithrite
@@ -30848,6 +31376,18 @@ Total fabriqué: 1
 Difficulté: 1968
 Solidité: 70
 Qualité maximum: 13187
+Degré: 3
+
+Nom: Diadème de protecteur de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Tête
+Matériaux: 2 Barre iridescente, 2 Eau chimérique de vitalité II, 1 Lingot d'acier au tungstène, 1 Onyx, 1 Pépite d'or incarnat
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 3
 
 Nom: Diadème de protecteur en adamantium
@@ -31534,6 +32074,30 @@ Solidité: 80
 Qualité maximum: 2524
 Degré: 3
 
+Nom: Dolman d'éclaireur de la halle
+Classe: Couturier
+Niveau: 80
+Catégorie: Torse
+Matériaux: 1 Barre iridescente, 1 Cuir de chalicotherium, 2 Eau chimérique de dextérité II, 1 Pépite d'or pétré, 2 Étoffe mousseuse
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
+Nom: Dominus
+Classe: Armurier
+Niveau: 80
+Catégorie: Bouclier
+Matériaux: 1 Eau chimérique de vitalité II, 2 Lingot d'acier au tungstène, 1 Pépite d'or pétré
+Cristaux: 2 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Dos-nu
 Classe: Couturier
 Niveau: 3
@@ -31562,7 +32126,7 @@ Nom: Doublet armant d'agresseur en coton pixie
 Classe: Couturier
 Niveau: 75
 Catégorie: Torse
-Matériaux: 1 Cuir d'atrociraptor, 2 Eau chimèrique de force I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent, 2 Étoffe de coton pixie
+Matériaux: 1 Cuir d'atrociraptor, 2 Eau chimérique de force I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent, 2 Étoffe de coton pixie
 Cristaux: 7 Cristal de foudre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -32302,7 +32866,7 @@ Solidité: 70
 Qualité maximum: 19023
 Degré: 3
 
-Nom: Eau chimèrique d'esprit I
+Nom: Eau chimérique d'esprit I
 Classe: Alchimiste
 Niveau: 73
 Catégorie: Réactif
@@ -32314,7 +32878,19 @@ Solidité: 40
 Qualité maximum: 15625
 Degré: 1
 
-Nom: Eau chimèrique d'intelligence I
+Nom: Eau chimérique d'esprit II
+Classe: Alchimiste
+Niveau: 80
+Catégorie: Réactif
+Matériaux: 1 Lys tigrés, 2 Potion alchimique de la halle, 3 Sable éthéréen arborescent
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
+Total fabriqué: 3
+Difficulté: 4777
+Solidité: 35
+Qualité maximum: 32753
+Degré: 1
+
+Nom: Eau chimérique d'intelligence I
 Classe: Alchimiste
 Niveau: 73
 Catégorie: Réactif
@@ -32326,7 +32902,19 @@ Solidité: 40
 Qualité maximum: 15625
 Degré: 1
 
-Nom: Eau chimèrique de dextérité I
+Nom: Eau chimérique d'intelligence II
+Classe: Alchimiste
+Niveau: 80
+Catégorie: Réactif
+Matériaux: 1 Lavande pinnata, 2 Potion alchimique de la halle, 3 Sable éthéréen arborescent
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
+Total fabriqué: 3
+Difficulté: 4777
+Solidité: 35
+Qualité maximum: 32753
+Degré: 1
+
+Nom: Eau chimérique de dextérité I
 Classe: Alchimiste
 Niveau: 73
 Catégorie: Réactif
@@ -32338,7 +32926,19 @@ Solidité: 40
 Qualité maximum: 15625
 Degré: 1
 
-Nom: Eau chimèrique de force I
+Nom: Eau chimérique de dextérité II
+Classe: Alchimiste
+Niveau: 80
+Catégorie: Réactif
+Matériaux: 1 Gerberas lumineuses, 2 Potion alchimique de la halle, 3 Sable éthéréen fluide
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
+Total fabriqué: 3
+Difficulté: 4777
+Solidité: 35
+Qualité maximum: 32753
+Degré: 1
+
+Nom: Eau chimérique de force I
 Classe: Alchimiste
 Niveau: 73
 Catégorie: Réactif
@@ -32350,7 +32950,19 @@ Solidité: 40
 Qualité maximum: 15625
 Degré: 1
 
-Nom: Eau chimèrique de vitalité I
+Nom: Eau chimérique de force II
+Classe: Alchimiste
+Niveau: 80
+Catégorie: Réactif
+Matériaux: 1 Alysson doux, 2 Potion alchimique de la halle, 3 Sable éthéréen alpestre
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
+Total fabriqué: 3
+Difficulté: 4777
+Solidité: 35
+Qualité maximum: 32753
+Degré: 1
+
+Nom: Eau chimérique de vitalité I
 Classe: Alchimiste
 Niveau: 73
 Catégorie: Réactif
@@ -32360,6 +32972,18 @@ Total fabriqué: 3
 Difficulté: 1674
 Solidité: 40
 Qualité maximum: 15625
+Degré: 1
+
+Nom: Eau chimérique de vitalité II
+Classe: Alchimiste
+Niveau: 80
+Catégorie: Réactif
+Matériaux: 1 Basilic citron, 2 Potion alchimique de la halle, 3 Sable éthéréen alpestre
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
+Total fabriqué: 3
+Difficulté: 4777
+Solidité: 35
+Qualité maximum: 32753
 Degré: 1
 
 Nom: Eau distillée
@@ -35842,6 +36466,18 @@ Solidité: 70
 Qualité maximum: 7339
 Degré: 2
 
+Nom: Fuseau de mailles de protecteur de la halle
+Classe: Tanneur
+Niveau: 80
+Catégorie: Jambes
+Matériaux: 2 Cuir de chalicotherium, 2 Eau chimérique de vitalité II, 1 Lingot d'acier au tungstène, 1 Étoffe mousseuse
+Cristaux: 2 Agrégat de terre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Fuseau de mailles de protecteur en adamantium
 Classe: Armurier
 Niveau: 59
@@ -36010,6 +36646,18 @@ Solidité: 80
 Qualité maximum: 10439
 Degré: 3
 
+Nom: Galdrabók
+Classe: Alchimiste
+Niveau: 80
+Catégorie: Arme d'arcaniste
+Matériaux: 2 Cuir de chalicotherium, 3 Eau chimérique d'intelligence II, 1 Encre de mithril sombre enchantée, 2 Madrier de santal blanc
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Galette des rois
 Classe: Cuisinier
 Niveau: 48
@@ -36154,6 +36802,18 @@ Solidité: 60
 Qualité maximum: 751
 Degré: 3
 
+Nom: Gantelets d'abatteur de la halle
+Classe: Armurier
+Niveau: 80
+Catégorie: Mains
+Matériaux: 1 Barre iridescente, 2 Eau chimérique de force II, 2 Lingot d'acier au tungstène, 1 Étoffe de coton nain
+Cristaux: 2 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Gantelets d'abatteur de pirate des cieux
 Classe: Armurier
 Niveau: 60
@@ -36218,7 +36878,7 @@ Nom: Gantelets d'abatteur en azuresprit
 Classe: Armurier
 Niveau: 74
 Catégorie: Mains
-Matériaux: 2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimèrique de force I, 1 Pépite d'or rose
+Matériaux: 2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimérique de force I, 1 Pépite d'or rose
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3407
@@ -36334,6 +36994,18 @@ Solidité: 80
 Qualité maximum: 2646
 Degré: 3
 
+Nom: Gantelets de protecteur de la halle
+Classe: Armurier
+Niveau: 80
+Catégorie: Mains
+Matériaux: 1 Barre iridescente, 2 Eau chimérique de vitalité II, 2 Lingot d'acier au tungstène, 1 Étoffe de coton nain
+Cristaux: 2 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Gantelets de protecteur de pirate des cieux
 Classe: Armurier
 Niveau: 60
@@ -36398,7 +37070,7 @@ Nom: Gantelets de protecteur en azuresprit
 Classe: Armurier
 Niveau: 74
 Catégorie: Mains
-Matériaux: 2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimèrique de vitalité I, 1 Pépite d'or rose
+Matériaux: 2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimérique de vitalité I, 1 Pépite d'or rose
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3407
@@ -36830,7 +37502,7 @@ Nom: Gants d'abatteur en cuir de glaucus
 Classe: Tanneur
 Niveau: 78
 Catégorie: Mains
-Matériaux: 2 Cuir de glaucus, 1 Eau chimèrique de force I, 1 Fil de lin blanc, 1 Étoffe de coton nain
+Matériaux: 2 Cuir de glaucus, 1 Eau chimérique de force I, 1 Fil de lin blanc, 1 Étoffe de coton nain
 Cristaux: 7 Cristal de terre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -36860,6 +37532,18 @@ Total fabriqué: 1
 Difficulté: 503
 Solidité: 80
 Qualité maximum: 5172
+Degré: 3
+
+Nom: Gants d'agresseur de la halle
+Classe: Tanneur
+Niveau: 80
+Catégorie: Mains
+Matériaux: 2 Cuir de chalicotherium, 2 Eau chimérique de force II, 1 Lingot d'acier au tungstène, 1 Étoffe de coton nain
+Cristaux: 2 Agrégat de terre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 3
 
 Nom: Gants d'agresseur de pirate des cieux
@@ -36902,7 +37586,7 @@ Nom: Gants d'agresseur en cuir de glaucus
 Classe: Tanneur
 Niveau: 78
 Catégorie: Mains
-Matériaux: 2 Cuir de glaucus, 1 Eau chimèrique de force I, 1 Fil de lin blanc, 1 Étoffe de coton nain
+Matériaux: 2 Cuir de glaucus, 1 Eau chimérique de force I, 1 Fil de lin blanc, 1 Étoffe de coton nain
 Cristaux: 7 Cristal de terre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -37004,6 +37688,18 @@ Total fabriqué: 1
 Difficulté: 195
 Solidité: 80
 Qualité maximum: 2646
+Degré: 3
+
+Nom: Gants d'apparat de soigneur de la halle
+Classe: Couturier
+Niveau: 80
+Catégorie: Mains
+Matériaux: 1 Barre iridescente, 2 Eau chimérique d'esprit II, 1 Triphylite, 2 Étoffe mousseuse
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 3
 
 Nom: Gants d'apparat en coton
@@ -37226,7 +37922,7 @@ Nom: Gants d'incantateur en cuir de glaucus
 Classe: Tanneur
 Niveau: 79
 Catégorie: Mains
-Matériaux: 2 Cuir de glaucus, 1 Eau chimèrique d'intelligence I, 1 Pépite d'or pétré, 1 Pépite de mithril noble
+Matériaux: 2 Cuir de glaucus, 1 Eau chimérique d'intelligence I, 1 Pépite d'or pétré, 1 Pépite de mithril noble
 Cristaux: 7 Cristal de terre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3705
@@ -37330,6 +38026,18 @@ Solidité: 80
 Qualité maximum: 2646
 Degré: 2
 
+Nom: Gants d'éclaireur de la halle
+Classe: Tanneur
+Niveau: 80
+Catégorie: Mains
+Matériaux: 2 Cuir de chalicotherium, 2 Eau chimérique de dextérité II, 1 Lingot d'acier au tungstène, 1 Étoffe de coton nain
+Cristaux: 2 Agrégat de terre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Gants d'éclaireur de pirate des cieux
 Classe: Tanneur
 Niveau: 60
@@ -37358,7 +38066,7 @@ Nom: Gants d'éclaireur en cuir de glaucus
 Classe: Tanneur
 Niveau: 78
 Catégorie: Mains
-Matériaux: 2 Cuir de glaucus, 1 Eau chimèrique de dextérité I, 1 Pépite d'or pétré, 1 Pépite de mithril noble
+Matériaux: 2 Cuir de glaucus, 1 Eau chimérique de dextérité I, 1 Pépite d'or pétré, 1 Pépite de mithril noble
 Cristaux: 7 Cristal de terre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -37586,7 +38294,7 @@ Nom: Gants de pisteur en cuir de glaucus
 Classe: Tanneur
 Niveau: 78
 Catégorie: Mains
-Matériaux: 2 Cuir de glaucus, 1 Eau chimèrique de dextérité I, 1 Pépite d'or pétré, 1 Pépite de mithril noble
+Matériaux: 2 Cuir de glaucus, 1 Eau chimérique de dextérité I, 1 Pépite d'or pétré, 1 Pépite de mithril noble
 Cristaux: 7 Cristal de terre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -37670,7 +38378,7 @@ Nom: Gants de protecteur en cuir de glaucus
 Classe: Tanneur
 Niveau: 78
 Catégorie: Mains
-Matériaux: 2 Cuir de glaucus, 1 Eau chimèrique de vitalité I, 1 Fil de lin blanc, 1 Étoffe de coton nain
+Matériaux: 2 Cuir de glaucus, 1 Eau chimérique de vitalité I, 1 Fil de lin blanc, 1 Étoffe de coton nain
 Cristaux: 7 Cristal de terre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -37778,7 +38486,7 @@ Nom: Gants de soigneur en cuir de glaucus
 Classe: Tanneur
 Niveau: 79
 Catégorie: Mains
-Matériaux: 2 Cuir de glaucus, 1 Eau chimèrique d'esprit I, 1 Pépite d'or pétré, 1 Pépite de mithril noble
+Matériaux: 2 Cuir de glaucus, 1 Eau chimérique d'esprit I, 1 Pépite d'or pétré, 1 Pépite de mithril noble
 Cristaux: 7 Cristal de terre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3705
@@ -38318,7 +39026,7 @@ Nom: Gants longs d'agresseur en coton pixie
 Classe: Couturier
 Niveau: 74
 Catégorie: Mains
-Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimèrique de force I, 1 Fil arc-en-ciel, 1 Pépite d'or rose, 2 Étoffe de coton pixie
+Matériaux: 1 Cuir d'atrociraptor, 1 Eau chimérique de force I, 1 Fil arc-en-ciel, 1 Pépite d'or rose, 2 Étoffe de coton pixie
 Cristaux: 7 Cristal de foudre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3407
@@ -38414,7 +39122,7 @@ Nom: Gants sans doigts d'abatteur en cuir de zonure
 Classe: Tanneur
 Niveau: 77
 Catégorie: Mains
-Matériaux: 2 Cuir de zonure, 1 Eau chimèrique de force I, 1 Fil de ramie, 1 Étoffe de laine d'ovim
+Matériaux: 2 Cuir de zonure, 1 Eau chimérique de force I, 1 Fil de ramie, 1 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de terre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
@@ -38438,7 +39146,7 @@ Nom: Gants sans doigts d'agresseur en cuir de zonure
 Classe: Tanneur
 Niveau: 76
 Catégorie: Mains
-Matériaux: 2 Cuir de zonure, 1 Eau chimèrique de force I, 1 Fil de ramie, 1 Étoffe de laine d'ovim
+Matériaux: 2 Cuir de zonure, 1 Eau chimérique de force I, 1 Fil de ramie, 1 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -38474,7 +39182,7 @@ Nom: Gants sans doigts d'incantateur en cuir de zonure
 Classe: Tanneur
 Niveau: 76
 Catégorie: Mains
-Matériaux: 2 Cuir de zonure, 1 Eau chimèrique d'intelligence I, 1 Pépite de titane, 1 Étoffe de laine d'ovim
+Matériaux: 2 Cuir de zonure, 1 Eau chimérique d'intelligence I, 1 Pépite de titane, 1 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -38498,7 +39206,7 @@ Nom: Gants sans doigts d'éclaireur en cuir de zonure
 Classe: Tanneur
 Niveau: 76
 Catégorie: Mains
-Matériaux: 2 Cuir de zonure, 1 Eau chimèrique de dextérité I, 1 Pépite de titane, 1 Étoffe de laine d'ovim
+Matériaux: 2 Cuir de zonure, 1 Eau chimérique de dextérité I, 1 Pépite de titane, 1 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -38522,7 +39230,7 @@ Nom: Gants sans doigts de pisteur en cuir de zonure
 Classe: Tanneur
 Niveau: 76
 Catégorie: Mains
-Matériaux: 2 Cuir de zonure, 1 Eau chimèrique de dextérité I, 1 Fil de ramie, 1 Étoffe de laine d'ovim
+Matériaux: 2 Cuir de zonure, 1 Eau chimérique de dextérité I, 1 Fil de ramie, 1 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -38534,7 +39242,7 @@ Nom: Gants sans doigts de protecteur en cuir de zonure
 Classe: Tanneur
 Niveau: 77
 Catégorie: Mains
-Matériaux: 2 Cuir de zonure, 1 Eau chimèrique de vitalité I, 1 Fil de ramie, 1 Étoffe de laine d'ovim
+Matériaux: 2 Cuir de zonure, 1 Eau chimérique de vitalité I, 1 Fil de ramie, 1 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de terre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
@@ -38558,7 +39266,7 @@ Nom: Gants sans doigts de soigneur en cuir de zonure
 Classe: Tanneur
 Niveau: 76
 Catégorie: Mains
-Matériaux: 2 Cuir de zonure, 1 Eau chimèrique d'esprit I, 1 Fil de ramie, 1 Étoffe de laine d'ovim
+Matériaux: 2 Cuir de zonure, 1 Eau chimérique d'esprit I, 1 Fil de ramie, 1 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -38930,7 +39638,7 @@ Nom: Garde-bras d'éclaireur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 74
 Catégorie: Mains
-Matériaux: 2 Cuir d'atrociraptor, 1 Eau chimèrique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite de sombracier, 1 Étoffe de coton pixie
+Matériaux: 2 Cuir d'atrociraptor, 1 Eau chimérique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite de sombracier, 1 Étoffe de coton pixie
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3407
@@ -38990,7 +39698,7 @@ Nom: Garde-bras de pisteur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 74
 Catégorie: Mains
-Matériaux: 2 Cuir d'atrociraptor, 1 Eau chimèrique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite de sombracier, 1 Étoffe de coton pixie
+Matériaux: 2 Cuir d'atrociraptor, 1 Eau chimérique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite de sombracier, 1 Étoffe de coton pixie
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3407
@@ -39038,7 +39746,7 @@ Nom: Garde-bras de soigneur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 74
 Catégorie: Mains
-Matériaux: 2 Cuir d'atrociraptor, 1 Eau chimèrique d'esprit I, 1 Fil de coton pixie, 1 Pépite d'or rose, 1 Étoffe de soie iridescente
+Matériaux: 2 Cuir d'atrociraptor, 1 Eau chimérique d'esprit I, 1 Fil de coton pixie, 1 Pépite d'or rose, 1 Étoffe de soie iridescente
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3407
@@ -39285,6 +39993,18 @@ Difficulté: 3943
 Solidité: 80
 Qualité maximum: 20287
 Degré: 2
+
+Nom: Gendawa
+Classe: Menuisier
+Niveau: 80
+Catégorie: Arme d'archer
+Matériaux: 3 Eau chimérique de dextérité II, 1 Lingot d'acier au tungstène, 3 Madrier de santal blanc, 1 Onyx, 1 Pépite d'or pétré
+Cristaux: 2 Agrégat de glace, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
 
 Nom: Genouillères en sombracier
 Classe: Armurier
@@ -41174,7 +41894,7 @@ Nom: Grègues d'abatteur en coton nain
 Classe: Couturier
 Niveau: 78
 Catégorie: Jambes
-Matériaux: 1 Cuir de glaucus, 2 Eau chimèrique de force I, 1 Fil de lin blanc, 3 Étoffe de coton nain
+Matériaux: 1 Cuir de glaucus, 2 Eau chimérique de force I, 1 Fil de lin blanc, 3 Étoffe de coton nain
 Cristaux: 7 Cristal de foudre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -41182,11 +41902,23 @@ Solidité: 80
 Qualité maximum: 17956
 Degré: 3
 
+Nom: Grègues d'agresseur de la halle
+Classe: Couturier
+Niveau: 80
+Catégorie: Jambes
+Matériaux: 2 Cuir de chalicotherium, 2 Eau chimérique de force II, 1 Étoffe de coton nain, 2 Étoffe mousseuse
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Grègues d'agresseur en coton nain
 Classe: Couturier
 Niveau: 78
 Catégorie: Jambes
-Matériaux: 1 Cuir de glaucus, 2 Eau chimèrique de force I, 1 Fil de lin blanc, 3 Étoffe de coton nain
+Matériaux: 1 Cuir de glaucus, 2 Eau chimérique de force I, 1 Fil de lin blanc, 3 Étoffe de coton nain
 Cristaux: 7 Cristal de foudre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -41210,7 +41942,7 @@ Nom: Grègues d'incantateur en coton nain
 Classe: Couturier
 Niveau: 78
 Catégorie: Jambes
-Matériaux: 1 Cuir de glaucus, 2 Eau chimèrique d'intelligence I, 1 Fil de lin blanc, 3 Étoffe de coton nain
+Matériaux: 1 Cuir de glaucus, 2 Eau chimérique d'intelligence I, 1 Fil de lin blanc, 3 Étoffe de coton nain
 Cristaux: 7 Cristal de foudre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -41234,7 +41966,7 @@ Nom: Grègues d'éclaireur en coton nain
 Classe: Couturier
 Niveau: 79
 Catégorie: Jambes
-Matériaux: 1 Cuir de glaucus, 2 Eau chimèrique de dextérité I, 1 Fil de lin blanc, 3 Étoffe de coton nain
+Matériaux: 1 Cuir de glaucus, 2 Eau chimérique de dextérité I, 1 Fil de lin blanc, 3 Étoffe de coton nain
 Cristaux: 7 Cristal de foudre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3705
@@ -41270,7 +42002,7 @@ Nom: Grègues de pisteur en coton nain
 Classe: Couturier
 Niveau: 79
 Catégorie: Jambes
-Matériaux: 1 Cuir de glaucus, 2 Eau chimèrique de dextérité I, 1 Fil de lin blanc, 3 Étoffe de coton nain
+Matériaux: 1 Cuir de glaucus, 2 Eau chimérique de dextérité I, 1 Fil de lin blanc, 3 Étoffe de coton nain
 Cristaux: 7 Cristal de foudre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3705
@@ -41306,7 +42038,7 @@ Nom: Grègues de protecteur en coton nain
 Classe: Couturier
 Niveau: 78
 Catégorie: Jambes
-Matériaux: 1 Cuir de glaucus, 2 Eau chimèrique de vitalité I, 1 Fil de lin blanc, 3 Étoffe de coton nain
+Matériaux: 1 Cuir de glaucus, 2 Eau chimérique de vitalité I, 1 Fil de lin blanc, 3 Étoffe de coton nain
 Cristaux: 7 Cristal de foudre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -41330,7 +42062,7 @@ Nom: Grègues de soigneur en coton nain
 Classe: Couturier
 Niveau: 78
 Catégorie: Jambes
-Matériaux: 1 Cuir de glaucus, 2 Eau chimèrique d'esprit I, 1 Fil de lin blanc, 3 Étoffe de coton nain
+Matériaux: 1 Cuir de glaucus, 2 Eau chimérique d'esprit I, 1 Fil de lin blanc, 3 Étoffe de coton nain
 Cristaux: 7 Cristal de foudre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -41576,6 +42308,18 @@ Total fabriqué: 1
 Difficulté: 3149
 Solidité: 70
 Qualité maximum: 14071
+Degré: 2
+
+Nom: Gâteau au fromage à la fraise pixie
+Classe: Cuisinier
+Niveau: 80
+Catégorie: Plat ou boisson
+Matériaux: 2 Crème aigre, 2 Fraise pixie, 2 Gélatine, 1 Lait de yak, 2 Petit citron, 1 Sucre de betterave potagère
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de feu
+Total fabriqué: 3
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 2
 
 Nom: Gâteau au fromage à la rolanbaie
@@ -43994,7 +44738,7 @@ Nom: Jambards d'incantateur en azuresprit
 Classe: Armurier
 Niveau: 74
 Catégorie: Pieds
-Matériaux: 2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimèrique d'intelligence I, 1 Pépite d'or rose
+Matériaux: 2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimérique d'intelligence I, 1 Pépite d'or rose
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3407
@@ -44294,7 +45038,7 @@ Nom: Jaque d'éclaireur en cuir de glaucus
 Classe: Tanneur
 Niveau: 78
 Catégorie: Torse
-Matériaux: 1 Crinière de halgai, 2 Cuir de glaucus, 2 Eau chimèrique de dextérité I, 1 Fil de lin blanc, 1 Pétalite, 1 Étoffe de coton nain
+Matériaux: 1 Crinière de halgai, 2 Cuir de glaucus, 2 Eau chimérique de dextérité I, 1 Fil de lin blanc, 1 Pétalite, 1 Étoffe de coton nain
 Cristaux: 7 Cristal de terre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -44306,7 +45050,7 @@ Nom: Jaque d'éclaireur en laine d'ovim
 Classe: Couturier
 Niveau: 76
 Catégorie: Torse
-Matériaux: 2 Cuir de zonure, 2 Eau chimèrique de dextérité I, 1 Fil de ramie, 2 Étoffe de laine d'ovim
+Matériaux: 2 Cuir de zonure, 2 Eau chimérique de dextérité I, 1 Fil de ramie, 2 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de foudre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -44582,7 +45326,7 @@ Nom: Jaseran d'éclaireur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 75
 Catégorie: Torse
-Matériaux: 1 Barre d'azuresprit, 3 Cuir d'atrociraptor, 2 Eau chimèrique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent
+Matériaux: 1 Barre d'azuresprit, 3 Cuir d'atrociraptor, 2 Eau chimérique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -44606,7 +45350,7 @@ Nom: Jaseran de pisteur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 75
 Catégorie: Torse
-Matériaux: 1 Barre d'azuresprit, 2 Cuir d'atrociraptor, 2 Eau chimèrique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent
+Matériaux: 1 Barre d'azuresprit, 2 Cuir d'atrociraptor, 2 Eau chimérique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -44858,7 +45602,7 @@ Nom: Jupe d'agresseur en laine d'ovim
 Classe: Couturier
 Niveau: 77
 Catégorie: Jambes
-Matériaux: 1 Cuir de zonure, 2 Eau chimèrique de force I, 1 Fil de ramie, 3 Étoffe de laine d'ovim
+Matériaux: 1 Cuir de zonure, 2 Eau chimérique de force I, 1 Fil de ramie, 3 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de foudre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
@@ -44942,7 +45686,7 @@ Nom: Jupe de soigneur en laine d'ovim
 Classe: Couturier
 Niveau: 76
 Catégorie: Jambes
-Matériaux: 1 Cuir de zonure, 2 Eau chimèrique d'esprit I, 2 Pépite de durargent, 3 Étoffe de laine d'ovim
+Matériaux: 1 Cuir de zonure, 2 Eau chimérique d'esprit I, 2 Pépite de durargent, 3 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de foudre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -46258,6 +47002,18 @@ Solidité: 80
 Qualité maximum: 12500
 Degré: 1
 
+Nom: Langue rafale
+Classe: Forgeron
+Niveau: 80
+Catégorie: Arme de chevalier noir
+Matériaux: 1 Barre iridescente, 3 Eau chimérique de vitalité II, 3 Lingot d'acier au tungstène, 1 Onyx, 1 Pépite d'or pétré
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Langueflamme en mithrite
 Classe: Forgeron
 Niveau: 53
@@ -46642,6 +47398,18 @@ Solidité: 80
 Qualité maximum: 660
 Degré: 1
 
+Nom: Librevoie
+Classe: Menuisier
+Niveau: 80
+Catégorie: Arme à deux mains d'élémentaliste
+Matériaux: 2 Barre iridescente, 3 Eau chimérique d'esprit II, 2 Madrier de santal blanc, 1 Onyx, 1 Pépite d'or pétré
+Cristaux: 2 Agrégat de glace, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Lime
 Classe: Forgeron
 Niveau: 10
@@ -46940,6 +47708,18 @@ Total fabriqué: 1
 Difficulté: 45
 Solidité: 40
 Qualité maximum: 1332
+Degré: 1
+
+Nom: Lingot d'acier au tungstène
+Classe: Armurier
+Niveau: 80
+Catégorie: Métal
+Matériaux: 2 Abrasif de la halle, 4 Minerai de tungstène
+Cristaux: 2 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 4777
+Solidité: 35
+Qualité maximum: 32753
 Degré: 1
 
 Nom: Lingot d'acier chigusa
@@ -47480,6 +48260,18 @@ Total fabriqué: 1
 Difficulté: 3542
 Solidité: 80
 Qualité maximum: 5219
+Degré: 3
+
+Nom: Lit magique
+Classe: Menuisier
+Niveau: 80
+Catégorie: Autre
+Matériaux: 4 Jasmin céleste, 3 Madrier d'orme enchanté, 4 Étoffe de veloutine
+Cristaux: 30 Agrégat de glace, 30 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 7457
+Solidité: 70
+Qualité maximum: 10920
 Degré: 3
 
 Nom: Lit mog moelleux
@@ -48478,6 +49270,18 @@ Solidité: 40
 Qualité maximum: 14071
 Degré: 1
 
+Nom: Madrier de cryptoméria
+Classe: Menuisier
+Niveau: 70
+Catégorie: Bois
+Matériaux: 3 Rondin de cryptoméria, 9 Sève durcie
+Cristaux: 6 Cristal de glace, 6 Cristal de vent
+Total fabriqué: 1
+Difficulté: 3149
+Solidité: 70
+Qualité maximum: 14071
+Degré: 1
+
 Nom: Madrier de cèdre
 Classe: Menuisier
 Niveau: 51
@@ -48644,6 +49448,18 @@ Total fabriqué: 1
 Difficulté: 1624
 Solidité: 40
 Qualité maximum: 14848
+Degré: 1
+
+Nom: Madrier de santal blanc
+Classe: Menuisier
+Niveau: 80
+Catégorie: Bois
+Matériaux: 4 Rondin de santal blanc, 2 Vernis de la halle
+Cristaux: 2 Agrégat de glace, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 4777
+Solidité: 35
+Qualité maximum: 32753
 Degré: 1
 
 Nom: Madrier de saule noir
@@ -49274,7 +50090,7 @@ Nom: Manteau d'abatteur en cuir de zonure
 Classe: Tanneur
 Niveau: 77
 Catégorie: Torse
-Matériaux: 3 Cuir de zonure, 2 Eau chimèrique de force I, 1 Fil de ramie, 1 Pépite de titane, 1 Étoffe de laine d'ovim
+Matériaux: 3 Cuir de zonure, 2 Eau chimérique de force I, 1 Fil de ramie, 1 Pépite de titane, 1 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de terre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
@@ -49322,7 +50138,7 @@ Nom: Manteau d'agresseur en laine d'ovim
 Classe: Couturier
 Niveau: 77
 Catégorie: Torse
-Matériaux: 2 Eau chimèrique de force I, 1 Pépite de bronze titané, 1 Pépite de durargent, 1 Saphir étoilé, 3 Étoffe de laine d'ovim
+Matériaux: 2 Eau chimérique de force I, 1 Pépite de bronze titané, 1 Pépite de durargent, 1 Saphir étoilé, 3 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de foudre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
@@ -49378,6 +50194,18 @@ Solidité: 70
 Qualité maximum: 10373
 Degré: 2
 
+Nom: Manteau d'incantateur de la halle
+Classe: Couturier
+Niveau: 80
+Catégorie: Torse
+Matériaux: 1 Barre iridescente, 1 Cuir de chalicotherium, 2 Eau chimérique d'intelligence II, 1 Pépite d'or pétré, 2 Étoffe mousseuse
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Manteau d'incantateur de pirate des cieux
 Classe: Couturier
 Niveau: 60
@@ -49394,7 +50222,7 @@ Nom: Manteau d'incantateur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 75
 Catégorie: Torse
-Matériaux: 3 Cuir d'atrociraptor, 2 Eau chimèrique d'intelligence I, 1 Fil de coton pixie, 1 Pépite de sombracier, 1 Étoffe de coton pixie
+Matériaux: 3 Cuir d'atrociraptor, 2 Eau chimérique d'intelligence I, 1 Fil de coton pixie, 1 Pépite de sombracier, 1 Étoffe de coton pixie
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -49538,13 +50366,25 @@ Nom: Manteau de protecteur en cuir de zonure
 Classe: Tanneur
 Niveau: 77
 Catégorie: Torse
-Matériaux: 3 Cuir de zonure, 2 Eau chimèrique de vitalité I, 1 Fil de ramie, 1 Pépite de titane, 1 Étoffe de laine d'ovim
+Matériaux: 3 Cuir de zonure, 2 Eau chimérique de vitalité I, 1 Fil de ramie, 1 Pépite de titane, 1 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de terre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
 Solidité: 80
 Qualité maximum: 17490
 Degré: 4
+
+Nom: Manteau de soigneur de la halle
+Classe: Couturier
+Niveau: 80
+Catégorie: Torse
+Matériaux: 1 Cuir de chalicotherium, 1 Cuir de zonure, 2 Eau chimérique d'esprit II, 3 Étoffe mousseuse
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
 
 Nom: Manteau de soigneur de pirate des cieux
 Classe: Couturier
@@ -49574,7 +50414,7 @@ Nom: Manteau de soigneur en laine d'ovim
 Classe: Couturier
 Niveau: 77
 Catégorie: Torse
-Matériaux: 2 Eau chimèrique d'esprit I, 1 Pépite de bronze titané, 1 Pépite de durargent, 1 Rubis étoilé, 3 Étoffe de laine d'ovim
+Matériaux: 2 Eau chimérique d'esprit I, 1 Pépite de bronze titané, 1 Pépite de durargent, 1 Rubis étoilé, 3 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de foudre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
@@ -51754,6 +52594,18 @@ Solidité: 40
 Qualité maximum: 4980
 Degré: 1
 
+Nom: Merveilleuse
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Arme de mage rouge
+Matériaux: 3 Barre iridescente, 3 Eau chimérique d'intelligence II, 1 Lingot d'acier au tungstène, 1 Onyx, 1 Pépite d'or pétré
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Meubles de salon de thé oriental
 Classe: Menuisier
 Niveau: 70
@@ -52042,6 +52894,18 @@ Solidité: 70
 Qualité maximum: 7339
 Degré: 2
 
+Nom: Meurtrier
+Classe: Forgeron
+Niveau: 80
+Catégorie: Arme de machiniste
+Matériaux: 2 Barre iridescente, 3 Eau chimérique de dextérité II, 2 Lingot d'acier au tungstène, 1 Sable noir pourpré
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Mezzanine en bois
 Classe: Menuisier
 Niveau: 45
@@ -52234,6 +53098,18 @@ Solidité: 70
 Qualité maximum: 16638
 Degré: 3
 
+Nom: Mitaines d'incantateur de la halle
+Classe: Tanneur
+Niveau: 80
+Catégorie: Mains
+Matériaux: 2 Cuir de chalicotherium, 2 Eau chimérique d'intelligence II, 1 Lingot d'acier au tungstène, 1 Étoffe de coton nain
+Cristaux: 2 Agrégat de terre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Mitaines d'incantateur en ramie
 Classe: Couturier
 Niveau: 54
@@ -52281,6 +53157,18 @@ Difficulté: 586
 Solidité: 80
 Qualité maximum: 5783
 Degré: 3
+
+Nom: Mitaines de pisteur de la halle
+Classe: Couturier
+Niveau: 80
+Catégorie: Mains
+Matériaux: 1 Barre iridescente, 2 Eau chimérique de dextérité II, 1 Pépite d'or incarnat, 2 Étoffe mousseuse
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
 
 Nom: Mitaines de soigneur en ramie
 Classe: Couturier
@@ -54506,7 +55394,7 @@ Nom: Ouchanka d'agresseur en laine d'ovim
 Classe: Couturier
 Niveau: 77
 Catégorie: Tête
-Matériaux: 1 Cuir de zonure, 1 Eau chimèrique de force I, 1 Fil de ramie, 1 Poils de manzasiri, 2 Étoffe de laine d'ovim
+Matériaux: 1 Cuir de zonure, 1 Eau chimérique de force I, 1 Fil de ramie, 1 Poils de manzasiri, 2 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de foudre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
@@ -54518,13 +55406,25 @@ Nom: Ouchanka de pisteur en laine d'ovim
 Classe: Couturier
 Niveau: 76
 Catégorie: Tête
-Matériaux: 1 Cuir de zonure, 1 Eau chimèrique de dextérité I, 1 Fil de ramie, 1 Poils de manzasiri, 2 Étoffe de laine d'ovim
+Matériaux: 1 Cuir de zonure, 1 Eau chimérique de dextérité I, 1 Fil de ramie, 1 Poils de manzasiri, 2 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de foudre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
 Solidité: 80
 Qualité maximum: 17024
 Degré: 4
+
+Nom: Ouranaute
+Classe: Menuisier
+Niveau: 80
+Catégorie: Arme d'hast
+Matériaux: 3 Eau chimérique de force II, 2 Lingot d'acier au tungstène, 2 Madrier de santal blanc, 1 Onyx, 1 Pépite d'or pétré
+Cristaux: 2 Agrégat de glace, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
 
 Nom: Ours en peluche
 Classe: Couturier
@@ -55078,6 +55978,18 @@ Solidité: 70
 Qualité maximum: 21841
 Degré: 3
 
+Nom: Pantalon court en cuir verni
+Classe: Tanneur
+Niveau: 80
+Catégorie: Jambes
+Matériaux: 2 Cuir verni, 1 Fil de coton pixie, 1 Pépite d'or pétré, 1 Étoffe de coton pixie
+Cristaux: 7 Cristal de terre, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 4143
+Solidité: 70
+Qualité maximum: 21841
+Degré: 3
+
 Nom: Pantalon court en doublesoie
 Classe: Couturier
 Niveau: 70
@@ -55437,6 +56349,18 @@ Difficulté: 167
 Solidité: 80
 Qualité maximum: 2421
 Degré: 3
+
+Nom: Pantalon de soigneur de la halle
+Classe: Couturier
+Niveau: 80
+Catégorie: Jambes
+Matériaux: 2 Cuir de chalicotherium, 1 Cuir de zonure, 2 Eau chimérique d'esprit II, 2 Étoffe mousseuse
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
 
 Nom: Pantalon de tanneur
 Classe: Couturier
@@ -57190,6 +58114,18 @@ Solidité: 80
 Qualité maximum: 18422
 Degré: 1
 
+Nom: Philtre chimérique d'esprit II
+Classe: Alchimiste
+Niveau: 80
+Catégorie: Médicament
+Matériaux: 1 Lys tigrés, 1 Potion alchimique de la halle, 3 Sable éthéréen ténébreux
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
+Total fabriqué: 3
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 1
+
 Nom: Philtre chimérique d'intelligence
 Classe: Alchimiste
 Niveau: 80
@@ -57200,6 +58136,18 @@ Total fabriqué: 3
 Difficulté: 3943
 Solidité: 80
 Qualité maximum: 20287
+Degré: 1
+
+Nom: Philtre chimérique d'intelligence II
+Classe: Alchimiste
+Niveau: 80
+Catégorie: Médicament
+Matériaux: 1 Lavande pinnata, 1 Potion alchimique de la halle, 3 Sable éthéréen ténébreux
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
+Total fabriqué: 3
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 1
 
 Nom: Philtre chimérique de dextérité
@@ -57214,6 +58162,18 @@ Solidité: 80
 Qualité maximum: 20287
 Degré: 1
 
+Nom: Philtre chimérique de dextérité ll
+Classe: Alchimiste
+Niveau: 80
+Catégorie: Médicament
+Matériaux: 1 Gerberas lumineuses, 1 Potion alchimique de la halle, 3 Sable éthéréen ténébreux
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
+Total fabriqué: 3
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 1
+
 Nom: Philtre chimérique de force
 Classe: Alchimiste
 Niveau: 80
@@ -57226,6 +58186,18 @@ Solidité: 80
 Qualité maximum: 20287
 Degré: 1
 
+Nom: Philtre chimérique de force II
+Classe: Alchimiste
+Niveau: 80
+Catégorie: Médicament
+Matériaux: 1 Alysson doux, 1 Potion alchimique de la halle, 3 Sable éthéréen ténébreux
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
+Total fabriqué: 3
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 1
+
 Nom: Philtre chimérique de vitalité
 Classe: Alchimiste
 Niveau: 79
@@ -57236,6 +58208,18 @@ Total fabriqué: 3
 Difficulté: 3705
 Solidité: 80
 Qualité maximum: 18422
+Degré: 1
+
+Nom: Philtre chimérique de vitalité II
+Classe: Alchimiste
+Niveau: 80
+Catégorie: Médicament
+Matériaux: 1 Basilic citron, 1 Potion alchimique de la halle, 3 Sable éthéréen ténébreux
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
+Total fabriqué: 3
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 1
 
 Nom: Picatrix
@@ -58318,6 +59302,18 @@ Solidité: 40
 Qualité maximum: 2646
 Degré: 2
 
+Nom: Plaque de titane pur
+Classe: Armurier
+Niveau: 70
+Catégorie: Métal
+Matériaux: 9 Coke de houille, 3 Minerai de titane pur
+Cristaux: 6 Cristal de glace, 6 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3149
+Solidité: 70
+Qualité maximum: 14071
+Degré: 1
+
 Nom: Plaque de verre incolore
 Classe: Alchimiste
 Niveau: 28
@@ -59025,6 +60021,18 @@ Difficulté: 641
 Solidité: 80
 Qualité maximum: 6042
 Degré: 1
+
+Nom: Pollux
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Arme d'astromancien
+Matériaux: 2 Barre iridescente, 3 Eau chimérique d'esprit II, 2 Lingot d'acier au tungstène, 1 Onyx, 1 Pépite d'or pétré
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
 
 Nom: Poncho en cachemire
 Classe: Couturier
@@ -59986,6 +60994,18 @@ Solidité: 70
 Qualité maximum: 1962
 Degré: 1
 
+Nom: Pourfendeuse
+Classe: Forgeron
+Niveau: 80
+Catégorie: Arme de gladiateur
+Matériaux: 2 Eau chimérique de vitalité II, 2 Lingot d'acier au tungstène, 1 Onyx, 1 Pépite d'or pétré
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Pourpoint en cuir d'hippogriffe
 Classe: Tanneur
 Niveau: 50
@@ -60394,6 +61414,18 @@ Solidité: 80
 Qualité maximum: 14071
 Degré: 2
 
+Nom: Pragmatisme
+Classe: Alchimiste
+Niveau: 80
+Catégorie: Arme d'érudit
+Matériaux: 2 Cuir de chalicotherium, 3 Eau chimérique d'esprit II, 1 Encre de mithril sombre enchantée, 1 Lingot d'acier au tungstène, 1 Madrier de santal blanc
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Prince oignon en peluche
 Classe: Couturier
 Niveau: 60
@@ -60518,7 +61550,7 @@ Nom: Protège-jambes d'éclaireur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 74
 Catégorie: Pieds
-Matériaux: 1 Caoutchouc, 2 Cuir d'atrociraptor, 1 Eau chimèrique de dextérité I, 1 Pépite de sombracier, 1 Étoffe de coton pixie
+Matériaux: 1 Caoutchouc, 2 Cuir d'atrociraptor, 1 Eau chimérique de dextérité I, 1 Pépite de sombracier, 1 Étoffe de coton pixie
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3407
@@ -60542,7 +61574,7 @@ Nom: Protège-jambes de pisteur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 74
 Catégorie: Pieds
-Matériaux: 1 Caoutchouc, 2 Cuir d'atrociraptor, 1 Eau chimèrique de dextérité I, 1 Pépite de sombracier, 1 Étoffe de coton pixie
+Matériaux: 1 Caoutchouc, 2 Cuir d'atrociraptor, 1 Eau chimérique de dextérité I, 1 Pépite de sombracier, 1 Étoffe de coton pixie
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3407
@@ -60662,7 +61694,7 @@ Nom: Protège-tête d'abatteur en bronze titané
 Classe: Orfèvre
 Niveau: 77
 Catégorie: Tête
-Matériaux: 1 Cuir de zonure, 1 Eau chimèrique de force I, 2 Pépite de bronze titané, 1 Pépite de durargent
+Matériaux: 1 Cuir de zonure, 1 Eau chimérique de force I, 2 Pépite de bronze titané, 1 Pépite de durargent
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
@@ -60734,7 +61766,7 @@ Nom: Protège-tête d'incantateur en azuresprit
 Classe: Armurier
 Niveau: 74
 Catégorie: Tête
-Matériaux: 2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimèrique d'intelligence I, 1 Fil de coton pixie
+Matériaux: 2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimérique d'intelligence I, 1 Fil de coton pixie
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3407
@@ -60770,7 +61802,7 @@ Nom: Protège-tête d'éclaireur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 74
 Catégorie: Tête
-Matériaux: 1 Barre d'azuresprit, 2 Cuir d'atrociraptor, 1 Eau chimèrique de dextérité I, 1 Fil arc-en-ciel, 1 Glu de scarabée
+Matériaux: 1 Barre d'azuresprit, 2 Cuir d'atrociraptor, 1 Eau chimérique de dextérité I, 1 Fil arc-en-ciel, 1 Glu de scarabée
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3407
@@ -60794,7 +61826,7 @@ Nom: Protège-tête de pisteur en cuir d'atrociraptor
 Classe: Tanneur
 Niveau: 74
 Catégorie: Tête
-Matériaux: 1 Barre d'azuresprit, 2 Cuir d'atrociraptor, 1 Eau chimèrique de dextérité I, 1 Fil arc-en-ciel, 1 Glu de scarabée
+Matériaux: 1 Barre d'azuresprit, 2 Cuir d'atrociraptor, 1 Eau chimérique de dextérité I, 1 Fil arc-en-ciel, 1 Glu de scarabée
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3407
@@ -60806,7 +61838,7 @@ Nom: Protège-tête de protecteur en bronze titané
 Classe: Orfèvre
 Niveau: 77
 Catégorie: Tête
-Matériaux: 1 Cuir de zonure, 1 Eau chimèrique de vitalité I, 2 Pépite de bronze titané, 1 Pépite de durargent
+Matériaux: 1 Cuir de zonure, 1 Eau chimérique de vitalité I, 2 Pépite de bronze titané, 1 Pépite de durargent
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
@@ -61088,6 +62120,18 @@ Total fabriqué: 6
 Difficulté: 27
 Solidité: 40
 Qualité maximum: 751
+Degré: 3
+
+Nom: Pâtes au saumon et à la crème
+Classe: Cuisinier
+Niveau: 80
+Catégorie: Plat ou boisson
+Matériaux: 1 Crème grumeleuse, 1 Huile de frantoio, 2 Jeunes épinards brume, 2 Poivre sombre, 2 Saumon royal, 1 Vermicelles
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de feu
+Total fabriqué: 3
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 3
 
 Nom: Pâtes aux piments
@@ -61382,7 +62426,7 @@ Nom: Pétase d'incantateur en coton nain
 Classe: Couturier
 Niveau: 78
 Catégorie: Tête
-Matériaux: 1 Crinière de halgai, 1 Cuir de glaucus, 1 Eau chimèrique d'intelligence I, 2 Étoffe de coton nain
+Matériaux: 1 Crinière de halgai, 1 Cuir de glaucus, 1 Eau chimérique d'intelligence I, 2 Étoffe de coton nain
 Cristaux: 7 Cristal de foudre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -61394,7 +62438,7 @@ Nom: Pétase de soigneur en coton nain
 Classe: Couturier
 Niveau: 78
 Catégorie: Tête
-Matériaux: 1 Crinière de halgai, 1 Cuir de glaucus, 1 Eau chimèrique d'esprit I, 2 Étoffe de coton nain
+Matériaux: 1 Crinière de halgai, 1 Cuir de glaucus, 1 Eau chimérique d'esprit I, 2 Étoffe de coton nain
 Cristaux: 7 Cristal de foudre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -61652,6 +62696,18 @@ Total fabriqué: 3
 Difficulté: 74
 Solidité: 70
 Qualité maximum: 1053
+Degré: 2
+
+Nom: Ragoût de hainag de luxe
+Classe: Cuisinier
+Niveau: 80
+Catégorie: Plat ou boisson
+Matériaux: 2 Carotte gyrabanienne, 2 Eau souterraine, 1 Farine de blé des plateaux, 2 Faux-filet de hainag de qualité supérieure, 2 Poivre sombre, 2 Popoto brune
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de feu
+Total fabriqué: 3
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 2
 
 Nom: Ragoût de lotte
@@ -62110,6 +63166,18 @@ Solidité: 80
 Qualité maximum: 2646
 Degré: 2
 
+Nom: Ras de cou d'attaquant de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Collier
+Matériaux: 1 Barre iridescente, 1 Eau chimérique de force II, 2 Onyx
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Ras de cou d'attaquant en azurite
 Classe: Orfèvre
 Niveau: 67
@@ -62198,7 +63266,7 @@ Nom: Ras de cou d'attaquant en pétalite
 Classe: Orfèvre
 Niveau: 79
 Catégorie: Collier
-Matériaux: 1 Eau chimèrique de force I, 1 Pépite de mana-argent, 2 Pépite de mithril noble, 1 Pétalite
+Matériaux: 1 Eau chimérique de force I, 1 Pépite de mana-argent, 2 Pépite de mithril noble, 1 Pétalite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3705
@@ -62246,12 +63314,24 @@ Nom: Ras de cou d'attaquant en triphylite
 Classe: Orfèvre
 Niveau: 77
 Catégorie: Collier
-Matériaux: 1 Cuir de dhalmel, 1 Eau chimèrique de force I, 2 Pépite de bronze titané, 1 Triphylite
+Matériaux: 1 Cuir de dhalmel, 1 Eau chimérique de force I, 2 Pépite de bronze titané, 1 Triphylite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
 Solidité: 80
 Qualité maximum: 17490
+Degré: 3
+
+Nom: Ras de cou d'incantateur de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Collier
+Matériaux: 1 Barre iridescente, 1 Eau chimérique d'intelligence II, 2 Onyx
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 3
 
 Nom: Ras de cou d'incantateur en azurite
@@ -62342,7 +63422,7 @@ Nom: Ras de cou d'incantateur en pétalite
 Classe: Orfèvre
 Niveau: 79
 Catégorie: Collier
-Matériaux: 1 Eau chimèrique d'intelligence I, 1 Pépite de mana-argent, 2 Pépite de mithril noble, 1 Pétalite
+Matériaux: 1 Eau chimérique d'intelligence I, 1 Pépite de mana-argent, 2 Pépite de mithril noble, 1 Pétalite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3705
@@ -62390,7 +63470,7 @@ Nom: Ras de cou d'incantateur en triphylite
 Classe: Orfèvre
 Niveau: 77
 Catégorie: Collier
-Matériaux: 1 Cuir de dhalmel, 1 Eau chimèrique d'intelligence I, 2 Pépite de bronze titané, 1 Triphylite
+Matériaux: 1 Cuir de dhalmel, 1 Eau chimérique d'intelligence I, 2 Pépite de bronze titané, 1 Triphylite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
@@ -62421,6 +63501,18 @@ Difficulté: 195
 Solidité: 80
 Qualité maximum: 2646
 Degré: 2
+
+Nom: Ras de cou de pisteur de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Collier
+Matériaux: 1 Barre iridescente, 1 Eau chimérique de dextérité II, 2 Onyx
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
 
 Nom: Ras de cou de pisteur en azurite
 Classe: Orfèvre
@@ -62510,7 +63602,7 @@ Nom: Ras de cou de pisteur en pétalite
 Classe: Orfèvre
 Niveau: 79
 Catégorie: Collier
-Matériaux: 1 Eau chimèrique de dextérité I, 1 Pépite de mana-argent, 2 Pépite de mithril noble, 1 Pétalite
+Matériaux: 1 Eau chimérique de dextérité I, 1 Pépite de mana-argent, 2 Pépite de mithril noble, 1 Pétalite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3705
@@ -62558,12 +63650,24 @@ Nom: Ras de cou de pisteur en triphylite
 Classe: Orfèvre
 Niveau: 77
 Catégorie: Collier
-Matériaux: 1 Cuir de dhalmel, 1 Eau chimèrique de dextérité I, 2 Pépite de bronze titané, 1 Triphylite
+Matériaux: 1 Cuir de dhalmel, 1 Eau chimérique de dextérité I, 2 Pépite de bronze titané, 1 Triphylite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
 Solidité: 80
 Qualité maximum: 17490
+Degré: 3
+
+Nom: Ras de cou de protecteur de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Collier
+Matériaux: 1 Barre iridescente, 1 Eau chimérique de vitalité II, 2 Onyx
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 3
 
 Nom: Ras de cou de protecteur en azurite
@@ -62654,7 +63758,7 @@ Nom: Ras de cou de protecteur en pétalite
 Classe: Orfèvre
 Niveau: 79
 Catégorie: Collier
-Matériaux: 1 Eau chimèrique de vitalité I, 1 Pépite de mana-argent, 2 Pépite de mithril noble, 1 Pétalite
+Matériaux: 1 Eau chimérique de vitalité I, 1 Pépite de mana-argent, 2 Pépite de mithril noble, 1 Pétalite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3705
@@ -62702,12 +63806,24 @@ Nom: Ras de cou de protecteur en triphylite
 Classe: Orfèvre
 Niveau: 77
 Catégorie: Collier
-Matériaux: 1 Cuir de dhalmel, 1 Eau chimèrique de vitalité I, 2 Pépite de bronze titané, 1 Triphylite
+Matériaux: 1 Cuir de dhalmel, 1 Eau chimérique de vitalité I, 2 Pépite de bronze titané, 1 Triphylite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
 Solidité: 80
 Qualité maximum: 17490
+Degré: 3
+
+Nom: Ras de cou de soigneur de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Collier
+Matériaux: 1 Barre iridescente, 1 Eau chimérique d'esprit II, 2 Onyx
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 3
 
 Nom: Ras de cou de soigneur en azurite
@@ -62798,7 +63914,7 @@ Nom: Ras de cou de soigneur en pétalite
 Classe: Orfèvre
 Niveau: 79
 Catégorie: Collier
-Matériaux: 1 Eau chimèrique d'esprit I, 1 Pépite de mana-argent, 2 Pépite de mithril noble, 1 Pétalite
+Matériaux: 1 Eau chimérique d'esprit I, 1 Pépite de mana-argent, 2 Pépite de mithril noble, 1 Pétalite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3705
@@ -62846,7 +63962,7 @@ Nom: Ras de cou de soigneur en triphylite
 Classe: Orfèvre
 Niveau: 77
 Catégorie: Collier
-Matériaux: 1 Cuir de dhalmel, 1 Eau chimèrique d'esprit I, 2 Pépite de bronze titané, 1 Triphylite
+Matériaux: 1 Cuir de dhalmel, 1 Eau chimérique d'esprit I, 2 Pépite de bronze titané, 1 Triphylite
 Cristaux: 7 Cristal de feu, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3586
@@ -64166,7 +65282,7 @@ Nom: Robe d'incantateur en cuir de glaucus
 Classe: Tanneur
 Niveau: 79
 Catégorie: Torse
-Matériaux: 1 Crinière de halgai, 2 Cuir de glaucus, 2 Eau chimèrique d'intelligence I, 1 Fil de lin blanc, 1 Pétalite, 1 Étoffe de coton nain
+Matériaux: 1 Crinière de halgai, 2 Cuir de glaucus, 2 Eau chimérique d'intelligence I, 1 Fil de lin blanc, 1 Pétalite, 1 Étoffe de coton nain
 Cristaux: 7 Cristal de terre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3705
@@ -64334,7 +65450,7 @@ Nom: Robe de pisteur en cuir de glaucus
 Classe: Tanneur
 Niveau: 78
 Catégorie: Torse
-Matériaux: 1 Crinière de halgai, 2 Cuir de glaucus, 2 Eau chimèrique de dextérité I, 1 Fil de lin blanc, 1 Pétalite, 1 Étoffe de coton nain
+Matériaux: 1 Crinière de halgai, 2 Cuir de glaucus, 2 Eau chimérique de dextérité I, 1 Fil de lin blanc, 1 Pétalite, 1 Étoffe de coton nain
 Cristaux: 7 Cristal de terre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3645
@@ -64394,7 +65510,7 @@ Nom: Robe de soigneur en coton pixie
 Classe: Couturier
 Niveau: 75
 Catégorie: Torse
-Matériaux: 1 Cuir d'atrociraptor, 2 Eau chimèrique d'esprit I, 1 Fil de coton pixie, 1 Pépite d'or rose, 2 Étoffe de coton pixie, 1 Étoffe de soie iridescente
+Matériaux: 1 Cuir d'atrociraptor, 2 Eau chimérique d'esprit I, 1 Fil de coton pixie, 1 Pépite d'or rose, 2 Étoffe de coton pixie, 1 Étoffe de soie iridescente
 Cristaux: 7 Cristal de foudre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -64406,7 +65522,7 @@ Nom: Robe de soigneur en cuir de glaucus
 Classe: Tanneur
 Niveau: 79
 Catégorie: Torse
-Matériaux: 1 Crinière de halgai, 2 Cuir de glaucus, 2 Eau chimèrique d'esprit I, 1 Fil de lin blanc, 1 Pétalite, 1 Étoffe de coton nain
+Matériaux: 1 Crinière de halgai, 2 Cuir de glaucus, 2 Eau chimérique d'esprit I, 1 Fil de lin blanc, 1 Pétalite, 1 Étoffe de coton nain
 Cristaux: 7 Cristal de terre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3705
@@ -64797,6 +65913,18 @@ Difficulté: 111
 Solidité: 70
 Qualité maximum: 789
 Degré: 4
+
+Nom: Rosbif supérieur
+Classe: Cuisinier
+Niveau: 80
+Catégorie: Plat ou boisson
+Matériaux: 2 Carotte gyrabanienne, 2 Faux-filet de hainag de qualité supérieure, 1 Fenouil, 1 Huile de frantoio, 2 Menthe poivrée, 2 Poivre sombre
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de feu
+Total fabriqué: 3
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
 
 Nom: Roseaux de Doma
 Classe: Alchimiste
@@ -67786,6 +68914,18 @@ Solidité: 60
 Qualité maximum: 726
 Degré: 3
 
+Nom: Sabatons d'abatteur de la halle
+Classe: Armurier
+Niveau: 80
+Catégorie: Pieds
+Matériaux: 2 Eau chimérique de force II, 2 Lingot d'acier au tungstène, 1 Étoffe mousseuse
+Cristaux: 2 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Sabatons d'abatteur en adamantium
 Classe: Armurier
 Niveau: 58
@@ -67814,7 +68954,7 @@ Nom: Sabatons d'abatteur en azuresprit
 Classe: Armurier
 Niveau: 74
 Catégorie: Pieds
-Matériaux: 2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimèrique de force I, 1 Pépite de sombracier
+Matériaux: 2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimérique de force I, 1 Pépite de sombracier
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3407
@@ -67894,6 +69034,18 @@ Solidité: 80
 Qualité maximum: 2646
 Degré: 3
 
+Nom: Sabatons de protecteur de la halle
+Classe: Armurier
+Niveau: 80
+Catégorie: Pieds
+Matériaux: 2 Eau chimérique de vitalité II, 2 Lingot d'acier au tungstène, 1 Étoffe mousseuse
+Cristaux: 2 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Sabatons de protecteur en adamantium
 Classe: Armurier
 Niveau: 58
@@ -67922,7 +69074,7 @@ Nom: Sabatons de protecteur en azuresprit
 Classe: Armurier
 Niveau: 74
 Catégorie: Pieds
-Matériaux: 2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimèrique de vitalité I, 1 Pépite d'or rose
+Matériaux: 2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimérique de vitalité I, 1 Pépite d'or rose
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3407
@@ -68146,6 +69298,18 @@ Solidité: 80
 Qualité maximum: 4980
 Degré: 4
 
+Nom: Sachertorte à la crème de citron
+Classe: Cuisinier
+Niveau: 80
+Catégorie: Plat ou boisson
+Matériaux: 1 Beurre fermenté, 2 Crème aigre, 1 Farine de blé des plateaux, 2 Fève kukuru criollo, 2 Fève kukuru royale, 2 Petit citron
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de feu
+Total fabriqué: 3
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Sacs en cuir
 Classe: Tanneur
 Niveau: 60
@@ -68194,6 +69358,18 @@ Solidité: 70
 Qualité maximum: 19023
 Degré: 2
 
+Nom: Salade de batavia
+Classe: Cuisinier
+Niveau: 80
+Catégorie: Plat ou boisson
+Matériaux: 2 Batavia, 2 Fenouil, 1 Huile de frantoio, 2 Jeunes épinards brume, 2 Tomate sanguine, 1 Œuf de loriquet arc-en-ciel
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de feu
+Total fabriqué: 3
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
+
 Nom: Salade de fruits à la zun
 Classe: Cuisinier
 Niveau: 80
@@ -68228,6 +69404,18 @@ Total fabriqué: 3
 Difficulté: 54
 Solidité: 60
 Qualité maximum: 726
+Degré: 2
+
+Nom: Salade de popotos
+Classe: Cuisinier
+Niveau: 80
+Catégorie: Plat ou boisson
+Matériaux: 2 Batavia, 2 Courgette corne de bélier, 1 Huile de frantoio, 2 Poivre sombre, 2 Popoto brune, 1 Œuf de loriquet arc-en-ciel
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de feu
+Total fabriqué: 3
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 2
 
 Nom: Salade de tomates sanguines
@@ -68554,6 +69742,18 @@ Solidité: 70
 Qualité maximum: 817
 Degré: 4
 
+Nom: Sandales d'agresseur de la halle
+Classe: Tanneur
+Niveau: 80
+Catégorie: Pieds
+Matériaux: 2 Cuir de chalicotherium, 2 Eau chimérique de force II, 1 Madrier de santal blanc, 1 Étoffe de coton nain
+Cristaux: 2 Agrégat de terre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Sandales d'agresseur en cuir de gagana
 Classe: Tanneur
 Niveau: 61
@@ -68618,7 +69818,7 @@ Nom: Sandales d'incantateur en cuir de zonure
 Classe: Tanneur
 Niveau: 76
 Catégorie: Pieds
-Matériaux: 1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimèrique d'intelligence I, 1 Étoffe de laine d'ovim
+Matériaux: 1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimérique d'intelligence I, 1 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -68678,7 +69878,7 @@ Nom: Sandales de pisteur en cuir de zonure
 Classe: Tanneur
 Niveau: 76
 Catégorie: Pieds
-Matériaux: 1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimèrique de dextérité I, 1 Étoffe de laine d'ovim
+Matériaux: 1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimérique de dextérité I, 1 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de terre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -68757,6 +69957,18 @@ Difficulté: 233
 Solidité: 80
 Qualité maximum: 2921
 Degré: 4
+
+Nom: Sankhâra
+Classe: Forgeron
+Niveau: 80
+Catégorie: Arme de samouraï
+Matériaux: 1 Barre iridescente, 3 Eau chimérique de force II, 3 Lingot d'acier au tungstène, 1 Pierre à aiguiser en tuf volcanique
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
 
 Nom: Saphir
 Classe: Orfèvre
@@ -69128,6 +70340,18 @@ Total fabriqué: 3
 Difficulté: 79
 Solidité: 70
 Qualité maximum: 1169
+Degré: 2
+
+Nom: Saumon royal meunière
+Classe: Cuisinier
+Niveau: 80
+Catégorie: Plat ou boisson
+Matériaux: 1 Beurre fermenté, 1 Farine de blé des plateaux, 2 Petit citron, 2 Poivre sombre, 2 Saumon royal
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de feu
+Total fabriqué: 3
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 2
 
 Nom: Saumon seigneurial meunière
@@ -71446,6 +72670,18 @@ Solidité: 70
 Qualité maximum: 561
 Degré: 3
 
+Nom: Susurrantes
+Classe: Forgeron
+Niveau: 80
+Catégorie: Arme de surineur
+Matériaux: 2 Barre iridescente, 3 Eau chimérique de dextérité II, 2 Lingot d'acier au tungstène, 1 Onyx, 1 Pépite d'or pétré
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Système photogène
 Classe: Orfèvre
 Niveau: 50
@@ -71601,6 +72837,18 @@ Difficulté: 697
 Solidité: 70
 Qualité maximum: 6301
 Degré: 3
+
+Nom: Tabard de pisteur de la halle
+Classe: Couturier
+Niveau: 80
+Catégorie: Torse
+Matériaux: 1 Barre iridescente, 1 Cuir de chalicotherium, 2 Eau chimérique de dextérité II, 1 Pépite d'or pétré, 2 Étoffe mousseuse
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
 
 Nom: Tabard de pisteur en cuir de saurien
 Classe: Tanneur
@@ -72830,7 +74078,7 @@ Nom: Tassette d'abatteur en bronze titané
 Classe: Armurier
 Niveau: 76
 Catégorie: Ceinture
-Matériaux: 1 Cuir de dhalmel, 1 Eau chimèrique de force I, 2 Lingot de bronze titané
+Matériaux: 1 Cuir de dhalmel, 1 Eau chimérique de force I, 2 Lingot de bronze titané
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3526
@@ -72914,7 +74162,7 @@ Nom: Tassette d'agresseur en bronze titané
 Classe: Armurier
 Niveau: 76
 Catégorie: Ceinture
-Matériaux: 1 Cuir de dhalmel, 1 Eau chimèrique de force I, 2 Lingot de bronze titané
+Matériaux: 1 Cuir de dhalmel, 1 Eau chimérique de force I, 2 Lingot de bronze titané
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3526
@@ -72950,7 +74198,7 @@ Nom: Tassette d'incantateur en bronze titané
 Classe: Armurier
 Niveau: 76
 Catégorie: Ceinture
-Matériaux: 1 Cuir de dhalmel, 1 Eau chimèrique d'intelligence I, 2 Lingot de bronze titané
+Matériaux: 1 Cuir de dhalmel, 1 Eau chimérique d'intelligence I, 2 Lingot de bronze titané
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3526
@@ -72986,7 +74234,7 @@ Nom: Tassette d'éclaireur en bronze titané
 Classe: Armurier
 Niveau: 76
 Catégorie: Ceinture
-Matériaux: 1 Cuir de dhalmel, 1 Eau chimèrique de dextérité I, 2 Lingot de bronze titané
+Matériaux: 1 Cuir de dhalmel, 1 Eau chimérique de dextérité I, 2 Lingot de bronze titané
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3526
@@ -73034,7 +74282,7 @@ Nom: Tassette de pisteur en bronze titané
 Classe: Armurier
 Niveau: 76
 Catégorie: Ceinture
-Matériaux: 1 Cuir de dhalmel, 1 Eau chimèrique de dextérité I, 2 Lingot de bronze titané
+Matériaux: 1 Cuir de dhalmel, 1 Eau chimérique de dextérité I, 2 Lingot de bronze titané
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3526
@@ -73070,7 +74318,7 @@ Nom: Tassette de protecteur en bronze titané
 Classe: Armurier
 Niveau: 76
 Catégorie: Ceinture
-Matériaux: 1 Cuir de dhalmel, 1 Eau chimèrique de vitalité I, 2 Lingot de bronze titané
+Matériaux: 1 Cuir de dhalmel, 1 Eau chimérique de vitalité I, 2 Lingot de bronze titané
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3526
@@ -73142,7 +74390,7 @@ Nom: Tassette de soigneur en bronze titané
 Classe: Armurier
 Niveau: 76
 Catégorie: Ceinture
-Matériaux: 1 Cuir de dhalmel, 1 Eau chimèrique d'esprit I, 2 Lingot de bronze titané
+Matériaux: 1 Cuir de dhalmel, 1 Eau chimérique d'esprit I, 2 Lingot de bronze titané
 Cristaux: 7 Cristal de glace, 6 Cristal de terre
 Total fabriqué: 1
 Difficulté: 3526
@@ -73952,6 +75200,18 @@ Total fabriqué: 3
 Difficulté: 85
 Solidité: 70
 Qualité maximum: 1239
+Degré: 2
+
+Nom: Thé à la fraise pixie
+Classe: Cuisinier
+Niveau: 80
+Catégorie: Plat ou boisson
+Matériaux: 2 Eau souterraine, 1 Feuilles de thé du Coerthas, 2 Fraise pixie, 2 Menthe poivrée, 1 Sucre de betterave potagère
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de feu
+Total fabriqué: 3
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
 Degré: 2
 
 Nom: Thé épicé
@@ -75446,7 +76706,7 @@ Nom: Trousses d'incantateur en coton pixie
 Classe: Couturier
 Niveau: 75
 Catégorie: Jambes
-Matériaux: 1 Cuir d'atrociraptor, 2 Eau chimèrique d'intelligence I, 1 Fil de coton pixie, 1 Pépite de sombracier, 3 Étoffe de coton pixie
+Matériaux: 1 Cuir d'atrociraptor, 2 Eau chimérique d'intelligence I, 1 Fil de coton pixie, 1 Pépite de sombracier, 3 Étoffe de coton pixie
 Cristaux: 7 Cristal de foudre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -75626,7 +76886,7 @@ Nom: Trousses de soigneur en coton pixie
 Classe: Couturier
 Niveau: 75
 Catégorie: Jambes
-Matériaux: 2 Cuir d'atrociraptor, 2 Eau chimèrique d'esprit I, 1 Fil de coton pixie, 1 Pépite d'or rose, 2 Étoffe de coton pixie
+Matériaux: 2 Cuir d'atrociraptor, 2 Eau chimérique d'esprit I, 1 Fil de coton pixie, 1 Pépite d'or rose, 2 Étoffe de coton pixie
 Cristaux: 7 Cristal de foudre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3467
@@ -75914,7 +77174,7 @@ Nom: Tunique d'incantateur en laine d'ovim
 Classe: Couturier
 Niveau: 76
 Catégorie: Torse
-Matériaux: 1 Cuir de zonure, 2 Eau chimèrique d'intelligence I, 1 Pépite de bronze titané, 1 Pépite de durargent, 1 Saphir étoilé, 2 Étoffe de laine d'ovim
+Matériaux: 1 Cuir de zonure, 2 Eau chimérique d'intelligence I, 1 Pépite de bronze titané, 1 Pépite de durargent, 1 Saphir étoilé, 2 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de foudre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -76010,7 +77270,7 @@ Nom: Tunique de pisteur en laine d'ovim
 Classe: Couturier
 Niveau: 76
 Catégorie: Torse
-Matériaux: 1 Cuir de zonure, 2 Eau chimèrique de dextérité I, 1 Pépite de bronze titané, 1 Pépite de durargent, 1 Rubis étoilé, 2 Étoffe de laine d'ovim
+Matériaux: 1 Cuir de zonure, 2 Eau chimérique de dextérité I, 1 Pépite de bronze titané, 1 Pépite de durargent, 1 Rubis étoilé, 2 Étoffe de laine d'ovim
 Cristaux: 7 Cristal de foudre, 6 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3526
@@ -76114,11 +77374,23 @@ Solidité: 80
 Qualité maximum: 2646
 Degré: 3
 
+Nom: Turban d'éclaireur de la halle
+Classe: Couturier
+Niveau: 80
+Catégorie: Tête
+Matériaux: 1 Cuir de chalicotherium, 2 Eau chimérique de dextérité II, 1 Étoffe de coton nain, 2 Étoffe mousseuse
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Turban d'éclaireur en coton nain
 Classe: Couturier
 Niveau: 79
 Catégorie: Tête
-Matériaux: 1 Crinière de halgai, 1 Eau chimèrique de dextérité I, 1 Fil de lin blanc, 2 Plume de tetrax, 3 Étoffe de coton nain
+Matériaux: 1 Crinière de halgai, 1 Eau chimérique de dextérité I, 1 Fil de lin blanc, 2 Plume de tetrax, 3 Étoffe de coton nain
 Cristaux: 7 Cristal de foudre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3705
@@ -76150,11 +77422,23 @@ Solidité: 80
 Qualité maximum: 12500
 Degré: 3
 
+Nom: Turban de pisteur de la halle
+Classe: Couturier
+Niveau: 80
+Catégorie: Tête
+Matériaux: 1 Barre iridescente, 2 Eau chimérique de dextérité II, 1 Étoffe de coton nain, 2 Étoffe mousseuse
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 3
+
 Nom: Turban de pisteur en coton nain
 Classe: Couturier
 Niveau: 79
 Catégorie: Tête
-Matériaux: 1 Crinière de halgai, 1 Eau chimèrique de dextérité I, 1 Fil de lin blanc, 2 Plume de tetrax, 3 Étoffe de coton nain
+Matériaux: 1 Crinière de halgai, 1 Eau chimérique de dextérité I, 1 Fil de lin blanc, 2 Plume de tetrax, 3 Étoffe de coton nain
 Cristaux: 7 Cristal de foudre, 7 Cristal de vent
 Total fabriqué: 1
 Difficulté: 3705
@@ -76389,6 +77673,18 @@ Difficulté: 71
 Solidité: 40
 Qualité maximum: 2109
 Degré: 1
+
+Nom: Tutélaire
+Classe: Forgeron
+Niveau: 80
+Catégorie: Arme de pistosabreur
+Matériaux: 1 Barre iridescente, 3 Eau chimérique de vitalité II, 3 Lingot d'acier au tungstène, 1 Pépite d'or pétré
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5645
+Solidité: 70
+Qualité maximum: 37432
+Degré: 2
 
 Nom: Tête de Ravageuse
 Classe: Forgeron
@@ -76928,6 +78224,30 @@ Total fabriqué: 1
 Difficulté: 233
 Solidité: 80
 Qualité maximum: 2921
+Degré: 3
+
+Nom: Veste à capuche d'aventurier
+Classe: Tanneur
+Niveau: 80
+Catégorie: Torse
+Matériaux: 3 Cuir verni, 2 Fil de coton pixie, 1 Pépite d'or pétré, 2 Étoffe de coton pixie
+Cristaux: 7 Cristal de terre, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 4143
+Solidité: 70
+Qualité maximum: 21841
+Degré: 3
+
+Nom: Veste à capuche en cuir verni
+Classe: Tanneur
+Niveau: 80
+Catégorie: Torse
+Matériaux: 3 Cuir verni, 2 Fil de coton pixie, 1 Pépite d'or pétré, 1 Étoffe de coton pixie
+Cristaux: 7 Cristal de terre, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 4143
+Solidité: 70
+Qualité maximum: 21841
 Degré: 3
 
 Nom: Viande de jhammel séchée
@@ -79545,6 +80865,18 @@ Difficulté: 558
 Solidité: 35
 Qualité maximum: 8377
 Degré: 2
+
+Nom: Étoffe mousseuse
+Classe: Couturier
+Niveau: 80
+Catégorie: Tissu
+Matériaux: 4 Cocon mousseux, 2 Étoffe de coton de la halle
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 4777
+Solidité: 35
+Qualité maximum: 32753
+Degré: 1
 
 Nom: Étoffe primordiale
 Classe: Couturier

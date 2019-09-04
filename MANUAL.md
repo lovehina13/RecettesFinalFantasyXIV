@@ -115,9 +115,9 @@ Exemple d'utilisation :
 
 Il convient de modifier le fichier *RecuperationRecettes.py (ligne 61)* afin d'ajuster le nombre de pages relatives aux recettes.
 
-Exemple pour la version 5.00, soit 157 pages :
+Exemple pour la version 5.08, soit 160 pages :
 
-    nombrePagesRecettes = 157
+    nombrePagesRecettes = 160
 
 ### 3.4. Fonctionnalité de récupération des matériaux et des cristaux
 
@@ -170,7 +170,7 @@ Exemple d'utilisation :
 
 Il convient de modifier le fichier *RecuperationRecoltes.py (ligne 55)* afin d'ajuster le nombre de pages relatives aux récoltes.
 
-Exemple pour la version 5.00, soit 14 pages :
+Exemple pour la version 5.08, soit 14 pages :
 
     nombrePagesRecoltes = 14
 

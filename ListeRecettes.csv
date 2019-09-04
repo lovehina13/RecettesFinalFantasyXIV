@@ -222,11 +222,11 @@ Canne en azuresprit;Menuisier;74;Arme à deux mains d'élémentaliste;1 Barre d'
 Meule en frêne blanc;Menuisier;74;Outil secondaire d'orfèvre;1 Barre d'azuresprit, 2 Madrier de frêne blanc, 1 Pierre à aiguiser en mudstone solide;6 Cristal de glace, 7 Cristal de vent;1;3407;80;16091
 Rouet en frêne blanc;Menuisier;74;Outil secondaire de couturier;3 Madrier de frêne blanc, 1 Pépite de mana-argent;6 Cristal de glace, 7 Cristal de vent;1;3407;80;16091
 Canne à pêche en frêne blanc;Menuisier;74;Outil principal de pêcheur;1 Barre d'azuresprit, 1 Cuir d'atrociraptor, 2 Madrier de frêne blanc;6 Cristal de glace, 7 Cristal de vent;1;3407;80;16091
-Boucle d'oreille de protecteur en frêne blanc;Menuisier;75;Boucle d'oreille;1 Cuir d'atrociraptor, 1 Eau chimèrique de vitalité I, 1 Fil arc-en-ciel, 1 Madrier de frêne blanc;6 Cristal de glace, 7 Cristal de vent;1;3467;80;16557
-Boucle d'oreille d'attaquant en frêne blanc;Menuisier;75;Boucle d'oreille;1 Cuir d'atrociraptor, 1 Eau chimèrique de force I, 1 Fil arc-en-ciel, 1 Madrier de frêne blanc;6 Cristal de glace, 7 Cristal de vent;1;3467;80;16557
-Boucle d'oreille de pisteur en frêne blanc;Menuisier;75;Boucle d'oreille;1 Cuir d'atrociraptor, 1 Eau chimèrique de dextérité I, 1 Fil arc-en-ciel, 1 Madrier de frêne blanc;6 Cristal de glace, 7 Cristal de vent;1;3467;80;16557
-Boucle d'oreille d'incantateur en frêne blanc;Menuisier;75;Boucle d'oreille;1 Cuir d'atrociraptor, 1 Eau chimèrique d'intelligence I, 1 Fil arc-en-ciel, 1 Madrier de frêne blanc;6 Cristal de glace, 7 Cristal de vent;1;3467;80;16557
-Boucle d'oreille de soigneur en frêne blanc;Menuisier;75;Boucle d'oreille;1 Cuir d'atrociraptor, 1 Eau chimèrique d'esprit I, 1 Fil arc-en-ciel, 1 Madrier de frêne blanc;6 Cristal de glace, 7 Cristal de vent;1;3467;80;16557
+Boucle d'oreille de protecteur en frêne blanc;Menuisier;75;Boucle d'oreille;1 Cuir d'atrociraptor, 1 Eau chimérique de vitalité I, 1 Fil arc-en-ciel, 1 Madrier de frêne blanc;6 Cristal de glace, 7 Cristal de vent;1;3467;80;16557
+Boucle d'oreille d'attaquant en frêne blanc;Menuisier;75;Boucle d'oreille;1 Cuir d'atrociraptor, 1 Eau chimérique de force I, 1 Fil arc-en-ciel, 1 Madrier de frêne blanc;6 Cristal de glace, 7 Cristal de vent;1;3467;80;16557
+Boucle d'oreille de pisteur en frêne blanc;Menuisier;75;Boucle d'oreille;1 Cuir d'atrociraptor, 1 Eau chimérique de dextérité I, 1 Fil arc-en-ciel, 1 Madrier de frêne blanc;6 Cristal de glace, 7 Cristal de vent;1;3467;80;16557
+Boucle d'oreille d'incantateur en frêne blanc;Menuisier;75;Boucle d'oreille;1 Cuir d'atrociraptor, 1 Eau chimérique d'intelligence I, 1 Fil arc-en-ciel, 1 Madrier de frêne blanc;6 Cristal de glace, 7 Cristal de vent;1;3467;80;16557
+Boucle d'oreille de soigneur en frêne blanc;Menuisier;75;Boucle d'oreille;1 Cuir d'atrociraptor, 1 Eau chimérique d'esprit I, 1 Fil arc-en-ciel, 1 Madrier de frêne blanc;6 Cristal de glace, 7 Cristal de vent;1;3467;80;16557
 Boucles d'oreilles en frêne blanc;Menuisier;75;Boucle d'oreille;2 Madrier de frêne blanc, 1 Pépite de mana-argent;6 Cristal de glace, 7 Cristal de vent;1;3467;80;16557
 Collier en frêne blanc;Menuisier;75;Collier;1 Fibre de kudzu, 2 Madrier de frêne blanc, 1 Pépite de mana-argent;6 Cristal de glace, 7 Cristal de vent;1;3467;80;16557
 Bracelet en frêne blanc;Menuisier;75;Bracelet;1 Fibre de kudzu, 2 Madrier de frêne blanc, 1 Pépite de mana-argent;6 Cristal de glace, 7 Cristal de vent;1;3467;80;16557
@@ -369,6 +369,7 @@ Bracelet d'attaquant en teck;Menuisier;60;Bracelet;1 Diamant, 1 Dissolvant de fo
 Bracelet de pisteur en teck;Menuisier;60;Bracelet;1 Diamant, 1 Dissolvant de dextérité III, 1 Lingot d'or, 1 Madrier de teck, 1 Velours étoilé;3 Agrégat de glace, 3 Agrégat de vent;1;1968;70;13187
 Bracelet d'incantateur en teck;Menuisier;60;Bracelet;1 Diamant, 1 Dissolvant d'intelligence III, 1 Lingot d'or, 1 Madrier de teck, 1 Velours étoilé;3 Agrégat de glace, 3 Agrégat de vent;1;1968;70;13187
 Bracelet de soigneur en teck;Menuisier;60;Bracelet;1 Diamant, 1 Dissolvant d'esprit III, 1 Lingot d'or, 1 Madrier de teck, 1 Velours étoilé;3 Agrégat de glace, 3 Agrégat de vent;1;1968;70;13187
+Madrier de cryptoméria;Menuisier;70;Bois;3 Rondin de cryptoméria, 9 Sève durcie;6 Cristal de glace, 6 Cristal de vent;1;3149;70;14071
 Fenêtre hingashienne en trompe-l'œil;Menuisier;70;Mobilier mural;3 Madrier de kaya, 3 Verre en cristal;2 Agrégat de glace, 3 Agrégat de vent;1;5668;70;7035
 Fenêtre rectangulaire en trompe-l'œil;Menuisier;70;Mobilier mural;3 Madrier de kaya, 3 Patte en acier, 3 Plaque de verre incolore;2 Agrégat de glace, 3 Agrégat de vent;1;5668;70;7035
 Madrier de kaya;Menuisier;70;Bois;4 Rondin de kaya, 2 Urushi rouge;2 Agrégat de glace, 2 Agrégat de vent;1;3543;70;15837
@@ -433,6 +434,12 @@ Bracelet rakshasa d'abatteur;Menuisier;70;Bracelet;1 Jade impérial, 1 Madrier d
 Bracelet rakshasa de pisteur;Menuisier;70;Bracelet;1 Jade impérial, 1 Madrier d'urunday, 1 Morceau de cuir de procoptodon, 1 Pépite de durium, 1 Émulsion de dextérité IV;2 Agrégat de glace, 2 Agrégat de vent;1;2900;70;19023
 Bracelet rakshasa d'incantateur;Menuisier;70;Bracelet;1 Jade impérial, 1 Madrier d'urunday, 1 Morceau de cuir de procoptodon, 1 Pépite de durium, 1 Émulsion d'intelligence IV;2 Agrégat de glace, 2 Agrégat de vent;1;2900;70;19023
 Bracelet rakshasa de soigneur;Menuisier;70;Bracelet;1 Jade impérial, 1 Madrier d'urunday, 1 Morceau de cuir de procoptodon, 1 Pépite de durium, 1 Émulsion d'esprit IV;2 Agrégat de glace, 2 Agrégat de vent;1;2900;70;19023
+Lit magique;Menuisier;80;Autre;4 Jasmin céleste, 3 Madrier d'orme enchanté, 4 Étoffe de veloutine;30 Agrégat de glace, 30 Agrégat de vent;1;7457;70;10920
+Madrier de santal blanc;Menuisier;80;Bois;4 Rondin de santal blanc, 2 Vernis de la halle;2 Agrégat de glace, 2 Agrégat de vent;1;4777;35;32753
+Ouranaute;Menuisier;80;Arme d'hast;3 Eau chimérique de force II, 2 Lingot d'acier au tungstène, 2 Madrier de santal blanc, 1 Onyx, 1 Pépite d'or pétré;2 Agrégat de glace, 2 Agrégat de vent;1;5645;70;37432
+Gendawa;Menuisier;80;Arme d'archer;3 Eau chimérique de dextérité II, 1 Lingot d'acier au tungstène, 3 Madrier de santal blanc, 1 Onyx, 1 Pépite d'or pétré;2 Agrégat de glace, 2 Agrégat de vent;1;5645;70;37432
+Catalyseur;Menuisier;80;Arme à deux mains d'occultiste;1 Barre iridescente, 3 Eau chimérique d'intelligence II, 1 Lingot d'acier au tungstène, 2 Madrier de santal blanc, 1 Onyx;2 Agrégat de glace, 2 Agrégat de vent;1;5645;70;37432
+Librevoie;Menuisier;80;Arme à deux mains d'élémentaliste;2 Barre iridescente, 3 Eau chimérique d'esprit II, 2 Madrier de santal blanc, 1 Onyx, 1 Pépite d'or pétré;2 Agrégat de glace, 2 Agrégat de vent;1;5645;70;37432
 Prisme mirage;Menuisier;15;Catalyseur;2 Madrier de noyer, 1 Prisme incolore;1 Cristal de glace, 1 Cristal de vent;1;27;70;807
 Bec des rafales;Menuisier;50;Arme d'hast;10 Demi-matéria de l'art militaire III, 3 Demi-matéria de la Souffleuse de rafales, 1 Lingot de cobalt, 3 Madrier de morta, 1 Plume de la Souffleuse de rafales;12 Cristal de vent;1;445;80;4980
 Arc des flammes;Menuisier;50;Arme d'archer;1 Corne du Seigneur des flammes, 10 Demi-matéria de l'art militaire III, 3 Demi-matéria du Seigneur des flammes, 3 Madrier de morta, 1 Tendon de raptor;12 Cristal de feu;1;445;80;4980
@@ -1528,6 +1535,7 @@ Grande épée en alliage de tungstène;Forgeron;60;Arme de chevalier noir;1 Cuir
 Griffes en alliage de tungstène;Forgeron;60;Arme de pugiliste;1 Cuir de saurien, 5 Demi-cristal, 4 Demi-matéria de l'art militaire III, 3 Lingot d'alliage de tungstène, 2 Lingot de scintillant, 1 Madrier de morta;3 Agrégat de feu, 3 Agrégat de terre;1;1968;70;13187
 Dagues en alliage de tungstène;Forgeron;60;Arme de surineur;5 Demi-cristal, 4 Demi-matéria de l'art militaire III, 3 Lingot d'alliage de tungstène, 2 Lingot de scintillant, 2 Étoffe de cachemire;3 Agrégat de feu, 3 Agrégat de terre;1;1968;70;13187
 Couleuvrine en alliage de tungstène;Forgeron;60;Arme de machiniste;5 Demi-cristal, 4 Demi-matéria de l'art militaire III, 3 Lingot d'alliage de tungstène, 2 Lingot de scintillant, 1 Madrier de morta, 1 Sable noir incandescent;3 Agrégat de feu, 3 Agrégat de terre;1;1968;70;13187
+Plaque de titane pur;Forgeron;70;Métal;9 Coke de houille, 3 Minerai de titane pur;6 Cristal de feu, 6 Cristal de terre;1;3149;70;14071
 Lingot de chromite;Forgeron;70;Métal;2 Anthracite spécial, 1 Lingot de molybdène, 4 Minerai de chromite;2 Agrégat de feu, 2 Agrégat de terre;1;3543;70;15837
 Épée en chromite;Forgeron;70;Arme de gladiateur;1 Cuir de gazelle, 2 Lingot de chromite, 1 Lingot de palladium, 2 Sable éthéréen prospère, 2 Émulsion de vitalité II;2 Agrégat de feu, 2 Agrégat de terre;1;3543;70;15837
 Hache en chromite;Forgeron;70;Arme de maraudeur;2 Lingot de chromite, 1 Lingot de molybdène, 2 Madrier de kaya, 3 Sable éthéréen prospère, 3 Émulsion de vitalité II;2 Agrégat de feu, 2 Agrégat de terre;1;3543;70;15837
@@ -1578,6 +1586,16 @@ Katana rakshasa;Forgeron;70;Arme de samouraï;3 Lingot d'acier chigusa, 1 Lingot
 Dagues rakshasa;Forgeron;70;Arme de surineur;2 Lingot d'acier chigusa, 1 Morceau de cuir de procoptodon, 3 Émulsion de dextérité IV, 1 Étoffe de coton poussière de comète;2 Agrégat de feu, 2 Agrégat de terre;1;2900;70;19023
 Arquebuse rakshasa;Forgeron;70;Arme de machiniste;3 Lingot d'acier chigusa, 1 Lingot d'oroshigane, 1 Lingot de pérennéclat, 1 Sable noir incandescent, 3 Émulsion de dextérité IV;2 Agrégat de feu, 2 Agrégat de terre;1;2900;70;19023
 Trophée d'Innocence;Forgeron;80;Mobilier mural;2 Lingot d'or incarnat, 2 Lingot de mithril noble, 1 Plume-épée d'Innocence;3 Agrégat de feu, 3 Agrégat de terre;1;7457;70;10920
+Lingot d'acier au tungstène;Forgeron;80;Métal;2 Abrasif de la halle, 4 Minerai de tungstène;2 Agrégat de feu, 2 Agrégat de terre;1;4777;35;32753
+Pourfendeuse;Forgeron;80;Arme de gladiateur;2 Eau chimérique de vitalité II, 2 Lingot d'acier au tungstène, 1 Onyx, 1 Pépite d'or pétré;2 Agrégat de feu, 2 Agrégat de terre;1;5645;70;37432
+Alastor;Forgeron;80;Arme de maraudeur;1 Barre iridescente, 3 Eau chimérique de vitalité II, 3 Lingot d'acier au tungstène, 1 Onyx, 1 Pépite d'or pétré;2 Agrégat de feu, 2 Agrégat de terre;1;5645;70;37432
+Langue rafale;Forgeron;80;Arme de chevalier noir;1 Barre iridescente, 3 Eau chimérique de vitalité II, 3 Lingot d'acier au tungstène, 1 Onyx, 1 Pépite d'or pétré;2 Agrégat de feu, 2 Agrégat de terre;1;5645;70;37432
+Tutélaire;Forgeron;80;Arme de pistosabreur;1 Barre iridescente, 3 Eau chimérique de vitalité II, 3 Lingot d'acier au tungstène, 1 Pépite d'or pétré;2 Agrégat de feu, 2 Agrégat de terre;1;5645;70;37432
+Burattinaios;Forgeron;80;Arme de pugiliste;2 Barre iridescente, 3 Eau chimérique de force II, 2 Lingot d'acier au tungstène, 1 Onyx, 1 Pépite d'or pétré;2 Agrégat de feu, 2 Agrégat de terre;1;5645;70;37432
+Sankhâra;Forgeron;80;Arme de samouraï;1 Barre iridescente, 3 Eau chimérique de force II, 3 Lingot d'acier au tungstène, 1 Pierre à aiguiser en tuf volcanique;2 Agrégat de feu, 2 Agrégat de terre;1;5645;70;37432
+Susurrantes;Forgeron;80;Arme de surineur;2 Barre iridescente, 3 Eau chimérique de dextérité II, 2 Lingot d'acier au tungstène, 1 Onyx, 1 Pépite d'or pétré;2 Agrégat de feu, 2 Agrégat de terre;1;5645;70;37432
+Meurtrier;Forgeron;80;Arme de machiniste;2 Barre iridescente, 3 Eau chimérique de dextérité II, 2 Lingot d'acier au tungstène, 1 Sable noir pourpré;2 Agrégat de feu, 2 Agrégat de terre;1;5645;70;37432
+Barathrum;Forgeron;80;Arme de danseur;1 Barre iridescente, 3 Eau chimérique de dextérité II, 3 Lingot d'acier au tungstène, 1 Pierre à aiguiser en tuf volcanique;2 Agrégat de feu, 2 Agrégat de terre;1;5645;70;37432
 Prisme mirage;Forgeron;15;Catalyseur;2 Lingot d'acier, 1 Prisme incolore;1 Cristal de feu, 1 Cristal de terre;1;27;70;807
 Katana des flammes;Forgeron;50;Arme de samouraï;1 Corne du Seigneur des flammes, 10 Demi-matéria de l'art militaire III, 3 Demi-matéria du Seigneur des flammes, 1 Lingot de cobalt, 3 Lingot de tungstène, 1 Pierre à aiguiser sédimentaire;12 Cristal de feu;1;445;80;4980
 Barbule des rafales;Forgeron;50;Arme de samouraï;10 Demi-matéria de l'art militaire III, 3 Demi-matéria de la Souffleuse de rafales, 1 Lingot d'électrum, 3 Lingot de tungstène, 1 Pierre à aiguiser sédimentaire, 1 Plume de la Souffleuse de rafales;12 Cristal de vent;1;445;80;4980
@@ -2203,57 +2221,57 @@ Bouclier en or incarnat;Armurier;73;Bouclier;2 Lingot d'or incarnat, 1 Lingot d'
 Cotte de mailles de protecteur en or incarnat;Armurier;73;Torse;1 Cuir de planeur vert, 2 Lingot d'or incarnat, 1 Lingot d'électrum, 1 Étoffe de soie iridescente;6 Cristal de glace, 6 Cristal de terre;1;3348;80;15625
 Surcot d'abatteur en or incarnat;Armurier;73;Torse;1 Cuir de planeur vert, 2 Lingot d'or incarnat, 1 Lingot d'électrum, 1 Étoffe de soie iridescente;6 Cristal de glace, 6 Cristal de terre;1;3348;80;15625
 Barre d'azuresprit;Armurier;74;Pierre;4 Pierre d'azuresprit, 1 Quartzite;7 Cristal de glace;1;1703;40;16091
-Casque de protecteur en azuresprit;Armurier;74;Tête;2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimèrique de vitalité I, 1 Pépite d'or rose;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
-Casque d'abatteur en azuresprit;Armurier;74;Tête;2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimèrique de force I, 1 Pépite d'or rose;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
-Protège-tête d'incantateur en azuresprit;Armurier;74;Tête;2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimèrique d'intelligence I, 1 Fil de coton pixie;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
-Gantelets de protecteur en azuresprit;Armurier;74;Mains;2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimèrique de vitalité I, 1 Pépite d'or rose;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
-Gantelets d'abatteur en azuresprit;Armurier;74;Mains;2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimèrique de force I, 1 Pépite d'or rose;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
-Ceinture de plaques de protecteur en azuresprit;Armurier;74;Ceinture;2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimèrique de vitalité I;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
-Ceinture de plaques d'abatteur en azuresprit;Armurier;74;Ceinture;2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimèrique de force I;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
-Ceinture de plaques d'agresseur en azuresprit;Armurier;74;Ceinture;2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimèrique de force I;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
-Ceinture de plaques d'éclaireur en azuresprit;Armurier;74;Ceinture;2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimèrique de dextérité I;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
-Ceinture de plaques de pisteur en azuresprit;Armurier;74;Ceinture;2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimèrique de dextérité I;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
-Ceinture de plaques d'incantateur en azuresprit;Armurier;74;Ceinture;2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimèrique d'intelligence I;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
-Ceinture de plaques de soigneur en azuresprit;Armurier;74;Ceinture;2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimèrique d'esprit I;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
-Sabatons de protecteur en azuresprit;Armurier;74;Pieds;2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimèrique de vitalité I, 1 Pépite d'or rose;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
-Sabatons d'abatteur en azuresprit;Armurier;74;Pieds;2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimèrique de force I, 1 Pépite de sombracier;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
-Jambards d'incantateur en azuresprit;Armurier;74;Pieds;2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimèrique d'intelligence I, 1 Pépite d'or rose;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
+Casque de protecteur en azuresprit;Armurier;74;Tête;2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimérique de vitalité I, 1 Pépite d'or rose;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
+Casque d'abatteur en azuresprit;Armurier;74;Tête;2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimérique de force I, 1 Pépite d'or rose;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
+Protège-tête d'incantateur en azuresprit;Armurier;74;Tête;2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimérique d'intelligence I, 1 Fil de coton pixie;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
+Gantelets de protecteur en azuresprit;Armurier;74;Mains;2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimérique de vitalité I, 1 Pépite d'or rose;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
+Gantelets d'abatteur en azuresprit;Armurier;74;Mains;2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimérique de force I, 1 Pépite d'or rose;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
+Ceinture de plaques de protecteur en azuresprit;Armurier;74;Ceinture;2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimérique de vitalité I;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
+Ceinture de plaques d'abatteur en azuresprit;Armurier;74;Ceinture;2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimérique de force I;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
+Ceinture de plaques d'agresseur en azuresprit;Armurier;74;Ceinture;2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimérique de force I;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
+Ceinture de plaques d'éclaireur en azuresprit;Armurier;74;Ceinture;2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimérique de dextérité I;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
+Ceinture de plaques de pisteur en azuresprit;Armurier;74;Ceinture;2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimérique de dextérité I;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
+Ceinture de plaques d'incantateur en azuresprit;Armurier;74;Ceinture;2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimérique d'intelligence I;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
+Ceinture de plaques de soigneur en azuresprit;Armurier;74;Ceinture;2 Barre d'azuresprit, 1 Cuir d'hippogriffe, 1 Eau chimérique d'esprit I;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
+Sabatons de protecteur en azuresprit;Armurier;74;Pieds;2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimérique de vitalité I, 1 Pépite d'or rose;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
+Sabatons d'abatteur en azuresprit;Armurier;74;Pieds;2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimérique de force I, 1 Pépite de sombracier;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
+Jambards d'incantateur en azuresprit;Armurier;74;Pieds;2 Barre d'azuresprit, 1 Cuir d'atrociraptor, 1 Eau chimérique d'intelligence I, 1 Pépite d'or rose;7 Cristal de glace, 6 Cristal de terre;1;3407;80;16091
 Alambic en azuresprit;Armurier;75;Outil principal d'alchimiste;3 Barre d'azuresprit, 1 Pépite de mana-argent;7 Cristal de glace, 6 Cristal de terre;1;3467;80;16557
 Poêle à frire porxie en azuresprit;Armurier;75;Outil principal de cuisinier;3 Barre d'azuresprit, 1 Madrier de frêne blanc;7 Cristal de glace, 6 Cristal de terre;1;3467;80;16557
 Pavois en azuresprit;Armurier;75;Bouclier;2 Barre d'azuresprit, 1 Pépite de mana-argent, 1 Pépite de sombracier, 1 Rubis étoilé;7 Cristal de glace, 6 Cristal de terre;1;3467;80;16557
-Cuirasse de protecteur en azuresprit;Armurier;75;Torse;3 Barre d'azuresprit, 1 Cuir d'atrociraptor, 2 Eau chimèrique de vitalité I, 2 Pépite d'or rose;7 Cristal de glace, 6 Cristal de terre;1;3467;80;16557
-Cuirasse d'abatteur en azuresprit;Armurier;75;Torse;3 Barre d'azuresprit, 1 Cuir d'atrociraptor, 2 Eau chimèrique de force I, 2 Pépite d'or rose;7 Cristal de glace, 6 Cristal de terre;1;3467;80;16557
+Cuirasse de protecteur en azuresprit;Armurier;75;Torse;3 Barre d'azuresprit, 1 Cuir d'atrociraptor, 2 Eau chimérique de vitalité I, 2 Pépite d'or rose;7 Cristal de glace, 6 Cristal de terre;1;3467;80;16557
+Cuirasse d'abatteur en azuresprit;Armurier;75;Torse;3 Barre d'azuresprit, 1 Cuir d'atrociraptor, 2 Eau chimérique de force I, 2 Pépite d'or rose;7 Cristal de glace, 6 Cristal de terre;1;3467;80;16557
 Lingot de bronze titané;Armurier;76;Métal;4 Minerai de bronze titané, 1 Minerai de titane;7 Cristal de glace;1;1763;40;17024
-Bandeau d'éclaireur en bronze titané;Armurier;76;Tête;1 Cuir de zonure, 1 Eau chimèrique de dextérité I, 2 Pépite de bronze titané, 1 Pépite de durargent;7 Cristal de glace, 6 Cristal de terre;1;3526;80;17024
-Tassette de protecteur en bronze titané;Armurier;76;Ceinture;1 Cuir de dhalmel, 1 Eau chimèrique de vitalité I, 2 Lingot de bronze titané;7 Cristal de glace, 6 Cristal de terre;1;3526;80;17024
-Tassette d'abatteur en bronze titané;Armurier;76;Ceinture;1 Cuir de dhalmel, 1 Eau chimèrique de force I, 2 Lingot de bronze titané;7 Cristal de glace, 6 Cristal de terre;1;3526;80;17024
-Tassette d'agresseur en bronze titané;Armurier;76;Ceinture;1 Cuir de dhalmel, 1 Eau chimèrique de force I, 2 Lingot de bronze titané;7 Cristal de glace, 6 Cristal de terre;1;3526;80;17024
-Tassette d'éclaireur en bronze titané;Armurier;76;Ceinture;1 Cuir de dhalmel, 1 Eau chimèrique de dextérité I, 2 Lingot de bronze titané;7 Cristal de glace, 6 Cristal de terre;1;3526;80;17024
-Tassette de pisteur en bronze titané;Armurier;76;Ceinture;1 Cuir de dhalmel, 1 Eau chimèrique de dextérité I, 2 Lingot de bronze titané;7 Cristal de glace, 6 Cristal de terre;1;3526;80;17024
-Tassette d'incantateur en bronze titané;Armurier;76;Ceinture;1 Cuir de dhalmel, 1 Eau chimèrique d'intelligence I, 2 Lingot de bronze titané;7 Cristal de glace, 6 Cristal de terre;1;3526;80;17024
-Tassette de soigneur en bronze titané;Armurier;76;Ceinture;1 Cuir de dhalmel, 1 Eau chimèrique d'esprit I, 2 Lingot de bronze titané;7 Cristal de glace, 6 Cristal de terre;1;3526;80;17024
+Bandeau d'éclaireur en bronze titané;Armurier;76;Tête;1 Cuir de zonure, 1 Eau chimérique de dextérité I, 2 Pépite de bronze titané, 1 Pépite de durargent;7 Cristal de glace, 6 Cristal de terre;1;3526;80;17024
+Tassette de protecteur en bronze titané;Armurier;76;Ceinture;1 Cuir de dhalmel, 1 Eau chimérique de vitalité I, 2 Lingot de bronze titané;7 Cristal de glace, 6 Cristal de terre;1;3526;80;17024
+Tassette d'abatteur en bronze titané;Armurier;76;Ceinture;1 Cuir de dhalmel, 1 Eau chimérique de force I, 2 Lingot de bronze titané;7 Cristal de glace, 6 Cristal de terre;1;3526;80;17024
+Tassette d'agresseur en bronze titané;Armurier;76;Ceinture;1 Cuir de dhalmel, 1 Eau chimérique de force I, 2 Lingot de bronze titané;7 Cristal de glace, 6 Cristal de terre;1;3526;80;17024
+Tassette d'éclaireur en bronze titané;Armurier;76;Ceinture;1 Cuir de dhalmel, 1 Eau chimérique de dextérité I, 2 Lingot de bronze titané;7 Cristal de glace, 6 Cristal de terre;1;3526;80;17024
+Tassette de pisteur en bronze titané;Armurier;76;Ceinture;1 Cuir de dhalmel, 1 Eau chimérique de dextérité I, 2 Lingot de bronze titané;7 Cristal de glace, 6 Cristal de terre;1;3526;80;17024
+Tassette d'incantateur en bronze titané;Armurier;76;Ceinture;1 Cuir de dhalmel, 1 Eau chimérique d'intelligence I, 2 Lingot de bronze titané;7 Cristal de glace, 6 Cristal de terre;1;3526;80;17024
+Tassette de soigneur en bronze titané;Armurier;76;Ceinture;1 Cuir de dhalmel, 1 Eau chimérique d'esprit I, 2 Lingot de bronze titané;7 Cristal de glace, 6 Cristal de terre;1;3526;80;17024
 Alambic en bronze titané;Armurier;77;Outil principal d'alchimiste;3 Lingot de bronze titané, 1 Pépite de bronze titané;7 Cristal de glace, 7 Cristal de terre;1;3586;80;17490
 Poêle à frire mog en bronze titané;Armurier;77;Outil principal de cuisinier;3 Lingot de bronze titané, 1 Madrier de teck des sables;7 Cristal de glace, 7 Cristal de terre;1;3586;80;17490
 Pavois en bronze titané;Armurier;77;Bouclier;2 Lingot de bronze titané, 1 Pépite de bronze titané, 1 Pépite de durargent;7 Cristal de glace, 7 Cristal de terre;1;3586;80;17490
 Lingot de mithril noble;Armurier;78;Métal;4 Minerai de mithril noble, 1 Minerai de mithrite;7 Cristal de glace;1;1822;40;17956
-Casque de protecteur en mithril noble;Armurier;78;Tête;1 Eau chimèrique de vitalité I, 2 Lingot de mithril noble, 2 Plume de tetrax, 1 Étoffe de coton nain;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
-Casque d'abatteur en mithril noble;Armurier;78;Tête;1 Eau chimèrique de force I, 2 Lingot de mithril noble, 2 Plume de tetrax, 1 Étoffe de coton nain;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
-Casque d'agresseur en mithril noble;Armurier;78;Tête;1 Eau chimèrique de force I, 2 Lingot de mithril noble, 2 Plume de tetrax, 1 Étoffe de coton nain;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
-Cotte de mailles de protecteur en mithril noble;Armurier;78;Torse;2 Crinière de halgai, 1 Cuir de glaucus, 2 Eau chimèrique de vitalité I, 1 Fil de lin blanc, 2 Lingot de mithril noble, 1 Étoffe de coton nain;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
-Cotte de mailles d'abatteur en mithril noble;Armurier;78;Torse;2 Crinière de halgai, 1 Cuir de glaucus, 2 Eau chimèrique de force I, 1 Fil de lin blanc, 2 Lingot de mithril noble, 1 Étoffe de coton nain;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
-Cotte de mailles d'agresseur en mithril noble;Armurier;78;Torse;2 Crinière de halgai, 1 Cuir de glaucus, 2 Eau chimèrique de force I, 1 Fil de lin blanc, 2 Lingot de mithril noble, 1 Étoffe de coton nain;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
-Ceinture de plaques de protecteur en mithril noble;Armurier;78;Ceinture;1 Eau chimèrique de vitalité I, 2 Lingot de mithril noble, 1 Pépite de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
-Ceinture de plaques d'abatteur en mithril noble;Armurier;78;Ceinture;1 Eau chimèrique de force I, 2 Lingot de mithril noble, 1 Pépite de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
-Chaussures de protecteur en mithril noble;Armurier;78;Pieds;1 Caoutchouc, 1 Cuir de glaucus, 1 Eau chimèrique de vitalité I, 1 Fil de lin blanc, 2 Lingot de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
-Chaussures d'abatteur en mithril noble;Armurier;78;Pieds;1 Caoutchouc, 1 Cuir de glaucus, 1 Eau chimèrique de force I, 1 Fil de lin blanc, 2 Lingot de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
-Chaussures d'éclaireur en mithril noble;Armurier;78;Pieds;1 Caoutchouc, 1 Cuir de glaucus, 1 Eau chimèrique de dextérité I, 1 Fil de lin blanc, 2 Lingot de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
-Chaussures de pisteur en mithril noble;Armurier;78;Pieds;1 Caoutchouc, 1 Cuir de glaucus, 1 Eau chimèrique de dextérité I, 1 Fil de lin blanc, 2 Lingot de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
+Casque de protecteur en mithril noble;Armurier;78;Tête;1 Eau chimérique de vitalité I, 2 Lingot de mithril noble, 2 Plume de tetrax, 1 Étoffe de coton nain;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
+Casque d'abatteur en mithril noble;Armurier;78;Tête;1 Eau chimérique de force I, 2 Lingot de mithril noble, 2 Plume de tetrax, 1 Étoffe de coton nain;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
+Casque d'agresseur en mithril noble;Armurier;78;Tête;1 Eau chimérique de force I, 2 Lingot de mithril noble, 2 Plume de tetrax, 1 Étoffe de coton nain;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
+Cotte de mailles de protecteur en mithril noble;Armurier;78;Torse;2 Crinière de halgai, 1 Cuir de glaucus, 2 Eau chimérique de vitalité I, 1 Fil de lin blanc, 2 Lingot de mithril noble, 1 Étoffe de coton nain;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
+Cotte de mailles d'abatteur en mithril noble;Armurier;78;Torse;2 Crinière de halgai, 1 Cuir de glaucus, 2 Eau chimérique de force I, 1 Fil de lin blanc, 2 Lingot de mithril noble, 1 Étoffe de coton nain;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
+Cotte de mailles d'agresseur en mithril noble;Armurier;78;Torse;2 Crinière de halgai, 1 Cuir de glaucus, 2 Eau chimérique de force I, 1 Fil de lin blanc, 2 Lingot de mithril noble, 1 Étoffe de coton nain;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
+Ceinture de plaques de protecteur en mithril noble;Armurier;78;Ceinture;1 Eau chimérique de vitalité I, 2 Lingot de mithril noble, 1 Pépite de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
+Ceinture de plaques d'abatteur en mithril noble;Armurier;78;Ceinture;1 Eau chimérique de force I, 2 Lingot de mithril noble, 1 Pépite de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
+Chaussures de protecteur en mithril noble;Armurier;78;Pieds;1 Caoutchouc, 1 Cuir de glaucus, 1 Eau chimérique de vitalité I, 1 Fil de lin blanc, 2 Lingot de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
+Chaussures d'abatteur en mithril noble;Armurier;78;Pieds;1 Caoutchouc, 1 Cuir de glaucus, 1 Eau chimérique de force I, 1 Fil de lin blanc, 2 Lingot de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
+Chaussures d'éclaireur en mithril noble;Armurier;78;Pieds;1 Caoutchouc, 1 Cuir de glaucus, 1 Eau chimérique de dextérité I, 1 Fil de lin blanc, 2 Lingot de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
+Chaussures de pisteur en mithril noble;Armurier;78;Pieds;1 Caoutchouc, 1 Cuir de glaucus, 1 Eau chimérique de dextérité I, 1 Fil de lin blanc, 2 Lingot de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3645;80;17956
 Bouclier nain en mithril noble;Armurier;79;Bouclier;1 Lingot d'or pétré, 2 Lingot de mithril noble, 1 Pépite de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3705;80;18422
-Ceinture de plaques d'agresseur en mithril noble;Armurier;79;Ceinture;1 Eau chimèrique de force I, 2 Lingot de mithril noble, 1 Pépite de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3705;80;18422
-Ceinture de plaques d'éclaireur en mithril noble;Armurier;79;Ceinture;1 Eau chimèrique de dextérité I, 2 Lingot de mithril noble, 1 Pépite de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3705;80;18422
-Ceinture de plaques de pisteur en mithril noble;Armurier;79;Ceinture;1 Eau chimèrique de dextérité I, 2 Lingot de mithril noble, 1 Pépite de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3705;80;18422
-Ceinture de plaques d'incantateur en mithril noble;Armurier;79;Ceinture;1 Eau chimèrique d'intelligence I, 2 Lingot de mithril noble, 1 Pépite de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3705;80;18422
-Ceinture de plaques de soigneur en mithril noble;Armurier;79;Ceinture;1 Eau chimèrique d'esprit I, 2 Lingot de mithril noble, 1 Pépite de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3705;80;18422
+Ceinture de plaques d'agresseur en mithril noble;Armurier;79;Ceinture;1 Eau chimérique de force I, 2 Lingot de mithril noble, 1 Pépite de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3705;80;18422
+Ceinture de plaques d'éclaireur en mithril noble;Armurier;79;Ceinture;1 Eau chimérique de dextérité I, 2 Lingot de mithril noble, 1 Pépite de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3705;80;18422
+Ceinture de plaques de pisteur en mithril noble;Armurier;79;Ceinture;1 Eau chimérique de dextérité I, 2 Lingot de mithril noble, 1 Pépite de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3705;80;18422
+Ceinture de plaques d'incantateur en mithril noble;Armurier;79;Ceinture;1 Eau chimérique d'intelligence I, 2 Lingot de mithril noble, 1 Pépite de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3705;80;18422
+Ceinture de plaques de soigneur en mithril noble;Armurier;79;Ceinture;1 Eau chimérique d'esprit I, 2 Lingot de mithril noble, 1 Pépite de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3705;80;18422
 Alambic en mithril noble;Armurier;80;Outil principal d'alchimiste;3 Lingot de mithril noble, 1 Pépite de mithril noble;7 Cristal de glace, 7 Cristal de terre;1;3943;80;20287
 Poêle à frire en mithril noble;Armurier;80;Outil principal de cuisinier;3 Lingot de mithril noble, 1 Madrier de gaïac;7 Cristal de glace, 7 Cristal de terre;1;3943;80;20287
 Fil de sombracier;Armurier;50;Métal;2 Pépite de sombracier;11 Éclat de glace, 10 Éclat de terre;1;419;80;5257
@@ -2413,6 +2431,7 @@ Tassette d'éclaireur en alliage de tungstène;Armurier;60;Ceinture;1 Cuir de sa
 Tassette de pisteur en alliage de tungstène;Armurier;60;Ceinture;1 Cuir de saurien, 1 Dissolvant de dextérité III, 1 Lanière en cuir de griffon, 2 Lingot d'alliage de tungstène;3 Agrégat de glace, 3 Agrégat de terre;1;1968;70;13187
 Sabatons de protecteur en alliage de tungstène;Armurier;60;Pieds;1 Cuir de saurien, 2 Dissolvant de vitalité III, 1 Lanière en cuir de griffon, 2 Lingot d'alliage de tungstène, 1 Lingot de scintillant;3 Agrégat de glace, 3 Agrégat de terre;1;1968;70;13187
 Sabatons d'abatteur en alliage de tungstène;Armurier;60;Pieds;1 Cuir de saurien, 2 Dissolvant de force III, 1 Lanière en cuir de griffon, 2 Lingot d'alliage de tungstène, 1 Lingot de scintillant;3 Agrégat de glace, 3 Agrégat de terre;1;1968;70;13187
+Plaque de titane pur;Armurier;70;Métal;9 Coke de houille, 3 Minerai de titane pur;6 Cristal de glace, 6 Cristal de terre;1;3149;70;14071
 Barde de Susano;Armurier;70;Autre;3 Crinière de halgai, 1 Cuir de gazelle, 2 Disthène, 1 Lame de Susano, 3 Lingot de molybdène;2 Agrégat de glace, 1 Agrégat de terre;1;1574;70;14071
 Figurine magitek de Susano;Armurier;70;Mobilier de table;2 Crinière de halgai, 1 Lame de Susano, 3 Lingot de molybdène, 1 Pépite de palladium;2 Agrégat de glace, 1 Agrégat de terre;1;5668;70;7035
 Lingot de chromite;Armurier;70;Métal;2 Anthracite spécial, 1 Lingot de molybdène, 4 Minerai de chromite;2 Agrégat de glace, 2 Agrégat de terre;1;3543;70;15837
@@ -2455,6 +2474,22 @@ Barde de Suzaku;Armurier;70;Autre;1 Cuir de marid, 2 Lingot de graçargent, 2 Li
 Barde de Seiryû;Armurier;70;Autre;1 Cuir de gazelle, 2 Lingot d'acier chigusa, 2 Lingot de pérennéclat, 1 Écailles de Seiryû;50 Cristal de glace, 50 Cristal de terre;1;7457;70;10568
 Barde de Titania;Armurier;80;Autre;1 Ailes de Titania, 3 Barre d'azuresprit, 2 Crinière de halgai, 1 Cuir d'atrociraptor, 1 Pépite de mithrite;50 Cristal de glace, 50 Cristal de terre;1;7457;70;10920
 Barde d'Innocence;Armurier;80;Autre;1 Lingot d'or pétré, 2 Lingot de mithrite, 1 Plume-épée d'Innocence, 1 Étoffe de coton nain;50 Cristal de glace, 50 Cristal de terre;1;7457;70;10920
+Lingot d'acier au tungstène;Armurier;80;Métal;2 Abrasif de la halle, 4 Minerai de tungstène;2 Agrégat de glace, 2 Agrégat de terre;1;4777;35;32753
+Dominus;Armurier;80;Bouclier;1 Eau chimérique de vitalité II, 2 Lingot d'acier au tungstène, 1 Pépite d'or pétré;2 Agrégat de glace, 2 Agrégat de terre;1;5645;70;37432
+Diadème d'abatteur de la halle;Armurier;80;Tête;1 Cuir de chalicotherium, 2 Eau chimérique de force II, 2 Lingot d'acier au tungstène, 1 Pépite d'or incarnat;2 Agrégat de glace, 2 Agrégat de terre;1;5645;70;37432
+Cotte de mailles de protecteur de la halle;Armurier;80;Torse;1 Barre iridescente, 2 Eau chimérique de vitalité II, 2 Lingot d'acier au tungstène, 1 Pépite d'or incarnat, 1 Étoffe mousseuse;2 Agrégat de glace, 2 Agrégat de terre;1;5645;70;37432
+Cotte de mailles d'abatteur de la halle;Armurier;80;Torse;1 Barre iridescente, 2 Eau chimérique de force II, 3 Lingot d'acier au tungstène, 1 Étoffe de coton nain;2 Agrégat de glace, 2 Agrégat de terre;1;5645;70;37432
+Gantelets de protecteur de la halle;Armurier;80;Mains;1 Barre iridescente, 2 Eau chimérique de vitalité II, 2 Lingot d'acier au tungstène, 1 Étoffe de coton nain;2 Agrégat de glace, 2 Agrégat de terre;1;5645;70;37432
+Gantelets d'abatteur de la halle;Armurier;80;Mains;1 Barre iridescente, 2 Eau chimérique de force II, 2 Lingot d'acier au tungstène, 1 Étoffe de coton nain;2 Agrégat de glace, 2 Agrégat de terre;1;5645;70;37432
+Ceinture de plaques de protecteur de la halle;Armurier;80;Ceinture;1 Barre iridescente, 1 Eau chimérique de vitalité II, 1 Lingot d'acier au tungstène, 1 Pépite d'or incarnat;2 Agrégat de glace, 2 Agrégat de terre;1;5645;70;37432
+Ceinture de plaques d'abatteur de la halle;Armurier;80;Ceinture;1 Barre iridescente, 1 Eau chimérique de force II, 1 Lingot d'acier au tungstène, 1 Pépite d'or incarnat;2 Agrégat de glace, 2 Agrégat de terre;1;5645;70;37432
+Ceinture de plaques d'agresseur de la halle;Armurier;80;Ceinture;1 Barre iridescente, 1 Eau chimérique de force II, 1 Lingot d'acier au tungstène, 1 Pépite d'or incarnat;2 Agrégat de glace, 2 Agrégat de terre;1;5645;70;37432
+Ceinture de plaques d'éclaireur de la halle;Armurier;80;Ceinture;1 Barre iridescente, 1 Eau chimérique de dextérité II, 1 Lingot d'acier au tungstène, 1 Pépite d'or incarnat;2 Agrégat de glace, 2 Agrégat de terre;1;5645;70;37432
+Ceinture de plaques de pisteur de la halle;Armurier;80;Ceinture;1 Barre iridescente, 1 Eau chimérique de dextérité II, 1 Lingot d'acier au tungstène, 1 Pépite d'or incarnat;2 Agrégat de glace, 2 Agrégat de terre;1;5645;70;37432
+Ceinture de plaques d'incantateur de la halle;Armurier;80;Ceinture;1 Barre iridescente, 1 Eau chimérique d'intelligence II, 1 Lingot d'acier au tungstène, 1 Pépite d'or incarnat;2 Agrégat de glace, 2 Agrégat de terre;1;5645;70;37432
+Ceinture de plaques de soigneur de la halle;Armurier;80;Ceinture;1 Barre iridescente, 1 Eau chimérique d'esprit II, 1 Lingot d'acier au tungstène, 1 Pépite d'or incarnat;2 Agrégat de glace, 2 Agrégat de terre;1;5645;70;37432
+Sabatons de protecteur de la halle;Armurier;80;Pieds;2 Eau chimérique de vitalité II, 2 Lingot d'acier au tungstène, 1 Étoffe mousseuse;2 Agrégat de glace, 2 Agrégat de terre;1;5645;70;37432
+Sabatons d'abatteur de la halle;Armurier;80;Pieds;2 Eau chimérique de force II, 2 Lingot d'acier au tungstène, 1 Étoffe mousseuse;2 Agrégat de glace, 2 Agrégat de terre;1;5645;70;37432
 Prisme mirage;Armurier;15;Catalyseur;1 Prisme incolore, 2 Rivets en acier;1 Cristal de glace, 1 Cristal de terre;1;27;70;807
 Cuirasse lourde en tungstène modifiée;Armurier;50;Torse;1 Cuirasse lourde en tungstène, 10 Demi-matéria de l'art militaire II, 1 Demi-matéria de l'art militaire III, 2 Plaquette de tungstène;2 Agrégat de glace, 1 Agrégat de terre;1;667;80;3735
 Cuirasse en tungstène modifiée;Armurier;50;Torse;1 Cuirasse en tungstène, 10 Demi-matéria de l'art militaire II, 1 Demi-matéria de l'art militaire III, 2 Plaquette de tungstène;2 Agrégat de glace, 1 Agrégat de terre;1;667;80;3735
@@ -3372,63 +3407,63 @@ Aiguille en mana-argent;Orfèvre;75;Outil principal de couturier;1 Lingot d'or p
 Bagues d'oreille en mana-argent;Orfèvre;75;Boucle d'oreille;1 Fil de doublesoie, 2 Pépite de mana-argent, 1 Étoffe de coton pixie;6 Cristal de feu, 7 Cristal de vent;1;3467;80;16557
 Ras de cou en mana-argent;Orfèvre;75;Collier;1 Fil de doublesoie, 2 Pépite de mana-argent, 1 Étoffe de coton pixie;6 Cristal de feu, 7 Cristal de vent;1;3467;80;16557
 Bracelets en mana-argent;Orfèvre;75;Bracelet;1 Fil de doublesoie, 2 Pépite de mana-argent, 1 Étoffe de coton pixie;6 Cristal de feu, 7 Cristal de vent;1;3467;80;16557
-Bague de protecteur en lazurite;Orfèvre;75;Bague;1 Eau chimèrique de vitalité I, 1 Lazurite, 1 Pépite de mana-argent;6 Cristal de feu, 7 Cristal de vent;1;3467;80;16557
-Bague d'attaquant en lazurite;Orfèvre;75;Bague;1 Eau chimèrique de force I, 1 Lazurite, 1 Pépite de mana-argent;6 Cristal de feu, 7 Cristal de vent;1;3467;80;16557
-Bague de pisteur en lazurite;Orfèvre;75;Bague;1 Eau chimèrique de dextérité I, 1 Lazurite, 1 Pépite de mana-argent;6 Cristal de feu, 7 Cristal de vent;1;3467;80;16557
-Bague d'incantateur en lazurite;Orfèvre;75;Bague;1 Eau chimèrique d'intelligence I, 1 Lazurite, 1 Pépite de mana-argent;6 Cristal de feu, 7 Cristal de vent;1;3467;80;16557
-Bague de soigneur en lazurite;Orfèvre;75;Bague;1 Eau chimèrique d'esprit I, 1 Lazurite, 1 Pépite de mana-argent;6 Cristal de feu, 7 Cristal de vent;1;3467;80;16557
+Bague de protecteur en lazurite;Orfèvre;75;Bague;1 Eau chimérique de vitalité I, 1 Lazurite, 1 Pépite de mana-argent;6 Cristal de feu, 7 Cristal de vent;1;3467;80;16557
+Bague d'attaquant en lazurite;Orfèvre;75;Bague;1 Eau chimérique de force I, 1 Lazurite, 1 Pépite de mana-argent;6 Cristal de feu, 7 Cristal de vent;1;3467;80;16557
+Bague de pisteur en lazurite;Orfèvre;75;Bague;1 Eau chimérique de dextérité I, 1 Lazurite, 1 Pépite de mana-argent;6 Cristal de feu, 7 Cristal de vent;1;3467;80;16557
+Bague d'incantateur en lazurite;Orfèvre;75;Bague;1 Eau chimérique d'intelligence I, 1 Lazurite, 1 Pépite de mana-argent;6 Cristal de feu, 7 Cristal de vent;1;3467;80;16557
+Bague de soigneur en lazurite;Orfèvre;75;Bague;1 Eau chimérique d'esprit I, 1 Lazurite, 1 Pépite de mana-argent;6 Cristal de feu, 7 Cristal de vent;1;3467;80;16557
 Bague en mana-argent;Orfèvre;75;Bague;1 Pépite de mana-argent, 1 Étoffe de coton pixie;6 Cristal de feu, 7 Cristal de vent;1;3467;80;16557
 Triphylite;Orfèvre;76;Pierre;1 Pierre à aiguiser en tuf volcanique, 3 Triphylite brute;7 Cristal de vent;1;1763;40;17024
 Pierre à aiguiser en tuf volcanique;Orfèvre;76;Pierre;3 Tuf volcanique;7 Cristal de vent;1;1763;40;17024
 Pépite de bronze titané;Orfèvre;76;Métal;1 Minerai de titane, 4 Sable de bronze titané;7 Cristal de vent;1;1763;40;17024
 Rapière en bronze titané;Orfèvre;76;Arme de mage rouge;1 Lingot de bronze titané, 2 Pépite de bronze titané, 1 Pépite de durargent, 1 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
 Globe céleste en bronze titané;Orfèvre;76;Arme d'astromancien;1 Encre de mithril sombre enchantée, 2 Pépite de bronze titané, 1 Pépite de durargent, 1 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
-Boucles d'oreilles de protecteur en triphylite;Orfèvre;76;Boucle d'oreille;1 Eau chimèrique de vitalité I, 1 Pépite de bronze titané, 2 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
-Boucles d'oreilles d'attaquant en triphylite;Orfèvre;76;Boucle d'oreille;1 Eau chimèrique de force I, 1 Pépite de bronze titané, 2 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
-Boucles d'oreilles de pisteur en triphylite;Orfèvre;76;Boucle d'oreille;1 Eau chimèrique de dextérité I, 1 Pépite de bronze titané, 2 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
-Boucles d'oreilles d'incantateur en triphylite;Orfèvre;76;Boucle d'oreille;1 Eau chimèrique d'intelligence I, 1 Pépite de bronze titané, 2 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
-Boucles d'oreilles de soigneur en triphylite;Orfèvre;76;Boucle d'oreille;1 Eau chimèrique d'esprit I, 1 Pépite de bronze titané, 2 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
-Bague de protecteur en triphylite;Orfèvre;76;Bague;1 Eau chimèrique de vitalité I, 1 Pépite de bronze titané, 1 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
-Bague d'attaquant en triphylite;Orfèvre;76;Bague;1 Eau chimèrique de force I, 1 Pépite de bronze titané, 1 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
-Bague de pisteur en triphylite;Orfèvre;76;Bague;1 Eau chimèrique de dextérité I, 1 Pépite de bronze titané, 1 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
-Bague d'incantateur en triphylite;Orfèvre;76;Bague;1 Eau chimèrique d'intelligence I, 1 Pépite de bronze titané, 1 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
-Bague de soigneur en triphylite;Orfèvre;76;Bague;1 Eau chimèrique d'esprit I, 1 Pépite de bronze titané, 1 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
+Boucles d'oreilles de protecteur en triphylite;Orfèvre;76;Boucle d'oreille;1 Eau chimérique de vitalité I, 1 Pépite de bronze titané, 2 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
+Boucles d'oreilles d'attaquant en triphylite;Orfèvre;76;Boucle d'oreille;1 Eau chimérique de force I, 1 Pépite de bronze titané, 2 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
+Boucles d'oreilles de pisteur en triphylite;Orfèvre;76;Boucle d'oreille;1 Eau chimérique de dextérité I, 1 Pépite de bronze titané, 2 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
+Boucles d'oreilles d'incantateur en triphylite;Orfèvre;76;Boucle d'oreille;1 Eau chimérique d'intelligence I, 1 Pépite de bronze titané, 2 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
+Boucles d'oreilles de soigneur en triphylite;Orfèvre;76;Boucle d'oreille;1 Eau chimérique d'esprit I, 1 Pépite de bronze titané, 2 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
+Bague de protecteur en triphylite;Orfèvre;76;Bague;1 Eau chimérique de vitalité I, 1 Pépite de bronze titané, 1 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
+Bague d'attaquant en triphylite;Orfèvre;76;Bague;1 Eau chimérique de force I, 1 Pépite de bronze titané, 1 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
+Bague de pisteur en triphylite;Orfèvre;76;Bague;1 Eau chimérique de dextérité I, 1 Pépite de bronze titané, 1 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
+Bague d'incantateur en triphylite;Orfèvre;76;Bague;1 Eau chimérique d'intelligence I, 1 Pépite de bronze titané, 1 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
+Bague de soigneur en triphylite;Orfèvre;76;Bague;1 Eau chimérique d'esprit I, 1 Pépite de bronze titané, 1 Triphylite;6 Cristal de feu, 7 Cristal de vent;1;3526;80;17024
 Aiguille en bronze titané;Orfèvre;77;Outil principal de couturier;1 Lingot de bronze titané, 1 Madrier de teck des sables, 1 Pierre à aiguiser en tuf volcanique, 2 Pépite de bronze titané;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
-Protège-tête de protecteur en bronze titané;Orfèvre;77;Tête;1 Cuir de zonure, 1 Eau chimèrique de vitalité I, 2 Pépite de bronze titané, 1 Pépite de durargent;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
-Protège-tête d'abatteur en bronze titané;Orfèvre;77;Tête;1 Cuir de zonure, 1 Eau chimèrique de force I, 2 Pépite de bronze titané, 1 Pépite de durargent;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
-Ras de cou de protecteur en triphylite;Orfèvre;77;Collier;1 Cuir de dhalmel, 1 Eau chimèrique de vitalité I, 2 Pépite de bronze titané, 1 Triphylite;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
-Ras de cou d'attaquant en triphylite;Orfèvre;77;Collier;1 Cuir de dhalmel, 1 Eau chimèrique de force I, 2 Pépite de bronze titané, 1 Triphylite;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
-Ras de cou de pisteur en triphylite;Orfèvre;77;Collier;1 Cuir de dhalmel, 1 Eau chimèrique de dextérité I, 2 Pépite de bronze titané, 1 Triphylite;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
-Ras de cou d'incantateur en triphylite;Orfèvre;77;Collier;1 Cuir de dhalmel, 1 Eau chimèrique d'intelligence I, 2 Pépite de bronze titané, 1 Triphylite;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
-Ras de cou de soigneur en triphylite;Orfèvre;77;Collier;1 Cuir de dhalmel, 1 Eau chimèrique d'esprit I, 2 Pépite de bronze titané, 1 Triphylite;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
-Bracelet de protecteur en triphylite;Orfèvre;77;Bracelet;1 Cuir de dhalmel, 1 Eau chimèrique de vitalité I, 1 Pépite de bronze titané, 2 Triphylite;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
-Bracelet d'attaquant en triphylite;Orfèvre;77;Bracelet;1 Cuir de dhalmel, 1 Eau chimèrique de force I, 1 Pépite de bronze titané, 2 Triphylite;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
-Bracelet de pisteur en triphylite;Orfèvre;77;Bracelet;1 Cuir de dhalmel, 1 Eau chimèrique de dextérité I, 1 Pépite de bronze titané, 2 Triphylite;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
-Bracelet d'incantateur en triphylite;Orfèvre;77;Bracelet;1 Cuir de dhalmel, 1 Eau chimèrique d'intelligence I, 1 Pépite de bronze titané, 2 Triphylite;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
-Bracelet de soigneur en triphylite;Orfèvre;77;Bracelet;1 Cuir de dhalmel, 1 Eau chimèrique d'esprit I, 1 Pépite de bronze titané, 2 Triphylite;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
+Protège-tête de protecteur en bronze titané;Orfèvre;77;Tête;1 Cuir de zonure, 1 Eau chimérique de vitalité I, 2 Pépite de bronze titané, 1 Pépite de durargent;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
+Protège-tête d'abatteur en bronze titané;Orfèvre;77;Tête;1 Cuir de zonure, 1 Eau chimérique de force I, 2 Pépite de bronze titané, 1 Pépite de durargent;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
+Ras de cou de protecteur en triphylite;Orfèvre;77;Collier;1 Cuir de dhalmel, 1 Eau chimérique de vitalité I, 2 Pépite de bronze titané, 1 Triphylite;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
+Ras de cou d'attaquant en triphylite;Orfèvre;77;Collier;1 Cuir de dhalmel, 1 Eau chimérique de force I, 2 Pépite de bronze titané, 1 Triphylite;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
+Ras de cou de pisteur en triphylite;Orfèvre;77;Collier;1 Cuir de dhalmel, 1 Eau chimérique de dextérité I, 2 Pépite de bronze titané, 1 Triphylite;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
+Ras de cou d'incantateur en triphylite;Orfèvre;77;Collier;1 Cuir de dhalmel, 1 Eau chimérique d'intelligence I, 2 Pépite de bronze titané, 1 Triphylite;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
+Ras de cou de soigneur en triphylite;Orfèvre;77;Collier;1 Cuir de dhalmel, 1 Eau chimérique d'esprit I, 2 Pépite de bronze titané, 1 Triphylite;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
+Bracelet de protecteur en triphylite;Orfèvre;77;Bracelet;1 Cuir de dhalmel, 1 Eau chimérique de vitalité I, 1 Pépite de bronze titané, 2 Triphylite;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
+Bracelet d'attaquant en triphylite;Orfèvre;77;Bracelet;1 Cuir de dhalmel, 1 Eau chimérique de force I, 1 Pépite de bronze titané, 2 Triphylite;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
+Bracelet de pisteur en triphylite;Orfèvre;77;Bracelet;1 Cuir de dhalmel, 1 Eau chimérique de dextérité I, 1 Pépite de bronze titané, 2 Triphylite;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
+Bracelet d'incantateur en triphylite;Orfèvre;77;Bracelet;1 Cuir de dhalmel, 1 Eau chimérique d'intelligence I, 1 Pépite de bronze titané, 2 Triphylite;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
+Bracelet de soigneur en triphylite;Orfèvre;77;Bracelet;1 Cuir de dhalmel, 1 Eau chimérique d'esprit I, 1 Pépite de bronze titané, 2 Triphylite;7 Cristal de feu, 7 Cristal de vent;1;3586;80;17490
 Pétalite;Orfèvre;78;Pierre;1 Pierre à aiguiser en tuf volcanique, 3 Pétalite brute;7 Cristal de vent;1;1822;40;17956
 Pépite de mithril noble;Orfèvre;78;Métal;4 Sable de mithril noble, 1 Sable de mithrite;7 Cristal de vent;1;1822;40;17956
 Rapière naine en mithril noble;Orfèvre;78;Arme de mage rouge;2 Lingot de mithril noble, 1 Madrier de gaïac, 1 Pépite d'or pétré, 1 Pépite de mithril noble;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
-Boucles d'oreilles de protecteur en pétalite;Orfèvre;78;Boucle d'oreille;1 Eau chimèrique de vitalité I, 1 Pépite de mithril noble, 2 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
-Boucles d'oreilles d'attaquant en pétalite;Orfèvre;78;Boucle d'oreille;1 Eau chimèrique de force I, 1 Pépite de mithril noble, 2 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
-Boucles d'oreilles de pisteur en pétalite;Orfèvre;78;Boucle d'oreille;1 Eau chimèrique de dextérité I, 1 Pépite de mithril noble, 2 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
-Boucles d'oreilles d'incantateur en pétalite;Orfèvre;78;Boucle d'oreille;1 Eau chimèrique d'intelligence I, 1 Pépite de mithril noble, 2 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
-Boucles d'oreilles de soigneur en pétalite;Orfèvre;78;Boucle d'oreille;1 Eau chimèrique d'esprit I, 1 Pépite de mithril noble, 2 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
-Bague de protecteur en pétalite;Orfèvre;78;Bague;1 Eau chimèrique de vitalité I, 1 Pépite de mithril noble, 1 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
-Bague d'attaquant en pétalite;Orfèvre;78;Bague;1 Eau chimèrique de force I, 1 Pépite de mithril noble, 1 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
-Bague de pisteur en pétalite;Orfèvre;78;Bague;1 Eau chimèrique de dextérité I, 1 Pépite de mithril noble, 1 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
-Bague d'incantateur en pétalite;Orfèvre;78;Bague;1 Eau chimèrique d'intelligence I, 1 Pépite de mithril noble, 1 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
-Bague de soigneur en pétalite;Orfèvre;78;Bague;1 Eau chimèrique d'esprit I, 1 Pépite de mithril noble, 1 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
-Ras de cou de protecteur en pétalite;Orfèvre;79;Collier;1 Eau chimèrique de vitalité I, 1 Pépite de mana-argent, 2 Pépite de mithril noble, 1 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3705;80;18422
-Ras de cou d'attaquant en pétalite;Orfèvre;79;Collier;1 Eau chimèrique de force I, 1 Pépite de mana-argent, 2 Pépite de mithril noble, 1 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3705;80;18422
-Ras de cou de pisteur en pétalite;Orfèvre;79;Collier;1 Eau chimèrique de dextérité I, 1 Pépite de mana-argent, 2 Pépite de mithril noble, 1 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3705;80;18422
-Ras de cou d'incantateur en pétalite;Orfèvre;79;Collier;1 Eau chimèrique d'intelligence I, 1 Pépite de mana-argent, 2 Pépite de mithril noble, 1 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3705;80;18422
-Ras de cou de soigneur en pétalite;Orfèvre;79;Collier;1 Eau chimèrique d'esprit I, 1 Pépite de mana-argent, 2 Pépite de mithril noble, 1 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3705;80;18422
-Bracelet de protecteur en pétalite;Orfèvre;79;Bracelet;1 Eau chimèrique de vitalité I, 1 Pépite de mana-argent, 1 Pépite de mithril noble, 2 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3705;80;18422
-Bracelet d'attaquant en pétalite;Orfèvre;79;Bracelet;1 Eau chimèrique de force I, 1 Pépite de mana-argent, 1 Pépite de mithril noble, 2 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3705;80;18422
-Bracelet de pisteur en pétalite;Orfèvre;79;Bracelet;1 Eau chimèrique de dextérité I, 1 Pépite de mana-argent, 1 Pépite de mithril noble, 2 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3705;80;18422
-Bracelet d'incantateur en pétalite;Orfèvre;79;Bracelet;1 Eau chimèrique d'intelligence I, 1 Pépite de mana-argent, 1 Pépite de mithril noble, 2 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3705;80;18422
-Bracelet de soigneur en pétalite;Orfèvre;79;Bracelet;1 Eau chimèrique d'esprit I, 1 Pépite de mana-argent, 1 Pépite de mithril noble, 2 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3705;80;18422
+Boucles d'oreilles de protecteur en pétalite;Orfèvre;78;Boucle d'oreille;1 Eau chimérique de vitalité I, 1 Pépite de mithril noble, 2 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
+Boucles d'oreilles d'attaquant en pétalite;Orfèvre;78;Boucle d'oreille;1 Eau chimérique de force I, 1 Pépite de mithril noble, 2 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
+Boucles d'oreilles de pisteur en pétalite;Orfèvre;78;Boucle d'oreille;1 Eau chimérique de dextérité I, 1 Pépite de mithril noble, 2 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
+Boucles d'oreilles d'incantateur en pétalite;Orfèvre;78;Boucle d'oreille;1 Eau chimérique d'intelligence I, 1 Pépite de mithril noble, 2 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
+Boucles d'oreilles de soigneur en pétalite;Orfèvre;78;Boucle d'oreille;1 Eau chimérique d'esprit I, 1 Pépite de mithril noble, 2 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
+Bague de protecteur en pétalite;Orfèvre;78;Bague;1 Eau chimérique de vitalité I, 1 Pépite de mithril noble, 1 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
+Bague d'attaquant en pétalite;Orfèvre;78;Bague;1 Eau chimérique de force I, 1 Pépite de mithril noble, 1 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
+Bague de pisteur en pétalite;Orfèvre;78;Bague;1 Eau chimérique de dextérité I, 1 Pépite de mithril noble, 1 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
+Bague d'incantateur en pétalite;Orfèvre;78;Bague;1 Eau chimérique d'intelligence I, 1 Pépite de mithril noble, 1 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
+Bague de soigneur en pétalite;Orfèvre;78;Bague;1 Eau chimérique d'esprit I, 1 Pépite de mithril noble, 1 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3645;80;17956
+Ras de cou de protecteur en pétalite;Orfèvre;79;Collier;1 Eau chimérique de vitalité I, 1 Pépite de mana-argent, 2 Pépite de mithril noble, 1 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3705;80;18422
+Ras de cou d'attaquant en pétalite;Orfèvre;79;Collier;1 Eau chimérique de force I, 1 Pépite de mana-argent, 2 Pépite de mithril noble, 1 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3705;80;18422
+Ras de cou de pisteur en pétalite;Orfèvre;79;Collier;1 Eau chimérique de dextérité I, 1 Pépite de mana-argent, 2 Pépite de mithril noble, 1 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3705;80;18422
+Ras de cou d'incantateur en pétalite;Orfèvre;79;Collier;1 Eau chimérique d'intelligence I, 1 Pépite de mana-argent, 2 Pépite de mithril noble, 1 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3705;80;18422
+Ras de cou de soigneur en pétalite;Orfèvre;79;Collier;1 Eau chimérique d'esprit I, 1 Pépite de mana-argent, 2 Pépite de mithril noble, 1 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3705;80;18422
+Bracelet de protecteur en pétalite;Orfèvre;79;Bracelet;1 Eau chimérique de vitalité I, 1 Pépite de mana-argent, 1 Pépite de mithril noble, 2 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3705;80;18422
+Bracelet d'attaquant en pétalite;Orfèvre;79;Bracelet;1 Eau chimérique de force I, 1 Pépite de mana-argent, 1 Pépite de mithril noble, 2 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3705;80;18422
+Bracelet de pisteur en pétalite;Orfèvre;79;Bracelet;1 Eau chimérique de dextérité I, 1 Pépite de mana-argent, 1 Pépite de mithril noble, 2 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3705;80;18422
+Bracelet d'incantateur en pétalite;Orfèvre;79;Bracelet;1 Eau chimérique d'intelligence I, 1 Pépite de mana-argent, 1 Pépite de mithril noble, 2 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3705;80;18422
+Bracelet de soigneur en pétalite;Orfèvre;79;Bracelet;1 Eau chimérique d'esprit I, 1 Pépite de mana-argent, 1 Pépite de mithril noble, 2 Pétalite;7 Cristal de feu, 7 Cristal de vent;1;3705;80;18422
 Onyx;Orfèvre;80;Pierre;3 Onyx brut, 1 Pierre à aiguiser en tuf volcanique;7 Cristal de vent;1;1971;40;20287
 Aiguille en mithril noble;Orfèvre;80;Outil principal de couturier;1 Lingot de mithril noble, 1 Madrier de gaïac, 1 Pierre à aiguiser en tuf volcanique, 2 Pépite de mithril noble;7 Cristal de feu, 7 Cristal de vent;1;3943;80;20287
 Bagues d'oreilles en mithril noble;Orfèvre;80;Boucle d'oreille;2 Pépite de mithril noble, 1 Étoffe de coton nain;7 Cristal de feu, 7 Cristal de vent;1;3943;80;20287
@@ -3685,6 +3720,31 @@ Bague rakshasa d'incantateur;Orfèvre;70;Bague;1 Lingot d'oroshigane, 2 Lingot d
 Bague rakshasa de soigneur;Orfèvre;70;Bague;1 Lingot d'oroshigane, 2 Lingot de pérennéclat, 1 Émulsion d'esprit IV;2 Agrégat de feu, 2 Agrégat de vent;1;2900;70;19023
 Statuette de Seiryû;Orfèvre;70;Mobilier de table;2 Lingot de graçargent, 1 Saphir étoilé, 1 Écailles de Seiryû;7 Cristal de feu, 7 Cristal de vent;1;7457;70;10568
 Effigie murale de Titania;Orfèvre;80;Mobilier mural;1 Ailes de Titania, 2 Madrier de gaïac, 2 Pépite de mithril noble;3 Agrégat de feu, 3 Agrégat de vent;1;7457;70;10920
+Barre iridescente;Orfèvre;80;Pierre;4 Cristal iridescent, 2 Résine de la halle;2 Agrégat de feu, 2 Agrégat de vent;1;4777;35;32753
+Merveilleuse;Orfèvre;80;Arme de mage rouge;3 Barre iridescente, 3 Eau chimérique d'intelligence II, 1 Lingot d'acier au tungstène, 1 Onyx, 1 Pépite d'or pétré;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Pollux;Orfèvre;80;Arme d'astromancien;2 Barre iridescente, 3 Eau chimérique d'esprit II, 2 Lingot d'acier au tungstène, 1 Onyx, 1 Pépite d'or pétré;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Diadème de protecteur de la halle;Orfèvre;80;Tête;2 Barre iridescente, 2 Eau chimérique de vitalité II, 1 Lingot d'acier au tungstène, 1 Onyx, 1 Pépite d'or incarnat;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Diadème d'agresseur de la halle;Orfèvre;80;Tête;2 Barre iridescente, 1 Cuir de chalicotherium, 2 Eau chimérique de force II, 1 Étoffe de coton nain;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Boucles d'oreilles de protecteur de la halle;Orfèvre;80;Boucle d'oreille;1 Barre iridescente, 1 Eau chimérique de vitalité II, 2 Onyx;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Boucles d'oreilles d'attaquant de la halle;Orfèvre;80;Boucle d'oreille;1 Barre iridescente, 1 Eau chimérique de force II, 2 Onyx;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Boucles d'oreilles de pisteur de la halle;Orfèvre;80;Boucle d'oreille;1 Barre iridescente, 1 Eau chimérique de dextérité II, 2 Onyx;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Boucles d'oreilles d'incantateur de la halle;Orfèvre;80;Boucle d'oreille;1 Barre iridescente, 1 Eau chimérique d'intelligence II, 2 Onyx;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Boucles d'oreilles de soigneur de la halle;Orfèvre;80;Boucle d'oreille;1 Barre iridescente, 1 Eau chimérique d'esprit II, 2 Onyx;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Ras de cou de protecteur de la halle;Orfèvre;80;Collier;1 Barre iridescente, 1 Eau chimérique de vitalité II, 2 Onyx;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Ras de cou d'attaquant de la halle;Orfèvre;80;Collier;1 Barre iridescente, 1 Eau chimérique de force II, 2 Onyx;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Ras de cou de pisteur de la halle;Orfèvre;80;Collier;1 Barre iridescente, 1 Eau chimérique de dextérité II, 2 Onyx;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Ras de cou d'incantateur de la halle;Orfèvre;80;Collier;1 Barre iridescente, 1 Eau chimérique d'intelligence II, 2 Onyx;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Ras de cou de soigneur de la halle;Orfèvre;80;Collier;1 Barre iridescente, 1 Eau chimérique d'esprit II, 2 Onyx;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Bracelet de protecteur de la halle;Orfèvre;80;Bracelet;1 Barre iridescente, 1 Eau chimérique de vitalité II, 2 Onyx;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Bracelet d'attaquant de la halle;Orfèvre;80;Bracelet;1 Barre iridescente, 1 Eau chimérique de force II, 2 Onyx;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Bracelet de pisteur de la halle;Orfèvre;80;Bracelet;1 Barre iridescente, 1 Eau chimérique de dextérité II, 2 Onyx;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Bracelet d'incantateur de la halle;Orfèvre;80;Bracelet;1 Barre iridescente, 1 Eau chimérique d'intelligence II, 2 Onyx;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Bracelet de soigneur de la halle;Orfèvre;80;Bracelet;1 Barre iridescente, 1 Eau chimérique d'esprit II, 2 Onyx;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Bague de protecteur de la halle;Orfèvre;80;Bague;1 Barre iridescente, 1 Eau chimérique de vitalité II, 1 Onyx;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Bague d'attaquant de la halle;Orfèvre;80;Bague;1 Barre iridescente, 1 Eau chimérique de force II, 1 Onyx;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Bague de pisteur de la halle;Orfèvre;80;Bague;1 Barre iridescente, 1 Eau chimérique de dextérité II, 1 Onyx;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Bague d'incantateur de la halle;Orfèvre;80;Bague;1 Barre iridescente, 1 Eau chimérique d'intelligence II, 1 Onyx;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
+Bague de soigneur de la halle;Orfèvre;80;Bague;1 Barre iridescente, 1 Eau chimérique d'esprit II, 1 Onyx;2 Agrégat de feu, 2 Agrégat de vent;1;5645;70;37432
 Prisme mirage;Orfèvre;15;Catalyseur;2 Lingot d'argent, 1 Prisme incolore;1 Cristal de feu, 1 Cristal de vent;1;27;70;807
 Boucles d'oreilles de cornemousse;Orfèvre;50;Boucle d'oreille;1 Corne moussue, 1 Cuir d'Uraeus, 10 Demi-matéria de l'artifice I, 1 Pépite d'or rose;2 Cristal de feu, 3 Cristal de vent;1;195;80;2646
 Boucles d'oreilles des ressources en or rose;Orfèvre;50;Boucle d'oreille;10 Demi-matéria de l'artifice I, 1 Pierre à aiguiser basilic, 1 Pépite d'or rose;2 Cristal de feu, 3 Cristal de vent;1;195;80;2646
@@ -4632,77 +4692,77 @@ Cuissardes de protecteur en cuir de planeur vert;Tanneur;73;Pieds;1 Caoutchouc, 
 Bottes d'incantateur en cuir de planeur vert;Tanneur;73;Pieds;1 Caoutchouc, 2 Cuir de planeur vert, 3 Fil de soie iridescente;6 Cristal de terre, 6 Cristal de vent;1;3348;80;15625
 Bottes de soigneur en cuir de planeur vert;Tanneur;73;Pieds;1 Caoutchouc, 2 Cuir de planeur vert, 3 Fil de soie iridescente;6 Cristal de terre, 6 Cristal de vent;1;3348;80;15625
 Cuir d'atrociraptor;Tanneur;74;Cuir;1 Alun jaune, 4 Peau d'atrociraptor;7 Cristal de terre;1;1703;40;16091
-Protège-tête d'éclaireur en cuir d'atrociraptor;Tanneur;74;Tête;1 Barre d'azuresprit, 2 Cuir d'atrociraptor, 1 Eau chimèrique de dextérité I, 1 Fil arc-en-ciel, 1 Glu de scarabée;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
-Protège-tête de pisteur en cuir d'atrociraptor;Tanneur;74;Tête;1 Barre d'azuresprit, 2 Cuir d'atrociraptor, 1 Eau chimèrique de dextérité I, 1 Fil arc-en-ciel, 1 Glu de scarabée;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
+Protège-tête d'éclaireur en cuir d'atrociraptor;Tanneur;74;Tête;1 Barre d'azuresprit, 2 Cuir d'atrociraptor, 1 Eau chimérique de dextérité I, 1 Fil arc-en-ciel, 1 Glu de scarabée;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
+Protège-tête de pisteur en cuir d'atrociraptor;Tanneur;74;Tête;1 Barre d'azuresprit, 2 Cuir d'atrociraptor, 1 Eau chimérique de dextérité I, 1 Fil arc-en-ciel, 1 Glu de scarabée;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
 Casquette des ressources en cuir d'atrociraptor;Tanneur;74;Tête;2 Cuir d'atrociraptor, 1 Fil de coton pixie, 1 Pépite de mana-argent;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
 Gilet des ressources en cuir d'atrociraptor;Tanneur;74;Torse;2 Cuir d'atrociraptor, 2 Fil de coton pixie, 1 Triphane, 1 Étoffe de coton pixie;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
-Garde-bras d'éclaireur en cuir d'atrociraptor;Tanneur;74;Mains;2 Cuir d'atrociraptor, 1 Eau chimèrique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite de sombracier, 1 Étoffe de coton pixie;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
-Garde-bras de pisteur en cuir d'atrociraptor;Tanneur;74;Mains;2 Cuir d'atrociraptor, 1 Eau chimèrique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite de sombracier, 1 Étoffe de coton pixie;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
-Brassières d'incantateur en cuir d'atrociraptor;Tanneur;74;Mains;1 Barre d'azuresprit, 2 Cuir d'atrociraptor, 1 Eau chimèrique d'intelligence I, 1 Fil de coton pixie, 1 Pépite de sombracier;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
-Garde-bras de soigneur en cuir d'atrociraptor;Tanneur;74;Mains;2 Cuir d'atrociraptor, 1 Eau chimèrique d'esprit I, 1 Fil de coton pixie, 1 Pépite d'or rose, 1 Étoffe de soie iridescente;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
+Garde-bras d'éclaireur en cuir d'atrociraptor;Tanneur;74;Mains;2 Cuir d'atrociraptor, 1 Eau chimérique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite de sombracier, 1 Étoffe de coton pixie;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
+Garde-bras de pisteur en cuir d'atrociraptor;Tanneur;74;Mains;2 Cuir d'atrociraptor, 1 Eau chimérique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite de sombracier, 1 Étoffe de coton pixie;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
+Brassières d'incantateur en cuir d'atrociraptor;Tanneur;74;Mains;1 Barre d'azuresprit, 2 Cuir d'atrociraptor, 1 Eau chimérique d'intelligence I, 1 Fil de coton pixie, 1 Pépite de sombracier;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
+Garde-bras de soigneur en cuir d'atrociraptor;Tanneur;74;Mains;2 Cuir d'atrociraptor, 1 Eau chimérique d'esprit I, 1 Fil de coton pixie, 1 Pépite d'or rose, 1 Étoffe de soie iridescente;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
 Gants des ressources en cuir d'atrociraptor;Tanneur;74;Mains;2 Cuir d'atrociraptor, 1 Fil de coton pixie, 1 Pépite de mana-argent;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
-Cuissardes d'agresseur en cuir d'atrociraptor;Tanneur;74;Pieds;1 Caoutchouc, 2 Cuir d'atrociraptor, 1 Eau chimèrique de force I, 1 Fil arc-en-ciel, 1 Étoffe de coton pixie;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
-Protège-jambes d'éclaireur en cuir d'atrociraptor;Tanneur;74;Pieds;1 Caoutchouc, 2 Cuir d'atrociraptor, 1 Eau chimèrique de dextérité I, 1 Pépite de sombracier, 1 Étoffe de coton pixie;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
-Protège-jambes de pisteur en cuir d'atrociraptor;Tanneur;74;Pieds;1 Caoutchouc, 2 Cuir d'atrociraptor, 1 Eau chimèrique de dextérité I, 1 Pépite de sombracier, 1 Étoffe de coton pixie;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
-Bottes de soigneur en cuir d'atrociraptor;Tanneur;74;Pieds;1 Caoutchouc, 3 Cuir d'atrociraptor, 1 Eau chimèrique d'esprit I, 1 Fil de coton pixie, 1 Pépite de sombracier;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
+Cuissardes d'agresseur en cuir d'atrociraptor;Tanneur;74;Pieds;1 Caoutchouc, 2 Cuir d'atrociraptor, 1 Eau chimérique de force I, 1 Fil arc-en-ciel, 1 Étoffe de coton pixie;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
+Protège-jambes d'éclaireur en cuir d'atrociraptor;Tanneur;74;Pieds;1 Caoutchouc, 2 Cuir d'atrociraptor, 1 Eau chimérique de dextérité I, 1 Pépite de sombracier, 1 Étoffe de coton pixie;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
+Protège-jambes de pisteur en cuir d'atrociraptor;Tanneur;74;Pieds;1 Caoutchouc, 2 Cuir d'atrociraptor, 1 Eau chimérique de dextérité I, 1 Pépite de sombracier, 1 Étoffe de coton pixie;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
+Bottes de soigneur en cuir d'atrociraptor;Tanneur;74;Pieds;1 Caoutchouc, 3 Cuir d'atrociraptor, 1 Eau chimérique d'esprit I, 1 Fil de coton pixie, 1 Pépite de sombracier;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
 Bottes des créations en cuir d'atrociraptor;Tanneur;74;Pieds;1 Caoutchouc, 2 Cuir d'atrociraptor, 1 Pépite de mana-argent, 1 Étoffe de coton pixie;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
 Bottes des ressources en cuir d'atrociraptor;Tanneur;74;Pieds;1 Caoutchouc, 2 Cuir d'atrociraptor, 1 Fil de coton pixie, 1 Pépite de mana-argent;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
-Amulette de protecteur en cuir d'atrociraptor;Tanneur;74;Bracelet;1 Cuir d'atrociraptor, 1 Eau chimèrique de vitalité I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
-Amulette d'attaquant en cuir d'atrociraptor;Tanneur;74;Bracelet;1 Cuir d'atrociraptor, 1 Eau chimèrique de force I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
-Amulette de pisteur en cuir d'atrociraptor;Tanneur;74;Bracelet;1 Cuir d'atrociraptor, 1 Eau chimèrique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
-Amulette d'incantateur en cuir d'atrociraptor;Tanneur;74;Bracelet;1 Cuir d'atrociraptor, 1 Eau chimèrique d'intelligence I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
-Amulette de soigneur en cuir d'atrociraptor;Tanneur;74;Bracelet;1 Cuir d'atrociraptor, 1 Eau chimèrique d'esprit I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
-Jaseran d'éclaireur en cuir d'atrociraptor;Tanneur;75;Torse;1 Barre d'azuresprit, 3 Cuir d'atrociraptor, 2 Eau chimèrique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
-Jaseran de pisteur en cuir d'atrociraptor;Tanneur;75;Torse;1 Barre d'azuresprit, 2 Cuir d'atrociraptor, 2 Eau chimèrique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
-Manteau d'incantateur en cuir d'atrociraptor;Tanneur;75;Torse;3 Cuir d'atrociraptor, 2 Eau chimèrique d'intelligence I, 1 Fil de coton pixie, 1 Pépite de sombracier, 1 Étoffe de coton pixie;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
+Amulette de protecteur en cuir d'atrociraptor;Tanneur;74;Bracelet;1 Cuir d'atrociraptor, 1 Eau chimérique de vitalité I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
+Amulette d'attaquant en cuir d'atrociraptor;Tanneur;74;Bracelet;1 Cuir d'atrociraptor, 1 Eau chimérique de force I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
+Amulette de pisteur en cuir d'atrociraptor;Tanneur;74;Bracelet;1 Cuir d'atrociraptor, 1 Eau chimérique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
+Amulette d'incantateur en cuir d'atrociraptor;Tanneur;74;Bracelet;1 Cuir d'atrociraptor, 1 Eau chimérique d'intelligence I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
+Amulette de soigneur en cuir d'atrociraptor;Tanneur;74;Bracelet;1 Cuir d'atrociraptor, 1 Eau chimérique d'esprit I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent;7 Cristal de terre, 6 Cristal de vent;1;3407;80;16091
+Jaseran d'éclaireur en cuir d'atrociraptor;Tanneur;75;Torse;1 Barre d'azuresprit, 3 Cuir d'atrociraptor, 2 Eau chimérique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
+Jaseran de pisteur en cuir d'atrociraptor;Tanneur;75;Torse;1 Barre d'azuresprit, 2 Cuir d'atrociraptor, 2 Eau chimérique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
+Manteau d'incantateur en cuir d'atrociraptor;Tanneur;75;Torse;3 Cuir d'atrociraptor, 2 Eau chimérique d'intelligence I, 1 Fil de coton pixie, 1 Pépite de sombracier, 1 Étoffe de coton pixie;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
 Ceinture de survie en cuir d'atrociraptor;Tanneur;75;Ceinture;2 Cuir d'atrociraptor, 1 Fil de coton pixie;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
-Braies de protecteur en cuir d'atrociraptor;Tanneur;75;Jambes;3 Cuir d'atrociraptor, 2 Eau chimèrique de vitalité I, 1 Pépite d'or rose, 1 Étoffe de coton pixie;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
-Braies d'abatteur en cuir d'atrociraptor;Tanneur;75;Jambes;3 Cuir d'atrociraptor, 2 Eau chimèrique de force I, 1 Pépite d'or rose, 1 Étoffe de coton pixie;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
-Collier de protecteur en cuir d'atrociraptor;Tanneur;75;Collier;1 Cuir d'atrociraptor, 1 Eau chimèrique de vitalité I, 1 Lazurite, 1 Pépite d'or rose;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
-Collier d'attaquant en cuir d'atrociraptor;Tanneur;75;Collier;1 Cuir d'atrociraptor, 1 Eau chimèrique de force I, 1 Lazurite, 1 Pépite d'or rose;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
-Collier de pisteur en cuir d'atrociraptor;Tanneur;75;Collier;1 Cuir d'atrociraptor, 1 Eau chimèrique de dextérité I, 1 Lazurite, 1 Pépite d'or rose;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
-Collier d'incantateur en cuir d'atrociraptor;Tanneur;75;Collier;1 Cuir d'atrociraptor, 1 Eau chimèrique d'intelligence I, 1 Lazurite, 1 Pépite d'or rose;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
-Collier de soigneur en cuir d'atrociraptor;Tanneur;75;Collier;1 Cuir d'atrociraptor, 1 Eau chimèrique d'esprit I, 1 Lazurite, 1 Pépite d'or rose;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
+Braies de protecteur en cuir d'atrociraptor;Tanneur;75;Jambes;3 Cuir d'atrociraptor, 2 Eau chimérique de vitalité I, 1 Pépite d'or rose, 1 Étoffe de coton pixie;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
+Braies d'abatteur en cuir d'atrociraptor;Tanneur;75;Jambes;3 Cuir d'atrociraptor, 2 Eau chimérique de force I, 1 Pépite d'or rose, 1 Étoffe de coton pixie;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
+Collier de protecteur en cuir d'atrociraptor;Tanneur;75;Collier;1 Cuir d'atrociraptor, 1 Eau chimérique de vitalité I, 1 Lazurite, 1 Pépite d'or rose;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
+Collier d'attaquant en cuir d'atrociraptor;Tanneur;75;Collier;1 Cuir d'atrociraptor, 1 Eau chimérique de force I, 1 Lazurite, 1 Pépite d'or rose;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
+Collier de pisteur en cuir d'atrociraptor;Tanneur;75;Collier;1 Cuir d'atrociraptor, 1 Eau chimérique de dextérité I, 1 Lazurite, 1 Pépite d'or rose;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
+Collier d'incantateur en cuir d'atrociraptor;Tanneur;75;Collier;1 Cuir d'atrociraptor, 1 Eau chimérique d'intelligence I, 1 Lazurite, 1 Pépite d'or rose;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
+Collier de soigneur en cuir d'atrociraptor;Tanneur;75;Collier;1 Cuir d'atrociraptor, 1 Eau chimérique d'esprit I, 1 Lazurite, 1 Pépite d'or rose;7 Cristal de terre, 6 Cristal de vent;1;3467;80;16557
 Cuir de zonure;Tanneur;76;Cuir;1 Alun jaune, 4 Peau de zonure;7 Cristal de terre;1;1763;40;17024
-Gants sans doigts d'agresseur en cuir de zonure;Tanneur;76;Mains;2 Cuir de zonure, 1 Eau chimèrique de force I, 1 Fil de ramie, 1 Étoffe de laine d'ovim;7 Cristal de terre, 6 Cristal de vent;1;3526;80;17024
-Gants sans doigts d'éclaireur en cuir de zonure;Tanneur;76;Mains;2 Cuir de zonure, 1 Eau chimèrique de dextérité I, 1 Pépite de titane, 1 Étoffe de laine d'ovim;7 Cristal de terre, 6 Cristal de vent;1;3526;80;17024
-Gants sans doigts de pisteur en cuir de zonure;Tanneur;76;Mains;2 Cuir de zonure, 1 Eau chimèrique de dextérité I, 1 Fil de ramie, 1 Étoffe de laine d'ovim;7 Cristal de terre, 6 Cristal de vent;1;3526;80;17024
-Gants sans doigts d'incantateur en cuir de zonure;Tanneur;76;Mains;2 Cuir de zonure, 1 Eau chimèrique d'intelligence I, 1 Pépite de titane, 1 Étoffe de laine d'ovim;7 Cristal de terre, 6 Cristal de vent;1;3526;80;17024
-Gants sans doigts de soigneur en cuir de zonure;Tanneur;76;Mains;2 Cuir de zonure, 1 Eau chimèrique d'esprit I, 1 Fil de ramie, 1 Étoffe de laine d'ovim;7 Cristal de terre, 6 Cristal de vent;1;3526;80;17024
-Caligae d'agresseur en cuir de zonure;Tanneur;76;Pieds;1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimèrique de force I, 1 Pépite de titane, 1 Étoffe de laine d'ovim;7 Cristal de terre, 6 Cristal de vent;1;3526;80;17024
-Caligae d'éclaireur en cuir de zonure;Tanneur;76;Pieds;2 Cuir de zonure, 1 Eau chimèrique de dextérité I, 1 Fil de ramie, 1 Étoffe de laine d'ovim;7 Cristal de terre, 6 Cristal de vent;1;3526;80;17024
-Sandales de pisteur en cuir de zonure;Tanneur;76;Pieds;1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimèrique de dextérité I, 1 Étoffe de laine d'ovim;7 Cristal de terre, 6 Cristal de vent;1;3526;80;17024
-Sandales d'incantateur en cuir de zonure;Tanneur;76;Pieds;1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimèrique d'intelligence I, 1 Étoffe de laine d'ovim;7 Cristal de terre, 6 Cristal de vent;1;3526;80;17024
-Caligae de soigneur en cuir de zonure;Tanneur;76;Pieds;1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimèrique d'esprit I, 1 Lingot de bronze titané;7 Cristal de terre, 6 Cristal de vent;1;3526;80;17024
-Manteau de protecteur en cuir de zonure;Tanneur;77;Torse;3 Cuir de zonure, 2 Eau chimèrique de vitalité I, 1 Fil de ramie, 1 Pépite de titane, 1 Étoffe de laine d'ovim;7 Cristal de terre, 7 Cristal de vent;1;3586;80;17490
-Manteau d'abatteur en cuir de zonure;Tanneur;77;Torse;3 Cuir de zonure, 2 Eau chimèrique de force I, 1 Fil de ramie, 1 Pépite de titane, 1 Étoffe de laine d'ovim;7 Cristal de terre, 7 Cristal de vent;1;3586;80;17490
+Gants sans doigts d'agresseur en cuir de zonure;Tanneur;76;Mains;2 Cuir de zonure, 1 Eau chimérique de force I, 1 Fil de ramie, 1 Étoffe de laine d'ovim;7 Cristal de terre, 6 Cristal de vent;1;3526;80;17024
+Gants sans doigts d'éclaireur en cuir de zonure;Tanneur;76;Mains;2 Cuir de zonure, 1 Eau chimérique de dextérité I, 1 Pépite de titane, 1 Étoffe de laine d'ovim;7 Cristal de terre, 6 Cristal de vent;1;3526;80;17024
+Gants sans doigts de pisteur en cuir de zonure;Tanneur;76;Mains;2 Cuir de zonure, 1 Eau chimérique de dextérité I, 1 Fil de ramie, 1 Étoffe de laine d'ovim;7 Cristal de terre, 6 Cristal de vent;1;3526;80;17024
+Gants sans doigts d'incantateur en cuir de zonure;Tanneur;76;Mains;2 Cuir de zonure, 1 Eau chimérique d'intelligence I, 1 Pépite de titane, 1 Étoffe de laine d'ovim;7 Cristal de terre, 6 Cristal de vent;1;3526;80;17024
+Gants sans doigts de soigneur en cuir de zonure;Tanneur;76;Mains;2 Cuir de zonure, 1 Eau chimérique d'esprit I, 1 Fil de ramie, 1 Étoffe de laine d'ovim;7 Cristal de terre, 6 Cristal de vent;1;3526;80;17024
+Caligae d'agresseur en cuir de zonure;Tanneur;76;Pieds;1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimérique de force I, 1 Pépite de titane, 1 Étoffe de laine d'ovim;7 Cristal de terre, 6 Cristal de vent;1;3526;80;17024
+Caligae d'éclaireur en cuir de zonure;Tanneur;76;Pieds;2 Cuir de zonure, 1 Eau chimérique de dextérité I, 1 Fil de ramie, 1 Étoffe de laine d'ovim;7 Cristal de terre, 6 Cristal de vent;1;3526;80;17024
+Sandales de pisteur en cuir de zonure;Tanneur;76;Pieds;1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimérique de dextérité I, 1 Étoffe de laine d'ovim;7 Cristal de terre, 6 Cristal de vent;1;3526;80;17024
+Sandales d'incantateur en cuir de zonure;Tanneur;76;Pieds;1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimérique d'intelligence I, 1 Étoffe de laine d'ovim;7 Cristal de terre, 6 Cristal de vent;1;3526;80;17024
+Caligae de soigneur en cuir de zonure;Tanneur;76;Pieds;1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimérique d'esprit I, 1 Lingot de bronze titané;7 Cristal de terre, 6 Cristal de vent;1;3526;80;17024
+Manteau de protecteur en cuir de zonure;Tanneur;77;Torse;3 Cuir de zonure, 2 Eau chimérique de vitalité I, 1 Fil de ramie, 1 Pépite de titane, 1 Étoffe de laine d'ovim;7 Cristal de terre, 7 Cristal de vent;1;3586;80;17490
+Manteau d'abatteur en cuir de zonure;Tanneur;77;Torse;3 Cuir de zonure, 2 Eau chimérique de force I, 1 Fil de ramie, 1 Pépite de titane, 1 Étoffe de laine d'ovim;7 Cristal de terre, 7 Cristal de vent;1;3586;80;17490
 Jaque des créations en cuir de zonure;Tanneur;77;Torse;2 Cuir de zonure, 2 Fil de laine d'ovim, 1 Pépite de bronze titané, 1 Étoffe de laine d'ovim;7 Cristal de terre, 7 Cristal de vent;1;3586;80;17490
 Robe des ressources en cuir de zonure;Tanneur;77;Torse;2 Cuir de zonure, 2 Fil de laine d'ovim, 1 Pépite de bronze titané, 1 Étoffe de laine d'ovim;7 Cristal de terre, 7 Cristal de vent;1;3586;80;17490
-Gants sans doigts de protecteur en cuir de zonure;Tanneur;77;Mains;2 Cuir de zonure, 1 Eau chimèrique de vitalité I, 1 Fil de ramie, 1 Étoffe de laine d'ovim;7 Cristal de terre, 7 Cristal de vent;1;3586;80;17490
-Gants sans doigts d'abatteur en cuir de zonure;Tanneur;77;Mains;2 Cuir de zonure, 1 Eau chimèrique de force I, 1 Fil de ramie, 1 Étoffe de laine d'ovim;7 Cristal de terre, 7 Cristal de vent;1;3586;80;17490
+Gants sans doigts de protecteur en cuir de zonure;Tanneur;77;Mains;2 Cuir de zonure, 1 Eau chimérique de vitalité I, 1 Fil de ramie, 1 Étoffe de laine d'ovim;7 Cristal de terre, 7 Cristal de vent;1;3586;80;17490
+Gants sans doigts d'abatteur en cuir de zonure;Tanneur;77;Mains;2 Cuir de zonure, 1 Eau chimérique de force I, 1 Fil de ramie, 1 Étoffe de laine d'ovim;7 Cristal de terre, 7 Cristal de vent;1;3586;80;17490
 Gants des créations en cuir de zonure;Tanneur;77;Mains;1 Cuir de zonure, 1 Diaspore, 1 Fil de laine d'ovim, 1 Pépite de bronze titané;7 Cristal de terre, 7 Cristal de vent;1;3586;80;17490
 Gants des ressources en cuir de zonure;Tanneur;77;Mains;1 Cuir de zonure, 1 Diaspore, 1 Fil de laine d'ovim, 1 Pépite de bronze titané;7 Cristal de terre, 7 Cristal de vent;1;3586;80;17490
-Caligae de protecteur en cuir de zonure;Tanneur;77;Pieds;1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimèrique de vitalité I, 1 Pépite de titane, 1 Étoffe de laine d'ovim;7 Cristal de terre, 7 Cristal de vent;1;3586;80;17490
-Caligae d'abatteur en cuir de zonure;Tanneur;77;Pieds;1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimèrique de force I, 1 Pépite de titane, 1 Étoffe de laine d'ovim;7 Cristal de terre, 7 Cristal de vent;1;3586;80;17490
+Caligae de protecteur en cuir de zonure;Tanneur;77;Pieds;1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimérique de vitalité I, 1 Pépite de titane, 1 Étoffe de laine d'ovim;7 Cristal de terre, 7 Cristal de vent;1;3586;80;17490
+Caligae d'abatteur en cuir de zonure;Tanneur;77;Pieds;1 Caoutchouc, 2 Cuir de zonure, 1 Eau chimérique de force I, 1 Pépite de titane, 1 Étoffe de laine d'ovim;7 Cristal de terre, 7 Cristal de vent;1;3586;80;17490
 Chaussures des créations en cuir de zonure;Tanneur;77;Pieds;1 Caoutchouc, 2 Cuir de zonure, 1 Fil de laine d'ovim, 1 Pépite de bronze titané;7 Cristal de terre, 7 Cristal de vent;1;3586;80;17490
 Chaussures des ressources en cuir de zonure;Tanneur;77;Pieds;1 Caoutchouc, 2 Cuir de zonure, 1 Fil de laine d'ovim, 1 Pépite de bronze titané;7 Cristal de terre, 7 Cristal de vent;1;3586;80;17490
 Cuir de glaucus;Tanneur;78;Cuir;1 Alun jaune, 4 Peau de glaucus;7 Cristal de terre;1;1822;40;17956
-Jaque d'éclaireur en cuir de glaucus;Tanneur;78;Torse;1 Crinière de halgai, 2 Cuir de glaucus, 2 Eau chimèrique de dextérité I, 1 Fil de lin blanc, 1 Pétalite, 1 Étoffe de coton nain;7 Cristal de terre, 7 Cristal de vent;1;3645;80;17956
-Robe de pisteur en cuir de glaucus;Tanneur;78;Torse;1 Crinière de halgai, 2 Cuir de glaucus, 2 Eau chimèrique de dextérité I, 1 Fil de lin blanc, 1 Pétalite, 1 Étoffe de coton nain;7 Cristal de terre, 7 Cristal de vent;1;3645;80;17956
-Gants de protecteur en cuir de glaucus;Tanneur;78;Mains;2 Cuir de glaucus, 1 Eau chimèrique de vitalité I, 1 Fil de lin blanc, 1 Étoffe de coton nain;7 Cristal de terre, 7 Cristal de vent;1;3645;80;17956
-Gants d'abatteur en cuir de glaucus;Tanneur;78;Mains;2 Cuir de glaucus, 1 Eau chimèrique de force I, 1 Fil de lin blanc, 1 Étoffe de coton nain;7 Cristal de terre, 7 Cristal de vent;1;3645;80;17956
-Gants d'agresseur en cuir de glaucus;Tanneur;78;Mains;2 Cuir de glaucus, 1 Eau chimèrique de force I, 1 Fil de lin blanc, 1 Étoffe de coton nain;7 Cristal de terre, 7 Cristal de vent;1;3645;80;17956
-Gants d'éclaireur en cuir de glaucus;Tanneur;78;Mains;2 Cuir de glaucus, 1 Eau chimèrique de dextérité I, 1 Pépite d'or pétré, 1 Pépite de mithril noble;7 Cristal de terre, 7 Cristal de vent;1;3645;80;17956
-Gants de pisteur en cuir de glaucus;Tanneur;78;Mains;2 Cuir de glaucus, 1 Eau chimèrique de dextérité I, 1 Pépite d'or pétré, 1 Pépite de mithril noble;7 Cristal de terre, 7 Cristal de vent;1;3645;80;17956
-Chaussures d'agresseur en cuir de glaucus;Tanneur;78;Pieds;1 Caoutchouc, 2 Cuir de glaucus, 1 Eau chimèrique de force I, 1 Fil de lin blanc, 1 Étoffe de coton nain;7 Cristal de terre, 7 Cristal de vent;1;3645;80;17956
-Robe d'incantateur en cuir de glaucus;Tanneur;79;Torse;1 Crinière de halgai, 2 Cuir de glaucus, 2 Eau chimèrique d'intelligence I, 1 Fil de lin blanc, 1 Pétalite, 1 Étoffe de coton nain;7 Cristal de terre, 7 Cristal de vent;1;3705;80;18422
-Robe de soigneur en cuir de glaucus;Tanneur;79;Torse;1 Crinière de halgai, 2 Cuir de glaucus, 2 Eau chimèrique d'esprit I, 1 Fil de lin blanc, 1 Pétalite, 1 Étoffe de coton nain;7 Cristal de terre, 7 Cristal de vent;1;3705;80;18422
-Gants d'incantateur en cuir de glaucus;Tanneur;79;Mains;2 Cuir de glaucus, 1 Eau chimèrique d'intelligence I, 1 Pépite d'or pétré, 1 Pépite de mithril noble;7 Cristal de terre, 7 Cristal de vent;1;3705;80;18422
-Gants de soigneur en cuir de glaucus;Tanneur;79;Mains;2 Cuir de glaucus, 1 Eau chimèrique d'esprit I, 1 Pépite d'or pétré, 1 Pépite de mithril noble;7 Cristal de terre, 7 Cristal de vent;1;3705;80;18422
+Jaque d'éclaireur en cuir de glaucus;Tanneur;78;Torse;1 Crinière de halgai, 2 Cuir de glaucus, 2 Eau chimérique de dextérité I, 1 Fil de lin blanc, 1 Pétalite, 1 Étoffe de coton nain;7 Cristal de terre, 7 Cristal de vent;1;3645;80;17956
+Robe de pisteur en cuir de glaucus;Tanneur;78;Torse;1 Crinière de halgai, 2 Cuir de glaucus, 2 Eau chimérique de dextérité I, 1 Fil de lin blanc, 1 Pétalite, 1 Étoffe de coton nain;7 Cristal de terre, 7 Cristal de vent;1;3645;80;17956
+Gants de protecteur en cuir de glaucus;Tanneur;78;Mains;2 Cuir de glaucus, 1 Eau chimérique de vitalité I, 1 Fil de lin blanc, 1 Étoffe de coton nain;7 Cristal de terre, 7 Cristal de vent;1;3645;80;17956
+Gants d'abatteur en cuir de glaucus;Tanneur;78;Mains;2 Cuir de glaucus, 1 Eau chimérique de force I, 1 Fil de lin blanc, 1 Étoffe de coton nain;7 Cristal de terre, 7 Cristal de vent;1;3645;80;17956
+Gants d'agresseur en cuir de glaucus;Tanneur;78;Mains;2 Cuir de glaucus, 1 Eau chimérique de force I, 1 Fil de lin blanc, 1 Étoffe de coton nain;7 Cristal de terre, 7 Cristal de vent;1;3645;80;17956
+Gants d'éclaireur en cuir de glaucus;Tanneur;78;Mains;2 Cuir de glaucus, 1 Eau chimérique de dextérité I, 1 Pépite d'or pétré, 1 Pépite de mithril noble;7 Cristal de terre, 7 Cristal de vent;1;3645;80;17956
+Gants de pisteur en cuir de glaucus;Tanneur;78;Mains;2 Cuir de glaucus, 1 Eau chimérique de dextérité I, 1 Pépite d'or pétré, 1 Pépite de mithril noble;7 Cristal de terre, 7 Cristal de vent;1;3645;80;17956
+Chaussures d'agresseur en cuir de glaucus;Tanneur;78;Pieds;1 Caoutchouc, 2 Cuir de glaucus, 1 Eau chimérique de force I, 1 Fil de lin blanc, 1 Étoffe de coton nain;7 Cristal de terre, 7 Cristal de vent;1;3645;80;17956
+Robe d'incantateur en cuir de glaucus;Tanneur;79;Torse;1 Crinière de halgai, 2 Cuir de glaucus, 2 Eau chimérique d'intelligence I, 1 Fil de lin blanc, 1 Pétalite, 1 Étoffe de coton nain;7 Cristal de terre, 7 Cristal de vent;1;3705;80;18422
+Robe de soigneur en cuir de glaucus;Tanneur;79;Torse;1 Crinière de halgai, 2 Cuir de glaucus, 2 Eau chimérique d'esprit I, 1 Fil de lin blanc, 1 Pétalite, 1 Étoffe de coton nain;7 Cristal de terre, 7 Cristal de vent;1;3705;80;18422
+Gants d'incantateur en cuir de glaucus;Tanneur;79;Mains;2 Cuir de glaucus, 1 Eau chimérique d'intelligence I, 1 Pépite d'or pétré, 1 Pépite de mithril noble;7 Cristal de terre, 7 Cristal de vent;1;3705;80;18422
+Gants de soigneur en cuir de glaucus;Tanneur;79;Mains;2 Cuir de glaucus, 1 Eau chimérique d'esprit I, 1 Pépite d'or pétré, 1 Pépite de mithril noble;7 Cristal de terre, 7 Cristal de vent;1;3705;80;18422
 Ceinture à outils en cuir de glaucus;Tanneur;79;Ceinture;2 Cuir de glaucus, 1 Fil de coton nain;7 Cristal de terre, 7 Cristal de vent;1;3705;80;18422
 Ceinture de survie en cuir de glaucus;Tanneur;79;Ceinture;2 Cuir de glaucus, 1 Fil de coton nain;7 Cristal de terre, 7 Cristal de vent;1;3705;80;18422
-Chaussures d'incantateur en cuir de glaucus;Tanneur;79;Pieds;1 Caoutchouc, 2 Cuir de glaucus, 1 Eau chimèrique d'intelligence I, 1 Fil de lin blanc, 1 Pépite de mithril noble;7 Cristal de terre, 7 Cristal de vent;1;3705;80;18422
-Chaussures de soigneur en cuir de glaucus;Tanneur;79;Pieds;1 Caoutchouc, 2 Cuir de glaucus, 1 Eau chimèrique d'esprit I, 1 Fil de lin blanc, 1 Pépite de mithril noble;7 Cristal de terre, 7 Cristal de vent;1;3705;80;18422
+Chaussures d'incantateur en cuir de glaucus;Tanneur;79;Pieds;1 Caoutchouc, 2 Cuir de glaucus, 1 Eau chimérique d'intelligence I, 1 Fil de lin blanc, 1 Pépite de mithril noble;7 Cristal de terre, 7 Cristal de vent;1;3705;80;18422
+Chaussures de soigneur en cuir de glaucus;Tanneur;79;Pieds;1 Caoutchouc, 2 Cuir de glaucus, 1 Eau chimérique d'esprit I, 1 Fil de lin blanc, 1 Pépite de mithril noble;7 Cristal de terre, 7 Cristal de vent;1;3705;80;18422
 Manteau en cuir de glaucus;Tanneur;80;Torse;2 Cuir de glaucus, 2 Fil de coton nain, 1 Pépite de mithril noble, 1 Étoffe de coton nain;7 Cristal de terre, 7 Cristal de vent;1;3943;80;20287
 Gants sans doigts en cuir de glaucus;Tanneur;80;Mains;2 Cuir de glaucus, 1 Fil de coton nain, 1 Étoffe de coton nain;7 Cristal de terre, 7 Cristal de vent;1;3943;80;20287
 Gants en cuir de glaucus;Tanneur;80;Mains;2 Cuir de glaucus, 1 Fil de coton nain, 1 Pépite de mithril noble;7 Cristal de terre, 7 Cristal de vent;1;3943;80;20287
@@ -5041,6 +5101,22 @@ Zôri rakshasa de pisteur;Tanneur;70;Pieds;1 Fil d'akaso, 1 Lingot de pérennéc
 Zôri rakshasa d'incantateur;Tanneur;70;Pieds;1 Madrier d'urunday, 2 Morceau de cuir de procoptodon, 1 Émulsion d'intelligence IV, 1 Étoffe de rubicoton;2 Agrégat de terre, 2 Agrégat de vent;1;2900;70;19023
 Zôri rakshasa de soigneur;Tanneur;70;Pieds;1 Madrier d'urunday, 2 Morceau de cuir de procoptodon, 1 Émulsion d'esprit IV, 1 Étoffe de rubicoton;2 Agrégat de terre, 2 Agrégat de vent;1;2900;70;19023
 Chaussures en cuir de bœuf;Tanneur;80;Pieds;1 Cuir d'atrociraptor, 2 Cuir de bœuf, 1 Fil de coton pixie, 1 Pépite d'or pétré;7 Cristal de terre, 7 Cristal de vent;1;4143;70;21841
+Veste à capuche en cuir verni;Tanneur;80;Torse;3 Cuir verni, 2 Fil de coton pixie, 1 Pépite d'or pétré, 1 Étoffe de coton pixie;7 Cristal de terre, 7 Cristal de vent;1;4143;70;21841
+Veste à capuche d'aventurier;Tanneur;80;Torse;3 Cuir verni, 2 Fil de coton pixie, 1 Pépite d'or pétré, 2 Étoffe de coton pixie;7 Cristal de terre, 7 Cristal de vent;1;4143;70;21841
+Pantalon court en cuir verni;Tanneur;80;Jambes;2 Cuir verni, 1 Fil de coton pixie, 1 Pépite d'or pétré, 1 Étoffe de coton pixie;7 Cristal de terre, 7 Cristal de vent;1;4143;70;21841
+Cuir de chalicotherium;Tanneur;80;Cuir;2 Alun de la halle, 4 Peau de chalicotherium;2 Agrégat de terre, 2 Agrégat de vent;1;4777;35;32753
+Cyclas d'agresseur de la halle;Tanneur;80;Torse;2 Cuir de chalicotherium, 2 Eau chimérique de force II, 1 Étoffe de coton nain, 2 Étoffe mousseuse;2 Agrégat de terre, 2 Agrégat de vent;1;5645;70;37432
+Gants d'agresseur de la halle;Tanneur;80;Mains;2 Cuir de chalicotherium, 2 Eau chimérique de force II, 1 Lingot d'acier au tungstène, 1 Étoffe de coton nain;2 Agrégat de terre, 2 Agrégat de vent;1;5645;70;37432
+Gants d'éclaireur de la halle;Tanneur;80;Mains;2 Cuir de chalicotherium, 2 Eau chimérique de dextérité II, 1 Lingot d'acier au tungstène, 1 Étoffe de coton nain;2 Agrégat de terre, 2 Agrégat de vent;1;5645;70;37432
+Mitaines d'incantateur de la halle;Tanneur;80;Mains;2 Cuir de chalicotherium, 2 Eau chimérique d'intelligence II, 1 Lingot d'acier au tungstène, 1 Étoffe de coton nain;2 Agrégat de terre, 2 Agrégat de vent;1;5645;70;37432
+Fuseau de mailles de protecteur de la halle;Tanneur;80;Jambes;2 Cuir de chalicotherium, 2 Eau chimérique de vitalité II, 1 Lingot d'acier au tungstène, 1 Étoffe mousseuse;2 Agrégat de terre, 2 Agrégat de vent;1;5645;70;37432
+Bas-de-corps d'abatteur de la halle;Tanneur;80;Jambes;2 Cuir de chalicotherium, 2 Eau chimérique de force II, 2 Étoffe mousseuse;2 Agrégat de terre, 2 Agrégat de vent;1;5645;70;37432
+Bas-de-corps d'éclaireur de la halle;Tanneur;80;Jambes;2 Cuir de chalicotherium, 2 Eau chimérique de dextérité II, 1 Étoffe de coton nain, 2 Étoffe mousseuse;2 Agrégat de terre, 2 Agrégat de vent;1;5645;70;37432
+Sandales d'agresseur de la halle;Tanneur;80;Pieds;2 Cuir de chalicotherium, 2 Eau chimérique de force II, 1 Madrier de santal blanc, 1 Étoffe de coton nain;2 Agrégat de terre, 2 Agrégat de vent;1;5645;70;37432
+Cuissardes d'éclaireur de la halle;Tanneur;80;Pieds;2 Cuir de chalicotherium, 2 Eau chimérique de dextérité II, 1 Madrier de santal blanc, 1 Pépite d'or incarnat;2 Agrégat de terre, 2 Agrégat de vent;1;5645;70;37432
+Bottes de pisteur de la halle;Tanneur;80;Pieds;2 Cuir de chalicotherium, 2 Eau chimérique de dextérité II, 1 Madrier de santal blanc, 1 Pépite d'or incarnat;2 Agrégat de terre, 2 Agrégat de vent;1;5645;70;37432
+Bottes d'incantateur de la halle;Tanneur;80;Pieds;2 Cuir de chalicotherium, 2 Eau chimérique d'intelligence II, 1 Madrier de santal blanc, 1 Pépite d'or pétré;2 Agrégat de terre, 2 Agrégat de vent;1;5645;70;37432
+Bottes de soigneur de la halle;Tanneur;80;Pieds;2 Cuir de chalicotherium, 2 Eau chimérique d'esprit II, 1 Madrier de santal blanc, 1 Pépite d'or pétré;2 Agrégat de terre, 2 Agrégat de vent;1;5645;70;37432
 Prisme mirage;Tanneur;15;Catalyseur;2 Cuir de crapaud, 1 Prisme incolore;1 Cristal de terre, 1 Cristal de vent;1;27;70;807
 Talisman coeurl;Tanneur;50;Torse;1 Coton imperméable, 5 Demi-matéria de l'artifice I, 1 Fourrure de coeurl, 1 Lapis-lazuli, 1 Lingot d'argent;3 Cristal de terre, 2 Cristal de vent;1;195;80;2646
 Haut de plage coeurl;Tanneur;50;Torse;1 Coton imperméable, 5 Demi-matéria de l'artifice I, 1 Fil de soie, 2 Fourrure de coeurl;3 Cristal de terre, 2 Cristal de vent;1;195;80;2646
@@ -5859,57 +5935,57 @@ Bas-de-corps d'incantateur en soie iridescente;Couturier;73;Jambes;1 Cuir de pla
 Bas-de-corps de soigneur en soie iridescente;Couturier;73;Jambes;1 Cuir de planeur vert, 1 Fil de soie, 3 Étoffe de soie iridescente;6 Cristal de foudre, 6 Cristal de vent;1;3348;80;15625
 Étoffe de coton pixie;Couturier;74;Tissu;3 Fil de coton pixie;7 Cristal de foudre;1;1703;40;16091
 Fil de coton pixie;Couturier;74;Tissu;4 Fleur de coton pixie;7 Cristal de foudre;1;1703;40;16091
-Chapeau d'agresseur en coton pixie;Couturier;74;Tête;1 Cuir d'atrociraptor, 1 Eau chimèrique de force I, 1 Fil arc-en-ciel, 2 Plume de tetrax, 2 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3407;80;16091
-Capuche de soigneur en coton pixie;Couturier;74;Tête;1 Cuir d'atrociraptor, 1 Eau chimèrique d'esprit I, 1 Fil de coton pixie, 1 Pépite d'or rose, 2 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3407;80;16091
+Chapeau d'agresseur en coton pixie;Couturier;74;Tête;1 Cuir d'atrociraptor, 1 Eau chimérique de force I, 1 Fil arc-en-ciel, 2 Plume de tetrax, 2 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3407;80;16091
+Capuche de soigneur en coton pixie;Couturier;74;Tête;1 Cuir d'atrociraptor, 1 Eau chimérique d'esprit I, 1 Fil de coton pixie, 1 Pépite d'or rose, 2 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3407;80;16091
 Chapeau des créations en coton pixie;Couturier;74;Tête;1 Cuir d'atrociraptor, 1 Fil de coton pixie, 2 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3407;80;16091
 Tablier des créations en coton pixie;Couturier;74;Torse;1 Cuir d'atrociraptor, 2 Fil de coton pixie, 1 Pépite d'or pétré, 2 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3407;80;16091
-Gants longs d'agresseur en coton pixie;Couturier;74;Mains;1 Cuir d'atrociraptor, 1 Eau chimèrique de force I, 1 Fil arc-en-ciel, 1 Pépite d'or rose, 2 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3407;80;16091
+Gants longs d'agresseur en coton pixie;Couturier;74;Mains;1 Cuir d'atrociraptor, 1 Eau chimérique de force I, 1 Fil arc-en-ciel, 1 Pépite d'or rose, 2 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3407;80;16091
 Gants longs des créations en coton pixie;Couturier;74;Mains;1 Fil de coton pixie, 1 Pépite de mana-argent, 2 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3407;80;16091
 Braies des créations en coton pixie;Couturier;74;Jambes;1 Cuir d'atrociraptor, 1 Fil de coton pixie, 1 Pépite de mana-argent, 2 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3407;80;16091
 Trousses des ressources en coton pixie;Couturier;74;Jambes;1 Cuir d'atrociraptor, 1 Fil de coton pixie, 1 Pépite de mana-argent, 2 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3407;80;16091
-Doublet armant d'agresseur en coton pixie;Couturier;75;Torse;1 Cuir d'atrociraptor, 2 Eau chimèrique de force I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent, 2 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3467;80;16557
-Robe de soigneur en coton pixie;Couturier;75;Torse;1 Cuir d'atrociraptor, 2 Eau chimèrique d'esprit I, 1 Fil de coton pixie, 1 Pépite d'or rose, 2 Étoffe de coton pixie, 1 Étoffe de soie iridescente;7 Cristal de foudre, 6 Cristal de vent;1;3467;80;16557
+Doublet armant d'agresseur en coton pixie;Couturier;75;Torse;1 Cuir d'atrociraptor, 2 Eau chimérique de force I, 1 Fil arc-en-ciel, 1 Pépite de mana-argent, 2 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3467;80;16557
+Robe de soigneur en coton pixie;Couturier;75;Torse;1 Cuir d'atrociraptor, 2 Eau chimérique d'esprit I, 1 Fil de coton pixie, 1 Pépite d'or rose, 2 Étoffe de coton pixie, 1 Étoffe de soie iridescente;7 Cristal de foudre, 6 Cristal de vent;1;3467;80;16557
 Écharpe en coton pixie;Couturier;75;Ceinture;1 Fil de coton pixie, 2 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3467;80;16557
-Culotte d'agresseur en coton pixie;Couturier;75;Jambes;1 Cuir d'atrociraptor, 2 Eau chimèrique de force I, 1 Fil arc-en-ciel, 1 Pépite d'or rose, 3 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3467;80;16557
-Brailles d'éclaireur en coton pixie;Couturier;75;Jambes;2 Cuir d'atrociraptor, 2 Eau chimèrique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite d'or rose, 2 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3467;80;16557
-Brailles de pisteur en coton pixie;Couturier;75;Jambes;2 Cuir d'atrociraptor, 2 Eau chimèrique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite d'or rose, 2 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3467;80;16557
-Trousses d'incantateur en coton pixie;Couturier;75;Jambes;1 Cuir d'atrociraptor, 2 Eau chimèrique d'intelligence I, 1 Fil de coton pixie, 1 Pépite de sombracier, 3 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3467;80;16557
-Trousses de soigneur en coton pixie;Couturier;75;Jambes;2 Cuir d'atrociraptor, 2 Eau chimèrique d'esprit I, 1 Fil de coton pixie, 1 Pépite d'or rose, 2 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3467;80;16557
+Culotte d'agresseur en coton pixie;Couturier;75;Jambes;1 Cuir d'atrociraptor, 2 Eau chimérique de force I, 1 Fil arc-en-ciel, 1 Pépite d'or rose, 3 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3467;80;16557
+Brailles d'éclaireur en coton pixie;Couturier;75;Jambes;2 Cuir d'atrociraptor, 2 Eau chimérique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite d'or rose, 2 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3467;80;16557
+Brailles de pisteur en coton pixie;Couturier;75;Jambes;2 Cuir d'atrociraptor, 2 Eau chimérique de dextérité I, 1 Fil arc-en-ciel, 1 Pépite d'or rose, 2 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3467;80;16557
+Trousses d'incantateur en coton pixie;Couturier;75;Jambes;1 Cuir d'atrociraptor, 2 Eau chimérique d'intelligence I, 1 Fil de coton pixie, 1 Pépite de sombracier, 3 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3467;80;16557
+Trousses de soigneur en coton pixie;Couturier;75;Jambes;2 Cuir d'atrociraptor, 2 Eau chimérique d'esprit I, 1 Fil de coton pixie, 1 Pépite d'or rose, 2 Étoffe de coton pixie;7 Cristal de foudre, 6 Cristal de vent;1;3467;80;16557
 Étoffe de laine d'ovim;Couturier;76;Tissu;3 Fil de laine d'ovim;7 Cristal de foudre;1;1763;40;17024
 Fil de laine d'ovim;Couturier;76;Tissu;1 Natron dense, 4 Toison d'ovim;7 Cristal de foudre;1;1763;40;17024
-Ouchanka de pisteur en laine d'ovim;Couturier;76;Tête;1 Cuir de zonure, 1 Eau chimèrique de dextérité I, 1 Fil de ramie, 1 Poils de manzasiri, 2 Étoffe de laine d'ovim;7 Cristal de foudre, 6 Cristal de vent;1;3526;80;17024
-Bonnet cache-oreilles d'incantateur en laine d'ovim;Couturier;76;Tête;1 Eau chimèrique d'intelligence I, 1 Fil de ramie, 1 Poils de manzasiri, 1 Pépite de bronze titané, 2 Étoffe de laine d'ovim;7 Cristal de foudre, 6 Cristal de vent;1;3526;80;17024
-Bonnet cache-oreilles de soigneur en laine d'ovim;Couturier;76;Tête;1 Eau chimèrique d'esprit I, 1 Fil de ramie, 1 Poils de manzasiri, 1 Pépite de bronze titané, 2 Étoffe de laine d'ovim;7 Cristal de foudre, 6 Cristal de vent;1;3526;80;17024
-Jaque d'éclaireur en laine d'ovim;Couturier;76;Torse;2 Cuir de zonure, 2 Eau chimèrique de dextérité I, 1 Fil de ramie, 2 Étoffe de laine d'ovim;7 Cristal de foudre, 6 Cristal de vent;1;3526;80;17024
-Tunique de pisteur en laine d'ovim;Couturier;76;Torse;1 Cuir de zonure, 2 Eau chimèrique de dextérité I, 1 Pépite de bronze titané, 1 Pépite de durargent, 1 Rubis étoilé, 2 Étoffe de laine d'ovim;7 Cristal de foudre, 6 Cristal de vent;1;3526;80;17024
-Tunique d'incantateur en laine d'ovim;Couturier;76;Torse;1 Cuir de zonure, 2 Eau chimèrique d'intelligence I, 1 Pépite de bronze titané, 1 Pépite de durargent, 1 Saphir étoilé, 2 Étoffe de laine d'ovim;7 Cristal de foudre, 6 Cristal de vent;1;3526;80;17024
-Bas-de-corps d'éclaireur en laine d'ovim;Couturier;76;Jambes;1 Eau chimèrique de dextérité I, 2 Fil de laine d'ovim, 1 Pépite de durargent, 3 Étoffe de laine d'ovim;7 Cristal de foudre, 6 Cristal de vent;1;3526;80;17024
-Bas-de-corps de pisteur en laine d'ovim;Couturier;76;Jambes;1 Cuir de zonure, 1 Eau chimèrique de dextérité I, 1 Fil de ramie, 3 Étoffe de laine d'ovim;7 Cristal de foudre, 6 Cristal de vent;1;3526;80;17024
-Bas-de-corps d'incantateur en laine d'ovim;Couturier;76;Jambes;1 Cuir de zonure, 2 Eau chimèrique d'intelligence I, 1 Pépite de bronze titané, 1 Pépite de durargent, 2 Étoffe de laine d'ovim;7 Cristal de foudre, 6 Cristal de vent;1;3526;80;17024
-Jupe de soigneur en laine d'ovim;Couturier;76;Jambes;1 Cuir de zonure, 2 Eau chimèrique d'esprit I, 2 Pépite de durargent, 3 Étoffe de laine d'ovim;7 Cristal de foudre, 6 Cristal de vent;1;3526;80;17024
-Ouchanka d'agresseur en laine d'ovim;Couturier;77;Tête;1 Cuir de zonure, 1 Eau chimèrique de force I, 1 Fil de ramie, 1 Poils de manzasiri, 2 Étoffe de laine d'ovim;7 Cristal de foudre, 7 Cristal de vent;1;3586;80;17490
+Ouchanka de pisteur en laine d'ovim;Couturier;76;Tête;1 Cuir de zonure, 1 Eau chimérique de dextérité I, 1 Fil de ramie, 1 Poils de manzasiri, 2 Étoffe de laine d'ovim;7 Cristal de foudre, 6 Cristal de vent;1;3526;80;17024
+Bonnet cache-oreilles d'incantateur en laine d'ovim;Couturier;76;Tête;1 Eau chimérique d'intelligence I, 1 Fil de ramie, 1 Poils de manzasiri, 1 Pépite de bronze titané, 2 Étoffe de laine d'ovim;7 Cristal de foudre, 6 Cristal de vent;1;3526;80;17024
+Bonnet cache-oreilles de soigneur en laine d'ovim;Couturier;76;Tête;1 Eau chimérique d'esprit I, 1 Fil de ramie, 1 Poils de manzasiri, 1 Pépite de bronze titané, 2 Étoffe de laine d'ovim;7 Cristal de foudre, 6 Cristal de vent;1;3526;80;17024
+Jaque d'éclaireur en laine d'ovim;Couturier;76;Torse;2 Cuir de zonure, 2 Eau chimérique de dextérité I, 1 Fil de ramie, 2 Étoffe de laine d'ovim;7 Cristal de foudre, 6 Cristal de vent;1;3526;80;17024
+Tunique de pisteur en laine d'ovim;Couturier;76;Torse;1 Cuir de zonure, 2 Eau chimérique de dextérité I, 1 Pépite de bronze titané, 1 Pépite de durargent, 1 Rubis étoilé, 2 Étoffe de laine d'ovim;7 Cristal de foudre, 6 Cristal de vent;1;3526;80;17024
+Tunique d'incantateur en laine d'ovim;Couturier;76;Torse;1 Cuir de zonure, 2 Eau chimérique d'intelligence I, 1 Pépite de bronze titané, 1 Pépite de durargent, 1 Saphir étoilé, 2 Étoffe de laine d'ovim;7 Cristal de foudre, 6 Cristal de vent;1;3526;80;17024
+Bas-de-corps d'éclaireur en laine d'ovim;Couturier;76;Jambes;1 Eau chimérique de dextérité I, 2 Fil de laine d'ovim, 1 Pépite de durargent, 3 Étoffe de laine d'ovim;7 Cristal de foudre, 6 Cristal de vent;1;3526;80;17024
+Bas-de-corps de pisteur en laine d'ovim;Couturier;76;Jambes;1 Cuir de zonure, 1 Eau chimérique de dextérité I, 1 Fil de ramie, 3 Étoffe de laine d'ovim;7 Cristal de foudre, 6 Cristal de vent;1;3526;80;17024
+Bas-de-corps d'incantateur en laine d'ovim;Couturier;76;Jambes;1 Cuir de zonure, 2 Eau chimérique d'intelligence I, 1 Pépite de bronze titané, 1 Pépite de durargent, 2 Étoffe de laine d'ovim;7 Cristal de foudre, 6 Cristal de vent;1;3526;80;17024
+Jupe de soigneur en laine d'ovim;Couturier;76;Jambes;1 Cuir de zonure, 2 Eau chimérique d'esprit I, 2 Pépite de durargent, 3 Étoffe de laine d'ovim;7 Cristal de foudre, 6 Cristal de vent;1;3526;80;17024
+Ouchanka d'agresseur en laine d'ovim;Couturier;77;Tête;1 Cuir de zonure, 1 Eau chimérique de force I, 1 Fil de ramie, 1 Poils de manzasiri, 2 Étoffe de laine d'ovim;7 Cristal de foudre, 7 Cristal de vent;1;3586;80;17490
 Turban des créations en laine d'ovim;Couturier;77;Tête;1 Crinière de halgai, 1 Fil de laine d'ovim, 2 Plume de tetrax, 2 Étoffe de laine d'ovim;7 Cristal de foudre, 7 Cristal de vent;1;3586;80;17490
 Turban des ressources en laine d'ovim;Couturier;77;Tête;1 Crinière de halgai, 1 Fil de laine d'ovim, 2 Plume de tetrax, 2 Étoffe de laine d'ovim;7 Cristal de foudre, 7 Cristal de vent;1;3586;80;17490
-Manteau d'agresseur en laine d'ovim;Couturier;77;Torse;2 Eau chimèrique de force I, 1 Pépite de bronze titané, 1 Pépite de durargent, 1 Saphir étoilé, 3 Étoffe de laine d'ovim;7 Cristal de foudre, 7 Cristal de vent;1;3586;80;17490
-Manteau de soigneur en laine d'ovim;Couturier;77;Torse;2 Eau chimèrique d'esprit I, 1 Pépite de bronze titané, 1 Pépite de durargent, 1 Rubis étoilé, 3 Étoffe de laine d'ovim;7 Cristal de foudre, 7 Cristal de vent;1;3586;80;17490
-Bas-de-corps de protecteur en laine d'ovim;Couturier;77;Jambes;1 Cuir de zonure, 2 Eau chimèrique de vitalité I, 1 Fil de ramie, 3 Étoffe de laine d'ovim;7 Cristal de foudre, 7 Cristal de vent;1;3586;80;17490
-Bas-de-corps d'abatteur en laine d'ovim;Couturier;77;Jambes;1 Cuir de zonure, 2 Eau chimèrique de force I, 1 Fil de ramie, 3 Étoffe de laine d'ovim;7 Cristal de foudre, 7 Cristal de vent;1;3586;80;17490
-Jupe d'agresseur en laine d'ovim;Couturier;77;Jambes;1 Cuir de zonure, 2 Eau chimèrique de force I, 1 Fil de ramie, 3 Étoffe de laine d'ovim;7 Cristal de foudre, 7 Cristal de vent;1;3586;80;17490
+Manteau d'agresseur en laine d'ovim;Couturier;77;Torse;2 Eau chimérique de force I, 1 Pépite de bronze titané, 1 Pépite de durargent, 1 Saphir étoilé, 3 Étoffe de laine d'ovim;7 Cristal de foudre, 7 Cristal de vent;1;3586;80;17490
+Manteau de soigneur en laine d'ovim;Couturier;77;Torse;2 Eau chimérique d'esprit I, 1 Pépite de bronze titané, 1 Pépite de durargent, 1 Rubis étoilé, 3 Étoffe de laine d'ovim;7 Cristal de foudre, 7 Cristal de vent;1;3586;80;17490
+Bas-de-corps de protecteur en laine d'ovim;Couturier;77;Jambes;1 Cuir de zonure, 2 Eau chimérique de vitalité I, 1 Fil de ramie, 3 Étoffe de laine d'ovim;7 Cristal de foudre, 7 Cristal de vent;1;3586;80;17490
+Bas-de-corps d'abatteur en laine d'ovim;Couturier;77;Jambes;1 Cuir de zonure, 2 Eau chimérique de force I, 1 Fil de ramie, 3 Étoffe de laine d'ovim;7 Cristal de foudre, 7 Cristal de vent;1;3586;80;17490
+Jupe d'agresseur en laine d'ovim;Couturier;77;Jambes;1 Cuir de zonure, 2 Eau chimérique de force I, 1 Fil de ramie, 3 Étoffe de laine d'ovim;7 Cristal de foudre, 7 Cristal de vent;1;3586;80;17490
 Grègues des créations en laine d'ovim;Couturier;77;Jambes;1 Cuir de zonure, 1 Fil de laine d'ovim, 2 Étoffe de laine d'ovim;7 Cristal de foudre, 7 Cristal de vent;1;3586;80;17490
 Grègues des ressources en laine d'ovim;Couturier;77;Jambes;1 Cuir de zonure, 1 Fil de laine d'ovim, 2 Étoffe de laine d'ovim;7 Cristal de foudre, 7 Cristal de vent;1;3586;80;17490
 Étoffe de coton nain;Couturier;78;Tissu;3 Fil de coton nain;7 Cristal de foudre;1;1822;40;17956
 Fil de coton nain;Couturier;78;Tissu;4 Fleur de coton nain;7 Cristal de foudre;1;1822;40;17956
-Pétase d'incantateur en coton nain;Couturier;78;Tête;1 Crinière de halgai, 1 Cuir de glaucus, 1 Eau chimèrique d'intelligence I, 2 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3645;80;17956
-Pétase de soigneur en coton nain;Couturier;78;Tête;1 Crinière de halgai, 1 Cuir de glaucus, 1 Eau chimèrique d'esprit I, 2 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3645;80;17956
-Grègues de protecteur en coton nain;Couturier;78;Jambes;1 Cuir de glaucus, 2 Eau chimèrique de vitalité I, 1 Fil de lin blanc, 3 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3645;80;17956
-Grègues d'abatteur en coton nain;Couturier;78;Jambes;1 Cuir de glaucus, 2 Eau chimèrique de force I, 1 Fil de lin blanc, 3 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3645;80;17956
-Grègues d'agresseur en coton nain;Couturier;78;Jambes;1 Cuir de glaucus, 2 Eau chimèrique de force I, 1 Fil de lin blanc, 3 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3645;80;17956
-Grègues d'incantateur en coton nain;Couturier;78;Jambes;1 Cuir de glaucus, 2 Eau chimèrique d'intelligence I, 1 Fil de lin blanc, 3 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3645;80;17956
-Grègues de soigneur en coton nain;Couturier;78;Jambes;1 Cuir de glaucus, 2 Eau chimèrique d'esprit I, 1 Fil de lin blanc, 3 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3645;80;17956
-Turban d'éclaireur en coton nain;Couturier;79;Tête;1 Crinière de halgai, 1 Eau chimèrique de dextérité I, 1 Fil de lin blanc, 2 Plume de tetrax, 3 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3705;80;18422
-Turban de pisteur en coton nain;Couturier;79;Tête;1 Crinière de halgai, 1 Eau chimèrique de dextérité I, 1 Fil de lin blanc, 2 Plume de tetrax, 3 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3705;80;18422
-Grègues d'éclaireur en coton nain;Couturier;79;Jambes;1 Cuir de glaucus, 2 Eau chimèrique de dextérité I, 1 Fil de lin blanc, 3 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3705;80;18422
-Grègues de pisteur en coton nain;Couturier;79;Jambes;1 Cuir de glaucus, 2 Eau chimèrique de dextérité I, 1 Fil de lin blanc, 3 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3705;80;18422
+Pétase d'incantateur en coton nain;Couturier;78;Tête;1 Crinière de halgai, 1 Cuir de glaucus, 1 Eau chimérique d'intelligence I, 2 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3645;80;17956
+Pétase de soigneur en coton nain;Couturier;78;Tête;1 Crinière de halgai, 1 Cuir de glaucus, 1 Eau chimérique d'esprit I, 2 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3645;80;17956
+Grègues de protecteur en coton nain;Couturier;78;Jambes;1 Cuir de glaucus, 2 Eau chimérique de vitalité I, 1 Fil de lin blanc, 3 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3645;80;17956
+Grègues d'abatteur en coton nain;Couturier;78;Jambes;1 Cuir de glaucus, 2 Eau chimérique de force I, 1 Fil de lin blanc, 3 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3645;80;17956
+Grègues d'agresseur en coton nain;Couturier;78;Jambes;1 Cuir de glaucus, 2 Eau chimérique de force I, 1 Fil de lin blanc, 3 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3645;80;17956
+Grègues d'incantateur en coton nain;Couturier;78;Jambes;1 Cuir de glaucus, 2 Eau chimérique d'intelligence I, 1 Fil de lin blanc, 3 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3645;80;17956
+Grègues de soigneur en coton nain;Couturier;78;Jambes;1 Cuir de glaucus, 2 Eau chimérique d'esprit I, 1 Fil de lin blanc, 3 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3645;80;17956
+Turban d'éclaireur en coton nain;Couturier;79;Tête;1 Crinière de halgai, 1 Eau chimérique de dextérité I, 1 Fil de lin blanc, 2 Plume de tetrax, 3 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3705;80;18422
+Turban de pisteur en coton nain;Couturier;79;Tête;1 Crinière de halgai, 1 Eau chimérique de dextérité I, 1 Fil de lin blanc, 2 Plume de tetrax, 3 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3705;80;18422
+Grègues d'éclaireur en coton nain;Couturier;79;Jambes;1 Cuir de glaucus, 2 Eau chimérique de dextérité I, 1 Fil de lin blanc, 3 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3705;80;18422
+Grègues de pisteur en coton nain;Couturier;79;Jambes;1 Cuir de glaucus, 2 Eau chimérique de dextérité I, 1 Fil de lin blanc, 3 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3705;80;18422
 Béret en coton nain;Couturier;80;Tête;1 Cuir de glaucus, 1 Fil de coton nain, 2 Plume de tetrax, 2 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3943;80;20287
 Bandana en coton nain;Couturier;80;Tête;1 Fil de coton nain, 1 Pépite de mithril noble, 2 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3943;80;20287
 Jaque en coton nain;Couturier;80;Torse;1 Cuir de glaucus, 2 Fil de coton nain, 1 Pépite d'or pétré, 2 Étoffe de coton nain;7 Cristal de foudre, 7 Cristal de vent;1;3943;80;20287
@@ -6229,6 +6305,21 @@ Paonne vermillon;Couturier;70;Mascotte;1 Fougère royale, 1 Laine peignée, 1 Pl
 Dragonnet azur;Couturier;70;Mascotte;1 Fougère royale, 1 Laine peignée, 1 Écailles de Seiryû, 1 Étoffe de doublesoie;7 Cristal de foudre, 7 Cristal de vent;1;7457;70;10568
 Chemise d'été bleu azur;Couturier;80;Torse;1 Fil de laine d'ovim, 1 Pépite de mana-argent, 3 Rouleau d'étoffe bleu azur;7 Cristal de foudre, 7 Cristal de vent;1;4143;70;21841
 Pantalon court d'été bleu azur;Couturier;80;Jambes;1 Cuir de smilodon, 1 Fil de laine d'ovim, 2 Rouleau d'étoffe bleu azur;7 Cristal de foudre, 7 Cristal de vent;1;4143;70;21841
+Étoffe mousseuse;Couturier;80;Tissu;4 Cocon mousseux, 2 Étoffe de coton de la halle;2 Agrégat de foudre, 2 Agrégat de vent;1;4777;35;32753
+Turban d'éclaireur de la halle;Couturier;80;Tête;1 Cuir de chalicotherium, 2 Eau chimérique de dextérité II, 1 Étoffe de coton nain, 2 Étoffe mousseuse;2 Agrégat de foudre, 2 Agrégat de vent;1;5645;70;37432
+Turban de pisteur de la halle;Couturier;80;Tête;1 Barre iridescente, 2 Eau chimérique de dextérité II, 1 Étoffe de coton nain, 2 Étoffe mousseuse;2 Agrégat de foudre, 2 Agrégat de vent;1;5645;70;37432
+Chapeau d'incantateur de la halle;Couturier;80;Tête;1 Cuir de chalicotherium, 2 Eau chimérique d'intelligence II, 1 Étoffe de coton nain, 2 Étoffe mousseuse;2 Agrégat de foudre, 2 Agrégat de vent;1;5645;70;37432
+Chapeau de soigneur de la halle;Couturier;80;Tête;1 Cuir de chalicotherium, 2 Eau chimérique d'esprit II, 1 Étoffe de coton nain, 2 Étoffe mousseuse;2 Agrégat de foudre, 2 Agrégat de vent;1;5645;70;37432
+Dolman d'éclaireur de la halle;Couturier;80;Torse;1 Barre iridescente, 1 Cuir de chalicotherium, 2 Eau chimérique de dextérité II, 1 Pépite d'or pétré, 2 Étoffe mousseuse;2 Agrégat de foudre, 2 Agrégat de vent;1;5645;70;37432
+Tabard de pisteur de la halle;Couturier;80;Torse;1 Barre iridescente, 1 Cuir de chalicotherium, 2 Eau chimérique de dextérité II, 1 Pépite d'or pétré, 2 Étoffe mousseuse;2 Agrégat de foudre, 2 Agrégat de vent;1;5645;70;37432
+Manteau d'incantateur de la halle;Couturier;80;Torse;1 Barre iridescente, 1 Cuir de chalicotherium, 2 Eau chimérique d'intelligence II, 1 Pépite d'or pétré, 2 Étoffe mousseuse;2 Agrégat de foudre, 2 Agrégat de vent;1;5645;70;37432
+Manteau de soigneur de la halle;Couturier;80;Torse;1 Cuir de chalicotherium, 1 Cuir de zonure, 2 Eau chimérique d'esprit II, 3 Étoffe mousseuse;2 Agrégat de foudre, 2 Agrégat de vent;1;5645;70;37432
+Mitaines de pisteur de la halle;Couturier;80;Mains;1 Barre iridescente, 2 Eau chimérique de dextérité II, 1 Pépite d'or incarnat, 2 Étoffe mousseuse;2 Agrégat de foudre, 2 Agrégat de vent;1;5645;70;37432
+Gants d'apparat de soigneur de la halle;Couturier;80;Mains;1 Barre iridescente, 2 Eau chimérique d'esprit II, 1 Triphylite, 2 Étoffe mousseuse;2 Agrégat de foudre, 2 Agrégat de vent;1;5645;70;37432
+Grègues d'agresseur de la halle;Couturier;80;Jambes;2 Cuir de chalicotherium, 2 Eau chimérique de force II, 1 Étoffe de coton nain, 2 Étoffe mousseuse;2 Agrégat de foudre, 2 Agrégat de vent;1;5645;70;37432
+Brailles de pisteur de la halle;Couturier;80;Jambes;2 Cuir de chalicotherium, 2 Eau chimérique de dextérité II, 1 Étoffe de coton nain, 2 Étoffe mousseuse;2 Agrégat de foudre, 2 Agrégat de vent;1;5645;70;37432
+Bas-de-corps d'incantateur de la halle;Couturier;80;Jambes;1 Cuir d'atrociraptor, 2 Cuir de chalicotherium, 2 Eau chimérique d'intelligence II, 2 Étoffe mousseuse;2 Agrégat de foudre, 2 Agrégat de vent;1;5645;70;37432
+Pantalon de soigneur de la halle;Couturier;80;Jambes;2 Cuir de chalicotherium, 1 Cuir de zonure, 2 Eau chimérique d'esprit II, 2 Étoffe mousseuse;2 Agrégat de foudre, 2 Agrégat de vent;1;5645;70;37432
 Prisme mirage;Couturier;15;Catalyseur;1 Prisme incolore, 2 Étoffe de veloutine;1 Cristal de foudre, 1 Cristal de vent;1;27;70;807
 Capeline à hibiscus perle;Couturier;50;Tête;5 Demi-matéria de l'artifice I, 1 Fil de soie, 1 Hibiscus perle, 3 Paille;3 Cristal de foudre, 2 Cristal de vent;1;195;80;2646
 Capeline;Couturier;50;Tête;5 Demi-matéria de l'artifice I, 2 Fil de soie, 3 Paille;3 Cristal de foudre, 2 Cristal de vent;1;195;80;2646
@@ -6814,11 +6905,11 @@ Codex en cuir de smilodon;Alchimiste;71;Arme d'érudit;1 Cuir de smilodon, 1 Enc
 Grimoire en cuir de planeur vert;Alchimiste;72;Arme d'arcaniste;1 Cuir de planeur vert, 1 Encre d'or pétré enchantée, 2 Lingot d'or incarnat, 1 Lingot d'électrum;6 Cristal d'eau, 6 Cristal de foudre;1;3248;80;14848
 Codex en cuir de planeur vert;Alchimiste;72;Arme d'érudit;1 Cuir de planeur vert, 1 Encre d'or pétré enchantée, 2 Lingot d'or incarnat, 1 Lingot d'électrum;6 Cristal d'eau, 6 Cristal de foudre;1;3248;80;14848
 Essence de symbiose extrême;Alchimiste;72;Médicament;1 Betterave potagère, 1 Carotte violette, 2 Croc de loup, 1 Eau de source des hauts plateaux;6 Cristal d'eau, 6 Cristal de foudre;3;3248;80;14848
-Eau chimèrique de force I;Alchimiste;73;Réactif;1 Eau de source des hauts plateaux, 1 Feuille de saute-piège, 2 Œnanthe de Yanxia;6 Cristal d'eau;3;1674;40;15625
-Eau chimèrique de dextérité I;Alchimiste;73;Réactif;2 Alysson, 1 Eau de source des hauts plateaux, 1 Feuille de saute-piège;6 Cristal d'eau;3;1674;40;15625
-Eau chimèrique de vitalité I;Alchimiste;73;Réactif;1 Eau de source des hauts plateaux, 1 Feuille de saute-piège, 2 Gnaphale orientale;6 Cristal d'eau;3;1674;40;15625
-Eau chimèrique d'intelligence I;Alchimiste;73;Réactif;1 Eau de source des hauts plateaux, 1 Feuille de saute-piège, 2 Mouron blanc;6 Cristal d'eau;3;1674;40;15625
-Eau chimèrique d'esprit I;Alchimiste;73;Réactif;1 Eau de source des hauts plateaux, 1 Feuille de saute-piège, 2 Lamier amplexicaule;6 Cristal d'eau;3;1674;40;15625
+Eau chimérique de force I;Alchimiste;73;Réactif;1 Eau de source des hauts plateaux, 1 Feuille de saute-piège, 2 Œnanthe de Yanxia;6 Cristal d'eau;3;1674;40;15625
+Eau chimérique de dextérité I;Alchimiste;73;Réactif;2 Alysson, 1 Eau de source des hauts plateaux, 1 Feuille de saute-piège;6 Cristal d'eau;3;1674;40;15625
+Eau chimérique de vitalité I;Alchimiste;73;Réactif;1 Eau de source des hauts plateaux, 1 Feuille de saute-piège, 2 Gnaphale orientale;6 Cristal d'eau;3;1674;40;15625
+Eau chimérique d'intelligence I;Alchimiste;73;Réactif;1 Eau de source des hauts plateaux, 1 Feuille de saute-piège, 2 Mouron blanc;6 Cristal d'eau;3;1674;40;15625
+Eau chimérique d'esprit I;Alchimiste;73;Réactif;1 Eau de source des hauts plateaux, 1 Feuille de saute-piège, 2 Lamier amplexicaule;6 Cristal d'eau;3;1674;40;15625
 Encre de mana-argent enchantée;Alchimiste;74;Réactif;1 Eau de source des hauts plateaux, 3 Sable de mana-argent, 1 Écailles alaires de bombyx;7 Cristal d'eau;1;1703;40;16091
 Grimoire en azuresprit;Alchimiste;74;Arme d'arcaniste;2 Barre d'azuresprit, 1 Encre de mana-argent enchantée, 1 Pépite d'or rose, 1 Pépite de mana-argent, 1 Rubis étoilé;7 Cristal d'eau, 6 Cristal de foudre;1;3407;80;16091
 Codex en azuresprit;Alchimiste;74;Arme d'érudit;2 Barre d'azuresprit, 1 Encre de mana-argent enchantée, 1 Pépite d'or rose, 1 Pépite de mana-argent, 1 Rubis étoilé;7 Cristal d'eau, 6 Cristal de foudre;1;3407;80;16091
@@ -7047,6 +7138,18 @@ Rouleau "From the Dragon's Wake";Alchimiste;70;Rouleau pour orchestrion;1 Encre 
 Porte-parapluie de Cristarium;Alchimiste;80;Mobilier de table;2 Fibre de verre extra fine, 1 Natron dense, 1 Pépite de mithrite, 1 Étoffe de coton nain;7 Cristal d'eau, 7 Cristal de foudre;1;7457;70;10920
 Rouleau "What Angel Wakes Me";Alchimiste;80;Rouleau pour orchestrion;1 Encre de mithril sombre enchantée, 1 Rouleau abîmé "What Angel Wakes Me", 1 Rouleau d'orchestrion vierge III;2 Agrégat d'eau, 2 Agrégat de foudre;1;7457;70;10920
 Rouleau "Insanity";Alchimiste;80;Rouleau pour orchestrion;1 Encre de mithril sombre enchantée, 1 Rouleau abîmé "Insanity", 1 Rouleau d'orchestrion vierge III;2 Agrégat d'eau, 2 Agrégat de foudre;1;7457;70;10920
+Eau chimérique de force II;Alchimiste;80;Réactif;1 Alysson doux, 2 Potion alchimique de la halle, 3 Sable éthéréen alpestre;2 Agrégat d'eau, 2 Agrégat de foudre;3;4777;35;32753
+Eau chimérique de dextérité II;Alchimiste;80;Réactif;1 Gerberas lumineuses, 2 Potion alchimique de la halle, 3 Sable éthéréen fluide;2 Agrégat d'eau, 2 Agrégat de foudre;3;4777;35;32753
+Eau chimérique de vitalité II;Alchimiste;80;Réactif;1 Basilic citron, 2 Potion alchimique de la halle, 3 Sable éthéréen alpestre;2 Agrégat d'eau, 2 Agrégat de foudre;3;4777;35;32753
+Eau chimérique d'intelligence II;Alchimiste;80;Réactif;1 Lavande pinnata, 2 Potion alchimique de la halle, 3 Sable éthéréen arborescent;2 Agrégat d'eau, 2 Agrégat de foudre;3;4777;35;32753
+Eau chimérique d'esprit II;Alchimiste;80;Réactif;1 Lys tigrés, 2 Potion alchimique de la halle, 3 Sable éthéréen arborescent;2 Agrégat d'eau, 2 Agrégat de foudre;3;4777;35;32753
+Galdrabók;Alchimiste;80;Arme d'arcaniste;2 Cuir de chalicotherium, 3 Eau chimérique d'intelligence II, 1 Encre de mithril sombre enchantée, 2 Madrier de santal blanc;2 Agrégat d'eau, 2 Agrégat de foudre;1;5645;70;37432
+Pragmatisme;Alchimiste;80;Arme d'érudit;2 Cuir de chalicotherium, 3 Eau chimérique d'esprit II, 1 Encre de mithril sombre enchantée, 1 Lingot d'acier au tungstène, 1 Madrier de santal blanc;2 Agrégat d'eau, 2 Agrégat de foudre;1;5645;70;37432
+Philtre chimérique de force II;Alchimiste;80;Médicament;1 Alysson doux, 1 Potion alchimique de la halle, 3 Sable éthéréen ténébreux;2 Agrégat d'eau, 2 Agrégat de foudre;3;5645;70;37432
+Philtre chimérique de dextérité ll;Alchimiste;80;Médicament;1 Gerberas lumineuses, 1 Potion alchimique de la halle, 3 Sable éthéréen ténébreux;2 Agrégat d'eau, 2 Agrégat de foudre;3;5645;70;37432
+Philtre chimérique de vitalité II;Alchimiste;80;Médicament;1 Basilic citron, 1 Potion alchimique de la halle, 3 Sable éthéréen ténébreux;2 Agrégat d'eau, 2 Agrégat de foudre;3;5645;70;37432
+Philtre chimérique d'intelligence II;Alchimiste;80;Médicament;1 Lavande pinnata, 1 Potion alchimique de la halle, 3 Sable éthéréen ténébreux;2 Agrégat d'eau, 2 Agrégat de foudre;3;5645;70;37432
+Philtre chimérique d'esprit II;Alchimiste;80;Médicament;1 Lys tigrés, 1 Potion alchimique de la halle, 3 Sable éthéréen ténébreux;2 Agrégat d'eau, 2 Agrégat de foudre;3;5645;70;37432
 Prisme mirage;Alchimiste;15;Catalyseur;2 Formule de croissance gamma, 1 Prisme incolore;1 Cristal d'eau, 1 Cristal de foudre;1;27;70;807
 Essence de symbiose;Alchimiste;50;Médicament;2 Baie vampire, 1 Demi-matéria de l'art militaire II, 1 Demi-matéria de l'artifice II, 2 Gui de Thavnair;3 Cristal d'eau, 2 Cristal de foudre;3;195;80;2646
 Katana des séismes;Alchimiste;50;Arme de samouraï;10 Demi-matéria de l'art militaire III, 3 Demi-matéria de l'Ébranleur des terres, 10 Mastic terminus, 1 Pierre à aiguiser sédimentaire, 1 Roc de l'Ébranleur des terres, 1 Étoffe de laine;12 Cristal de terre;1;445;80;4980
@@ -7640,6 +7743,16 @@ Patlican imam bayildi;Cuisinier;70;Plat ou boisson;3 Bringèle domienne, 2 Carot
 Muffin au saumon;Cuisinier;70;Plat ou boisson;1 Fromage du Ralliement, 1 Pain ishgardais, 1 Poire alligator, 1 Saumon seigneurial, 1 Épinards des Cieldalaes;2 Agrégat d'eau, 2 Agrégat de feu;3;2900;70;19023
 Papanasi;Cuisinier;70;Plat ou boisson;1 Crème aigre, 2 Farine des steppes, 1 Fromage du Ralliement, 1 Huile de coton, 3 Rolanbaie, 1 Œuf de gagana;2 Agrégat d'eau, 2 Agrégat de feu;3;2900;70;19023
 Thé rooibos;Cuisinier;70;Plat ou boisson;1 Eau de roche, 1 Feuilles de rooibos, 1 Sable éthéréen irisé;2 Agrégat d'eau, 2 Agrégat de feu;3;2900;70;19023
+Rosbif supérieur;Cuisinier;80;Plat ou boisson;2 Carotte gyrabanienne, 2 Faux-filet de hainag de qualité supérieure, 1 Fenouil, 1 Huile de frantoio, 2 Menthe poivrée, 2 Poivre sombre;2 Agrégat d'eau, 2 Agrégat de feu;3;5645;70;37432
+Pâtes au saumon et à la crème;Cuisinier;80;Plat ou boisson;1 Crème grumeleuse, 1 Huile de frantoio, 2 Jeunes épinards brume, 2 Poivre sombre, 2 Saumon royal, 1 Vermicelles;2 Agrégat d'eau, 2 Agrégat de feu;3;5645;70;37432
+Saumon royal meunière;Cuisinier;80;Plat ou boisson;1 Beurre fermenté, 1 Farine de blé des plateaux, 2 Petit citron, 2 Poivre sombre, 2 Saumon royal;2 Agrégat d'eau, 2 Agrégat de feu;3;5645;70;37432
+Ragoût de hainag de luxe;Cuisinier;80;Plat ou boisson;2 Carotte gyrabanienne, 2 Eau souterraine, 1 Farine de blé des plateaux, 2 Faux-filet de hainag de qualité supérieure, 2 Poivre sombre, 2 Popoto brune;2 Agrégat d'eau, 2 Agrégat de feu;3;5645;70;37432
+Salade de popotos;Cuisinier;80;Plat ou boisson;2 Batavia, 2 Courgette corne de bélier, 1 Huile de frantoio, 2 Poivre sombre, 2 Popoto brune, 1 Œuf de loriquet arc-en-ciel;2 Agrégat d'eau, 2 Agrégat de feu;3;5645;70;37432
+Salade de batavia;Cuisinier;80;Plat ou boisson;2 Batavia, 2 Fenouil, 1 Huile de frantoio, 2 Jeunes épinards brume, 2 Tomate sanguine, 1 Œuf de loriquet arc-en-ciel;2 Agrégat d'eau, 2 Agrégat de feu;3;5645;70;37432
+Gâteau au fromage à la fraise pixie;Cuisinier;80;Plat ou boisson;2 Crème aigre, 2 Fraise pixie, 2 Gélatine, 1 Lait de yak, 2 Petit citron, 1 Sucre de betterave potagère;2 Agrégat d'eau, 2 Agrégat de feu;3;5645;70;37432
+Biscottes au beurre kukuru;Cuisinier;80;Plat ou boisson;2 Eau souterraine, 1 Farine de blé des plateaux, 2 Fève kukuru criollo, 1 Lait de yak, 2 Sel d'Ala Mhigo;2 Agrégat d'eau, 2 Agrégat de feu;3;5645;70;37432
+Sachertorte à la crème de citron;Cuisinier;80;Plat ou boisson;1 Beurre fermenté, 2 Crème aigre, 1 Farine de blé des plateaux, 2 Fève kukuru criollo, 2 Fève kukuru royale, 2 Petit citron;2 Agrégat d'eau, 2 Agrégat de feu;3;5645;70;37432
+Thé à la fraise pixie;Cuisinier;80;Plat ou boisson;2 Eau souterraine, 1 Feuilles de thé du Coerthas, 2 Fraise pixie, 2 Menthe poivrée, 1 Sucre de betterave potagère;2 Agrégat d'eau, 2 Agrégat de feu;3;5645;70;37432
 Caisse de légumes;Cuisinier;15;Mobilier de table;1 Carotte du Coerthas, 1 Citrouille des ogres, 1 Laitue noscéenne, 1 Madrier de frêne, 1 Tomate rubis;1 Éclat d'eau, 1 Éclat de feu;1;176;70;403
 Panier de sandwichs;Cuisinier;17;Mobilier de table;2 Laitue noscéenne, 1 Pain aux noix, 4 Tomate rubis, 3 Œuf de dodo;1 Éclat d'eau, 1 Éclat de feu;1;118;70;449
 Dodo de la fête des étoiles;Cuisinier;20;Mobilier de table;1 Farce de dodo, 1 Viande de jeune dodo;1 Éclat d'eau, 1 Éclat de feu;1;236;70;526
