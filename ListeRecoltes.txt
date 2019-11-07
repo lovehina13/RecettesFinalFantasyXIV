@@ -409,7 +409,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 72
 Catégorie: Ingrédient
-Points de récolte: Il Mheg - Route de la Laine (Niv. 75)
+Points de récolte: Il Mheg - Route de la laine (Niv. 75)
 
 Nom: Betterave sucrière
 Classe: Botaniste
@@ -487,6 +487,20 @@ Sous-classe: Extraction de minerai
 Niveau: 64
 Catégorie: Divers
 Points de récolte: Mer de Rubis - Couvercle des enfers (Niv. 65)
+
+Nom: Boule de charbon
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 70
+Catégorie: Divers
+Points de récolte: Kholusia - Tour de Montvoir (Niv. 70)
+
+Nom: Boule de charbon
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 70
+Catégorie: Divers
+Points de récolte: Kholusia - Ombrefaille (Niv. 70)
 
 Nom: Branche d'if
 Classe: Botaniste
@@ -787,7 +801,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 72
 Catégorie: Tissu
-Points de récolte: Il Mheg - Route de la Laine (Niv. 75)
+Points de récolte: Il Mheg - Route de la laine (Niv. 75)
 
 Nom: Cocon mousseux
 Classe: Botaniste
@@ -864,7 +878,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Il Mheg - Villégiature du Lettré (Niv. 75), L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60), Mer de Rubis - Fosse de Turquoise (Niv. 60), Rak'tika - La Frairie sauvage (Niv. 80)
+Points de récolte: Il Mheg - Thysm Lran (Niv. 70), L'Écume des cieux d'Abalathia - Voor Sian Siran (Niv. 60), Mer de Rubis - Fosse de Turquoise (Niv. 60), Rak'tika - La Frairie sauvage (Niv. 80)
 
 Nom: Cristal d'eau
 Classe: Mineur
@@ -878,7 +892,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Il Mheg - Route de la Laine (Niv. 75), Mer de Rubis - Île de Bekko (Niv. 60)
+Points de récolte: Il Mheg - Thysm Lran (Niv. 70), Mer de Rubis - Île de Bekko (Niv. 60)
 
 Nom: Cristal de feu
 Classe: Botaniste
@@ -899,7 +913,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Kholusia - Lenteroute (Niv. 75), Thanalan oriental - Bois du Renouveau (Niv. 30), Yanxia - Railleries d'au-delà (Niv. 70)
+Points de récolte: Kholusia - Ombrefaille (Niv. 70), Thanalan oriental - Bois du Renouveau (Niv. 30), Yanxia - Railleries d'au-delà (Niv. 70)
 
 Nom: Cristal de feu
 Classe: Botaniste
@@ -941,7 +955,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Forêt du sud - Hauts-Chemins (Niv. 30), Hautes terres du Coerthas occidental - Deux-Rivières (Niv. 50), Kholusia - Falaises éclatantes (Niv. 75), Les Lacs - Crâne d'Abalathia (Niv. 70)
+Points de récolte: Forêt du sud - Hauts-Chemins (Niv. 30), Hautes terres du Coerthas occidental - Deux-Rivières (Niv. 50), Kholusia - Tour de Montvoir (Niv. 70), Les Lacs - Crâne d'Abalathia (Niv. 70)
 
 Nom: Cristal de glace
 Classe: Mineur
@@ -1088,7 +1102,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 72
 Catégorie: Pierre
-Points de récolte: Il Mheg - Bas-fond des Sextuplets (Niv. 75)
+Points de récolte: Il Mheg - Bas-fond des Sextuplés (Niv. 75)
 
 Nom: Disthène brut
 Classe: Mineur
@@ -2259,6 +2273,20 @@ Niveau: 25
 Catégorie: Ingrédient
 Points de récolte: Thanalan oriental - Les Os desséchés (Niv. 25)
 
+Nom: Minerai brillant
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 70
+Catégorie: Divers
+Points de récolte: Il Mheg - Thysm Lran (Niv. 70)
+
+Nom: Minerai brillant
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 70
+Catégorie: Divers
+Points de récolte: Il Mheg - Thysm Lran (Niv. 70)
+
 Nom: Minerai d'adamant
 Classe: Mineur
 Sous-classe: Extraction de minerai
@@ -2321,6 +2349,13 @@ Sous-classe: Extraction de minerai
 Niveau: 77
 Catégorie: Pierre
 Points de récolte: Grand-Lac - Église de l'Aurore (Niv. 80)
+
+Nom: Minerai de béryllium
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 80
+Catégorie: Pierre
+Points de récolte: Il Mheg - Temple de Saint-Fathric (Niv. 80)
 
 Nom: Minerai de chalcocite
 Classe: Mineur
@@ -2775,7 +2810,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 71
 Catégorie: Ingrédient
-Points de récolte: Il Mheg - Route de la Laine (Niv. 75)
+Points de récolte: Il Mheg - Route de la laine (Niv. 75)
 
 Nom: Persil hyurgoth
 Classe: Botaniste
@@ -3706,7 +3741,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 75
 Catégorie: Autre
-Points de récolte: Il Mheg - Route de la Laine (Niv. 75)
+Points de récolte: Il Mheg - Route de la laine (Niv. 75)
 
 Nom: Résine de pin
 Classe: Botaniste
@@ -4058,6 +4093,20 @@ Niveau: 63
 Catégorie: Pierre
 Points de récolte: Mer de Rubis - Côte orientale d'Othard (Niv. 65)
 
+Nom: Spécialités de Kholusia
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 70
+Catégorie: Divers
+Points de récolte: Kholusia - Tour de Montvoir (Niv. 70)
+
+Nom: Spécialités de Kholusia
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 70
+Catégorie: Divers
+Points de récolte: Kholusia - Ombrefaille (Niv. 70)
+
 Nom: Stalagmite de glace
 Classe: Mineur
 Sous-classe: Extraction de minerai
@@ -4085,6 +4134,13 @@ Sous-classe: Coupe
 Niveau: 2
 Catégorie: Réactif
 Points de récolte: Forêt du nord - Futaie des Murmures (Niv. 5)
+
+Nom: Sève de bois de santal
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 80
+Catégorie: Réactif
+Points de récolte: Rak'tika - La Nostalgie de Mjrl (Niv. 80)
 
 Nom: Sève de bouleau
 Classe: Botaniste
@@ -4280,7 +4336,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 71
 Catégorie: Ingrédient
-Points de récolte: Il Mheg - Route de la Laine (Niv. 75)
+Points de récolte: Il Mheg - Route de la laine (Niv. 75)
 
 Nom: Topaze brute
 Classe: Mineur
@@ -4667,6 +4723,20 @@ Niveau: 70
 Catégorie: Divers
 Points de récolte: Yanxia - Railleries d'au-delà (Niv. 70)
 
+Nom: Élément pour intérieur d'aéronef
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 70
+Catégorie: Divers
+Points de récolte: Amh Araeng - Auberge du Grand Départ (Niv. 70)
+
+Nom: Élément pour intérieur d'aéronef
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 70
+Catégorie: Divers
+Points de récolte: Amh Araeng - La Truffe (Niv. 70)
+
 Nom: Émeraude brute
 Classe: Mineur
 Sous-classe: Extraction de minerai
@@ -4687,6 +4757,20 @@ Sous-classe: Fauche
 Niveau: 66
 Catégorie: Divers
 Points de récolte: Steppe d'Azim - Retraite de Nhaama (Niv. 70)
+
+Nom: Épices parfumées
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 70
+Catégorie: Divers
+Points de récolte: Amh Araeng - Auberge du Grand Départ (Niv. 70)
+
+Nom: Épices parfumées
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 70
+Catégorie: Divers
+Points de récolte: Amh Araeng - La Truffe (Niv. 70)
 
 Nom: Épinards des Cieldalaes
 Classe: Botaniste

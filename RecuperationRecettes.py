@@ -58,7 +58,7 @@ def recupererRecettes(nomFichierRecettes):
     import sys
 
     # Récupération des pages des recettes
-    nombrePagesRecettes = 160
+    nombrePagesRecettes = 162
     adressesPagesRecettes = []
     for numeroPageRecettes in range(1, nombrePagesRecettes + 1):
         print "Traitement de la liste de recettes %d sur %d" % (numeroPageRecettes, nombrePagesRecettes)

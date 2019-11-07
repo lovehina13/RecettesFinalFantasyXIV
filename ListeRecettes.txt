@@ -130,6 +130,18 @@ Solidité: 70
 Qualité maximum: 1239
 Degré: 2
 
+Nom: Aiguille de la halle
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Outil principal de couturier
+Matériaux: 3 Barre iridescente, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Pépite de mithril noble, 1 Sable éthéréen arborescent
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
+
 Nom: Aiguille en argent
 Classe: Orfèvre
 Niveau: 26
@@ -502,6 +514,18 @@ Solidité: 70
 Qualité maximum: 939
 Degré: 3
 
+Nom: Alambic de la halle
+Classe: Armurier
+Niveau: 80
+Catégorie: Outil principal d'alchimiste
+Matériaux: 3 Lingot d'acier au tungstène, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Pépite de mithril noble, 1 Sable éthéréen arborescent
+Cristaux: 2 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
+
 Nom: Alambic en acier
 Classe: Armurier
 Niveau: 29
@@ -812,7 +836,7 @@ Total fabriqué: 1
 Difficulté: 233
 Solidité: 80
 Qualité maximum: 2921
-Degré: 5
+Degré: 4
 
 Nom: Alêne
 Classe: Forgeron
@@ -2733,6 +2757,18 @@ Difficulté: 2900
 Solidité: 70
 Qualité maximum: 19023
 Degré: 4
+
+Nom: Arròs negre
+Classe: Cuisinier
+Niveau: 80
+Catégorie: Plat ou boisson
+Matériaux: 1 Flacon de sépia, 1 Moule marine, 1 Paprika, 1 Riz bomba, 1 Sable éthéréen éclairé
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de feu
+Total fabriqué: 3
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
 
 Nom: Artichaut farci
 Classe: Cuisinier
@@ -5570,13 +5606,13 @@ Nom: Baguette bourgeonnante
 Classe: Alchimiste
 Niveau: 11
 Catégorie: Arme d'élémentaliste
-Matériaux: 1 Baguette ornée, 1 Formule de croissance alpha, 1 Sang de bête
+Matériaux: 1 Baguette, 1 Formule de croissance alpha, 1 Sang de bête
 Cristaux: 1 Éclat d'eau, 1 Éclat de foudre
 Total fabriqué: 1
 Difficulté: 72
 Solidité: 60
 Qualité maximum: 498
-Degré: 5
+Degré: 4
 
 Nom: Baguette de l'eau
 Classe: Alchimiste
@@ -5714,13 +5750,13 @@ Nom: Baguette en frêne ornée
 Classe: Alchimiste
 Niveau: 27
 Catégorie: Arme d'élémentaliste
-Matériaux: 1 Baguette en frêne bourgeonnant, 1 Formule de croissance bêta, 1 Sang de reptile
+Matériaux: 1 Baguette en frêne, 1 Formule de croissance bêta, 1 Sang de reptile
 Cristaux: 3 Éclat d'eau, 2 Éclat de foudre
 Total fabriqué: 1
 Difficulté: 136
 Solidité: 70
 Qualité maximum: 1026
-Degré: 5
+Degré: 4
 
 Nom: Baguette en if
 Classe: Alchimiste
@@ -5924,7 +5960,7 @@ Total fabriqué: 1
 Difficulté: 745
 Solidité: 80
 Qualité maximum: 1460
-Degré: 4
+Degré: 3
 
 Nom: Banc de Cristarium
 Classe: Armurier
@@ -6454,6 +6490,18 @@ Solidité: 70
 Qualité maximum: 649
 Degré: 4
 
+Nom: Barde d'Hadès
+Classe: Armurier
+Niveau: 80
+Catégorie: Autre
+Matériaux: 2 Lingot d'acier au tungstène, 1 Pépite de mithril noble, 1 Éclat de cristal d'Hadès, 1 Étoffe de coton nain
+Cristaux: 50 Cristal de glace, 50 Cristal de terre
+Total fabriqué: 1
+Difficulté: 7817
+Solidité: 70
+Qualité maximum: 11697
+Degré: 3
+
 Nom: Barde d'Innocence
 Classe: Armurier
 Niveau: 80
@@ -6874,6 +6922,114 @@ Solidité: 80
 Qualité maximum: 11676
 Degré: 1
 
+Nom: Barrette campanule blanche
+Classe: Alchimiste
+Niveau: 66
+Catégorie: Tête
+Matériaux: 1 Campanules blanches, 1 Eau de source de Dravania, 1 Graisse d'ours
+Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 2411
+Solidité: 80
+Qualité maximum: 11676
+Degré: 1
+
+Nom: Barrette campanule bleue
+Classe: Alchimiste
+Niveau: 66
+Catégorie: Tête
+Matériaux: 1 Campanules bleues, 1 Eau de source de Dravania, 1 Graisse d'ours
+Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 2411
+Solidité: 80
+Qualité maximum: 11676
+Degré: 1
+
+Nom: Barrette campanule jaune
+Classe: Alchimiste
+Niveau: 66
+Catégorie: Tête
+Matériaux: 1 Campanules jaunes, 1 Eau de source de Dravania, 1 Graisse d'ours
+Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 2411
+Solidité: 80
+Qualité maximum: 11676
+Degré: 1
+
+Nom: Barrette campanule multicolore
+Classe: Alchimiste
+Niveau: 66
+Catégorie: Tête
+Matériaux: 1 Campanules multicolores, 1 Eau de source de Dravania, 1 Graisse d'ours
+Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 2411
+Solidité: 80
+Qualité maximum: 11676
+Degré: 1
+
+Nom: Barrette campanule noire
+Classe: Alchimiste
+Niveau: 66
+Catégorie: Tête
+Matériaux: 1 Campanules noires, 1 Eau de source de Dravania, 1 Graisse d'ours
+Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 2411
+Solidité: 80
+Qualité maximum: 11676
+Degré: 1
+
+Nom: Barrette campanule orange
+Classe: Alchimiste
+Niveau: 66
+Catégorie: Tête
+Matériaux: 1 Campanules orange, 1 Eau de source de Dravania, 1 Graisse d'ours
+Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 2411
+Solidité: 80
+Qualité maximum: 11676
+Degré: 1
+
+Nom: Barrette campanule rouge
+Classe: Alchimiste
+Niveau: 66
+Catégorie: Tête
+Matériaux: 1 Campanules rouges, 1 Eau de source de Dravania, 1 Graisse d'ours
+Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 2411
+Solidité: 80
+Qualité maximum: 11676
+Degré: 1
+
+Nom: Barrette campanule verte
+Classe: Alchimiste
+Niveau: 66
+Catégorie: Tête
+Matériaux: 1 Campanules vertes, 1 Eau de source de Dravania, 1 Graisse d'ours
+Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 2411
+Solidité: 80
+Qualité maximum: 11676
+Degré: 1
+
+Nom: Barrette campanule violette
+Classe: Alchimiste
+Niveau: 66
+Catégorie: Tête
+Matériaux: 1 Campanules violettes, 1 Eau de source de Dravania, 1 Graisse d'ours
+Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 2411
+Solidité: 80
+Qualité maximum: 11676
+Degré: 1
+
 Nom: Barrette d'abatteur en durium
 Classe: Orfèvre
 Niveau: 65
@@ -7006,6 +7162,114 @@ Solidité: 80
 Qualité maximum: 11263
 Degré: 3
 
+Nom: Barrette fleurs d'hortensia blanches
+Classe: Alchimiste
+Niveau: 66
+Catégorie: Tête
+Matériaux: 1 Bouquet d'hortensias blancs, 1 Eau de source de Dravania, 1 Graisse d'ours
+Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 2411
+Solidité: 80
+Qualité maximum: 11676
+Degré: 1
+
+Nom: Barrette fleurs d'hortensia bleues
+Classe: Alchimiste
+Niveau: 66
+Catégorie: Tête
+Matériaux: 1 Bouquet d'hortensias bleus, 1 Eau de source de Dravania, 1 Graisse d'ours
+Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 2411
+Solidité: 80
+Qualité maximum: 11676
+Degré: 1
+
+Nom: Barrette fleurs d'hortensia jaunes
+Classe: Alchimiste
+Niveau: 66
+Catégorie: Tête
+Matériaux: 1 Bouquet d'hortensias jaunes, 1 Eau de source de Dravania, 1 Graisse d'ours
+Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 2411
+Solidité: 80
+Qualité maximum: 11676
+Degré: 1
+
+Nom: Barrette fleurs d'hortensia multicolores
+Classe: Alchimiste
+Niveau: 66
+Catégorie: Tête
+Matériaux: 1 Bouquet d'hortensias multicolores, 1 Eau de source de Dravania, 1 Graisse d'ours
+Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 2411
+Solidité: 80
+Qualité maximum: 11676
+Degré: 1
+
+Nom: Barrette fleurs d'hortensia noires
+Classe: Alchimiste
+Niveau: 66
+Catégorie: Tête
+Matériaux: 1 Bouquet d'hortensias noirs, 1 Eau de source de Dravania, 1 Graisse d'ours
+Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 2411
+Solidité: 80
+Qualité maximum: 11676
+Degré: 1
+
+Nom: Barrette fleurs d'hortensia orange
+Classe: Alchimiste
+Niveau: 66
+Catégorie: Tête
+Matériaux: 1 Bouquet d'hortensias orange, 1 Eau de source de Dravania, 1 Graisse d'ours
+Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 2411
+Solidité: 80
+Qualité maximum: 11676
+Degré: 1
+
+Nom: Barrette fleurs d'hortensia rouges
+Classe: Alchimiste
+Niveau: 66
+Catégorie: Tête
+Matériaux: 1 Bouquet d'hortensias rouges, 1 Eau de source de Dravania, 1 Graisse d'ours
+Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 2411
+Solidité: 80
+Qualité maximum: 11676
+Degré: 1
+
+Nom: Barrette fleurs d'hortensia vertes
+Classe: Alchimiste
+Niveau: 66
+Catégorie: Tête
+Matériaux: 1 Bouquet d'hortensias verts, 1 Eau de source de Dravania, 1 Graisse d'ours
+Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 2411
+Solidité: 80
+Qualité maximum: 11676
+Degré: 1
+
+Nom: Barrette fleurs d'hortensia violettes
+Classe: Alchimiste
+Niveau: 66
+Catégorie: Tête
+Matériaux: 1 Bouquet d'hortensias violets, 1 Eau de source de Dravania, 1 Graisse d'ours
+Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 2411
+Solidité: 80
+Qualité maximum: 11676
+Degré: 1
+
 Nom: Barrette fleurs de cerisier blanches
 Classe: Alchimiste
 Niveau: 53
@@ -7112,114 +7376,6 @@ Total fabriqué: 1
 Difficulté: 586
 Solidité: 80
 Qualité maximum: 5783
-Degré: 1
-
-Nom: Barrette hortensia blanche
-Classe: Alchimiste
-Niveau: 66
-Catégorie: Tête
-Matériaux: 1 Bouquet d'hortensias blancs, 1 Eau de source de Dravania, 1 Graisse d'ours
-Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
-Total fabriqué: 1
-Difficulté: 2411
-Solidité: 80
-Qualité maximum: 11676
-Degré: 1
-
-Nom: Barrette hortensia bleue
-Classe: Alchimiste
-Niveau: 66
-Catégorie: Tête
-Matériaux: 1 Bouquet d'hortensias bleus, 1 Eau de source de Dravania, 1 Graisse d'ours
-Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
-Total fabriqué: 1
-Difficulté: 2411
-Solidité: 80
-Qualité maximum: 11676
-Degré: 1
-
-Nom: Barrette hortensia jaune
-Classe: Alchimiste
-Niveau: 66
-Catégorie: Tête
-Matériaux: 1 Bouquet d'hortensias jaunes, 1 Eau de source de Dravania, 1 Graisse d'ours
-Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
-Total fabriqué: 1
-Difficulté: 2411
-Solidité: 80
-Qualité maximum: 11676
-Degré: 1
-
-Nom: Barrette hortensia multicolore
-Classe: Alchimiste
-Niveau: 66
-Catégorie: Tête
-Matériaux: 1 Bouquet d'hortensias multicolores, 1 Eau de source de Dravania, 1 Graisse d'ours
-Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
-Total fabriqué: 1
-Difficulté: 2411
-Solidité: 80
-Qualité maximum: 11676
-Degré: 1
-
-Nom: Barrette hortensia noire
-Classe: Alchimiste
-Niveau: 66
-Catégorie: Tête
-Matériaux: 1 Bouquet d'hortensias noirs, 1 Eau de source de Dravania, 1 Graisse d'ours
-Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
-Total fabriqué: 1
-Difficulté: 2411
-Solidité: 80
-Qualité maximum: 11676
-Degré: 1
-
-Nom: Barrette hortensia orange
-Classe: Alchimiste
-Niveau: 66
-Catégorie: Tête
-Matériaux: 1 Bouquet d'hortensias orange, 1 Eau de source de Dravania, 1 Graisse d'ours
-Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
-Total fabriqué: 1
-Difficulté: 2411
-Solidité: 80
-Qualité maximum: 11676
-Degré: 1
-
-Nom: Barrette hortensia rouge
-Classe: Alchimiste
-Niveau: 66
-Catégorie: Tête
-Matériaux: 1 Bouquet d'hortensias rouges, 1 Eau de source de Dravania, 1 Graisse d'ours
-Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
-Total fabriqué: 1
-Difficulté: 2411
-Solidité: 80
-Qualité maximum: 11676
-Degré: 1
-
-Nom: Barrette hortensia verte
-Classe: Alchimiste
-Niveau: 66
-Catégorie: Tête
-Matériaux: 1 Bouquet d'hortensias verts, 1 Eau de source de Dravania, 1 Graisse d'ours
-Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
-Total fabriqué: 1
-Difficulté: 2411
-Solidité: 80
-Qualité maximum: 11676
-Degré: 1
-
-Nom: Barrette hortensia violette
-Classe: Alchimiste
-Niveau: 66
-Catégorie: Tête
-Matériaux: 1 Bouquet d'hortensias violets, 1 Eau de source de Dravania, 1 Graisse d'ours
-Cristaux: 5 Cristal d'eau, 4 Cristal de foudre
-Total fabriqué: 1
-Difficulté: 2411
-Solidité: 80
-Qualité maximum: 11676
 Degré: 1
 
 Nom: Barrette lys blancs
@@ -8098,6 +8254,18 @@ Solidité: 80
 Qualité maximum: 14071
 Degré: 3
 
+Nom: Bas-de-corps des ressources de la halle
+Classe: Couturier
+Niveau: 80
+Catégorie: Jambes
+Matériaux: 1 Cuir de glaucus, 4 Fibre de verre renforcée, 2 Potion alchimique ultra-pure, 1 Sable éthéréen alpestre, 3 Étoffe mousseuse
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
+
 Nom: Bas-de-corps des ressources en lin blanc
 Classe: Couturier
 Niveau: 71
@@ -8588,7 +8756,7 @@ Total fabriqué: 3
 Difficulté: 115
 Solidité: 80
 Qualité maximum: 1811
-Degré: 3
+Degré: 2
 
 Nom: Bliaud
 Classe: Couturier
@@ -8684,7 +8852,7 @@ Total fabriqué: 1
 Difficulté: 183
 Solidité: 70
 Qualité maximum: 792
-Degré: 3
+Degré: 2
 
 Nom: Bol d'assortiment d'oden
 Classe: Cuisinier
@@ -9718,6 +9886,18 @@ Solidité: 80
 Qualité maximum: 5783
 Degré: 2
 
+Nom: Bottes de rebelle
+Classe: Tanneur
+Niveau: 80
+Catégorie: Pieds
+Matériaux: 2 Cuir cordovan, 2 Cuir de chalicotherium, 1 Lanière en cuir de griffon
+Cristaux: 7 Cristal de terre, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Degré: 2
+
 Nom: Bottes de soigneur de la halle
 Classe: Tanneur
 Niveau: 80
@@ -10090,6 +10270,18 @@ Solidité: 70
 Qualité maximum: 9430
 Degré: 3
 
+Nom: Bottes des ressources de la halle
+Classe: Tanneur
+Niveau: 80
+Catégorie: Pieds
+Matériaux: 2 Cuir de chalicotherium, 3 Fibre de verre renforcée, 1 Potion alchimique ultra-pure, 1 Sable éthéréen fluide, 1 Étoffe de coton nain
+Cristaux: 2 Agrégat de terre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 3
+
 Nom: Bottes des ressources des Forges
 Classe: Tanneur
 Niveau: 60
@@ -10425,6 +10617,18 @@ Difficulté: 143
 Solidité: 80
 Qualité maximum: 2109
 Degré: 3
+
+Nom: Bottes urbaines
+Classe: Tanneur
+Niveau: 80
+Catégorie: Pieds
+Matériaux: 2 Cuir cordovan, 2 Cuir de chalicotherium, 1 Lanière en cuir de griffon
+Cristaux: 7 Cristal de terre, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Degré: 2
 
 Nom: Bottes à franges en cuir d'amphiptère
 Classe: Tanneur
@@ -16306,6 +16510,18 @@ Solidité: 80
 Qualité maximum: 1054
 Degré: 2
 
+Nom: Buste présentoir
+Classe: Orfèvre
+Niveau: 78
+Catégorie: Mobilier de table
+Matériaux: 1 Pépite de bronze titané, 2 Pépite de mithril noble, 1 Rondin de teck des sables, 1 Étoffe de laine d'ovim
+Cristaux: 7 Cristal de feu, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
+Degré: 4
+
 Nom: Bâton
 Classe: Orfèvre
 Niveau: 5
@@ -17566,6 +17782,18 @@ Solidité: 70
 Qualité maximum: 772
 Degré: 2
 
+Nom: Canapé en cuir
+Classe: Tanneur
+Niveau: 78
+Catégorie: Meuble
+Matériaux: 5 Cuir de glaucus, 3 Duvet de loriquet, 5 Madrier de teck des sables
+Cristaux: 7 Cristal de terre, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
+Degré: 2
+
 Nom: Canapé noscéen
 Classe: Couturier
 Niveau: 44
@@ -18068,6 +18296,18 @@ Total fabriqué: 1
 Difficulté: 74
 Solidité: 70
 Qualité maximum: 1053
+Degré: 2
+
+Nom: Canne à pêche de la halle
+Classe: Menuisier
+Niveau: 80
+Catégorie: Outil principal de pêcheur
+Matériaux: 3 Madrier de santal blanc, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Pépite de mithril noble, 1 Sable éthéréen fluide
+Cristaux: 2 Agrégat de glace, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
 Degré: 2
 
 Nom: Canne à pêche en acajou
@@ -18788,7 +19028,7 @@ Total fabriqué: 3
 Difficulté: 55
 Solidité: 70
 Qualité maximum: 807
-Degré: 3
+Degré: 2
 
 Nom: Carpe à l'armoise
 Classe: Cuisinier
@@ -18800,7 +19040,7 @@ Total fabriqué: 3
 Difficulté: 129
 Solidité: 80
 Qualité maximum: 1961
-Degré: 3
+Degré: 2
 
 Nom: Carrelage du tribunal
 Classe: Orfèvre
@@ -18872,6 +19112,18 @@ Total fabriqué: 1
 Difficulté: 323
 Solidité: 70
 Qualité maximum: 772
+Degré: 3
+
+Nom: Carrelage eulmorien en marbre
+Classe: Orfèvre
+Niveau: 78
+Catégorie: Sol
+Matériaux: 8 Marbre, 8 Pierre à aiguiser en mudstone solide, 4 Pot de mortier
+Cristaux: 7 Cristal de feu, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
 Degré: 3
 
 Nom: Carrelage ishgardais
@@ -19280,6 +19532,18 @@ Total fabriqué: 1
 Difficulté: 1436
 Solidité: 70
 Qualité maximum: 9430
+Degré: 3
+
+Nom: Casquette des ressources de la halle
+Classe: Tanneur
+Niveau: 80
+Catégorie: Tête
+Matériaux: 2 Cuir de chalicotherium, 3 Fibre de verre renforcée, 1 Potion alchimique ultra-pure, 1 Sable éthéréen arborescent, 1 Étoffe de coton nain
+Cristaux: 2 Agrégat de terre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
 Degré: 3
 
 Nom: Casquette des ressources des Forges
@@ -21490,6 +21754,18 @@ Solidité: 80
 Qualité maximum: 2490
 Degré: 2
 
+Nom: Chaise de Grand-Lac
+Classe: Menuisier
+Niveau: 78
+Catégorie: Meuble
+Matériaux: 3 Madrier de gaïac, 3 Madrier de teck des sables, 2 Vernis
+Cristaux: 7 Cristal de glace, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
+Degré: 3
+
 Nom: Chaise du Manoir
 Classe: Menuisier
 Niveau: 27
@@ -22510,6 +22786,18 @@ Solidité: 80
 Qualité maximum: 2646
 Degré: 2
 
+Nom: Chapeau des créations de la halle
+Classe: Couturier
+Niveau: 80
+Catégorie: Tête
+Matériaux: 1 Cuir de glaucus, 3 Fibre de verre renforcée, 1 Potion alchimique ultra-pure, 1 Sable éthéréen arborescent, 2 Étoffe mousseuse
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
+
 Nom: Chapeau des créations en coton pixie
 Classe: Couturier
 Niveau: 74
@@ -22858,6 +23146,18 @@ Solidité: 80
 Qualité maximum: 16091
 Degré: 2
 
+Nom: Chaussons mog
+Classe: Couturier
+Niveau: 78
+Catégorie: Mobilier de table
+Matériaux: 1 Caoutchouc, 2 Duvet de loriquet, 2 Fil de coton nain, 2 Étoffe de coton nain
+Cristaux: 7 Cristal de foudre, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
+Degré: 3
+
 Nom: Chaussures
 Classe: Tanneur
 Niveau: 4
@@ -23156,6 +23456,18 @@ Total fabriqué: 1
 Difficulté: 3543
 Solidité: 70
 Qualité maximum: 15837
+Degré: 3
+
+Nom: Chaussures des créations de la halle
+Classe: Tanneur
+Niveau: 80
+Catégorie: Pieds
+Matériaux: 2 Cuir de chalicotherium, 3 Fibre de verre renforcée, 1 Potion alchimique ultra-pure, 1 Sable éthéréen fluide, 1 Étoffe de coton nain
+Cristaux: 2 Agrégat de terre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
 Degré: 3
 
 Nom: Chaussures des créations en cuir de smilodon
@@ -24032,7 +24344,7 @@ Total fabriqué: 3
 Difficulté: 124
 Solidité: 80
 Qualité maximum: 1882
-Degré: 3
+Degré: 2
 
 Nom: Choux farcis
 Classe: Cuisinier
@@ -24056,7 +24368,7 @@ Total fabriqué: 3
 Difficulté: 174
 Solidité: 80
 Qualité maximum: 2551
-Degré: 3
+Degré: 2
 
 Nom: Choux à la morue salée
 Classe: Cuisinier
@@ -24068,7 +24380,7 @@ Total fabriqué: 3
 Difficulté: 144
 Solidité: 80
 Qualité maximum: 2147
-Degré: 4
+Degré: 3
 
 Nom: Chronomètre de table
 Classe: Orfèvre
@@ -26854,6 +27166,18 @@ Solidité: 60
 Qualité maximum: 9670
 Degré: 2
 
+Nom: Composant pour costume de scène
+Classe: Cuisinier
+Niveau: 71
+Catégorie: Divers
+Matériaux: 1 Matériaux pour costume de scène
+Cristaux: 2 Cristal d'eau, 4 Cristal de feu
+Total fabriqué: 1
+Difficulté: 3149
+Solidité: 60
+Qualité maximum: 11256
+Degré: 1
+
 Nom: Composant pour eau-de-vie du Bord du gouffre
 Classe: Cuisinier
 Niveau: 66
@@ -26865,6 +27189,18 @@ Difficulté: 2411
 Solidité: 60
 Qualité maximum: 9340
 Degré: 2
+
+Nom: Composant pour nouveau menu
+Classe: Cuisinier
+Niveau: 70
+Catégorie: Divers
+Matériaux: 1 Matériaux pour nouveau menu
+Cristaux: 2 Cristal d'eau, 4 Cristal de feu
+Total fabriqué: 1
+Difficulté: 3149
+Solidité: 60
+Qualité maximum: 11256
+Degré: 1
 
 Nom: Composant pour recette ishgardaise
 Classe: Cuisinier
@@ -27308,7 +27644,7 @@ Total fabriqué: 1
 Difficulté: 801
 Solidité: 80
 Qualité maximum: 8964
-Degré: 4
+Degré: 3
 
 Nom: Condiment épicé à la tomate
 Classe: Cuisinier
@@ -27320,7 +27656,7 @@ Total fabriqué: 1
 Difficulté: 419
 Solidité: 80
 Qualité maximum: 5257
-Degré: 3
+Degré: 2
 
 Nom: Conserves en cobalt
 Classe: Orfèvre
@@ -28030,6 +28366,18 @@ Solidité: 70
 Qualité maximum: 1296
 Degré: 2
 
+Nom: Couteau arrondi de la halle
+Classe: Forgeron
+Niveau: 80
+Catégorie: Outil principal de tanneur
+Matériaux: 3 Lingot d'acier au tungstène, 1 Lingot de mithril noble, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Sable éthéréen arborescent
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
+
 Nom: Couteau arrondi en acier
 Classe: Forgeron
 Niveau: 36
@@ -28209,6 +28557,18 @@ Difficulté: 445
 Solidité: 80
 Qualité maximum: 4980
 Degré: 3
+
+Nom: Couteau de cuisine de la halle
+Classe: Forgeron
+Niveau: 80
+Catégorie: Outil secondaire de cuisinier
+Matériaux: 3 Lingot d'acier au tungstène, 1 Madrier de gaïac, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Sable éthéréen alpestre
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
 
 Nom: Couteau de cuisine de milicien
 Classe: Forgeron
@@ -28796,7 +29156,7 @@ Total fabriqué: 3
 Difficulté: 445
 Solidité: 80
 Qualité maximum: 4980
-Degré: 3
+Degré: 2
 
 Nom: Crochet de sombracier
 Classe: Forgeron
@@ -28952,7 +29312,7 @@ Total fabriqué: 3
 Difficulté: 100
 Solidité: 70
 Qualité maximum: 1498
-Degré: 3
+Degré: 2
 
 Nom: Crâne de dinosaure
 Classe: Orfèvre
@@ -32696,7 +33056,19 @@ Total fabriqué: 1
 Difficulté: 1353
 Solidité: 70
 Qualité maximum: 3280
-Degré: 5
+Degré: 4
+
+Nom: Déjeuner oriental : chawan-mushi
+Classe: Cuisinier
+Niveau: 78
+Catégorie: Mobilier de table
+Matériaux: 1 Bouillon traditionnel, 1 Sel d'Ala Mhigo, 1 Shiitake, 1 Œnanthe de Yanxia, 1 Œuf de loriquet arc-en-ciel
+Cristaux: 7 Cristal d'eau, 7 Cristal de feu
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
+Degré: 1
 
 Nom: Déjeuner oriental : nouilles de sarrasin
 Classe: Cuisinier
@@ -34402,6 +34774,18 @@ Solidité: 80
 Qualité maximum: 4980
 Degré: 3
 
+Nom: Faux de la halle
+Classe: Forgeron
+Niveau: 80
+Catégorie: Outil secondaire de botaniste
+Matériaux: 3 Lingot d'acier au tungstène, 1 Madrier de gaïac, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Sable éthéréen fluide
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
+
 Nom: Faux de milicien
 Classe: Forgeron
 Niveau: 50
@@ -34726,6 +35110,18 @@ Solidité: 80
 Qualité maximum: 17956
 Degré: 2
 
+Nom: Fenêtre allongée en trompe-l'œil
+Classe: Menuisier
+Niveau: 74
+Catégorie: Mobilier mural
+Matériaux: 4 Madrier de frêne blanc, 4 Plaque de verre incolore
+Cristaux: 6 Cristal de glace, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 6132
+Solidité: 80
+Qualité maximum: 8045
+Degré: 3
+
 Nom: Fenêtre arquée noscéenne
 Classe: Menuisier
 Niveau: 17
@@ -34971,11 +35367,23 @@ Classe: Couturier
 Niveau: 64
 Catégorie: Tissu
 Matériaux: 4 Sarment de kudzu
-Cristaux: 4 Cristal de foudre
-Total fabriqué: 1
+Cristaux: 2 Cristal de foudre
+Total fabriqué: 2
 Difficulté: 1058
 Solidité: 40
 Qualité maximum: 10851
+Degré: 1
+
+Nom: Fibre de verre renforcée
+Classe: Alchimiste
+Niveau: 80
+Catégorie: Réactif
+Matériaux: 1 Potion alchimique ultra-pure, 1 Sable éthéréen ténébreux, 3 Sève de bois de santal
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
+Total fabriqué: 1
+Difficulté: 5428
+Solidité: 35
+Qualité maximum: 35092
 Degré: 1
 
 Nom: Fibre lumineuse
@@ -35012,7 +35420,7 @@ Total fabriqué: 3
 Difficulté: 66
 Solidité: 70
 Qualité maximum: 898
-Degré: 3
+Degré: 2
 
 Nom: Figurine magitek d'Alexander
 Classe: Armurier
@@ -35199,8 +35607,8 @@ Classe: Couturier
 Niveau: 51
 Catégorie: Tissu
 Matériaux: 2 Fleur de coton, 3 Fleur de coton arc-en-ciel
-Cristaux: 3 Cristal de foudre
-Total fabriqué: 1
+Cristaux: 1 Cristal de foudre
+Total fabriqué: 2
 Difficulté: 169
 Solidité: 40
 Qualité maximum: 3951
@@ -35211,8 +35619,8 @@ Classe: Couturier
 Niveau: 61
 Catégorie: Tissu
 Matériaux: 4 Akaso
-Cristaux: 3 Cristal de foudre
-Total fabriqué: 1
+Cristaux: 1 Cristal de foudre
+Total fabriqué: 3
 Difficulté: 558
 Solidité: 40
 Qualité maximum: 8377
@@ -35224,7 +35632,7 @@ Niveau: 1
 Catégorie: Tissu
 Matériaux: 2 Herbe de moko
 Cristaux: 1 Éclat de foudre
-Total fabriqué: 1
+Total fabriqué: 2
 Difficulté: 9
 Solidité: 40
 Qualité maximum: 312
@@ -35236,7 +35644,7 @@ Niveau: 12
 Catégorie: Tissu
 Matériaux: 2 Fleur de coton
 Cristaux: 1 Éclat de foudre
-Total fabriqué: 1
+Total fabriqué: 2
 Difficulté: 26
 Solidité: 40
 Qualité maximum: 702
@@ -35247,8 +35655,8 @@ Classe: Couturier
 Niveau: 78
 Catégorie: Tissu
 Matériaux: 4 Fleur de coton nain
-Cristaux: 7 Cristal de foudre
-Total fabriqué: 1
+Cristaux: 3 Cristal de foudre
+Total fabriqué: 3
 Difficulté: 1822
 Solidité: 40
 Qualité maximum: 17956
@@ -35259,8 +35667,8 @@ Classe: Couturier
 Niveau: 74
 Catégorie: Tissu
 Matériaux: 4 Fleur de coton pixie
-Cristaux: 7 Cristal de foudre
-Total fabriqué: 1
+Cristaux: 3 Cristal de foudre
+Total fabriqué: 3
 Difficulté: 1703
 Solidité: 40
 Qualité maximum: 16091
@@ -35271,8 +35679,8 @@ Classe: Couturier
 Niveau: 68
 Catégorie: Tissu
 Matériaux: 4 Cocon double, 1 Eau effervescente
-Cristaux: 5 Cristal de foudre
-Total fabriqué: 1
+Cristaux: 2 Cristal de foudre
+Total fabriqué: 3
 Difficulté: 1353
 Solidité: 40
 Qualité maximum: 12500
@@ -35283,8 +35691,8 @@ Classe: Couturier
 Niveau: 23
 Catégorie: Tissu
 Matériaux: 2 Toile d'acarus
-Cristaux: 2 Éclat de foudre
-Total fabriqué: 1
+Cristaux: 1 Éclat de foudre
+Total fabriqué: 2
 Difficulté: 39
 Solidité: 40
 Qualité maximum: 1169
@@ -35295,8 +35703,8 @@ Classe: Couturier
 Niveau: 38
 Catégorie: Tissu
 Matériaux: 2 Toison
-Cristaux: 4 Éclat de foudre
-Total fabriqué: 1
+Cristaux: 2 Éclat de foudre
+Total fabriqué: 2
 Difficulté: 64
 Solidité: 40
 Qualité maximum: 1961
@@ -35307,8 +35715,8 @@ Classe: Couturier
 Niveau: 76
 Catégorie: Tissu
 Matériaux: 1 Natron dense, 4 Toison d'ovim
-Cristaux: 7 Cristal de foudre
-Total fabriqué: 1
+Cristaux: 3 Cristal de foudre
+Total fabriqué: 3
 Difficulté: 1763
 Solidité: 40
 Qualité maximum: 17024
@@ -35319,8 +35727,8 @@ Classe: Couturier
 Niveau: 32
 Catégorie: Tissu
 Matériaux: 2 Fibres de lin
-Cristaux: 3 Éclat de foudre
-Total fabriqué: 1
+Cristaux: 2 Éclat de foudre
+Total fabriqué: 2
 Difficulté: 55
 Solidité: 40
 Qualité maximum: 1697
@@ -35331,8 +35739,8 @@ Classe: Couturier
 Niveau: 71
 Catégorie: Tissu
 Matériaux: 4 Fibres de lin blanc
-Cristaux: 6 Cristal de foudre
-Total fabriqué: 1
+Cristaux: 3 Cristal de foudre
+Total fabriqué: 3
 Difficulté: 1574
 Solidité: 40
 Qualité maximum: 14071
@@ -35343,8 +35751,8 @@ Classe: Couturier
 Niveau: 54
 Catégorie: Tissu
 Matériaux: 2 Fibres de lin, 3 Tige de ramie
-Cristaux: 4 Cristal de foudre
-Total fabriqué: 1
+Cristaux: 2 Cristal de foudre
+Total fabriqué: 2
 Difficulté: 320
 Solidité: 40
 Qualité maximum: 6042
@@ -35355,8 +35763,8 @@ Classe: Couturier
 Niveau: 62
 Catégorie: Tissu
 Matériaux: 4 Fleur de rubicoton
-Cristaux: 3 Cristal de foudre
-Total fabriqué: 1
+Cristaux: 1 Cristal de foudre
+Total fabriqué: 3
 Difficulté: 842
 Solidité: 40
 Qualité maximum: 9752
@@ -35368,7 +35776,7 @@ Niveau: 50
 Catégorie: Tissu
 Matériaux: 2 Cocon de ver à soie, 1 Eau effervescente
 Cristaux: 3 Cristal de foudre
-Total fabriqué: 1
+Total fabriqué: 2
 Difficulté: 97
 Solidité: 40
 Qualité maximum: 2646
@@ -35380,7 +35788,7 @@ Niveau: 57
 Catégorie: Tissu
 Matériaux: 3 Cocon de chenille, 2 Cocon de ver à soie, 1 Eau effervescente
 Cristaux: 5 Cristal de foudre
-Total fabriqué: 1
+Total fabriqué: 2
 Difficulté: 404
 Solidité: 35
 Qualité maximum: 6820
@@ -35391,8 +35799,8 @@ Classe: Couturier
 Niveau: 72
 Catégorie: Tissu
 Matériaux: 4 Cocon iridescent, 1 Eau effervescente
-Cristaux: 6 Cristal de foudre
-Total fabriqué: 1
+Cristaux: 3 Cristal de foudre
+Total fabriqué: 3
 Difficulté: 1624
 Solidité: 40
 Qualité maximum: 14848
@@ -35698,6 +36106,18 @@ Solidité: 70
 Qualité maximum: 4188
 Degré: 2
 
+Nom: Fontaine murale thanalanaise
+Classe: Armurier
+Niveau: 80
+Catégorie: Mobilier mural
+Matériaux: 1 Eau souterraine, 3 Marbre, 2 Pierre à aiguiser en mudstone solide, 2 Pot de mortier
+Cristaux: 7 Cristal de glace, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 7097
+Solidité: 80
+Qualité maximum: 10143
+Degré: 3
+
 Nom: Forge d'armurerie
 Classe: Orfèvre
 Niveau: 50
@@ -35750,13 +36170,13 @@ Nom: Formule de croissance delta concentrée
 Classe: Alchimiste
 Niveau: 50
 Catégorie: Réactif
-Matériaux: 9 Chaux soufrée, 2 Formule de croissance delta
+Matériaux: 1 Bulbe de trille, 9 Chaux soufrée, 1 Mercure, 1 Sel gemme
 Cristaux: 1 Agrégat d'eau
 Total fabriqué: 1
 Difficulté: 116
 Solidité: 40
 Qualité maximum: 2921
-Degré: 3
+Degré: 2
 
 Nom: Formule de croissance epsilon
 Classe: Alchimiste
@@ -36272,7 +36692,7 @@ Total fabriqué: 3
 Difficulté: 863
 Solidité: 70
 Qualité maximum: 7080
-Degré: 4
+Degré: 3
 
 Nom: Fricassée de dhalmel
 Classe: Cuisinier
@@ -36296,7 +36716,7 @@ Total fabriqué: 3
 Difficulté: 74
 Solidité: 70
 Qualité maximum: 1053
-Degré: 3
+Degré: 2
 
 Nom: Fromage blanc
 Classe: Cuisinier
@@ -36668,7 +37088,7 @@ Total fabriqué: 1
 Difficulté: 172
 Solidité: 80
 Qualité maximum: 2524
-Degré: 4
+Degré: 3
 
 Nom: Galoches
 Classe: Menuisier
@@ -38698,6 +39118,18 @@ Solidité: 70
 Qualité maximum: 15837
 Degré: 3
 
+Nom: Gants des créations de la halle
+Classe: Tanneur
+Niveau: 80
+Catégorie: Mains
+Matériaux: 2 Cuir de chalicotherium, 3 Fibre de verre renforcée, 1 Potion alchimique ultra-pure, 1 Sable éthéréen alpestre, 1 Étoffe de coton nain
+Cristaux: 2 Agrégat de terre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 3
+
 Nom: Gants des créations en cuir d'archéornis
 Classe: Tanneur
 Niveau: 51
@@ -39273,6 +39705,18 @@ Difficulté: 3526
 Solidité: 80
 Qualité maximum: 17024
 Degré: 4
+
+Nom: Gants sans doigts des ressources de la halle
+Classe: Couturier
+Niveau: 80
+Catégorie: Mains
+Matériaux: 1 Cuir de glaucus, 3 Fibre de verre renforcée, 1 Potion alchimique ultra-pure, 1 Sable éthéréen alpestre, 2 Étoffe mousseuse
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
 
 Nom: Gants sans doigts des ressources en cuir de bouquetin
 Classe: Tanneur
@@ -40916,7 +41360,7 @@ Total fabriqué: 1
 Difficulté: 745
 Solidité: 80
 Qualité maximum: 1460
-Degré: 4
+Degré: 3
 
 Nom: Goûter ishgardais
 Classe: Cuisinier
@@ -41432,7 +41876,7 @@ Total fabriqué: 3
 Difficulté: 138
 Solidité: 80
 Qualité maximum: 2050
-Degré: 3
+Degré: 2
 
 Nom: Grimoire
 Classe: Alchimiste
@@ -42800,6 +43244,18 @@ Total fabriqué: 1
 Difficulté: 68
 Solidité: 70
 Qualité maximum: 982
+Degré: 2
+
+Nom: Hachette de la halle
+Classe: Forgeron
+Niveau: 80
+Catégorie: Outil principal de botaniste
+Matériaux: 3 Lingot d'acier au tungstène, 1 Madrier de gaïac, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Sable éthéréen fluide
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
 Degré: 2
 
 Nom: Hachette en acier
@@ -44481,102 +44937,6 @@ Difficulté: 2116
 Solidité: 80
 Qualité maximum: 10851
 Degré: 1
-
-Nom: Initiation à l'alchimie
-Classe: Alchimiste
-Niveau: 50
-Catégorie: Autre
-Matériaux: 1 Cuir d'hippogriffe, 3 Demi-matéria de l'artifice II, 1 Eau de source de Xelphatol, 1 Encre d'or rose enchantée, 1 Lymphe de Raziq
-Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
-Total fabriqué: 1
-Difficulté: 586
-Solidité: 80
-Qualité maximum: 5783
-Degré: 3
-
-Nom: Initiation à l'armurerie
-Classe: Alchimiste
-Niveau: 50
-Catégorie: Autre
-Matériaux: 1 Cuir d'hippogriffe, 3 Demi-matéria de l'artifice II, 1 Eau de source de Xelphatol, 1 Encre d'or rose enchantée, 1 Lymphe de Raziq
-Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
-Total fabriqué: 1
-Difficulté: 586
-Solidité: 80
-Qualité maximum: 5783
-Degré: 3
-
-Nom: Initiation à l'orfèvrerie
-Classe: Alchimiste
-Niveau: 50
-Catégorie: Autre
-Matériaux: 1 Cuir d'hippogriffe, 3 Demi-matéria de l'artifice II, 1 Eau de source de Xelphatol, 1 Encre d'or rose enchantée, 1 Lymphe de Raziq
-Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
-Total fabriqué: 1
-Difficulté: 586
-Solidité: 80
-Qualité maximum: 5783
-Degré: 3
-
-Nom: Initiation à la couture
-Classe: Alchimiste
-Niveau: 50
-Catégorie: Autre
-Matériaux: 1 Cuir d'hippogriffe, 3 Demi-matéria de l'artifice II, 1 Eau de source de Xelphatol, 1 Encre d'or rose enchantée, 1 Lymphe de Raziq
-Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
-Total fabriqué: 1
-Difficulté: 586
-Solidité: 80
-Qualité maximum: 5783
-Degré: 3
-
-Nom: Initiation à la cuisine
-Classe: Alchimiste
-Niveau: 50
-Catégorie: Autre
-Matériaux: 1 Cuir d'hippogriffe, 3 Demi-matéria de l'artifice II, 1 Eau de source de Xelphatol, 1 Encre d'or rose enchantée, 1 Lymphe de Raziq
-Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
-Total fabriqué: 1
-Difficulté: 586
-Solidité: 80
-Qualité maximum: 5783
-Degré: 3
-
-Nom: Initiation à la menuiserie
-Classe: Alchimiste
-Niveau: 50
-Catégorie: Autre
-Matériaux: 1 Cuir d'hippogriffe, 3 Demi-matéria de l'artifice II, 1 Eau de source de Xelphatol, 1 Encre d'or rose enchantée, 1 Lymphe de Raziq
-Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
-Total fabriqué: 1
-Difficulté: 586
-Solidité: 80
-Qualité maximum: 5783
-Degré: 3
-
-Nom: Initiation à la métallurgie
-Classe: Alchimiste
-Niveau: 50
-Catégorie: Autre
-Matériaux: 1 Cuir d'hippogriffe, 3 Demi-matéria de l'artifice II, 1 Eau de source de Xelphatol, 1 Encre d'or rose enchantée, 1 Lymphe de Raziq
-Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
-Total fabriqué: 1
-Difficulté: 586
-Solidité: 80
-Qualité maximum: 5783
-Degré: 3
-
-Nom: Initiation à la tannerie
-Classe: Alchimiste
-Niveau: 50
-Catégorie: Autre
-Matériaux: 1 Cuir d'hippogriffe, 3 Demi-matéria de l'artifice II, 1 Eau de source de Xelphatol, 1 Encre d'or rose enchantée, 1 Lymphe de Raziq
-Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
-Total fabriqué: 1
-Difficulté: 586
-Solidité: 80
-Qualité maximum: 5783
-Degré: 3
 
 Nom: Instruments de purification
 Classe: Cuisinier
@@ -46270,6 +46630,18 @@ Solidité: 80
 Qualité maximum: 2921
 Degré: 1
 
+Nom: Kit pour dépliants
+Classe: Cuisinier
+Niveau: 70
+Catégorie: Divers
+Matériaux: 1 Matériaux pour kit de dépliants
+Cristaux: 2 Cristal d'eau, 4 Cristal de feu
+Total fabriqué: 1
+Difficulté: 2066
+Solidité: 60
+Qualité maximum: 10549
+Degré: 1
+
 Nom: Klobouk de soigneur en feutre chimérique
 Classe: Couturier
 Niveau: 58
@@ -46491,8 +46863,8 @@ Classe: Couturier
 Niveau: 66
 Catégorie: Tissu
 Matériaux: 2 Crinière de halgai, 1 Natron, 2 Poils de manzasiri
-Cristaux: 5 Cristal de foudre
-Total fabriqué: 1
+Cristaux: 2 Cristal de foudre
+Total fabriqué: 3
 Difficulté: 1205
 Solidité: 40
 Qualité maximum: 11676
@@ -47457,6 +47829,18 @@ Difficulté: 445
 Solidité: 80
 Qualité maximum: 4980
 Degré: 3
+
+Nom: Lime de la halle
+Classe: Forgeron
+Niveau: 80
+Catégorie: Outil secondaire de forgeron
+Matériaux: 1 Cuir de glaucus, 3 Lingot d'acier au tungstène, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Sable éthéréen arborescent
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
 
 Nom: Lime de milicien
 Classe: Forgeron
@@ -48898,6 +49282,18 @@ Solidité: 70
 Qualité maximum: 5186
 Degré: 3
 
+Nom: Lustre eulmorien
+Classe: Orfèvre
+Niveau: 78
+Catégorie: Luminaire
+Matériaux: 4 Pépite de mana-argent, 5 Pépite de mithril noble, 2 Pétalite, 2 Verre en cristal
+Cristaux: 7 Cristal de feu, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
+Degré: 3
+
 Nom: Lustre ishgardais
 Classe: Forgeron
 Niveau: 57
@@ -49532,7 +49928,7 @@ Total fabriqué: 3
 Difficulté: 195
 Solidité: 80
 Qualité maximum: 2646
-Degré: 3
+Degré: 2
 
 Nom: Maille en wootz
 Classe: Armurier
@@ -49581,6 +49977,18 @@ Difficulté: 445
 Solidité: 80
 Qualité maximum: 4980
 Degré: 3
+
+Nom: Maillet de la halle
+Classe: Forgeron
+Niveau: 80
+Catégorie: Outil secondaire de mineur
+Matériaux: 3 Lingot d'acier au tungstène, 1 Madrier de gaïac, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Sable éthéréen fluide
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
 
 Nom: Maillet de milicien
 Classe: Forgeron
@@ -50374,6 +50782,18 @@ Solidité: 80
 Qualité maximum: 17490
 Degré: 4
 
+Nom: Manteau de rebelle
+Classe: Couturier
+Niveau: 80
+Catégorie: Torse
+Matériaux: 3 Cuir cordovan, 2 Poils de manzasiri, 1 Pépite de mana-argent, 2 Étoffe mousseuse
+Cristaux: 7 Cristal de foudre, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Degré: 2
+
 Nom: Manteau de soigneur de la halle
 Classe: Couturier
 Niveau: 80
@@ -50421,6 +50841,30 @@ Difficulté: 3586
 Solidité: 80
 Qualité maximum: 17490
 Degré: 4
+
+Nom: Manteau des créations de la halle
+Classe: Couturier
+Niveau: 80
+Catégorie: Torse
+Matériaux: 1 Cuir de glaucus, 4 Fibre de verre renforcée, 2 Potion alchimique ultra-pure, 1 Sable éthéréen arborescent, 3 Étoffe mousseuse
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
+
+Nom: Manteau des ressources de la halle
+Classe: Couturier
+Niveau: 80
+Catégorie: Torse
+Matériaux: 1 Cuir de glaucus, 4 Fibre de verre renforcée, 2 Potion alchimique ultra-pure, 1 Sable éthéréen arborescent, 3 Étoffe mousseuse
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
 
 Nom: Manteau des ressources en kudzu
 Classe: Couturier
@@ -50481,6 +50925,18 @@ Difficulté: 3943
 Solidité: 80
 Qualité maximum: 20287
 Degré: 3
+
+Nom: Manteau urbain
+Classe: Couturier
+Niveau: 80
+Catégorie: Torse
+Matériaux: 3 Crinière de halgai, 3 Cuir cordovan, 2 Étoffe mousseuse
+Cristaux: 7 Cristal de foudre, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Degré: 2
 
 Nom: Maquette d'aéronef
 Classe: Cuisinier
@@ -50637,6 +51093,18 @@ Difficulté: 445
 Solidité: 80
 Qualité maximum: 4980
 Degré: 3
+
+Nom: Marteau arrache-clou de la halle
+Classe: Forgeron
+Niveau: 80
+Catégorie: Outil secondaire de menuisier
+Matériaux: 3 Lingot d'acier au tungstène, 1 Madrier de gaïac, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Sable éthéréen arborescent
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
 
 Nom: Marteau arrache-clou de milicien
 Classe: Forgeron
@@ -51010,6 +51478,18 @@ Solidité: 70
 Qualité maximum: 807
 Degré: 3
 
+Nom: Marteau de batteur de la halle
+Classe: Forgeron
+Niveau: 80
+Catégorie: Outil principal d'armurier
+Matériaux: 3 Lingot d'acier au tungstène, 1 Lingot de mithril noble, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Sable éthéréen alpestre
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
+
 Nom: Marteau de batteur en acier
 Classe: Forgeron
 Niveau: 38
@@ -51237,6 +51717,18 @@ Difficulté: 67
 Solidité: 70
 Qualité maximum: 939
 Degré: 3
+
+Nom: Marteau de lapidaire de la halle
+Classe: Forgeron
+Niveau: 80
+Catégorie: Outil principal d'orfèvre
+Matériaux: 3 Lingot d'acier au tungstène, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Pépite de mithril noble, 1 Sable éthéréen alpestre
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
 
 Nom: Marteau de lapidaire en azuresprit
 Classe: Forgeron
@@ -51597,6 +52089,18 @@ Difficulté: 75
 Solidité: 70
 Qualité maximum: 1090
 Degré: 3
+
+Nom: Marteau à panne croisée de la halle
+Classe: Forgeron
+Niveau: 80
+Catégorie: Outil principal de forgeron
+Matériaux: 3 Lingot d'acier au tungstène, 1 Lingot de mithril noble, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Sable éthéréen alpestre
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
 
 Nom: Marteau à panne croisée en acier
 Classe: Forgeron
@@ -52678,6 +53182,18 @@ Solidité: 80
 Qualité maximum: 4980
 Degré: 3
 
+Nom: Meule de la halle
+Classe: Menuisier
+Niveau: 80
+Catégorie: Outil secondaire d'orfèvre
+Matériaux: 3 Madrier de santal blanc, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Pépite de mithril noble, 1 Sable éthéréen arborescent
+Cristaux: 2 Agrégat de glace, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
+
 Nom: Meule de milicien
 Classe: Menuisier
 Niveau: 50
@@ -53002,6 +53518,18 @@ Solidité: 80
 Qualité maximum: 2641
 Degré: 3
 
+Nom: Mini-jardin intérieur à l'orientale
+Classe: Alchimiste
+Niveau: 80
+Catégorie: Meuble
+Matériaux: 3 Eau de roche, 6 Granit, 1 Matsu-bonsaï, 5 Sable fin, 3 Tige de bambou
+Cristaux: 7 Cristal d'eau, 7 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 7097
+Solidité: 80
+Qualité maximum: 10143
+Degré: 1
+
 Nom: Miqo-brochette de thon
 Classe: Cuisinier
 Niveau: 33
@@ -53012,7 +53540,7 @@ Total fabriqué: 3
 Difficulté: 111
 Solidité: 80
 Qualité maximum: 1757
-Degré: 3
+Degré: 2
 
 Nom: Miqo-brochette de viande
 Classe: Cuisinier
@@ -53024,7 +53552,7 @@ Total fabriqué: 3
 Difficulté: 63
 Solidité: 70
 Qualité maximum: 866
-Degré: 3
+Degré: 2
 
 Nom: Miqo-brochette forestière
 Classe: Cuisinier
@@ -53036,7 +53564,7 @@ Total fabriqué: 3
 Difficulté: 110
 Solidité: 80
 Qualité maximum: 1697
-Degré: 3
+Degré: 2
 
 Nom: Miroir en alliage de titane
 Classe: Alchimiste
@@ -53710,6 +54238,18 @@ Solidité: 80
 Qualité maximum: 4980
 Degré: 3
 
+Nom: Mortier de la halle
+Classe: Forgeron
+Niveau: 80
+Catégorie: Outil secondaire d'alchimiste
+Matériaux: 3 Lingot d'acier au tungstène, 1 Madrier de gaïac, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Sable éthéréen alpestre
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
+
 Nom: Mortier de milicien
 Classe: Forgeron
 Niveau: 50
@@ -53972,7 +54512,7 @@ Total fabriqué: 3
 Difficulté: 55
 Solidité: 70
 Qualité maximum: 807
-Degré: 3
+Degré: 2
 
 Nom: Mouche chocobo
 Classe: Orfèvre
@@ -54045,6 +54585,18 @@ Difficulté: 138
 Solidité: 80
 Qualité maximum: 2050
 Degré: 3
+
+Nom: Moules al ajillo
+Classe: Cuisinier
+Niveau: 80
+Catégorie: Plat ou boisson
+Matériaux: 1 Ail garlemaldais, 1 Huile de frantoio, 1 Moule marine, 1 Persil frisé, 1 Sable éthéréen éclairé
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de feu
+Total fabriqué: 3
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
 
 Nom: Mousqueton de loup
 Classe: Forgeron
@@ -55292,7 +55844,7 @@ Total fabriqué: 3
 Difficulté: 233
 Solidité: 80
 Qualité maximum: 2921
-Degré: 3
+Degré: 2
 
 Nom: Omelette aux œufs de dodo
 Classe: Cuisinier
@@ -55304,7 +55856,7 @@ Total fabriqué: 3
 Difficulté: 63
 Solidité: 70
 Qualité maximum: 866
-Degré: 3
+Degré: 2
 
 Nom: Omelette sacerdotale
 Classe: Cuisinier
@@ -55538,13 +56090,13 @@ Nom: Pain aux noix
 Classe: Cuisinier
 Niveau: 18
 Catégorie: Plat ou boisson
-Matériaux: 1 Beurre, 1 Farine, 1 Lait de bufflonne, 1 Noix de Gridania, 1 Sel de table, 1 Sucre d'érable
+Matériaux: 1 Beurre, 1 Farine, 1 Lait de bufflonne, 1 Noix de Gridania, 1 Sel de table
 Cristaux: 1 Éclat d'eau, 1 Éclat de feu
 Total fabriqué: 3
 Difficulté: 67
 Solidité: 70
 Qualité maximum: 939
-Degré: 3
+Degré: 2
 
 Nom: Pain de chevalier
 Classe: Cuisinier
@@ -55580,7 +56132,7 @@ Total fabriqué: 3
 Difficulté: 54
 Solidité: 60
 Qualité maximum: 726
-Degré: 4
+Degré: 3
 
 Nom: Pain empereur
 Classe: Cuisinier
@@ -55628,7 +56180,7 @@ Total fabriqué: 3
 Difficulté: 33
 Solidité: 60
 Qualité maximum: 451
-Degré: 3
+Degré: 2
 
 Nom: Palettes sanglées
 Classe: Tanneur
@@ -55844,7 +56396,7 @@ Total fabriqué: 1
 Difficulté: 118
 Solidité: 70
 Qualité maximum: 449
-Degré: 4
+Degré: 3
 
 Nom: Panier en osier
 Classe: Menuisier
@@ -56385,6 +56937,18 @@ Difficulté: 233
 Solidité: 80
 Qualité maximum: 2921
 Degré: 3
+
+Nom: Pantalon des créations de la halle
+Classe: Couturier
+Niveau: 80
+Catégorie: Jambes
+Matériaux: 1 Cuir de glaucus, 4 Fibre de verre renforcée, 2 Potion alchimique ultra-pure, 1 Sable éthéréen alpestre, 3 Étoffe mousseuse
+Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
 
 Nom: Pantalon des ressources en akaso
 Classe: Couturier
@@ -57980,7 +58544,7 @@ Total fabriqué: 1
 Difficulté: 505
 Solidité: 80
 Qualité maximum: 1154
-Degré: 4
+Degré: 3
 
 Nom: Petit déjeuner oriental
 Classe: Cuisinier
@@ -58004,7 +58568,7 @@ Total fabriqué: 1
 Difficulté: 624
 Solidité: 80
 Qualité maximum: 1323
-Degré: 4
+Degré: 3
 
 Nom: Petite Garuda
 Classe: Couturier
@@ -58462,6 +59026,18 @@ Solidité: 40
 Qualité maximum: 17024
 Degré: 1
 
+Nom: Pierre à aiguiser en émeri
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Pierre
+Matériaux: 3 Minerai de béryllium, 1 Potion alchimique ultra-pure, 1 Sable éthéréen ténébreux
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 5428
+Solidité: 35
+Qualité maximum: 35092
+Degré: 1
+
 Nom: Pilier chocobo
 Classe: Menuisier
 Niveau: 50
@@ -58533,6 +59109,18 @@ Difficulté: 75
 Solidité: 70
 Qualité maximum: 1122
 Degré: 3
+
+Nom: Pioche de la halle
+Classe: Forgeron
+Niveau: 80
+Catégorie: Outil principal de mineur
+Matériaux: 3 Lingot d'acier au tungstène, 1 Lingot de mithril noble, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Sable éthéréen fluide
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
 
 Nom: Pioche en acier
 Classe: Forgeron
@@ -58760,7 +59348,7 @@ Total fabriqué: 3
 Difficulté: 41
 Solidité: 60
 Qualité maximum: 526
-Degré: 3
+Degré: 2
 
 Nom: Pique de la Déesse
 Classe: Menuisier
@@ -58988,7 +59576,7 @@ Total fabriqué: 1
 Difficulté: 745
 Solidité: 80
 Qualité maximum: 1460
-Degré: 4
+Degré: 3
 
 Nom: Plan de travail du manoir
 Classe: Menuisier
@@ -59926,6 +60514,18 @@ Solidité: 80
 Qualité maximum: 4980
 Degré: 3
 
+Nom: Poinçon de la halle
+Classe: Forgeron
+Niveau: 80
+Catégorie: Outil secondaire de tanneur
+Matériaux: 3 Lingot d'acier au tungstène, 1 Madrier de gaïac, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Sable éthéréen alpestre
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
+
 Nom: Poinçon en acier domien
 Classe: Forgeron
 Niveau: 67
@@ -59996,7 +60596,7 @@ Total fabriqué: 1
 Difficulté: 33
 Solidité: 60
 Qualité maximum: 451
-Degré: 3
+Degré: 2
 
 Nom: Poisson-chat vapeur
 Classe: Cuisinier
@@ -60104,7 +60704,7 @@ Total fabriqué: 3
 Difficulté: 3586
 Solidité: 80
 Qualité maximum: 17490
-Degré: 4
+Degré: 3
 
 Nom: Porc braisé à l'orientale
 Classe: Cuisinier
@@ -60286,6 +60886,18 @@ Solidité: 70
 Qualité maximum: 3150
 Degré: 3
 
+Nom: Porte-chapeau de table
+Classe: Couturier
+Niveau: 78
+Catégorie: Mobilier de table
+Matériaux: 1 Cuir de zonure, 2 Pépite de bronze titané, 2 Étoffe de coton nain
+Cristaux: 7 Cristal de foudre, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
+Degré: 3
+
 Nom: Porte-kimono
 Classe: Couturier
 Niveau: 69
@@ -60404,7 +61016,7 @@ Total fabriqué: 1
 Difficulté: 745
 Solidité: 80
 Qualité maximum: 1460
-Degré: 4
+Degré: 3
 
 Nom: Pot de fleurs mural
 Classe: Orfèvre
@@ -61234,6 +61846,18 @@ Solidité: 80
 Qualité maximum: 9065
 Degré: 2
 
+Nom: Poêle à frire de la halle
+Classe: Armurier
+Niveau: 80
+Catégorie: Outil principal de cuisinier
+Matériaux: 3 Lingot d'acier au tungstène, 1 Madrier de gaïac, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Sable éthéréen arborescent
+Cristaux: 2 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
+
 Nom: Poêle à frire en acier
 Classe: Armurier
 Niveau: 36
@@ -61958,13 +62582,13 @@ Nom: Présentoir à pain
 Classe: Menuisier
 Niveau: 60
 Catégorie: Meuble
-Matériaux: 5 Madrier de camphrier, 5 Muffin au miel, 5 Pain aux noix, 3 Pain empereur, 2 Rivets en sombracier, 3 Sandwich au fromage de foie
+Matériaux: 5 Madrier de camphrier, 5 Muffin au miel, 5 Pain aux noix, 3 Pain empereur, 3 Pain ishgardais, 2 Rivets en sombracier
 Cristaux: 2 Agrégat de glace, 3 Agrégat de vent
 Total fabriqué: 1
 Difficulté: 2971
 Solidité: 70
 Qualité maximum: 5186
-Degré: 4
+Degré: 3
 
 Nom: Pugiones de loup
 Classe: Forgeron
@@ -62042,13 +62666,13 @@ Nom: Pull-over d'aventurier
 Classe: Couturier
 Niveau: 70
 Catégorie: Torse
-Matériaux: 1 Pull-over d'hiver, 1 Pépite de palladium, 2 Étoffe de lin bénit
+Matériaux: 3 Laine peignée, 1 Pépite de palladium, 2 Étoffe de lin bénit, 2 Étoffe de serge des steppes
 Cristaux: 2 Agrégat de foudre, 2 Agrégat de vent
 Total fabriqué: 1
 Difficulté: 3543
 Solidité: 70
 Qualité maximum: 15837
-Degré: 5
+Degré: 4
 
 Nom: Pull-over d'hiver
 Classe: Couturier
@@ -62120,7 +62744,7 @@ Total fabriqué: 6
 Difficulté: 27
 Solidité: 40
 Qualité maximum: 751
-Degré: 3
+Degré: 2
 
 Nom: Pâtes au saumon et à la crème
 Classe: Cuisinier
@@ -62180,7 +62804,7 @@ Total fabriqué: 3
 Difficulté: 138
 Solidité: 80
 Qualité maximum: 2050
-Degré: 4
+Degré: 3
 
 Nom: Pépite d'acier noble
 Classe: Armurier
@@ -62504,7 +63128,7 @@ Total fabriqué: 3
 Difficulté: 186
 Solidité: 80
 Qualité maximum: 2641
-Degré: 4
+Degré: 3
 
 Nom: Quiche aux épinards
 Classe: Cuisinier
@@ -62516,7 +63140,7 @@ Total fabriqué: 3
 Difficulté: 233
 Solidité: 80
 Qualité maximum: 2921
-Degré: 4
+Degré: 3
 
 Nom: Quinquet de Nym
 Classe: Forgeron
@@ -62744,7 +63368,7 @@ Total fabriqué: 3
 Difficulté: 137
 Solidité: 80
 Qualité maximum: 2026
-Degré: 3
+Degré: 2
 
 Nom: Ragoût de tête de sériole
 Classe: Cuisinier
@@ -64846,6 +65470,18 @@ Solidité: 80
 Qualité maximum: 2891
 Degré: 3
 
+Nom: Revêtement mural eulmorien
+Classe: Couturier
+Niveau: 78
+Catégorie: Tapisserie
+Matériaux: 4 Fil de coton pixie, 4 Pot de mortier, 4 Teinture lie-de-vin, 4 Étoffe de coton nain, 4 Étoffe de coton pixie
+Cristaux: 7 Cristal de foudre, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
+Degré: 3
+
 Nom: Revêtement mural floral noscéen
 Classe: Couturier
 Niveau: 41
@@ -65894,13 +66530,13 @@ Nom: Rondache ornée
 Classe: Armurier
 Niveau: 33
 Catégorie: Bouclier
-Matériaux: 1 Lingot d'argent, 1 Rivets en fer, 1 Rondache revêtue de fer
+Matériaux: 1 Lingot d'argent, 1 Rivets en fer, 1 Rondache
 Cristaux: 4 Éclat de glace, 3 Éclat de terre
 Total fabriqué: 1
 Difficulté: 166
 Solidité: 80
 Qualité maximum: 1317
-Degré: 5
+Degré: 4
 
 Nom: Rondache revêtue de fer
 Classe: Armurier
@@ -66009,6 +66645,18 @@ Difficulté: 445
 Solidité: 80
 Qualité maximum: 4980
 Degré: 3
+
+Nom: Rouet de la halle
+Classe: Menuisier
+Niveau: 80
+Catégorie: Outil secondaire de couturier
+Matériaux: 3 Madrier de santal blanc, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Pépite de mithril noble, 1 Sable éthéréen alpestre
+Cristaux: 2 Agrégat de glace, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
 
 Nom: Rouet de milicien
 Classe: Menuisier
@@ -66608,6 +67256,18 @@ Total fabriqué: 1
 Difficulté: 7457
 Solidité: 70
 Qualité maximum: 10920
+Degré: 2
+
+Nom: Rouleau "Invincible"
+Classe: Alchimiste
+Niveau: 80
+Catégorie: Rouleau pour orchestrion
+Matériaux: 1 Encre de mithril sombre enchantée, 1 Rouleau abîmé "Invincible", 1 Rouleau d'orchestrion vierge III
+Cristaux: 2 Agrégat d'eau, 2 Agrégat de foudre
+Total fabriqué: 1
+Difficulté: 7817
+Solidité: 70
+Qualité maximum: 11697
 Degré: 2
 
 Nom: Rouleau "Landlords"
@@ -69344,7 +70004,7 @@ Total fabriqué: 3
 Difficulté: 106
 Solidité: 80
 Qualité maximum: 1670
-Degré: 3
+Degré: 2
 
 Nom: Salade au gingembre
 Classe: Cuisinier
@@ -69428,7 +70088,7 @@ Total fabriqué: 3
 Difficulté: 3467
 Solidité: 80
 Qualité maximum: 16557
-Degré: 3
+Degré: 2
 
 Nom: Salade des steppes
 Classe: Cuisinier
@@ -69452,7 +70112,7 @@ Total fabriqué: 3
 Difficulté: 195
 Solidité: 80
 Qualité maximum: 2646
-Degré: 3
+Degré: 2
 
 Nom: Salade verte aux morilles
 Classe: Cuisinier
@@ -69956,7 +70616,7 @@ Total fabriqué: 3
 Difficulté: 233
 Solidité: 80
 Qualité maximum: 2921
-Degré: 4
+Degré: 3
 
 Nom: Sankhâra
 Classe: Forgeron
@@ -70328,7 +70988,7 @@ Total fabriqué: 3
 Difficulté: 3526
 Solidité: 80
 Qualité maximum: 17024
-Degré: 3
+Degré: 2
 
 Nom: Saumon meunière
 Classe: Cuisinier
@@ -70388,7 +71048,7 @@ Total fabriqué: 3
 Difficulté: 75
 Solidité: 70
 Qualité maximum: 1122
-Degré: 3
+Degré: 2
 
 Nom: Sauté de champignons à l'ail
 Classe: Cuisinier
@@ -70400,7 +71060,7 @@ Total fabriqué: 3
 Difficulté: 156
 Solidité: 80
 Qualité maximum: 2277
-Degré: 3
+Degré: 2
 
 Nom: Sauté de chanterelles
 Classe: Cuisinier
@@ -70725,6 +71385,18 @@ Difficulté: 74
 Solidité: 70
 Qualité maximum: 1053
 Degré: 3
+
+Nom: Scie de la halle
+Classe: Forgeron
+Niveau: 80
+Catégorie: Outil principal de menuisier
+Matériaux: 3 Lingot d'acier au tungstène, 1 Lingot de mithril noble, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Sable éthéréen alpestre
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
 
 Nom: Scie en acier domien
 Classe: Forgeron
@@ -71162,13 +71834,13 @@ Nom: Sel de table
 Classe: Cuisinier
 Niveau: 1
 Catégorie: Ingrédient
-Matériaux: 1 Eau distillée, 1 Sel gemme
+Matériaux: 1 Sel gemme
 Cristaux: 1 Éclat de feu
 Total fabriqué: 6
 Difficulté: 9
 Solidité: 40
 Qualité maximum: 312
-Degré: 2
+Degré: 1
 
 Nom: Sellette du Manoir
 Classe: Forgeron
@@ -71240,7 +71912,7 @@ Total fabriqué: 1
 Difficulté: 6377
 Solidité: 70
 Qualité maximum: 7918
-Degré: 5
+Degré: 4
 
 Nom: Set de pique-nique oriental douillet
 Classe: Menuisier
@@ -71456,7 +72128,7 @@ Total fabriqué: 3
 Difficulté: 102
 Solidité: 70
 Qualité maximum: 1584
-Degré: 3
+Degré: 2
 
 Nom: Solerets
 Classe: Armurier
@@ -71924,7 +72596,7 @@ Total fabriqué: 3
 Difficulté: 186
 Solidité: 80
 Qualité maximum: 2641
-Degré: 3
+Degré: 2
 
 Nom: Soupe de féveroles
 Classe: Cuisinier
@@ -71948,7 +72620,7 @@ Total fabriqué: 3
 Difficulté: 66
 Solidité: 70
 Qualité maximum: 898
-Degré: 3
+Degré: 2
 
 Nom: Soupe de pois
 Classe: Cuisinier
@@ -71960,7 +72632,7 @@ Total fabriqué: 3
 Difficulté: 90
 Solidité: 70
 Qualité maximum: 1332
-Degré: 3
+Degré: 2
 
 Nom: Soupe de poisson
 Classe: Cuisinier
@@ -71984,7 +72656,7 @@ Total fabriqué: 3
 Difficulté: 233
 Solidité: 80
 Qualité maximum: 2921
-Degré: 3
+Degré: 2
 
 Nom: Soupe miso au tôfu
 Classe: Cuisinier
@@ -72081,6 +72753,18 @@ Difficulté: 863
 Solidité: 60
 Qualité maximum: 5664
 Degré: 2
+
+Nom: Souvenir du cabaret
+Classe: Cuisinier
+Niveau: 73
+Catégorie: Divers
+Matériaux: 1 Matériaux pour souvenir du cabaret
+Cristaux: 2 Cristal d'eau, 4 Cristal de feu
+Total fabriqué: 1
+Difficulté: 3348
+Solidité: 60
+Qualité maximum: 12500
+Degré: 1
 
 Nom: Spaghetti al nero
 Classe: Cuisinier
@@ -72308,7 +72992,7 @@ Total fabriqué: 3
 Difficulté: 90
 Solidité: 70
 Qualité maximum: 1332
-Degré: 3
+Degré: 2
 
 Nom: Steak de cerf
 Classe: Cuisinier
@@ -72320,7 +73004,7 @@ Total fabriqué: 3
 Difficulté: 75
 Solidité: 70
 Qualité maximum: 1090
-Degré: 3
+Degré: 2
 
 Nom: Steak de hainag
 Classe: Cuisinier
@@ -72956,6 +73640,18 @@ Total fabriqué: 1
 Difficulté: 323
 Solidité: 70
 Qualité maximum: 772
+Degré: 3
+
+Nom: Table de Grand-Lac
+Classe: Menuisier
+Niveau: 78
+Catégorie: Table
+Matériaux: 7 Madrier de gaïac, 5 Madrier de teck des sables, 3 Vernis
+Cristaux: 7 Cristal de glace, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
 Degré: 3
 
 Nom: Table de banquet ronde
@@ -73976,7 +74672,7 @@ Total fabriqué: 3
 Difficulté: 111
 Solidité: 80
 Qualité maximum: 1757
-Degré: 4
+Degré: 3
 
 Nom: Tarte aux lainuchairelles
 Classe: Cuisinier
@@ -73988,7 +74684,7 @@ Total fabriqué: 3
 Difficulté: 1116
 Solidité: 70
 Qualité maximum: 8377
-Degré: 4
+Degré: 3
 
 Nom: Tarte aux noix
 Classe: Cuisinier
@@ -74012,7 +74708,7 @@ Total fabriqué: 3
 Difficulté: 67
 Solidité: 70
 Qualité maximum: 939
-Degré: 4
+Degré: 3
 
 Nom: Tarte aux rolanbaies
 Classe: Cuisinier
@@ -74024,7 +74720,7 @@ Total fabriqué: 1
 Difficulté: 279
 Solidité: 80
 Qualité maximum: 1125
-Degré: 4
+Degré: 3
 
 Nom: Tarte à l'anguille
 Classe: Cuisinier
@@ -74036,7 +74732,7 @@ Total fabriqué: 3
 Difficulté: 89
 Solidité: 70
 Qualité maximum: 1296
-Degré: 4
+Degré: 3
 
 Nom: Tarte à l'anguille très spéciale
 Classe: Cuisinier
@@ -74048,7 +74744,7 @@ Total fabriqué: 1
 Difficulté: 445
 Solidité: 80
 Qualité maximum: 4980
-Degré: 4
+Degré: 3
 
 Nom: Tarte à la tomate
 Classe: Cuisinier
@@ -74060,7 +74756,7 @@ Total fabriqué: 3
 Difficulté: 195
 Solidité: 80
 Qualité maximum: 2646
-Degré: 4
+Degré: 3
 
 Nom: Tassette d'abatteur en adamantium
 Classe: Armurier
@@ -74890,6 +75586,18 @@ Solidité: 80
 Qualité maximum: 4980
 Degré: 3
 
+Nom: Tenailles de la halle
+Classe: Forgeron
+Niveau: 80
+Catégorie: Outil secondaire d'armurier
+Matériaux: 3 Lingot d'acier au tungstène, 1 Lingot de mithril noble, 3 Pierre à aiguiser en émeri, 2 Potion alchimique ultra-pure, 1 Sable éthéréen arborescent
+Cristaux: 2 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 6297
+Solidité: 70
+Qualité maximum: 44450
+Degré: 2
+
 Nom: Tenailles de milicien
 Classe: Forgeron
 Niveau: 50
@@ -75382,6 +76090,18 @@ Solidité: 70
 Qualité maximum: 3410
 Degré: 3
 
+Nom: Tireuse à bière
+Classe: Forgeron
+Niveau: 78
+Catégorie: Mobilier de table
+Matériaux: 2 Lingot de bronze titané, 2 Lingot de mithril noble, 1 Pépite de bronze titané
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
+Degré: 2
+
 Nom: Tisane de sarrasin
 Classe: Cuisinier
 Niveau: 62
@@ -75404,7 +76124,7 @@ Total fabriqué: 3
 Difficulté: 158
 Solidité: 80
 Qualité maximum: 2309
-Degré: 4
+Degré: 3
 
 Nom: Toile de jute
 Classe: Couturier
@@ -76304,7 +77024,7 @@ Total fabriqué: 3
 Difficulté: 54
 Solidité: 60
 Qualité maximum: 751
-Degré: 4
+Degré: 3
 
 Nom: Tranche de buffle séché
 Classe: Cuisinier
@@ -76316,7 +77036,7 @@ Total fabriqué: 3
 Difficulté: 143
 Solidité: 80
 Qualité maximum: 2109
-Degré: 3
+Degré: 2
 
 Nom: Tranche de dodo grillée
 Classe: Cuisinier
@@ -76328,7 +77048,7 @@ Total fabriqué: 3
 Difficulté: 48
 Solidité: 60
 Qualité maximum: 665
-Degré: 3
+Degré: 2
 
 Nom: Tranche de raptor fumé
 Classe: Cuisinier
@@ -76340,7 +77060,7 @@ Total fabriqué: 3
 Difficulté: 110
 Solidité: 80
 Qualité maximum: 1697
-Degré: 3
+Degré: 2
 
 Nom: Tranche de râle grillée
 Classe: Cuisinier
@@ -76556,7 +77276,7 @@ Total fabriqué: 1
 Difficulté: 233
 Solidité: 80
 Qualité maximum: 2921
-Degré: 4
+Degré: 3
 
 Nom: Triphane
 Classe: Orfèvre
@@ -76605,6 +77325,18 @@ Difficulté: 2760
 Solidité: 70
 Qualité maximum: 16638
 Degré: 4
+
+Nom: Trophée d'Hadès
+Classe: Orfèvre
+Niveau: 80
+Catégorie: Meuble
+Matériaux: 2 Barre iridescente, 1 Calcaire noir, 1 Pierre à aiguiser en tuf volcanique, 1 Éclat de cristal d'Hadès
+Cristaux: 2 Agrégat de feu, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 7817
+Solidité: 70
+Qualité maximum: 11697
+Degré: 2
 
 Nom: Trophée d'Innocence
 Classe: Forgeron
@@ -77048,7 +77780,7 @@ Total fabriqué: 3
 Difficulté: 33
 Solidité: 60
 Qualité maximum: 451
-Degré: 3
+Degré: 2
 
 Nom: Truite thermophile grillée
 Classe: Cuisinier
@@ -77060,7 +77792,7 @@ Total fabriqué: 3
 Difficulté: 74
 Solidité: 70
 Qualité maximum: 1053
-Degré: 3
+Degré: 2
 
 Nom: Trône du Tigre blanc
 Classe: Tanneur
@@ -79232,7 +79964,7 @@ Total fabriqué: 3
 Difficulté: 42
 Solidité: 60
 Qualité maximum: 545
-Degré: 3
+Degré: 2
 
 Nom: Écrit rakshasa
 Classe: Alchimiste
@@ -79436,6 +80168,18 @@ Total fabriqué: 1
 Difficulté: 956
 Solidité: 70
 Qualité maximum: 7851
+Degré: 1
+
+Nom: Élément pour rénovation d'aéronef
+Classe: Cuisinier
+Niveau: 72
+Catégorie: Divers
+Matériaux: 1 Matériaux pour rénovation des aéronefs
+Cristaux: 2 Cristal d'eau, 4 Cristal de feu
+Total fabriqué: 1
+Difficulté: 3248
+Solidité: 60
+Qualité maximum: 11878
 Degré: 1
 
 Nom: Éléments pour armure Drachen
@@ -80458,6 +81202,126 @@ Solidité: 80
 Qualité maximum: 1125
 Degré: 3
 
+Nom: Étal de boucher
+Classe: Cuisinier
+Niveau: 78
+Catégorie: Meuble de jardin
+Matériaux: 4 Filet de râle, 4 Steak d'ovim, 1 Suspension sombrelinçoise, 1 Table à manger, 4 Épaule de hainag, 3 Étoffe de coton nain
+Cristaux: 28 Cristal d'eau, 28 Cristal de feu
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
+Degré: 3
+
+Nom: Étal de boulanger
+Classe: Cuisinier
+Niveau: 78
+Catégorie: Meuble de jardin
+Matériaux: 6 Eau de source des hauts plateaux, 6 Farine de blé des plateaux, 2 Sel d'Ala Mhigo, 1 Suspension sombrelinçoise, 1 Table à manger, 3 Étoffe de coton nain
+Cristaux: 28 Cristal d'eau, 28 Cristal de feu
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
+Degré: 3
+
+Nom: Étal de bouquiniste
+Classe: Alchimiste
+Niveau: 78
+Catégorie: Meuble de jardin
+Matériaux: 4 Cuir de zonure, 2 Encre de mana-argent enchantée, 4 Encre de mithril sombre enchantée, 1 Suspension sombrelinçoise, 1 Table à manger, 3 Étoffe de coton nain
+Cristaux: 28 Cristal d'eau, 28 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
+Degré: 3
+
+Nom: Étal de fleuriste
+Classe: Alchimiste
+Niveau: 78
+Catégorie: Meuble de jardin
+Matériaux: 2 Bouquet de tulipes jaunes, 4 Formule de croissance kappa, 2 Pensées bleues, 1 Suspension sombrelinçoise, 1 Table à manger, 3 Étoffe de coton nain
+Cristaux: 28 Cristal d'eau, 28 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
+Degré: 3
+
+Nom: Étal de joaillier
+Classe: Orfèvre
+Niveau: 78
+Catégorie: Meuble de jardin
+Matériaux: 3 Pépite de bronze titané, 4 Pépite de mithril noble, 3 Pétalite, 1 Suspension sombrelinçoise, 1 Table à manger, 3 Étoffe de coton nain
+Cristaux: 28 Cristal de feu, 28 Cristal de vent
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
+Degré: 3
+
+Nom: Étal de maraîcher
+Classe: Cuisinier
+Niveau: 78
+Catégorie: Meuble de jardin
+Matériaux: 5 Chou-soleil, 5 Popoto brune, 1 Suspension sombrelinçoise, 1 Table à manger, 5 Tomate sanguine, 3 Étoffe de coton nain
+Cristaux: 28 Cristal d'eau, 28 Cristal de feu
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
+Degré: 3
+
+Nom: Étal de marchand d'armes
+Classe: Forgeron
+Niveau: 78
+Catégorie: Meuble de jardin
+Matériaux: 2 Barre d'azuresprit, 4 Lingot de bronze titané, 4 Lingot de mithril noble, 1 Suspension sombrelinçoise, 1 Table à manger, 3 Étoffe de coton nain
+Cristaux: 28 Cristal de feu, 28 Cristal de terre
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
+Degré: 3
+
+Nom: Étal de marchand d'armures
+Classe: Armurier
+Niveau: 78
+Catégorie: Meuble de jardin
+Matériaux: 2 Barre d'azuresprit, 4 Lingot de bronze titané, 4 Lingot de mithril noble, 1 Suspension sombrelinçoise, 1 Table à manger, 3 Étoffe de coton nain
+Cristaux: 28 Cristal de glace, 28 Cristal de terre
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
+Degré: 3
+
+Nom: Étal de primeur
+Classe: Cuisinier
+Niveau: 78
+Catégorie: Meuble de jardin
+Matériaux: 3 Ananas épineux, 6 Pomme pixie, 6 Raisin royal, 1 Suspension sombrelinçoise, 1 Table à manger, 3 Étoffe de coton nain
+Cristaux: 28 Cristal d'eau, 28 Cristal de feu
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
+Degré: 3
+
+Nom: Étal de quincaillier
+Classe: Alchimiste
+Niveau: 78
+Catégorie: Meuble de jardin
+Matériaux: 3 Encre de mithril sombre enchantée, 4 Pépite de bronze titané, 1 Suspension sombrelinçoise, 1 Table à manger, 3 Étoffe de coton nain, 3 Étoffe de coton pixie
+Cristaux: 28 Cristal d'eau, 28 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 6561
+Solidité: 80
+Qualité maximum: 8978
+Degré: 3
+
 Nom: Étendoir à linge de jardin
 Classe: Menuisier
 Niveau: 20
@@ -80523,7 +81387,7 @@ Classe: Couturier
 Niveau: 51
 Catégorie: Tissu
 Matériaux: 2 Fil arc-en-ciel, 1 Fil de la rosée
-Cristaux: 3 Cristal de foudre
+Cristaux: 2 Cristal de foudre
 Total fabriqué: 1
 Difficulté: 169
 Solidité: 40
@@ -80547,7 +81411,7 @@ Classe: Couturier
 Niveau: 61
 Catégorie: Tissu
 Matériaux: 3 Fil d'akaso
-Cristaux: 3 Cristal de foudre
+Cristaux: 2 Cristal de foudre
 Total fabriqué: 1
 Difficulté: 558
 Solidité: 40
@@ -80607,7 +81471,7 @@ Classe: Couturier
 Niveau: 78
 Catégorie: Tissu
 Matériaux: 3 Fil de coton nain
-Cristaux: 7 Cristal de foudre
+Cristaux: 4 Cristal de foudre
 Total fabriqué: 1
 Difficulté: 1822
 Solidité: 40
@@ -80619,7 +81483,7 @@ Classe: Couturier
 Niveau: 74
 Catégorie: Tissu
 Matériaux: 3 Fil de coton pixie
-Cristaux: 7 Cristal de foudre
+Cristaux: 4 Cristal de foudre
 Total fabriqué: 1
 Difficulté: 1703
 Solidité: 40
@@ -80655,7 +81519,7 @@ Classe: Couturier
 Niveau: 68
 Catégorie: Tissu
 Matériaux: 3 Fil de doublesoie
-Cristaux: 5 Cristal de foudre
+Cristaux: 3 Cristal de foudre
 Total fabriqué: 1
 Difficulté: 1353
 Solidité: 40
@@ -80691,7 +81555,7 @@ Classe: Couturier
 Niveau: 64
 Catégorie: Tissu
 Matériaux: 2 Fibre de kudzu, 1 Fil de rubicoton
-Cristaux: 4 Cristal de foudre
+Cristaux: 2 Cristal de foudre
 Total fabriqué: 1
 Difficulté: 1058
 Solidité: 40
@@ -80703,7 +81567,7 @@ Classe: Couturier
 Niveau: 39
 Catégorie: Tissu
 Matériaux: 2 Fil de laine
-Cristaux: 5 Éclat de foudre
+Cristaux: 3 Éclat de foudre
 Total fabriqué: 1
 Difficulté: 68
 Solidité: 40
@@ -80715,7 +81579,7 @@ Classe: Couturier
 Niveau: 76
 Catégorie: Tissu
 Matériaux: 3 Fil de laine d'ovim
-Cristaux: 7 Cristal de foudre
+Cristaux: 4 Cristal de foudre
 Total fabriqué: 1
 Difficulté: 1763
 Solidité: 40
@@ -80727,7 +81591,7 @@ Classe: Couturier
 Niveau: 33
 Catégorie: Tissu
 Matériaux: 2 Fil de lin
-Cristaux: 4 Éclat de foudre
+Cristaux: 2 Éclat de foudre
 Total fabriqué: 1
 Difficulté: 55
 Solidité: 40
@@ -80739,7 +81603,7 @@ Classe: Couturier
 Niveau: 71
 Catégorie: Tissu
 Matériaux: 3 Fil de lin blanc
-Cristaux: 6 Cristal de foudre
+Cristaux: 3 Cristal de foudre
 Total fabriqué: 1
 Difficulté: 1574
 Solidité: 40
@@ -80763,7 +81627,7 @@ Classe: Couturier
 Niveau: 54
 Catégorie: Tissu
 Matériaux: 1 Fil de lin, 2 Fil de ramie
-Cristaux: 4 Cristal de foudre
+Cristaux: 2 Cristal de foudre
 Total fabriqué: 1
 Difficulté: 320
 Solidité: 40
@@ -80787,7 +81651,7 @@ Classe: Couturier
 Niveau: 62
 Catégorie: Tissu
 Matériaux: 3 Fil de rubicoton
-Cristaux: 3 Cristal de foudre
+Cristaux: 2 Cristal de foudre
 Total fabriqué: 1
 Difficulté: 842
 Solidité: 40
@@ -80799,7 +81663,7 @@ Classe: Couturier
 Niveau: 66
 Catégorie: Tissu
 Matériaux: 3 Laine peignée
-Cristaux: 5 Cristal de foudre
+Cristaux: 3 Cristal de foudre
 Total fabriqué: 1
 Difficulté: 1205
 Solidité: 40
@@ -80823,7 +81687,7 @@ Classe: Couturier
 Niveau: 72
 Catégorie: Tissu
 Matériaux: 3 Fil de soie iridescente
-Cristaux: 6 Cristal de foudre
+Cristaux: 3 Cristal de foudre
 Total fabriqué: 1
 Difficulté: 1624
 Solidité: 40
@@ -80847,7 +81711,7 @@ Classe: Couturier
 Niveau: 24
 Catégorie: Tissu
 Matériaux: 1 Fil de coton, 1 Fil de la rosée
-Cristaux: 2 Éclat de foudre
+Cristaux: 1 Éclat de foudre
 Total fabriqué: 1
 Difficulté: 42
 Solidité: 40
@@ -81056,7 +81920,7 @@ Total fabriqué: 3
 Difficulté: 91
 Solidité: 70
 Qualité maximum: 1368
-Degré: 3
+Degré: 2
 
 Nom: Œuf brouillé
 Classe: Cuisinier
@@ -81140,4 +82004,4 @@ Total fabriqué: 3
 Difficulté: 75
 Solidité: 70
 Qualité maximum: 1122
-Degré: 3
+Degré: 2
