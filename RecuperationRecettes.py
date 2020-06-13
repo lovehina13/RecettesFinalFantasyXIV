@@ -3,7 +3,7 @@
 # ==============================================================================
 # Name        : RecuperationRecettes.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
-# Version     : 2.0 (03/07/2019)
+# Version     : 2.1 (14/06/2020)
 # Description : Récupération des recettes
 # ==============================================================================
 
@@ -40,7 +40,7 @@ class LecteurPageRecette(object):
         self.recette.qualite = int(soup.find("ul", {"class": "db-view__recipe__craftdata"}).contents[4].contents[1].strip())
         for item in soup.find_all("div", {"class": "db-view__data__reward__item__name"}):
             objet = item.contents[3].contents[1].contents[0].contents[0].strip()
-            quantite = int(item.contents[1].contents[0].strip())
+            quantite = int(item.contents[1].contents[0].contents[0].strip())
             if objet in [u"Éclat de feu", u"Éclat de glace", u"Éclat de vent", u"Éclat de terre",
                          u"Éclat de foudre", u"Éclat d'eau", u"Cristal de feu", u"Cristal de glace",
                          u"Cristal de vent", u"Cristal de terre", u"Cristal de foudre",
@@ -58,7 +58,7 @@ def recupererRecettes(nomFichierRecettes):
     import sys
 
     # Récupération des pages des recettes
-    nombrePagesRecettes = 162
+    nombrePagesRecettes = 169
     adressesPagesRecettes = []
     for numeroPageRecettes in range(1, nombrePagesRecettes + 1):
         print "Traitement de la liste de recettes %d sur %d" % (numeroPageRecettes, nombrePagesRecettes)

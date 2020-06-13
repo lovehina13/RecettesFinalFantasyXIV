@@ -3,7 +3,7 @@
 # ==============================================================================
 # Name        : RecuperationPersonnages.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
-# Version     : 2.0 (03/07/2019)
+# Version     : 2.1 (14/06/2020)
 # Description : Récupération des personnages
 # ==============================================================================
 
@@ -40,13 +40,15 @@ class LecteurPagePersonnage(object):
         self.personnage.divinite = soup.find_all("p", {"class": "character-block__name"})[1].contents[0].strip()
         self.personnage.citeDepart = soup.find_all("p", {"class": "character-block__name"})[2].contents[0].strip()
         self.personnage.grandeCompagnie = soup.find_all("p", {"class": "character-block__name"})[3].contents[0].strip() if len(soup.find_all("p", {"class": "character-block__name"})) > 3 else str()
-        self.personnage.compagnieLibre = soup.find("div", {"class": "character__freecompany__name"}).contents[3].contents[0].contents[0].strip()
+        self.personnage.compagnieLibre = soup.find("div", {"class": "character__freecompany__name"}).contents[1].contents[0].contents[0]
         if self.personnage.sexe == u"♂":
             self.personnage.sexe = u"Homme"
         elif self.personnage.sexe == u"♀":
             self.personnage.sexe = u"Femme"
         for item in soup.find_all("img", {"class": "js__tooltip"}):
             classe = item.attrs["data-tooltip"].strip()
+            if u"Agrandir le personnage" in classe:
+                continue
             if u"Gladiateur" in classe or u"Paladin" in classe:
                 classe = u"Paladin"
             elif u"Maraudeur" in classe or u"Guerrier" in classe:

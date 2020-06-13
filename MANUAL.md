@@ -44,7 +44,7 @@ Syntaxe d'utilisation :
 
 ### 2.3. Installation de l'application UtilitairesFinalFantasyXIV
 
-L'application est disponible en [version actuelle](https://github.com/lovehina13/UtilitairesFinalFantasyXIV) ou en [version stable (2.0)](https://github.com/lovehina13/UtilitairesFinalFantasyXIV/releases/tag/v2.0.0). Il convient de récupérer puis d'installer les éléments concernés.
+L'application est disponible en [version actuelle](https://github.com/lovehina13/UtilitairesFinalFantasyXIV) ou en [version stable (2.1)](https://github.com/lovehina13/UtilitairesFinalFantasyXIV/releases/tag/v2.1.0). Il convient de récupérer puis d'installer les éléments concernés.
 
 ## 3. Utilisation de l'application
 
@@ -115,9 +115,9 @@ Exemple d'utilisation :
 
 Il convient de modifier le fichier *RecuperationRecettes.py (ligne 61)* afin d'ajuster le nombre de pages relatives aux recettes.
 
-Exemple pour la version 5.10, soit 162 pages :
+Exemple pour la version 5.25, soit 169 pages :
 
-    nombrePagesRecettes = 162
+    nombrePagesRecettes = 169
 
 ### 3.4. Fonctionnalité de récupération des matériaux et des cristaux
 
@@ -170,9 +170,9 @@ Exemple d'utilisation :
 
 Il convient de modifier le fichier *RecuperationRecoltes.py (ligne 55)* afin d'ajuster le nombre de pages relatives aux récoltes.
 
-Exemple pour la version 5.10, soit 14 pages :
+Exemple pour la version 5.25, soit 16 pages :
 
-    nombrePagesRecoltes = 14
+    nombrePagesRecoltes = 16
 
 ### 3.6. Fonctionnalité de récupération des points de récolte
 
@@ -214,4 +214,4 @@ Les critères disponibles sont les suivants : *noms*, *classes*, *sousClasses*, 
 
 ## 4. Informations
 
-L'application est en version 2.0 au 3 juillet 2019 et réalisée par [Alexis Foerster](mailto:alexis.foerster@gmail.com), joueur du personnage [Yuna Hikari](https://fr.finalfantasyxiv.com/lodestone/character/8095216/).
+L'application est en version 2.1 au 14 juin 2020 et réalisée par [Alexis Foerster](mailto:alexis.foerster@gmail.com), joueur du personnage [Yuna Hikari](https://fr.finalfantasyxiv.com/lodestone/character/8095216/).
