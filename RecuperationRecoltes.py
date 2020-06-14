@@ -48,7 +48,7 @@ class LecteurPageRecolte(object):
 
 def recupererRecoltes(nomFichierRecoltes):
 
-    from urllib2 import urlopen
+    from RecuperationTexteHTML import recupererTexteHTML
     import sys
 
     # Récupération des pages des récoltes
@@ -57,7 +57,7 @@ def recupererRecoltes(nomFichierRecoltes):
     for numeroPageRecoltes in range(1, nombrePagesRecoltes + 1):
         print "Traitement de la liste de récoltes %d sur %d" % (numeroPageRecoltes, nombrePagesRecoltes)
         adressePageRecoltes = "http://fr.finalfantasyxiv.com/lodestone/playguide/db/gathering/?page=%d" % (numeroPageRecoltes)
-        texteHTML = "".join(urlopen(adressePageRecoltes).readlines())
+        texteHTML = recupererTexteHTML(adressePageRecoltes)
         lecteurPageRecoltes = LecteurPageRecoltes()
         lecteurPageRecoltes.traitement(texteHTML)
         for adressePageRecolte in lecteurPageRecoltes.adressesPagesRecoltes:
@@ -70,7 +70,7 @@ def recupererRecoltes(nomFichierRecoltes):
     for adressePageRecolte in adressesPagesRecoltes:
         numeroRecolte = adressesPagesRecoltes.index(adressePageRecolte) + 1
         print "Traitement de la récolte %d sur %d" % (numeroRecolte, nombreRecoltes)
-        texteHTML = "".join(urlopen(adressePageRecolte).readlines())
+        texteHTML = recupererTexteHTML(adressePageRecolte)
         lecteurPageRecolte = LecteurPageRecolte()
         lecteurPageRecolte.traitement(texteHTML)
         recolteTexteBrut = lecteurPageRecolte.recolte.getTexteBrut()

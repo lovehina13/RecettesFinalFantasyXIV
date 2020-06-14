@@ -54,7 +54,7 @@ class LecteurPageRecette(object):
 
 def recupererRecettes(nomFichierRecettes):
 
-    from urllib2 import urlopen
+    from RecuperationTexteHTML import recupererTexteHTML
     import sys
 
     # Récupération des pages des recettes
@@ -63,7 +63,7 @@ def recupererRecettes(nomFichierRecettes):
     for numeroPageRecettes in range(1, nombrePagesRecettes + 1):
         print "Traitement de la liste de recettes %d sur %d" % (numeroPageRecettes, nombrePagesRecettes)
         adressePageRecettes = "http://fr.finalfantasyxiv.com/lodestone/playguide/db/recipe/?page=%d" % (numeroPageRecettes)
-        texteHTML = "".join(urlopen(adressePageRecettes).readlines())
+        texteHTML = recupererTexteHTML(adressePageRecettes)
         lecteurPageRecettes = LecteurPageRecettes()
         lecteurPageRecettes.traitement(texteHTML)
         for adressePageRecette in lecteurPageRecettes.adressesPagesRecettes:
@@ -76,7 +76,7 @@ def recupererRecettes(nomFichierRecettes):
     for adressePageRecette in adressesPagesRecettes:
         numeroRecette = adressesPagesRecettes.index(adressePageRecette) + 1
         print "Traitement de la recette %d sur %d" % (numeroRecette, nombreRecettes)
-        texteHTML = "".join(urlopen(adressePageRecette).readlines())
+        texteHTML = recupererTexteHTML(adressePageRecette)
         lecteurPageRecette = LecteurPageRecette()
         lecteurPageRecette.traitement(texteHTML)
         recetteTexteBrut = lecteurPageRecette.recette.getTexteBrut()

@@ -76,7 +76,7 @@ class LecteurPagePersonnage(object):
 
 def recupererPersonnages(numeroCompagnieLibre, nomFichierPersonnages):
 
-    from urllib2 import urlopen
+    from RecuperationTexteHTML import recupererTexteHTML
     import sys
 
     # Récupération des pages des personnages
@@ -85,7 +85,7 @@ def recupererPersonnages(numeroCompagnieLibre, nomFichierPersonnages):
     for numeroPagePersonnages in range(1, nombrePagesPersonnages + 1):
         print "Traitement de la liste de personnages %d sur %d" % (numeroPagePersonnages, nombrePagesPersonnages)
         adressePagePersonnages = "http://fr.finalfantasyxiv.com/lodestone/freecompany/%s/member/?page=%d" % (numeroCompagnieLibre, numeroPagePersonnages)
-        texteHTML = "".join(urlopen(adressePagePersonnages).readlines())
+        texteHTML = recupererTexteHTML(adressePagePersonnages)
         lecteurPagePersonnages = LecteurPagePersonnages()
         lecteurPagePersonnages.traitement(texteHTML)
         for adressePagePersonnage in lecteurPagePersonnages.adressesPagesPersonnages:
@@ -98,7 +98,7 @@ def recupererPersonnages(numeroCompagnieLibre, nomFichierPersonnages):
     for adressePagePersonnage in adressesPagesPersonnages:
         numeroPersonnage = adressesPagesPersonnages.index(adressePagePersonnage) + 1
         print "Traitement du personnage %d sur %d" % (numeroPersonnage, nombrePersonnages)
-        texteHTML = "".join(urlopen(adressePagePersonnage).readlines())
+        texteHTML = recupererTexteHTML(adressePagePersonnage)
         lecteurPagePersonnage = LecteurPagePersonnage()
         lecteurPagePersonnage.traitement(texteHTML)
         personnageTexteBrut = lecteurPagePersonnage.personnage.getTexteBrut()
