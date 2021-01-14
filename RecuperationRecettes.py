@@ -42,6 +42,9 @@ class LecteurPageRecette(object):
         for item in soup.find_all("div", {"class": "db-view__data__reward__item__name"}):
             objet = item.contents[3].contents[1].contents[0].contents[0].strip()
             quantite = int(item.contents[1].contents[0].contents[0].strip())
+            profondeur = int(item.contents[1].attrs[u"data-depth"])
+            if profondeur != 1:
+                continue
             if objet in [u"Éclat de feu", u"Éclat de glace", u"Éclat de vent", u"Éclat de terre",
                          u"Éclat de foudre", u"Éclat d'eau", u"Cristal de feu", u"Cristal de glace",
                          u"Cristal de vent", u"Cristal de terre", u"Cristal de foudre",
