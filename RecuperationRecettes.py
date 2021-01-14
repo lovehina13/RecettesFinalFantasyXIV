@@ -3,7 +3,7 @@
 # ==============================================================================
 # Name        : RecuperationRecettes.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
-# Version     : 2.1 (14/06/2020)
+# Version     : 2.2 (14/01/2021)
 # Description : Récupération des recettes
 # ==============================================================================
 
@@ -66,7 +66,7 @@ def recupererRecettes(nomFichierRecettes):
     import sys
 
     # Récupération des pages des recettes
-    nombrePagesRecettes = 169
+    nombrePagesRecettes = 182
     adressesPagesRecettes = []
     for numeroPageRecettes in range(1, nombrePagesRecettes + 1):
         print "Traitement de la liste de recettes %d sur %d" % (numeroPageRecettes, nombrePagesRecettes)

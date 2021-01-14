@@ -3,7 +3,7 @@
 # ==============================================================================
 # Name        : Personnages.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
-# Version     : 2.1 (14/06/2020)
+# Version     : 2.2 (14/01/2021)
 # Description : Définition d'un personnage et d'une liste de personnages
 # ==============================================================================
 

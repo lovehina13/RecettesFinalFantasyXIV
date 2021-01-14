@@ -44,7 +44,7 @@ Syntaxe d'utilisation :
 
 ### 2.3. Installation de l'application UtilitairesFinalFantasyXIV
 
-L'application est disponible en [version actuelle](https://github.com/lovehina13/UtilitairesFinalFantasyXIV) ou en [version stable (2.1)](https://github.com/lovehina13/UtilitairesFinalFantasyXIV/releases/tag/v2.1.0). Il convient de récupérer puis d'installer les éléments concernés.
+L'application est disponible en [version actuelle](https://github.com/lovehina13/UtilitairesFinalFantasyXIV) ou en [version stable (2.2)](https://github.com/lovehina13/UtilitairesFinalFantasyXIV/releases/tag/v2.2.0). Il convient de récupérer puis d'installer les éléments concernés.
 
 ## 3. Utilisation de l'application
 
@@ -60,7 +60,7 @@ Exemple d'utilisation :
 
     python RecuperationPersonnages.py 9233364398528028107 ListePersonnages.csv
 
-Il convient de modifier le fichier *RecuperationPersonnages.py (ligne 81)* afin d'ajuster le nombre de pages relatives à la compagnie libre considérée.
+Il convient de modifier le fichier *RecuperationPersonnages.py (ligne 83)* afin d'ajuster le nombre de pages relatives à la compagnie libre considérée.
 
 Exemple pour une compagnie libre avec 80 membres, soit 2 pages :
 
@@ -113,11 +113,11 @@ Exemple d'utilisation :
 
     python RecuperationRecettes.py ListeRecettes.csv
 
-Il convient de modifier le fichier *RecuperationRecettes.py (ligne 61)* afin d'ajuster le nombre de pages relatives aux recettes.
+Il convient de modifier le fichier *RecuperationRecettes.py (ligne 69)* afin d'ajuster le nombre de pages relatives aux recettes.
 
-Exemple pour la version 5.25, soit 169 pages :
+Exemple pour la version 5.41, soit 182 pages :
 
-    nombrePagesRecettes = 169
+    nombrePagesRecettes = 182
 
 ### 3.4. Fonctionnalité de récupération des matériaux et des cristaux
 
@@ -154,7 +154,7 @@ Exemple pour les recettes de tanneur et de couturier entre les niveaux 1 et 10 :
     niveaux = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     recettes = listeRecettes.recupererRecettes(classes=classes, niveaux=niveaux)
 
-Les critères disponibles sont les suivants : *noms*, *classes*, *niveaux*, *categories*, *quantites*, *difficultes*, *solidites* et *qualites* (les critères *materiaux* et *cristaux* seront disponibles prochainement).
+Les critères disponibles sont les suivants : *noms*, *classes*, *niveaux*, *categories*, *quantites*, *difficultes*, *solidites* et *qualites* (les critères *materiaux*, *cristaux* et *conditions* seront disponibles prochainement).
 
 ### 3.5. Fonctionnalité de récupération des récoltes
 
@@ -170,9 +170,9 @@ Exemple d'utilisation :
 
 Il convient de modifier le fichier *RecuperationRecoltes.py (ligne 55)* afin d'ajuster le nombre de pages relatives aux récoltes.
 
-Exemple pour la version 5.25, soit 16 pages :
+Exemple pour la version 5.41, soit 18 pages :
 
-    nombrePagesRecoltes = 16
+    nombrePagesRecoltes = 18
 
 ### 3.6. Fonctionnalité de récupération des points de récolte
 
@@ -214,4 +214,4 @@ Les critères disponibles sont les suivants : *noms*, *classes*, *sousClasses*, 
 
 ## 4. Informations
 
-L'application est en version 2.1 au 14 juin 2020 et réalisée par [Alexis Foerster](mailto:alexis.foerster@gmail.com), joueur du personnage [Yuna Hikari](https://fr.finalfantasyxiv.com/lodestone/character/8095216/).
+L'application est en version 2.2 au 14 janvier 2021 et réalisée par [Alexis Foerster](mailto:alexis.foerster@gmail.com), joueur du personnage [Yuna Hikari](https://fr.finalfantasyxiv.com/lodestone/character/8095216/).

@@ -3,7 +3,7 @@
 # ==============================================================================
 # Name        : RecuperationRecoltes.py
 # Author      : Alexis Foerster (alexis.foerster@gmail.com)
-# Version     : 2.1 (14/06/2020)
+# Version     : 2.2 (14/01/2021)
 # Description : Récupération des récoltes
 # ==============================================================================
 
@@ -52,7 +52,7 @@ def recupererRecoltes(nomFichierRecoltes):
     import sys
 
     # Récupération des pages des récoltes
-    nombrePagesRecoltes = 16
+    nombrePagesRecoltes = 18
     adressesPagesRecoltes = []
     for numeroPageRecoltes in range(1, nombrePagesRecoltes + 1):
         print "Traitement de la liste de récoltes %d sur %d" % (numeroPageRecoltes, nombrePagesRecoltes)
