@@ -28,7 +28,7 @@ class LecteurPageRecette(object):
         self.recette = Recette()
 
     def traitement(self, texteHTML):
-        from bs4 import BeautifulSoup
+        from bs4 import BeautifulSoup, Tag
         soup = BeautifulSoup(texteHTML, "html.parser")
         self.recette.nom = soup.find("h2", {"class": "db-view__item__text__name"}).contents[0].strip()
         self.recette.classe = soup.find("p", {"class": "db-view__item__text__job_name"}).contents[0].strip()
@@ -37,7 +37,8 @@ class LecteurPageRecette(object):
         self.recette.quantite = int(soup.find("ul", {"class": "db-view__recipe__craftdata"}).contents[1].contents[1].strip())
         self.recette.difficulte = int(soup.find("ul", {"class": "db-view__recipe__craftdata"}).contents[2].contents[1].strip())
         self.recette.solidite = int(soup.find("ul", {"class": "db-view__recipe__craftdata"}).contents[3].contents[1].strip())
-        self.recette.qualite = int(soup.find("ul", {"class": "db-view__recipe__craftdata"}).contents[4].contents[1].strip())
+        self.recette.qualite1 = int(soup.find("ul", {"class": "db-view__recipe__craftdata"}).contents[4].contents[1].strip())
+        self.recette.qualite2 = soup.find("ul", {"class": "db-view__recipe__craftdata"}).contents[5].contents[1].strip()
         for item in soup.find_all("div", {"class": "db-view__data__reward__item__name"}):
             objet = item.contents[3].contents[1].contents[0].contents[0].strip()
             quantite = int(item.contents[1].contents[0].contents[0].strip())
@@ -50,6 +51,10 @@ class LecteurPageRecette(object):
                 self.recette.cristaux[objet] = quantite
             else:
                 self.recette.materiaux[objet] = quantite
+        for item in soup.find("dl", {"class": "db-view__recipe__crafting_conditions"}):
+            if item.name in [u"dd"]:
+                condition = item.contents[0].strip()
+                self.recette.conditions.append(condition)
 
 
 def recupererRecettes(nomFichierRecettes):

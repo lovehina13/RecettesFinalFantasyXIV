@@ -11,12 +11,14 @@
 class Recette(object):
 
     def __init__(self, nom=str(), classe=str(), niveau=int(), categorie=str(), materiaux=None,
-                 cristaux=None, quantite=int(), difficulte=int(), solidite=int(), qualite=int(),
-                 degre=int()):
+                 cristaux=None, quantite=int(), difficulte=int(), solidite=int(), qualite1=int(),
+                 qualite2=str(), conditions=None, degre=int()):
         if materiaux is None:
             materiaux = {}
         if cristaux is None:
             cristaux = {}
+        if conditions is None:
+            conditions = []
         self.nom = nom
         self.classe = classe
         self.niveau = niveau
@@ -26,7 +28,9 @@ class Recette(object):
         self.quantite = quantite
         self.difficulte = difficulte
         self.solidite = solidite
-        self.qualite = qualite
+        self.qualite1 = qualite1
+        self.qualite2 = qualite2
+        self.conditions = conditions
         self.degre = degre
 
     def calculerDegre(self, listeRecettes):
@@ -40,11 +44,12 @@ class Recette(object):
         return degreRecette
 
     def getTexteBrut(self):
-        patron = "%s;%s;%d;%s;%s;%s;%d;%d;%d;%d;%d"
+        patron = "%s;%s;%d;%s;%s;%s;%d;%d;%d;%d;%s;%s;%d"
         texte = patron % (self.nom, self.classe, self.niveau, self.categorie,
                           Recette.objetsVersTexte(self.materiaux),
                           Recette.objetsVersTexte(self.cristaux), self.quantite, self.difficulte,
-                          self.solidite, self.qualite, self.degre)
+                          self.solidite, self.qualite1, self.qualite2,
+                          Recette.conditionsVersTexte(self.conditions), self.degre)
         return texte
 
     def getTexteRiche(self):
@@ -59,11 +64,14 @@ class Recette(object):
         patron += "Difficulté: %d\n"
         patron += "Solidité: %d\n"
         patron += "Qualité maximum: %d\n"
+        patron += "Qualité: %s\n"
+        patron += "Conditions: %s\n"
         patron += "Degré: %d\n"
         texte = patron % (self.nom, self.classe, self.niveau, self.categorie,
                           Recette.objetsVersTexte(self.materiaux),
                           Recette.objetsVersTexte(self.cristaux), self.quantite, self.difficulte,
-                          self.solidite, self.qualite, self.degre)
+                          self.solidite, self.qualite1, self.qualite2,
+                          Recette.conditionsVersTexte(self.conditions), self.degre)
         return texte
 
     @staticmethod
@@ -83,6 +91,21 @@ class Recette(object):
             objets[objet] = quantite
         return objets
 
+    @staticmethod
+    def conditionsVersTexte(objets):
+        texte = str()
+        for condition in objets:
+            texte += "%s, " % (condition)
+        texte = texte.rstrip(", ")
+        return texte
+
+    @staticmethod
+    def texteVersConditions(texte):
+        conditions = []
+        for condition in texte.split(", "):
+            conditions.append(condition)
+        return conditions
+
 
 class ListeRecettes(object):
 
@@ -99,7 +122,7 @@ class ListeRecettes(object):
 
     def recupererRecettes(self, noms=None, classes=None, niveaux=None, categories=None,
                           materiaux=None, cristaux=None, quantites=None, difficultes=None,
-                          solidites=None, qualites=None):
+                          solidites=None, qualites1=None, qualites2=None, conditions=None):
         recettes = []
         for _, recette in sorted(self.recettes.iteritems()):
             if noms and recette.nom not in noms:
@@ -120,9 +143,13 @@ class ListeRecettes(object):
                 continue
             if solidites and recette.solidite not in solidites:
                 continue
-            if qualites and recette.qualite not in qualites:
+            if qualites1 and recette.qualite1 not in qualites1:
                 continue
-            # TODO Corriger les sélections par matériaux et cristaux
+            if qualites2 and recette.qualite2 not in qualites2:
+                continue
+            if conditions and recette.conditions not in conditions:
+                continue
+            # TODO Corriger les sélections par matériaux, cristaux et conditions
             if noms and recette.nom in noms:
                 for _ in range(noms.count(recette.nom)):
                     recettes.append(recette)
@@ -145,9 +172,11 @@ def construireListeRecettes(nomFichier):
         quantite = int(elements[6])
         difficulte = int(elements[7])
         solidite = int(elements[8])
-        qualite = int(elements[9])
+        qualite1 = int(elements[9])
+        qualite2 = elements[10]
+        conditions = Recette.texteVersConditions(elements[11])
         recette = Recette(nom, classe, niveau, categorie, materiaux, cristaux, quantite, difficulte,
-                          solidite, qualite)
+                          solidite, qualite1, qualite2, conditions)
         listeRecettes.ajouterRecette(recette)
     for recette in listeRecettes.recupererRecettes():
         recette.degre = recette.calculerDegre(listeRecettes)
