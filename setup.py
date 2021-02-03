@@ -10,7 +10,7 @@ setuptools.setup(
     version="3.0.0",
     author="Alexis Foerster",
     author_email="alexis.foerster@gmail.com",
-    description="Application console permettant la gestion des membres d'une compagnie libre, des recettes et des récoltes du jeu Final Fantasy XIV.",
+    description="Application console permettant la gestion des membres d'une compagnie libre, des recettes, des récoltes et de l'inventaire du jeu Final Fantasy XIV.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/lovehina13/UtilitairesFinalFantasyXIV",

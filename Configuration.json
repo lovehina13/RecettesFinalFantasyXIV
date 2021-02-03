@@ -1,0 +1,100 @@
+{
+    "pagePersonnages": {
+        "activer": false,
+        "compagnieLibre": "9233364398528028107",
+        "nombrePages": 1,
+        "fichierSortie": "Personnages.csv"
+    },
+    "pageRecettes": {
+        "activer": false,
+        "nombrePages": 183,
+        "fichierSortie": "Recettes.csv"
+    },
+    "pageRecoltes": {
+        "activer": false,
+        "nombrePages": 18,
+        "fichierSortie": "Recoltes.csv"
+    },
+    "gestionPersonnages": {
+        "activer": false,
+        "fichierEntree": "Personnages.csv",
+        "fichierSortie": "Personnages.txt",
+        "filtres": {
+            "nom": [],
+            "titre": [],
+            "serveur": [],
+            "race": [],
+            "ethnie": [],
+            "sexe": [],
+            "dateNaissance": [],
+            "divinite": [],
+            "citeDepart": [],
+            "grandeCompagnie": [],
+            "rang": [],
+            "compagnieLibre": [],
+            "classes": []
+        },
+        "trier": true,
+        "formatUtilisateur": true
+    },
+    "gestionRecettes": {
+        "activer": false,
+        "fichierEntree": "Recettes.csv",
+        "fichierSortie": "Recettes.txt",
+        "filtres": {
+            "nom": [],
+            "classe": [],
+            "niveau": [],
+            "livre": [],
+            "categorie": [],
+            "materiaux": [],
+            "cristaux": [],
+            "totalFabrique": [],
+            "difficulte": [],
+            "solidite": [],
+            "qualiteMaximum": [],
+            "qualite": [],
+            "conditions": [],
+            "degre": []
+        },
+        "trier": true,
+        "formatUtilisateur": true
+    },
+    "gestionRecoltes": {
+        "activer": false,
+        "fichierEntree": "Recoltes.csv",
+        "fichierSortie": "Recoltes.txt",
+        "filtres": {
+            "nom": [],
+            "classe": [],
+            "sousClasse": [],
+            "niveau": [],
+            "categorie": [],
+            "pointsRecolte": []
+        },
+        "trier": true,
+        "formatUtilisateur": true
+    },
+    "gestionInventaire": {
+        "activer": true,
+        "fichierRecettesEntree": "Recettes.csv",
+        "fichierRecoltesEntree": "Recoltes.csv",
+        "fichierSortie": "Inventaire.txt",
+        "filtres": {
+            "nom": [],
+            "classe": [],
+            "niveau": [],
+            "livre": [],
+            "categorie": [],
+            "materiaux": [],
+            "cristaux": [],
+            "totalFabrique": [],
+            "difficulte": [],
+            "solidite": [],
+            "qualiteMaximum": [],
+            "qualite": [],
+            "conditions": [],
+            "degre": []
+        }
+    }
+}
