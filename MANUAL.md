@@ -2,35 +2,39 @@
 
 ## 1. Présentation de l'application
 
-UtilitairesFinalFantasyXIV est une application console permettant la gestion des membres d'une compagnie libre, des recettes et des récoltes du jeu Final Fantasy XIV.
+UtilitairesFinalFantasyXIV est une application console permettant la gestion des membres d'une compagnie libre, des recettes, des récoltes et de l'inventaire du jeu Final Fantasy XIV.
 
 Les fonctionnalités de l'application sont les suivantes :
 
  - Gestion des membres d'une compagnie libre :
    - Récupération de la liste complète des membres d'une compagnie libre à partir de la base de données d'Éorzéa,
-   - Sauvegarde de la liste complète des membres d'une compagnie libre dans un fichier au format tabulé,
+   - Sauvegarde de la liste complète des membres d'une compagnie libre dans un fichier au format utilisateur ou tabulé,
    - Sélection par l'utilisateur d'une liste de membres d'une compagnie libre (personnalisée ou filtrée par critères),
    - Affichage des caractéristiques, des niveaux par classes et par catégories des membres d'une compagnie libre sélectionnés.
 
  - Gestion des recettes :
    - Récupération de la liste complète des recettes à partir de la base de données d'Éorzéa,
-   - Sauvegarde de la liste complète des recettes dans un fichier au format tabulé,
+   - Sauvegarde de la liste complète des recettes dans un fichier au format utilisateur ou tabulé,
    - Sélection par l'utilisateur d'une liste de recettes (personnalisée ou filtrée par critères),
-   - Calcul et affichage des quantités de matériaux et de cristaux nécessaires afin de réaliser les recettes sélectionnées.
+   - Affichage des caractéristiques des recettes sélectionnées.
 
  - Gestion des récoltes :
    - Récupération de la liste complète des récoltes à partir de la base de données d'Éorzéa,
-   - Sauvegarde de la liste complète des récoltes dans un fichier au format tabulé,
+   - Sauvegarde de la liste complète des récoltes dans un fichier au format utilisateur ou tabulé,
    - Sélection par l'utilisateur d'une liste de récoltes (personnalisée ou filtrée par critères),
-   - Affichage des points de récoltes nécessaires afin de réaliser les récoltes sélectionnées.
+   - Affichage des caractéristiques des récoltes sélectionnées.
 
-L'application est réalisée en [Python 2.7.16](https://www.python.org/downloads/release/python-2716/) et nécessite la bibliothèque [BeautifulSoup 4.7.1](https://pypi.org/project/beautifulsoup4/).
+ - Gestion de l'inventaire :
+   - Sélection par l'utilisateur d'une liste de recettes (personnalisée ou filtrée par critères),
+   - Calcul et affichage des quantités de matériaux/cristaux et des points de récoltes nécessaires afin de réaliser les recettes sélectionnées.
+
+L'application est réalisée en [Python 3.7.3](https://www.python.org/downloads/release/python-373/) et nécessite la bibliothèque [BeautifulSoup 4.7.1](https://pypi.org/project/beautifulsoup4/).
 
 ## 2. Installation de l'application
 
-### 2.1. Installation de l'interpréteur Python 2.7.16
+### 2.1. Installation de l'interpréteur Python 3.7.3
 
-L'application nécessite l'interpréteur [Python 2.7.16](https://www.python.org/downloads/release/python-2716/). Il convient de récupérer puis d'installer les éléments concernés.
+L'application nécessite l'interpréteur [Python 3.7.3](https://www.python.org/downloads/release/python-373/). Il convient de récupérer puis d'installer les éléments concernés.
 
 ### 2.2 Installation de la bibliothèque BeautifulSoup 4.7.1
 
@@ -40,178 +44,243 @@ La bibliothèque BeautifulSoup 4.7.1 peut également s'installer via l'installeu
 
 Syntaxe d'utilisation :
 
+```shell
     python -m pip install bs4
+```
 
 ### 2.3. Installation de l'application UtilitairesFinalFantasyXIV
 
-L'application est disponible en [version actuelle](https://github.com/lovehina13/UtilitairesFinalFantasyXIV) ou en [version stable (2.2)](https://github.com/lovehina13/UtilitairesFinalFantasyXIV/releases/tag/v2.2.0). Il convient de récupérer puis d'installer les éléments concernés.
+L'application est disponible en [version actuelle](https://github.com/lovehina13/UtilitairesFinalFantasyXIV) ou en [version stable (3.0)](https://github.com/lovehina13/UtilitairesFinalFantasyXIV/releases/tag/v3.0.0). Il convient de récupérer puis d'installer les éléments concernés.
+
+L'application s'installe en tant que paquetage Python 3.7.3.
+
+Syntaxe d'utilisation :
+
+```shell
+    python setup.py install
+```
 
 ## 3. Utilisation de l'application
 
-### 3.1. Fonctionnalité de récupération des personnages
+### 3.1. Fichier de configuration
 
-La fonctionnalité *RecuperationPersonnages* permet de récupérer la liste complète des membres d'une compagnie libre à partir de la base de données d'Éorzéa et de la sauvegarder dans un fichier au format tabulé.
-
-Syntaxe d'utilisation :
-
-    python RecuperationPersonnages.py $numeroCompagnieLibre $fichierPersonnages
-
-Exemple d'utilisation :
-
-    python RecuperationPersonnages.py 9233364398528028107 ListePersonnages.csv
-
-Il convient de modifier le fichier *RecuperationPersonnages.py (ligne 83)* afin d'ajuster le nombre de pages relatives à la compagnie libre considérée.
-
-Exemple pour une compagnie libre avec 80 membres, soit 2 pages :
-
-    nombrePagesPersonnages = 2
-
-### 3.2. Fonctionnalité de récupération des profils
-
-La fonctionnalité *RecuperationProfils* permet la sélection par l'utilisateur d'une liste de membres d'une compagnie libre (personnalisée ou filtrée par critères) et d'afficher leurs caractéristiques et leurs niveaux par classes et par catégories.
+L'application s'exécute avec un fichier de configuration au format JSON préalablement renseigné par l'utilisateur.
 
 Syntaxe d'utilisation :
 
-    python RecuperationProfils.py $fichierPersonnages $fichierProfils
+```shell
+    python -m UtilitairesFinalFantasyXIV Configuration.json
+```
 
-Exemple d'utilisation :
+Un fichier de configuration au format JSON par défaut est créé si aucun n'est spécifié.
 
-    python RecuperationProfils.py ListePersonnages.csv ListeProfils.csv
+### 3.2. Fonctionnalité de récupération des personnages
 
-Il convient de modifier le fichier *RecuperationProfils.py (ligne 48)* afin de spécifier les personnages à considérer.
-Les éléments doivent être entre crochets, séparés par des virgules et entre guillemets.
-Les sauts de lignes sont possibles entre les éléments.
+La fonctionnalité *PagePersonnage* permet de récupérer la liste complète des membres d'une compagnie libre à partir de la base de données d'Éorzéa et de la sauvegarder dans un fichier au format tabulé.
 
-Exemple pour certains membres de la compagnie libre *Pampa's Brotherhood* :
+Exemple de configuration :
 
-    noms = ["Virbyker Tinkle",
-            "Cerillyanne Tinkle",
-            "Yuna' Hikari"]
-    personnages = listePersonnages.recupererPersonnages(noms=noms)
+```json
+    "pagePersonnages": {
+        "activer": true,
+        "compagnieLibre": "9233364398528028107",
+        "nombrePages": 1,
+        "fichierSortie": "Personnages.csv"
+    },
+```
 
-Il convient de modifier le fichier *RecuperationProfils.py (ligne 48)* afin de spécifier les critères supplémentaires à considérer.
-Les éléments doivent être entre crochets, séparés par des virgules et entre guillemets.
-Les sauts de lignes sont possibles entre les éléments d'un même critère.
-
-Exemple pour les femmes Hyures et Miqo'tes :
-
-    races = ["Hyure", "Miqo'te"]
-    sexes = ["Femme"]
-    personnages = listePersonnages.recupererPersonnages(races=races, sexes=sexes)
-
-Les critères disponibles sont les suivants : *noms*, *titres*, *serveurs*, *races*, *ethnies*, *sexes*, *datesNaissance*, *divinites*, *citesDepart*, *grandesCompagnies* et *compagniesLibres* (le critère *classes* sera disponible prochainement).
+Il convient de modifier la configuration afin d'ajuster notamment la compagnie libre considérée ainsi que son nombre de pages.
 
 ### 3.3. Fonctionnalité de récupération des recettes
 
-La fonctionnalité *RecuperationRecettes* permet de récupérer la liste complète des recettes à partir de la base de données d'Éorzéa et de la sauvegarder dans un fichier au format tabulé.
+La fonctionnalité *PageRecettes* permet de récupérer la liste complète des recettes à partir de la base de données d'Éorzéa et de la sauvegarder dans un fichier au format tabulé.
 
-Syntaxe d'utilisation :
+Exemple de configuration :
 
-    python RecuperationRecettes.py $fichierRecettes
+```json
+    "pageRecettes": {
+        "activer": true,
+        "nombrePages": 183,
+        "fichierSortie": "Recettes.csv"
+    },
+```
 
-Exemple d'utilisation :
+Il convient de modifier la configuration afin d'ajuster notamment le nombre de pages relatives aux recettes, soit 183 pour la version 5.45.
 
-    python RecuperationRecettes.py ListeRecettes.csv
+### 3.4. Fonctionnalité de récupération des récoltes
 
-Il convient de modifier le fichier *RecuperationRecettes.py (ligne 69)* afin d'ajuster le nombre de pages relatives aux recettes.
+La fonctionnalité *PageRecoltes* permet de récupérer la liste complète des récoltes à partir de la base de données d'Éorzéa et de la sauvegarder dans un fichier au format tabulé.
 
-Exemple pour la version 5.41, soit 182 pages :
+Exemple de configuration :
 
-    nombrePagesRecettes = 182
+```json
+    "pageRecoltes": {
+        "activer": true,
+        "nombrePages": 18,
+        "fichierSortie": "Recoltes.csv"
+    },
+```
 
-### 3.4. Fonctionnalité de récupération des matériaux et des cristaux
+Il convient de modifier la configuration afin d'ajuster notamment le nombre de pages relatives aux récoltes, soit 18 pour la version 5.45.
 
-La fonctionnalité *RecuperationMateriauxCristaux* permet la sélection par l'utilisateur d'une liste de recettes (personnalisée ou filtrée par critères) et de calculer et d'afficher les quantités de matériaux et de cristaux nécessaires à leur réalisation.
+### 3.5. Fonctionnalité de gestion des personnages
 
-Syntaxe d'utilisation :
+La fonctionnalité *GestionPersonnages* permet la sélection par l'utilisateur d'une liste de membres d'une compagnie libre (personnalisée ou filtrée par critères) et d'afficher puis sauvegarder leurs caractéristiques et leurs niveaux par classes et par catégories.
 
-    python RecuperationMateriauxCristaux.py $fichierRecettes $fichierMateriauxCristaux
+Exemple de configuration :
 
-Exemple d'utilisation :
+```json
+    "gestionPersonnages": {
+        "activer": true,
+        "fichierEntree": "Personnages.csv",
+        "fichierSortie": "Personnages.txt",
+        "filtres": {},
+        "trier": true,
+        "formatUtilisateur": true
+    },
+```
 
-    python RecuperationMateriauxCristaux.py ListeRecettes.csv ListeMateriauxCristaux.csv
+Il convient de modifier la configuration afin de spécifier notamment les personnages à considérer.
 
-Il convient de modifier le fichier *RecuperationMateriauxCristaux.py (ligne 69)* afin de spécifier les recettes à considérer.
-Les éléments doivent être entre crochets, séparés par des virgules et entre guillemets.
-Les sauts de lignes sont possibles entre les éléments.
+Exemple pour certains membres de la compagnie libre *Pampa's Brotherhood* :
+
+```json
+        "filtres": {
+            "nom": ["Virbyker Tinkle",
+                    "Cerillyanne Tinkle",
+                    "Yuna' Hikari"],
+```
+
+Exemple pour les femmes Hyures et Miqo'tes :
+
+```json
+        "filtres": {
+            "race": ["Hyure", "Miqo'te"],
+            "sexe": ["Femme"],
+```
+
+Les critères disponibles sont les suivants : *nom*, *titre*, *serveur*, *race*, *ethnie*, *sexe*, *dateNaissance*, *divinite*, *citeDepart*, *grandeCompagnie*, *rang* et *compagnieLibre* (le critère *classes* sera disponible prochainement).
+
+### 3.6. Fonctionnalité de gestion des recettes
+
+La fonctionnalité *GestionRecettes* permet la sélection par l'utilisateur d'une liste de recettes (personnalisée ou filtrée par critères) et d'afficher puis sauvegarder leurs caractéristiques.
+
+Exemple de configuration :
+
+```json
+    "gestionRecettes": {
+        "activer": true,
+        "fichierEntree": "Recettes.csv",
+        "fichierSortie": "Recettes.txt",
+        "filtres": {},
+        "trier": true,
+        "formatUtilisateur": true
+    },
+```
+
+Il convient de modifier la configuration afin de spécifier notamment les recettes à considérer.
 
 Exemple pour les équipements d'artisans de niveau 50 :
 
-    noms = ["Calot de patricien",
-            "Boléro de patricien",
-            "Gants de patricien",
-            "Bas-de-corps de patricien",
-            "Guêtres de patricien"]
-    recettes = listeRecettes.recupererRecettes(noms=noms)
-
-Il convient de modifier le fichier *RecuperationMateriauxCristaux.py (ligne 69)* afin de spécifier les critères supplémentaires à considérer.
-Les éléments doivent être entre crochets, séparés par des virgules et entre guillemets (sauf les nombres).
-Les sauts de lignes sont possibles entre les éléments d'un même critère.
+```json
+        "filtres": {
+            "nom": ["Calot de patricien",
+                    "Boléro de patricien",
+                    "Gants de patricien",
+                    "Bas-de-corps de patricien",
+                    "Guêtres de patricien"],
+```
 
 Exemple pour les recettes de tanneur et de couturier entre les niveaux 1 et 10 :
 
-    classes = ["Tanneur", "Couturier"]
-    niveaux = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-    recettes = listeRecettes.recupererRecettes(classes=classes, niveaux=niveaux)
+```json
+        "filtres": {
+            "classe": ["Tanneur", "Couturier"],
+            "niveau": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+```
 
-Les critères disponibles sont les suivants : *noms*, *classes*, *niveaux*, *categories*, *quantites*, *difficultes*, *solidites* et *qualites* (les critères *materiaux*, *cristaux* et *conditions* seront disponibles prochainement).
+Les critères disponibles sont les suivants : *nom*, *classe*, *niveau*, *livre*, *categorie*, *totalFabrique*, *difficulte*, *solidite*, *qualiteMaximum*, *qualite* et *degre* (les critères *materiaux*, *cristaux* et *conditions* seront disponibles prochainement).
 
-### 3.5. Fonctionnalité de récupération des récoltes
+### 3.7. Fonctionnalité de gestion des récoltes
 
-La fonctionnalité *RecuperationRecoltes* permet de récupérer la liste complète des récoltes à partir de la base de données d'Éorzéa et de la sauvegarder dans un fichier au format tabulé.
+La fonctionnalité *GestionRecoltes* permet la sélection par l'utilisateur d'une liste de récoltes (personnalisée ou filtrée par critères) et d'afficher puis sauvegarder leurs caractéristiques.
 
-Syntaxe d'utilisation :
+Exemple de configuration :
 
-    python RecuperationRecoltes.py $fichierRecoltes
+```json
+    "gestionRecoltes": {
+        "activer": true,
+        "fichierEntree": "Recoltes.csv",
+        "fichierSortie": "Recoltes.txt",
+        "filtres": {},
+        "trier": true,
+        "formatUtilisateur": true
+    },
+```
 
-Exemple d'utilisation :
-
-    python RecuperationRecoltes.py ListeRecoltes.csv
-
-Il convient de modifier le fichier *RecuperationRecoltes.py (ligne 55)* afin d'ajuster le nombre de pages relatives aux récoltes.
-
-Exemple pour la version 5.41, soit 18 pages :
-
-    nombrePagesRecoltes = 18
-
-### 3.6. Fonctionnalité de récupération des points de récolte
-
-La fonctionnalité *RecuperationPointsRecolte* permet la sélection par l'utilisateur d'une liste de récoltes (personnalisée ou filtrée par critères) et d'afficher les points de récolte nécessaires à leur réalisation.
-
-Syntaxe d'utilisation :
-
-    python RecuperationPointsRecolte.py $fichierRecoltes $fichierPointsRecolte
-
-Exemple d'utilisation :
-
-    python RecuperationPointsRecolte.py ListeRecoltes.csv ListePointsRecolte.csv
-
-Il convient de modifier le fichier *RecuperationPointsRecolte.py (ligne 36)* afin de spécifier les récoltes à considérer.
-Les éléments doivent être entre crochets, séparés par des virgules et entre guillemets.
-Les sauts de lignes sont possibles entre les éléments.
+Il convient de modifier la configuration afin de spécifier notamment les récoltes à considérer.
 
 Exemple pour les cristaux :
 
-    noms = ["Cristal de feu",
-            "Cristal de glace",
-            "Cristal de vent",
-            "Cristal de terre",
-            "Cristal de foudre",
-            "Cristal d'eau"]
-    recoltes = listeRecoltes.recupererRecoltes(noms=noms)
-
-Il convient de modifier le fichier *RecuperationPointsRecolte.py (ligne 36)* afin de spécifier les critères supplémentaires à considérer.
-Les éléments doivent être entre crochets, séparés par des virgules et entre guillemets (sauf les nombres).
-Les sauts de lignes sont possibles entre les éléments d'un même critère.
+```json
+        "filtres": {
+            "nom": ["Cristal de feu",
+                    "Cristal de glace",
+                    "Cristal de vent",
+                    "Cristal de terre",
+                    "Cristal de foudre",
+                    "Cristal d'eau"],
+```
 
 Exemple pour les récoltes de mineur et de botaniste entre les niveaux 1 et 10 :
 
-    classes = ["Mineur", "Botaniste"]
-    niveaux = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-    recoltes = listeRecoltes.recupererRecoltes(classes=classes, niveaux=niveaux)
+```json
+        "filtres": {
+            "classe": ["Mineur", "Botaniste"],
+            "niveau": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+```
 
-Les critères disponibles sont les suivants : *noms*, *classes*, *sousClasses*, *niveaux* et *categories* (le critère *pointsRecolte* sera disponible prochainement).
+Les critères disponibles sont les suivants : *nom*, *classe*, *sousClasse*, *niveau* et *categorie* (le critère *pointsRecolte* sera disponible prochainement).
+
+### 3.8. Fonctionnalité de gestion de l'inventaire
+
+La fonctionnalité *GestionInventaire* permet la sélection par l'utilisateur d'une liste de recettes (personnalisée ou filtrée par critères) et de calculer, d'afficher puis sauvegarder les quantités de matériaux/cristaux et des points de récoltes nécessaires à leur réalisation.
+
+Exemple de configuration :
+
+```json
+    "gestionInventaire": {
+        "activer": true,
+        "fichierRecettesEntree": "Recettes.csv",
+        "fichierRecoltesEntree": "Recoltes.csv",
+        "fichierSortie": "Inventaire.txt",
+        "filtres": {}
+    }
+```
+
+Il convient de modifier la configuration afin de spécifier notamment les recettes à considérer.
+
+Exemple pour les équipements d'artisans de niveau 50 :
+
+```json
+        "filtres": {
+            "nom": ["Calot de patricien",
+                    "Boléro de patricien",
+                    "Gants de patricien",
+                    "Bas-de-corps de patricien",
+                    "Guêtres de patricien"],
+```
+
+Exemple pour les recettes de tanneur et de couturier entre les niveaux 1 et 10 :
+
+```json
+        "filtres": {
+            "classe": ["Tanneur", "Couturier"],
+            "niveau": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+```
+
+Les critères disponibles sont les suivants : *nom*, *classe*, *niveau*, *livre*, *categorie*, *totalFabrique*, *difficulte*, *solidite*, *qualiteMaximum*, *qualite* et *degre* (les critères *materiaux*, *cristaux* et *conditions* seront disponibles prochainement).
 
 ## 4. Informations
 
-L'application est en version 2.2 au 14 janvier 2021 et réalisée par [Alexis Foerster](mailto:alexis.foerster@gmail.com), joueur du personnage [Yuna Hikari](https://fr.finalfantasyxiv.com/lodestone/character/8095216/).
+L'application est en version 3.0 au 3 février 2021 et réalisée par [Alexis Foerster](mailto:alexis.foerster@gmail.com), joueur du personnage [Yuna Hikari](https://fr.finalfantasyxiv.com/lodestone/character/8095216/).
