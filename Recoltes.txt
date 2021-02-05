@@ -3,7 +3,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Ingrédient
-Points de récolte: Noscea - Noscea centrale - Estival: 50 (temporaire)
+Points de récolte: Noscea - Noscea centrale - Estival: 50 (intact)
 
 Nom: Agate brute
 Classe: Mineur
@@ -17,154 +17,154 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (temporaire)
+Points de récolte: Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (intact)
 
 Nom: Agrégat d'eau
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Norvrandt - Rak'tika - Astropole des K'mul: 80 (temporaire)
+Points de récolte: Norvrandt - Rak'tika - Astropole des K'mul: 80 (éphémère)
 
 Nom: Agrégat d'eau
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Thanalan - Thanalan occidental - Martelterre: 50 (temporaire), Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (temporaire)
+Points de récolte: Thanalan - Thanalan occidental - Martelterre: 50 (intact), Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (intact)
 
 Nom: Agrégat de feu
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (temporaire)
+Points de récolte: Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (intact)
 
 Nom: Agrégat de feu
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Noscea - Noscea centrale - Dérive du Zéphyr: 50 (temporaire), Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (temporaire), Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (temporaire), Dravania - Arrière-pays dravanien - Quartier des Fabricateurs: 60 (temporaire), Dravania - L'Écume des cieux de Dravania - L'Isolé: 60 (temporaire), Othard - Yanxia - Vallée aux Prismes: 70 (temporaire), Norvrandt - Kholusia - Komra: 80 (temporaire)
+Points de récolte: Noscea - Noscea centrale - Dérive du Zéphyr: 50 (intact), Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (intact), Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (éphémère), Dravania - Arrière-pays dravanien - Quartier des Fabricateurs: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - L'Isolé: 60 (éphémère), Othard - Yanxia - Vallée aux Prismes: 70 (éphémère), Norvrandt - Kholusia - Komra: 80 (éphémère)
 
 Nom: Agrégat de foudre
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (temporaire)
+Points de récolte: Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (intact)
 
 Nom: Agrégat de foudre
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Othard - Steppe d'Azim - Calcul de Ragill: 70 (temporaire), Norvrandt - Grand-Lac - Porte de l'Exarque: 80 (temporaire)
+Points de récolte: Othard - Steppe d'Azim - Calcul de Ragill: 70 (éphémère), Norvrandt - Grand-Lac - Porte de l'Exarque: 80 (éphémère)
 
 Nom: Agrégat de foudre
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Pont du Fer noir: 60 (temporaire), Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (temporaire), Abalathia - L'Écume des cieux d'Abalathia - Ok' Gundu: 60 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Pont du Fer noir: 60 (éphémère), Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (intact), Abalathia - L'Écume des cieux d'Abalathia - Ok' Gundu: 60 (éphémère)
 
 Nom: Agrégat de glace
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (temporaire), Gyr Abania - Les Lacs - Jardins de la Reine: 70 (temporaire)
+Points de récolte: Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (intact), Gyr Abania - Les Lacs - Jardins de la Reine: 70 (éphémère)
 
 Nom: Agrégat de glace
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Norvrandt - Kholusia - Tomra: 80 (temporaire)
+Points de récolte: Norvrandt - Kholusia - Tomra: 80 (éphémère)
 
 Nom: Agrégat de glace
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Gyr Abania - Les Lacs - Hautes berges: 70 (temporaire)
+Points de récolte: Gyr Abania - Les Lacs - Hautes berges: 70 (éphémère)
 
 Nom: Agrégat de glace
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (temporaire)
+Points de récolte: Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (intact)
 
 Nom: Agrégat de matière sombre
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Catalyseur
-Points de récolte: Noscea - Noscea centrale - Dérive du Zéphyr: 50 (temporaire), Noscea - Noscea centrale - Estival: 50 (temporaire), Noscea - Noscea orientale - Rives sanglantes: 50 (temporaire), Noscea - Haute-Noscea - Lac d'Airain: 50 (temporaire), Forêt de Sombrelinceul - Forêt centrale - Larmeverte: 50 (temporaire), Forêt de Sombrelinceul - Forêt centrale - Brancharquée: 50 (temporaire), Forêt de Sombrelinceul - Forêt du sud - Hauts-Chemins: 50 (temporaire), Forêt de Sombrelinceul - Forêt du nord - Sources de l'Aulne: 50 (temporaire), Coerthas - Hautes terres du Coerthas central - Tête du dragon: 50 (temporaire), Coerthas - Hautes terres du Coerthas central - Providence: 50 (temporaire), Coerthas - Hautes terres du Coerthas central - L'Arête blanche: 50 (temporaire), Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (temporaire)
+Points de récolte: Noscea - Noscea centrale - Dérive du Zéphyr: 50 (intact), Noscea - Noscea centrale - Estival: 50 (intact), Noscea - Noscea orientale - Rives sanglantes: 50 (intact), Noscea - Haute-Noscea - Lac d'Airain: 50 (intact), Forêt de Sombrelinceul - Forêt centrale - Larmeverte: 50 (intact), Forêt de Sombrelinceul - Forêt centrale - Brancharquée: 50 (intact), Forêt de Sombrelinceul - Forêt du sud - Hauts-Chemins: 50 (intact), Forêt de Sombrelinceul - Forêt du nord - Sources de l'Aulne: 50 (intact), Coerthas - Hautes terres du Coerthas central - Tête du dragon: 50 (intact), Coerthas - Hautes terres du Coerthas central - Providence: 50 (intact), Coerthas - Hautes terres du Coerthas central - L'Arête blanche: 50 (intact), Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (intact)
 
 Nom: Agrégat de matière sombre
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Catalyseur
-Points de récolte: Noscea - Basse-Noscea - La Cédrière: 50 (temporaire), Noscea - Noscea orientale - Rives sanglantes: 50 (temporaire), Noscea - Noscea orientale - Ravine des Cueillepluies: 50 (temporaire), Noscea - Noscea occidentale - Quartpierre: 50 (temporaire), Forêt de Sombrelinceul - Forêt centrale - Havre des Renouées: 50 (temporaire), Forêt de Sombrelinceul - Forêt de l'est - Jardinet du miel: 50 (temporaire), Forêt de Sombrelinceul - Forêt de l'est - Neuf-Lierres: 50 (temporaire), Forêt de Sombrelinceul - Forêt de l'est - Massif de ronces: 50 (temporaire), Thanalan - Thanalan oriental - Les Os desséchés: 50 (temporaire), Dravania - Avant-pays dravanien - Forêt des chocobos: 50 (temporaire)
+Points de récolte: Noscea - Basse-Noscea - La Cédrière: 50 (intact), Noscea - Noscea orientale - Rives sanglantes: 50 (intact), Noscea - Noscea orientale - Ravine des Cueillepluies: 50 (intact), Noscea - Noscea occidentale - Quartpierre: 50 (intact), Forêt de Sombrelinceul - Forêt centrale - Havre des Renouées: 50 (intact), Forêt de Sombrelinceul - Forêt de l'est - Jardinet du miel: 50 (intact), Forêt de Sombrelinceul - Forêt de l'est - Neuf-Lierres: 50 (intact), Forêt de Sombrelinceul - Forêt de l'est - Massif de ronces: 50 (intact), Thanalan - Thanalan oriental - Les Os desséchés: 50 (intact), Dravania - Avant-pays dravanien - Forêt des chocobos: 50 (intact)
 
 Nom: Agrégat de matière sombre
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Catalyseur
-Points de récolte: Noscea - Basse-Noscea - Baie de Moraby: 50 (temporaire), Thanalan - Thanalan central - Roncenoire: 50 (temporaire), Thanalan - Thanalan oriental - Mur incandescent: 50 (temporaire), Thanalan - Thanalan méridional - Eaux-Mortes: 50 (temporaire), Thanalan - Thanalan septentrional - Brumebleue: 50 (temporaire), Thanalan - Thanalan septentrional - Poussée de Raubahn: 50 (temporaire), Coerthas - Hautes terres du Coerthas central - Tête du dragon: 50 (temporaire), Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 50 (temporaire)
+Points de récolte: Noscea - Basse-Noscea - Baie de Moraby: 50 (intact), Thanalan - Thanalan central - Roncenoire: 50 (intact), Thanalan - Thanalan oriental - Mur incandescent: 50 (intact), Thanalan - Thanalan méridional - Eaux-Mortes: 50 (intact), Thanalan - Thanalan septentrional - Brumebleue: 50 (intact), Thanalan - Thanalan septentrional - Poussée de Raubahn: 50 (intact), Coerthas - Hautes terres du Coerthas central - Tête du dragon: 50 (intact), Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 50 (intact)
 
 Nom: Agrégat de matière sombre
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 50
 Catégorie: Catalyseur
-Points de récolte: Noscea - Noscea centrale - Dérive du Zéphyr: 50 (temporaire), Noscea - Noscea orientale - Ravine des Cueillepluies: 50 (temporaire), Forêt de Sombrelinceul - Forêt du sud - Bas-Chemins: 50 (temporaire), Thanalan - Thanalan occidental - Martelterre: 50 (temporaire), Thanalan - Thanalan oriental - Bois du Renouveau: 50 (temporaire), Coerthas - Hautes terres du Coerthas central - Tête du dragon: 50 (temporaire), Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (temporaire)
+Points de récolte: Noscea - Noscea centrale - Dérive du Zéphyr: 50 (intact), Noscea - Noscea orientale - Ravine des Cueillepluies: 50 (intact), Forêt de Sombrelinceul - Forêt du sud - Bas-Chemins: 50 (intact), Thanalan - Thanalan occidental - Martelterre: 50 (intact), Thanalan - Thanalan oriental - Bois du Renouveau: 50 (intact), Coerthas - Hautes terres du Coerthas central - Tête du dragon: 50 (intact), Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (intact)
 
 Nom: Agrégat de terre
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (temporaire)
+Points de récolte: Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (intact)
 
 Nom: Agrégat de terre
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (temporaire), Dravania - Arrière-pays dravanien - Arboretum Sainte-Mocianne: 60 (temporaire), Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (temporaire), Othard - Steppe d'Azim - Retraite de Nhaama: 70 (temporaire), Norvrandt - Grand-Lac - Dents-de-pierre: 80 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (éphémère), Dravania - Arrière-pays dravanien - Arboretum Sainte-Mocianne: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (éphémère), Othard - Steppe d'Azim - Retraite de Nhaama: 70 (éphémère), Norvrandt - Grand-Lac - Dents-de-pierre: 80 (éphémère)
 
 Nom: Agrégat de terre
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (temporaire)
+Points de récolte: Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (intact)
 
 Nom: Agrégat de vent
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (temporaire)
+Points de récolte: Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (intact)
 
 Nom: Agrégat de vent
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (temporaire), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (temporaire), Othard - Yanxia - Bassin rutilant: 70 (temporaire), Norvrandt - Rak'tika - Astropole des K'mul: 80 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (éphémère), Othard - Yanxia - Bassin rutilant: 70 (éphémère), Norvrandt - Rak'tika - Astropole des K'mul: 80 (éphémère)
 
 Nom: Agrégat de vent
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 50
 Catégorie: Cristal
-Points de récolte: Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (temporaire)
+Points de récolte: Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (intact)
 
 Nom: Aigue-marine brute
 Classe: Mineur
@@ -199,14 +199,14 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 79
 Catégorie: Divers
-Points de récolte: Norvrandt - La Tempête - Marge continentale de Norvrandt: 80 (temporaire)
+Points de récolte: Norvrandt - La Tempête - Marge continentale de Norvrandt: 80 (intact)
 
 Nom: Almandin
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 70
 Catégorie: Pierre
-Points de récolte: Gyr Abania - Les Lacs - Hautes berges: 70 (temporaire)
+Points de récolte: Gyr Abania - Les Lacs - Hautes berges: 70 (éphémère)
 
 Nom: Aloès
 Classe: Botaniste
@@ -227,7 +227,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 80
 Catégorie: Réactif
-Points de récolte: Norvrandt - Amh Araeng - Grandes mines de Biran: 80 (temporaire)
+Points de récolte: Norvrandt - Amh Araeng - Grandes mines de Biran: 80 (intact)
 
 Nom: Alun gyrabanien
 Classe: Mineur
@@ -241,7 +241,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 80
 Catégorie: Divers
-Points de récolte: Gyr Abania - Les Marges - Virdjala: 80 (temporaire)
+Points de récolte: Gyr Abania - Les Marges - Virdjala: 80 (intact)
 
 Nom: Alun jaune
 Classe: Mineur
@@ -269,7 +269,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 60
 Catégorie: Réactif
-Points de récolte: Abalathia - Azys Lla - Écosphère: 60 (temporaire)
+Points de récolte: Abalathia - Azys Lla - Écosphère: 60 (intact)
 
 Nom: Alun sur commande de restauration (3e phase)
 Classe: Mineur
@@ -304,7 +304,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 60
 Catégorie: Ingrédient
-Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Le Gantelet: 60 (temporaire)
+Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Le Gantelet: 60 (intact)
 
 Nom: Amanori
 Classe: Botaniste
@@ -353,7 +353,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Ingrédient
-Points de récolte: Noscea - Noscea orientale - Rives sanglantes: 50 (temporaire)
+Points de récolte: Noscea - Noscea orientale - Rives sanglantes: 50 (intact)
 
 Nom: Aneth
 Classe: Botaniste
@@ -367,7 +367,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 80
 Catégorie: Réactif
-Points de récolte: Norvrandt - Kholusia - Chute de l'Huile blanche: 80 (temporaire)
+Points de récolte: Norvrandt - Kholusia - Chute de l'Huile blanche: 80 (intact)
 
 Nom: Antofle ambré
 Classe: Botaniste
@@ -381,7 +381,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 80
 Catégorie: Divers
-Points de récolte: Norvrandt - Amh Araeng - Collines d'Ambre du Centre: 80 (temporaire)
+Points de récolte: Norvrandt - Amh Araeng - Collines d'Ambre du Centre: 80 (intact)
 
 Nom: Ardoise
 Classe: Mineur
@@ -402,7 +402,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 56
 Catégorie: Réactif
-Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (temporaire), Dravania - Arrière-pays dravanien - Arboretum Sainte-Mocianne: 60 (temporaire), Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (éphémère), Dravania - Arrière-pays dravanien - Arboretum Sainte-Mocianne: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (éphémère)
 
 Nom: Argile sur commande de restauration (3e phase)
 Classe: Mineur
@@ -444,28 +444,28 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 66
 Catégorie: Pierre
-Points de récolte: Othard - Steppe d'Azim - L'Imposant Calme: 70 (temporaire)
+Points de récolte: Othard - Steppe d'Azim - L'Imposant Calme: 70 (intact)
 
 Nom: Azurite brute collectionnable
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 67
 Catégorie: Divers
-Points de récolte: Othard - Steppe d'Azim - Mer de fanes: 70 (temporaire)
+Points de récolte: Othard - Steppe d'Azim - Mer de fanes: 70 (intact)
 
 Nom: Baie vampire
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Réactif
-Points de récolte: Coerthas - Hautes terres du Coerthas central - Tête du dragon: 50 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas central - Tête du dragon: 50 (intact)
 
 Nom: Banane céleste
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 57
 Catégorie: Ingrédient
-Points de récolte: Dravania - Arrière-pays dravanien - Quartier des Sages: 60 (temporaire)
+Points de récolte: Dravania - Arrière-pays dravanien - Quartier des Sages: 60 (intact)
 
 Nom: Baron rouge
 Classe: Botaniste
@@ -479,7 +479,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 70
 Catégorie: Réactif
-Points de récolte: Gyr Abania - Les Pics - Rocrouillé: 70 (temporaire)
+Points de récolte: Gyr Abania - Les Pics - Rocrouillé: 70 (intact)
 
 Nom: Basilic citron
 Classe: Botaniste
@@ -598,7 +598,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 51
 Catégorie: Ingrédient
-Points de récolte: Dravania - L'Écume des cieux de Dravania - Ohl Tahn: 55 (temporaire)
+Points de récolte: Dravania - L'Écume des cieux de Dravania - Ohl Tahn: 55 (intact)
 
 Nom: Boule de charbon
 Classe: Botaniste
@@ -682,7 +682,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 55
 Catégorie: Divers
-Points de récolte: Dravania - Avant-pays dravanien - Terres fumantes: 55 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Terres fumantes: 55 (intact)
 
 Nom: Branche de chêne
 Classe: Botaniste
@@ -696,7 +696,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 70
 Catégorie: Bois
-Points de récolte: Norvrandt - Kholusia - Chantier naval de Venmont: 70 (temporaire)
+Points de récolte: Norvrandt - Kholusia - Chantier naval de Venmont: 70 (intact)
 
 Nom: Branche de cèdre
 Classe: Botaniste
@@ -717,14 +717,14 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 60
 Catégorie: Bois
-Points de récolte: Gyr Abania - Les Marges - Confins est: 60 (temporaire)
+Points de récolte: Gyr Abania - Les Marges - Confins est: 60 (intact)
 
 Nom: Branche de kaya
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 70
 Catégorie: Bois
-Points de récolte: Gyr Abania - Les Lacs - Jardins de la Reine: 70 (temporaire)
+Points de récolte: Gyr Abania - Les Lacs - Jardins de la Reine: 70 (éphémère)
 
 Nom: Branche de palissandre
 Classe: Botaniste
@@ -766,7 +766,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Réactif
-Points de récolte: Forêt de Sombrelinceul - Forêt de l'est - Jardinet du miel: 50 (temporaire)
+Points de récolte: Forêt de Sombrelinceul - Forêt de l'est - Jardinet du miel: 50 (intact)
 
 Nom: Calcaire noir
 Classe: Mineur
@@ -864,7 +864,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 60
 Catégorie: Ingrédient
-Points de récolte: Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (temporaire)
+Points de récolte: Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (intact)
 
 Nom: Champignon des terres évanescentes de restauration (2e phase)
 Classe: Botaniste
@@ -899,7 +899,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 52
 Catégorie: Ingrédient
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 55 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 55 (intact)
 
 Nom: Chou-soleil
 Classe: Botaniste
@@ -927,7 +927,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 55
 Catégorie: Ingrédient
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 55 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 55 (intact)
 
 Nom: Citrine brute
 Classe: Mineur
@@ -941,14 +941,14 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 56
 Catégorie: Ingrédient
-Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Vundu Ok' Bendu: 60 (temporaire)
+Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Vundu Ok' Bendu: 60 (intact)
 
 Nom: Citron miel
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Ingrédient
-Points de récolte: Noscea - Noscea orientale - Rives sanglantes: 50 (temporaire)
+Points de récolte: Noscea - Noscea orientale - Rives sanglantes: 50 (intact)
 
 Nom: Citron soleil
 Classe: Botaniste
@@ -969,7 +969,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Tissu
-Points de récolte: Forêt de Sombrelinceul - Forêt de l'est - Neuf-Lierres: 50 (temporaire)
+Points de récolte: Forêt de Sombrelinceul - Forêt de l'est - Neuf-Lierres: 50 (intact)
 
 Nom: Cocon double
 Classe: Botaniste
@@ -990,7 +990,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 80
 Catégorie: Tissu
-Points de récolte: Norvrandt - Grand-Lac - Sanctuaire inviolé: 80 (temporaire)
+Points de récolte: Norvrandt - Grand-Lac - Sanctuaire inviolé: 80 (intact)
 
 Nom: Cocon sur commande de restauration (4e phase)
 Classe: Botaniste
@@ -1004,14 +1004,14 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 80
 Catégorie: Divers
-Points de récolte: Norvrandt - La Tempête - Marge continentale de Norvrandt: 80 (temporaire)
+Points de récolte: Norvrandt - La Tempête - Marge continentale de Norvrandt: 80 (intact)
 
 Nom: Cordiérite brute
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Thanalan - Thanalan septentrional - Poussée de Raubahn: 50 (temporaire)
+Points de récolte: Thanalan - Thanalan septentrional - Poussée de Raubahn: 50 (intact)
 
 Nom: Coriandre
 Classe: Botaniste
@@ -1116,7 +1116,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Voor Sian Siran: 60, Abalathia - L'Écume des cieux d'Abalathia - Dos-brisé: 75, Othard - Mer de Rubis - Fosse de Turquoise: 60, Othard - Mer de Rubis - Couvercle des enfers: 65, Norvrandt - Il Mheg - Thysm Lran: 70, Norvrandt - Il Mheg - Villégiature du Lettré: 75, Norvrandt - Rak'tika - Astropole des K'mul: 80 (temporaire), Norvrandt - Rak'tika - La Frairie sauvage: 80
+Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Voor Sian Siran: 60, Abalathia - L'Écume des cieux d'Abalathia - Dos-brisé: 75, Othard - Mer de Rubis - Fosse de Turquoise: 60, Othard - Mer de Rubis - Couvercle des enfers: 65, Norvrandt - Il Mheg - Thysm Lran: 70, Norvrandt - Il Mheg - Villégiature du Lettré: 75, Norvrandt - Rak'tika - Astropole des K'mul: 80 (éphémère), Norvrandt - Rak'tika - La Frairie sauvage: 80
 
 Nom: Cristal d'eau
 Classe: Mineur
@@ -1151,7 +1151,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Thanalan - Thanalan oriental - Bois du Renouveau: 30, Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (temporaire), Dravania - Arrière-pays dravanien - Quartier des Fabricateurs: 60 (temporaire), Dravania - L'Écume des cieux de Dravania - L'Isolé: 60 (temporaire), Othard - Yanxia - Vallée aux Prismes: 70 (temporaire), Norvrandt - Kholusia - Ombrefaille: 70, Norvrandt - Kholusia - Lenteroute: 75, Norvrandt - Kholusia - Amistie: 80, Norvrandt - Kholusia - Komra: 80 (temporaire)
+Points de récolte: Thanalan - Thanalan oriental - Bois du Renouveau: 30, Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (éphémère), Dravania - Arrière-pays dravanien - Quartier des Fabricateurs: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - L'Isolé: 60 (éphémère), Othard - Yanxia - Vallée aux Prismes: 70 (éphémère), Norvrandt - Kholusia - Ombrefaille: 70, Norvrandt - Kholusia - Lenteroute: 75, Norvrandt - Kholusia - Amistie: 80, Norvrandt - Kholusia - Komra: 80 (éphémère)
 
 Nom: Cristal de foudre
 Classe: Botaniste
@@ -1172,35 +1172,35 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Voor Sian Siran: 60, Othard - Steppe d'Azim - Calcul de Ragill: 70 (temporaire), Norvrandt - Grand-Lac - Ivraie: 75, Norvrandt - Grand-Lac - Porte de l'Exarque: 80 (temporaire), Norvrandt - Grand-Lac - Église de l'Aurore: 80
+Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Voor Sian Siran: 60, Othard - Steppe d'Azim - Calcul de Ragill: 70 (éphémère), Norvrandt - Grand-Lac - Ivraie: 75, Norvrandt - Grand-Lac - Porte de l'Exarque: 80 (éphémère), Norvrandt - Grand-Lac - Église de l'Aurore: 80
 
 Nom: Cristal de foudre
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Thanalan - Thanalan méridional - Eaux-Mortes: 30, Coerthas - Hautes terres du Coerthas occidental - Pont du Fer noir: 60 (temporaire), Abalathia - L'Écume des cieux d'Abalathia - Ok' Gundu: 60 (temporaire), Othard - Steppe d'Azim - Onsal Hakair: 70
+Points de récolte: Thanalan - Thanalan méridional - Eaux-Mortes: 30, Coerthas - Hautes terres du Coerthas occidental - Pont du Fer noir: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Gundu: 60 (éphémère), Othard - Steppe d'Azim - Onsal Hakair: 70
 
 Nom: Cristal de glace
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Forêt de Sombrelinceul - Forêt du sud - Hauts-Chemins: 30, Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 50, Gyr Abania - Les Lacs - Crâne d'Abalathia: 70, Gyr Abania - Les Lacs - Jardins de la Reine: 70 (temporaire), Norvrandt - Kholusia - Tour de Montvoir: 70, Norvrandt - Kholusia - Falaises éclatantes: 75
+Points de récolte: Forêt de Sombrelinceul - Forêt du sud - Hauts-Chemins: 30, Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 50, Gyr Abania - Les Lacs - Crâne d'Abalathia: 70, Gyr Abania - Les Lacs - Jardins de la Reine: 70 (éphémère), Norvrandt - Kholusia - Tour de Montvoir: 70, Norvrandt - Kholusia - Falaises éclatantes: 75
 
 Nom: Cristal de glace
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Les Jumeaux: 55, Coerthas - Hautes terres du Coerthas occidental - Les Jumeaux: 60, Coerthas - Hautes terres du Coerthas occidental - Prairie de Gorgagne: 65, Norvrandt - Kholusia - Tour de Mervoir: 75, Norvrandt - Kholusia - Plateau aux Rocs: 80, Norvrandt - Kholusia - Tomra: 80 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Les Jumeaux: 55, Coerthas - Hautes terres du Coerthas occidental - Les Jumeaux: 60, Coerthas - Hautes terres du Coerthas occidental - Prairie de Gorgagne: 65, Norvrandt - Kholusia - Tour de Mervoir: 75, Norvrandt - Kholusia - Plateau aux Rocs: 80, Norvrandt - Kholusia - Tomra: 80 (éphémère)
 
 Nom: Cristal de glace
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 50, Coerthas - Hautes terres du Coerthas occidental - Prairie de Gorgagne: 55, Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60, Coerthas - Hautes terres du Coerthas occidental - Lit d'os: 65, Gyr Abania - Les Lacs - Hautes berges: 70 (temporaire), Gyr Abania - Les Lacs - Jardins de la Reine: 75
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 50, Coerthas - Hautes terres du Coerthas occidental - Prairie de Gorgagne: 55, Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60, Coerthas - Hautes terres du Coerthas occidental - Lit d'os: 65, Gyr Abania - Les Lacs - Hautes berges: 70 (éphémère), Gyr Abania - Les Lacs - Jardins de la Reine: 75
 
 Nom: Cristal de glace
 Classe: Mineur
@@ -1221,7 +1221,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (temporaire), Dravania - Arrière-pays dravanien - Arboretum Sainte-Mocianne: 60 (temporaire), Dravania - L'Écume des cieux de Dravania - Colonie des Maîtres terriens: 55, Dravania - L'Écume des cieux de Dravania - Fort-Heaume: 60, Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (temporaire), Dravania - L'Écume des cieux de Dravania - Ohl Tahn: 65, Othard - Steppe d'Azim - Retraite de Nhaama: 70, Norvrandt - Grand-Lac - Forêt du Berger égaré: 75, Norvrandt - Grand-Lac - Dents-de-pierre: 80 (temporaire), Norvrandt - Grand-Lac - Ivraie: 80
+Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (éphémère), Dravania - Arrière-pays dravanien - Arboretum Sainte-Mocianne: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - Colonie des Maîtres terriens: 55, Dravania - L'Écume des cieux de Dravania - Fort-Heaume: 60, Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - Ohl Tahn: 65, Othard - Steppe d'Azim - Retraite de Nhaama: 70, Norvrandt - Grand-Lac - Forêt du Berger égaré: 75, Norvrandt - Grand-Lac - Dents-de-pierre: 80 (éphémère), Norvrandt - Grand-Lac - Ivraie: 80
 
 Nom: Cristal de terre
 Classe: Mineur
@@ -1249,7 +1249,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (temporaire), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (temporaire), Dravania - Arrière-pays dravanien - Quartier académique: 60, Dravania - Arrière-pays dravanien - Delta de Grand-Flot: 75, Othard - Yanxia - Bassin rutilant: 70 (temporaire), Othard - Yanxia - Doma: 70, Othard - Yanxia - Manoir des Yuzuka: 75, Norvrandt - Rak'tika - Géant accroupi: 75, Norvrandt - Rak'tika - Astropole des K'mul: 80 (temporaire), Norvrandt - Rak'tika - La Frairie sauvage: 80
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (éphémère), Dravania - Arrière-pays dravanien - Quartier académique: 60, Dravania - Arrière-pays dravanien - Delta de Grand-Flot: 75, Othard - Yanxia - Bassin rutilant: 70 (éphémère), Othard - Yanxia - Doma: 70, Othard - Yanxia - Manoir des Yuzuka: 75, Norvrandt - Rak'tika - Géant accroupi: 75, Norvrandt - Rak'tika - Astropole des K'mul: 80 (éphémère), Norvrandt - Rak'tika - La Frairie sauvage: 80
 
 Nom: Cristal de vent
 Classe: Mineur
@@ -1277,7 +1277,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 80
 Catégorie: Pierre
-Points de récolte: Norvrandt - Il Mheg - Temple de Saint-Fathric: 80 (temporaire)
+Points de récolte: Norvrandt - Il Mheg - Temple de Saint-Fathric: 80 (intact)
 
 Nom: Cristal iridescent sur commande de restauration (4e phase)
 Classe: Mineur
@@ -1291,35 +1291,35 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 80
 Catégorie: Pierre
-Points de récolte: Norvrandt - Il Mheg - Voeburtenburg: 80 (temporaire)
+Points de récolte: Norvrandt - Il Mheg - Voeburtenburg: 80 (intact)
 
 Nom: Cristal terni
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Noscea - Noscea centrale - Dérive du Zéphyr: 50 (temporaire), Noscea - Noscea centrale - Estival: 50 (temporaire), Noscea - Noscea orientale - Rives sanglantes: 50 (temporaire), Noscea - Haute-Noscea - Lac d'Airain: 50 (temporaire), Forêt de Sombrelinceul - Forêt centrale - Larmeverte: 50 (temporaire), Forêt de Sombrelinceul - Forêt centrale - Brancharquée: 50 (temporaire), Forêt de Sombrelinceul - Forêt du sud - Hauts-Chemins: 50 (temporaire), Forêt de Sombrelinceul - Forêt du nord - Sources de l'Aulne: 50 (temporaire), Coerthas - Hautes terres du Coerthas central - Tête du dragon: 50 (temporaire), Coerthas - Hautes terres du Coerthas central - Providence: 50 (temporaire), Coerthas - Hautes terres du Coerthas central - L'Arête blanche: 50 (temporaire), Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (temporaire)
+Points de récolte: Noscea - Noscea centrale - Dérive du Zéphyr: 50 (intact), Noscea - Noscea centrale - Estival: 50 (intact), Noscea - Noscea orientale - Rives sanglantes: 50 (intact), Noscea - Haute-Noscea - Lac d'Airain: 50 (intact), Forêt de Sombrelinceul - Forêt centrale - Larmeverte: 50 (intact), Forêt de Sombrelinceul - Forêt centrale - Brancharquée: 50 (intact), Forêt de Sombrelinceul - Forêt du sud - Hauts-Chemins: 50 (intact), Forêt de Sombrelinceul - Forêt du nord - Sources de l'Aulne: 50 (intact), Coerthas - Hautes terres du Coerthas central - Tête du dragon: 50 (intact), Coerthas - Hautes terres du Coerthas central - Providence: 50 (intact), Coerthas - Hautes terres du Coerthas central - L'Arête blanche: 50 (intact), Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (intact)
 
 Nom: Cristal terni
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Noscea - Basse-Noscea - La Cédrière: 50 (temporaire), Noscea - Noscea orientale - Rives sanglantes: 50 (temporaire), Noscea - Noscea orientale - Ravine des Cueillepluies: 50 (temporaire), Noscea - Noscea occidentale - Quartpierre: 50 (temporaire), Forêt de Sombrelinceul - Forêt centrale - Havre des Renouées: 50 (temporaire), Forêt de Sombrelinceul - Forêt de l'est - Jardinet du miel: 50 (temporaire), Forêt de Sombrelinceul - Forêt de l'est - Neuf-Lierres: 50 (temporaire), Forêt de Sombrelinceul - Forêt de l'est - Massif de ronces: 50 (temporaire), Thanalan - Thanalan oriental - Les Os desséchés: 50 (temporaire)
+Points de récolte: Noscea - Basse-Noscea - La Cédrière: 50 (intact), Noscea - Noscea orientale - Rives sanglantes: 50 (intact), Noscea - Noscea orientale - Ravine des Cueillepluies: 50 (intact), Noscea - Noscea occidentale - Quartpierre: 50 (intact), Forêt de Sombrelinceul - Forêt centrale - Havre des Renouées: 50 (intact), Forêt de Sombrelinceul - Forêt de l'est - Jardinet du miel: 50 (intact), Forêt de Sombrelinceul - Forêt de l'est - Neuf-Lierres: 50 (intact), Forêt de Sombrelinceul - Forêt de l'est - Massif de ronces: 50 (intact), Thanalan - Thanalan oriental - Les Os desséchés: 50 (intact)
 
 Nom: Cristal terni
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Noscea - Basse-Noscea - Baie de Moraby: 50 (temporaire), Thanalan - Thanalan central - Roncenoire: 50 (temporaire), Thanalan - Thanalan oriental - Mur incandescent: 50 (temporaire), Thanalan - Thanalan méridional - Eaux-Mortes: 50 (temporaire), Thanalan - Thanalan septentrional - Brumebleue: 50 (temporaire), Thanalan - Thanalan septentrional - Poussée de Raubahn: 50 (temporaire), Coerthas - Hautes terres du Coerthas central - Tête du dragon: 50 (temporaire)
+Points de récolte: Noscea - Basse-Noscea - Baie de Moraby: 50 (intact), Thanalan - Thanalan central - Roncenoire: 50 (intact), Thanalan - Thanalan oriental - Mur incandescent: 50 (intact), Thanalan - Thanalan méridional - Eaux-Mortes: 50 (intact), Thanalan - Thanalan septentrional - Brumebleue: 50 (intact), Thanalan - Thanalan septentrional - Poussée de Raubahn: 50 (intact), Coerthas - Hautes terres du Coerthas central - Tête du dragon: 50 (intact)
 
 Nom: Cristal terni
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Noscea - Noscea centrale - Dérive du Zéphyr: 50 (temporaire), Noscea - Noscea orientale - Ravine des Cueillepluies: 50 (temporaire), Forêt de Sombrelinceul - Forêt du sud - Bas-Chemins: 50 (temporaire), Thanalan - Thanalan occidental - Martelterre: 50 (temporaire), Thanalan - Thanalan oriental - Bois du Renouveau: 50 (temporaire), Coerthas - Hautes terres du Coerthas central - Tête du dragon: 50 (temporaire), Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (temporaire)
+Points de récolte: Noscea - Noscea centrale - Dérive du Zéphyr: 50 (intact), Noscea - Noscea orientale - Ravine des Cueillepluies: 50 (intact), Forêt de Sombrelinceul - Forêt du sud - Bas-Chemins: 50 (intact), Thanalan - Thanalan occidental - Martelterre: 50 (intact), Thanalan - Thanalan oriental - Bois du Renouveau: 50 (intact), Coerthas - Hautes terres du Coerthas central - Tête du dragon: 50 (intact), Mor Dhona - Mor Dhona - Rive nord de Pleurargent: 50 (intact)
 
 Nom: Cèpe
 Classe: Botaniste
@@ -1340,7 +1340,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 66
 Catégorie: Pierre
-Points de récolte: Othard - Yanxia - Vallée aux Prismes: 70 (temporaire)
+Points de récolte: Othard - Yanxia - Vallée aux Prismes: 70 (éphémère)
 
 Nom: Danburite brute
 Classe: Mineur
@@ -1354,14 +1354,14 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Thanalan - Thanalan central - Roncenoire: 50 (temporaire)
+Points de récolte: Thanalan - Thanalan central - Roncenoire: 50 (intact)
 
 Nom: Diaspore brute
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 72
 Catégorie: Pierre
-Points de récolte: Norvrandt - Il Mheg - Bas-fond des Sextuplés: 75 (temporaire)
+Points de récolte: Norvrandt - Il Mheg - Bas-fond des Sextuplés: 75 (intact)
 
 Nom: Disthène brut
 Classe: Mineur
@@ -1375,7 +1375,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 65
 Catégorie: Divers
-Points de récolte: Gyr Abania - Les Marges - Ruisseau aux Mirages: 65 (temporaire)
+Points de récolte: Gyr Abania - Les Marges - Ruisseau aux Mirages: 65 (intact)
 
 Nom: Déjection d'animal sauvage
 Classe: Botaniste
@@ -1431,7 +1431,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 57
 Catégorie: Divers
-Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - La Fenêtre bleue: 60 (temporaire)
+Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - La Fenêtre bleue: 60 (intact)
 
 Nom: Eau de source de Dravania
 Classe: Mineur
@@ -1445,14 +1445,14 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 70
 Catégorie: Réactif
-Points de récolte: Gyr Abania - Les Pics - Blêmeroche: 70 (temporaire)
+Points de récolte: Gyr Abania - Les Pics - Blêmeroche: 70 (intact)
 
 Nom: Eau de source de la Steppe d'Azim
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 70
 Catégorie: Réactif
-Points de récolte: Othard - Steppe d'Azim - Retraite de Nhaama: 70 (temporaire)
+Points de récolte: Othard - Steppe d'Azim - Retraite de Nhaama: 70 (intact)
 
 Nom: Eau de source des hauts plateaux
 Classe: Mineur
@@ -1466,7 +1466,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 80
 Catégorie: Réactif
-Points de récolte: Norvrandt - Kholusia - Trou du Duergar: 80 (temporaire)
+Points de récolte: Norvrandt - Kholusia - Trou du Duergar: 80 (intact)
 
 Nom: Eau effervescente
 Classe: Mineur
@@ -1543,7 +1543,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 60
 Catégorie: Ingrédient
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (temporaire), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (temporaire), Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (temporaire), Dravania - Arrière-pays dravanien - Arboretum Sainte-Mocianne: 60 (temporaire), Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (éphémère), Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (éphémère), Dravania - Arrière-pays dravanien - Arboretum Sainte-Mocianne: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (éphémère)
 
 Nom: Feuilles de plaqueminier
 Classe: Botaniste
@@ -1557,14 +1557,14 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Réactif
-Points de récolte: Forêt de Sombrelinceul - Forêt centrale - Havre des Renouées: 50 (temporaire)
+Points de récolte: Forêt de Sombrelinceul - Forêt centrale - Havre des Renouées: 50 (intact)
 
 Nom: Feuilles de thé du Coerthas
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 53
 Catégorie: Ingrédient
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 55 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 55 (intact)
 
 Nom: Feuilles de thé du Thanalan
 Classe: Botaniste
@@ -1613,7 +1613,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 70
 Catégorie: Tissu
-Points de récolte: Gyr Abania - Les Pics - Mont Yorn: 70 (temporaire)
+Points de récolte: Gyr Abania - Les Pics - Mont Yorn: 70 (intact)
 
 Nom: Figue de barbarie
 Classe: Botaniste
@@ -1627,14 +1627,14 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Ingrédient
-Points de récolte: Dravania - Avant-pays dravanien - Forêt des chocobos: 50 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Forêt des chocobos: 50 (intact)
 
 Nom: Fleur astrale
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 60
 Catégorie: Réactif
-Points de récolte: Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (temporaire)
+Points de récolte: Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (intact)
 
 Nom: Fleur de coton
 Classe: Botaniste
@@ -1662,35 +1662,35 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 70
 Catégorie: Tissu
-Points de récolte: Othard - Steppe d'Azim - Onsal Hakair: 70 (temporaire)
+Points de récolte: Othard - Steppe d'Azim - Onsal Hakair: 70 (intact)
 
 Nom: Fleur de coton de Yanxia
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 70
 Catégorie: Tissu
-Points de récolte: Othard - Yanxia - Bassin rutilant: 70 (temporaire)
+Points de récolte: Othard - Yanxia - Bassin rutilant: 70 (intact)
 
 Nom: Fleur de coton de l'Azur
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 80
 Catégorie: Tissu
-Points de récolte: Norvrandt - Rak'tika - Île aux Époux: 80 (temporaire)
+Points de récolte: Norvrandt - Rak'tika - Île aux Époux: 80 (intact)
 
 Nom: Fleur de coton des neiges
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 60
 Catégorie: Tissu
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Les Jumeaux: 60 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Les Jumeaux: 60 (intact)
 
 Nom: Fleur de coton des étoiles
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 60
 Catégorie: Tissu
-Points de récolte: Abalathia - Azys Lla - Quadrant delta: 60 (temporaire)
+Points de récolte: Abalathia - Azys Lla - Quadrant delta: 60 (intact)
 
 Nom: Fleur de coton du givre
 Classe: Botaniste
@@ -1774,7 +1774,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 72
 Catégorie: Ingrédient
-Points de récolte: Norvrandt - Il Mheg - Phisor Lran: 75 (temporaire)
+Points de récolte: Norvrandt - Il Mheg - Phisor Lran: 75 (intact)
 
 Nom: Gerberas lumineuses
 Classe: Botaniste
@@ -1788,7 +1788,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 68
 Catégorie: Ingrédient
-Points de récolte: Gyr Abania - Les Lacs - Crâne d'Abalathia: 70 (temporaire)
+Points de récolte: Gyr Abania - Les Lacs - Crâne d'Abalathia: 70 (intact)
 
 Nom: Gingembre perlé
 Classe: Botaniste
@@ -1837,7 +1837,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 60
 Catégorie: Ingrédient
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Les Jumeaux: 60 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Les Jumeaux: 60 (intact)
 
 Nom: Goémon corallin
 Classe: Botaniste
@@ -1865,7 +1865,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Jardinage
-Points de récolte: Noscea - Noscea orientale - Rives sanglantes: 50 (temporaire)
+Points de récolte: Noscea - Noscea orientale - Rives sanglantes: 50 (intact)
 
 Nom: Graines d'aubergine du mage
 Classe: Botaniste
@@ -1963,14 +1963,14 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 52
 Catégorie: Jardinage
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 55 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 55 (intact)
 
 Nom: Graines de citronnier miel
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Jardinage
-Points de récolte: Noscea - Noscea orientale - Rives sanglantes: 50 (temporaire)
+Points de récolte: Noscea - Noscea orientale - Rives sanglantes: 50 (intact)
 
 Nom: Graines de citronnier soleil
 Classe: Botaniste
@@ -1991,7 +1991,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Jardinage
-Points de récolte: Dravania - Avant-pays dravanien - Forêt des chocobos: 50 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Forêt des chocobos: 50 (intact)
 
 Nom: Graines de groseillier sanguin
 Classe: Botaniste
@@ -2096,14 +2096,14 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 53
 Catégorie: Jardinage
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 55 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 55 (intact)
 
 Nom: Graines de tomate Dzemael
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Jardinage
-Points de récolte: Noscea - Noscea orientale - Ravine des Cueillepluies: 50 (temporaire)
+Points de récolte: Noscea - Noscea orientale - Ravine des Cueillepluies: 50 (intact)
 
 Nom: Grains de café
 Classe: Botaniste
@@ -2145,42 +2145,42 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 60
 Catégorie: Pierre
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 60 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 60 (intact)
 
 Nom: Granulat astral rayonnant
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 60
 Catégorie: Pierre
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Pont du Fer noir: 60 (temporaire), Abalathia - L'Écume des cieux d'Abalathia - Ok' Gundu: 60 (temporaire), Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (temporaire), Dravania - Arrière-pays dravanien - Quartier des Fabricateurs: 60 (temporaire), Dravania - L'Écume des cieux de Dravania - L'Isolé: 60 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Pont du Fer noir: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Gundu: 60 (éphémère), Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (éphémère), Dravania - Arrière-pays dravanien - Quartier des Fabricateurs: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - L'Isolé: 60 (éphémère)
 
 Nom: Granulat de feu
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 56
 Catégorie: Pierre
-Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (temporaire), Dravania - Arrière-pays dravanien - Quartier des Fabricateurs: 60 (temporaire), Dravania - L'Écume des cieux de Dravania - L'Isolé: 60 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (éphémère), Dravania - Arrière-pays dravanien - Quartier des Fabricateurs: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - L'Isolé: 60 (éphémère)
 
 Nom: Granulat de feu flamboyant
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 60
 Catégorie: Pierre
-Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (temporaire), Dravania - Arrière-pays dravanien - Quartier des Fabricateurs: 60 (temporaire), Dravania - L'Écume des cieux de Dravania - L'Isolé: 60 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (éphémère), Dravania - Arrière-pays dravanien - Quartier des Fabricateurs: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - L'Isolé: 60 (éphémère)
 
 Nom: Granulat de foudre
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 56
 Catégorie: Pierre
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Pont du Fer noir: 60 (temporaire), Abalathia - L'Écume des cieux d'Abalathia - Ok' Gundu: 60 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Pont du Fer noir: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Gundu: 60 (éphémère)
 
 Nom: Granulat de foudre flamboyant
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 60
 Catégorie: Pierre
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Pont du Fer noir: 60 (temporaire), Abalathia - L'Écume des cieux d'Abalathia - Ok' Gundu: 60 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Pont du Fer noir: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Gundu: 60 (éphémère)
 
 Nom: Grenat brut
 Classe: Mineur
@@ -2222,7 +2222,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 80
 Catégorie: Tissu
-Points de récolte: Norvrandt - Amh Araeng - Abîme des Nabaath: 80 (temporaire)
+Points de récolte: Norvrandt - Amh Araeng - Abîme des Nabaath: 80 (intact)
 
 Nom: Gui
 Classe: Botaniste
@@ -2236,14 +2236,14 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 58
 Catégorie: Réactif
-Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Vundu Ok' Bendu: 60 (temporaire)
+Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Vundu Ok' Bendu: 60 (intact)
 
 Nom: Gui de Dravania
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 54
 Catégorie: Réactif
-Points de récolte: Dravania - L'Écume des cieux de Dravania - Ohl Tahn: 55 (temporaire)
+Points de récolte: Dravania - L'Écume des cieux de Dravania - Ohl Tahn: 55 (intact)
 
 Nom: Gui de Nophica
 Classe: Botaniste
@@ -2257,7 +2257,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Réactif
-Points de récolte: Coerthas - Hautes terres du Coerthas central - L'Arête blanche: 50 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas central - L'Arête blanche: 50 (intact)
 
 Nom: Gui de Tinolqa
 Classe: Botaniste
@@ -2306,7 +2306,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Divers
-Points de récolte: Noscea - Basse-Noscea - La Cédrière: 50 (temporaire), Noscea - Noscea occidentale - Quartpierre: 50 (temporaire), Forêt de Sombrelinceul - Forêt centrale - Havre des Renouées: 50 (temporaire), Forêt de Sombrelinceul - Forêt de l'est - Jardinet du miel: 50 (temporaire), Forêt de Sombrelinceul - Forêt de l'est - Neuf-Lierres: 50 (temporaire), Forêt de Sombrelinceul - Forêt de l'est - Massif de ronces: 50 (temporaire), Thanalan - Thanalan oriental - Les Os desséchés: 50 (temporaire)
+Points de récolte: Noscea - Basse-Noscea - La Cédrière: 50 (intact), Noscea - Noscea occidentale - Quartpierre: 50 (intact), Forêt de Sombrelinceul - Forêt centrale - Havre des Renouées: 50 (intact), Forêt de Sombrelinceul - Forêt de l'est - Jardinet du miel: 50 (intact), Forêt de Sombrelinceul - Forêt de l'est - Neuf-Lierres: 50 (intact), Forêt de Sombrelinceul - Forêt de l'est - Massif de ronces: 50 (intact), Thanalan - Thanalan oriental - Les Os desséchés: 50 (intact)
 
 Nom: Herbes de Yafaem
 Classe: Botaniste
@@ -2320,7 +2320,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 60
 Catégorie: Réactif
-Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (temporaire), Dravania - Arrière-pays dravanien - Arboretum Sainte-Mocianne: 60 (temporaire), Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (éphémère), Dravania - Arrière-pays dravanien - Arboretum Sainte-Mocianne: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (éphémère)
 
 Nom: Héliodore brut
 Classe: Mineur
@@ -2334,7 +2334,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 70
 Catégorie: Pierre
-Points de récolte: Norvrandt - Kholusia - Potager du gouverneur: 70 (temporaire)
+Points de récolte: Norvrandt - Kholusia - Potager du gouverneur: 70 (intact)
 
 Nom: Ingrédients de sandwichs pour dragon
 Classe: Botaniste
@@ -2376,7 +2376,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 68
 Catégorie: Pierre
-Points de récolte: Othard - Yanxia - Vallée aux Prismes: 70 (temporaire)
+Points de récolte: Othard - Yanxia - Vallée aux Prismes: 70 (intact)
 
 Nom: Jade sur commande de restauration (2e phase)
 Classe: Mineur
@@ -2390,14 +2390,14 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 78
 Catégorie: Ingrédient
-Points de récolte: Norvrandt - Rak'tika - Halte de l'Archère: 80 (temporaire)
+Points de récolte: Norvrandt - Rak'tika - Halte de l'Archère: 80 (intact)
 
 Nom: Jeunes épinards des Cieldalaes
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Ingrédient
-Points de récolte: Noscea - Basse-Noscea - La Cédrière: 50 (temporaire)
+Points de récolte: Noscea - Basse-Noscea - La Cédrière: 50 (intact)
 
 Nom: Joyau en rubis
 Classe: Botaniste
@@ -2460,7 +2460,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 60
 Catégorie: Ingrédient
-Points de récolte: Dravania - Arrière-pays dravanien - Quartier des Fabricateurs: 60 (temporaire)
+Points de récolte: Dravania - Arrière-pays dravanien - Quartier des Fabricateurs: 60 (intact)
 
 Nom: Laitue noscéenne
 Classe: Botaniste
@@ -2495,7 +2495,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Mascotte
-Points de récolte: Thanalan - Thanalan oriental - Mur incandescent: 50 (temporaire)
+Points de récolte: Thanalan - Thanalan oriental - Mur incandescent: 50 (intact)
 
 Nom: Latex
 Classe: Botaniste
@@ -2544,14 +2544,14 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 74
 Catégorie: Pierre
-Points de récolte: Norvrandt - Rak'tika - Cabane des clercs: 75 (temporaire)
+Points de récolte: Norvrandt - Rak'tika - Cabane des clercs: 75 (intact)
 
 Nom: Lazurite brute collectionnable
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 73
 Catégorie: Divers
-Points de récolte: Norvrandt - Rak'tika - Cabane des clercs: 75 (temporaire)
+Points de récolte: Norvrandt - Rak'tika - Cabane des clercs: 75 (intact)
 
 Nom: Lentilles lalafelles
 Classe: Botaniste
@@ -2586,14 +2586,14 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 60
 Catégorie: Ingrédient
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Les Jumeaux: 60 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Les Jumeaux: 60 (intact)
 
 Nom: Lœss
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 66
 Catégorie: Pierre
-Points de récolte: Othard - Steppe d'Azim - Retraite de Nhaama: 70 (temporaire)
+Points de récolte: Othard - Steppe d'Azim - Retraite de Nhaama: 70 (éphémère)
 
 Nom: Malachite brute
 Classe: Mineur
@@ -2628,14 +2628,14 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 76
 Catégorie: Réactif
-Points de récolte: Norvrandt - Rak'tika - Astropole des K'mul: 80 (temporaire)
+Points de récolte: Norvrandt - Rak'tika - Astropole des K'mul: 80 (éphémère)
 
 Nom: Marjolaine potagère
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 56
 Catégorie: Ingrédient
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (temporaire), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (éphémère)
 
 Nom: Marron sombre
 Classe: Botaniste
@@ -2649,7 +2649,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 57
 Catégorie: Divers
-Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (intact)
 
 Nom: Matière carbonique grade I
 Classe: Botaniste
@@ -2768,21 +2768,21 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 66
 Catégorie: Réactif
-Points de récolte: Othard - Yanxia - Bassin rutilant: 70 (temporaire)
+Points de récolte: Othard - Yanxia - Bassin rutilant: 70 (éphémère)
 
 Nom: Menthe aquatique
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 58
 Catégorie: Ingrédient
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (temporaire), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (éphémère)
 
 Nom: Menthe douce
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 58
 Catégorie: Ingrédient
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (temporaire), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (éphémère)
 
 Nom: Menthe galago
 Classe: Botaniste
@@ -2796,14 +2796,14 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 74
 Catégorie: Ingrédient
-Points de récolte: Norvrandt - Grand-Lac - Embrasure: 75 (temporaire)
+Points de récolte: Norvrandt - Grand-Lac - Embrasure: 75 (intact)
 
 Nom: Menthe éclair
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 80
 Catégorie: Réactif
-Points de récolte: Norvrandt - Grand-Lac - Dents-de-pierre: 80 (temporaire), Norvrandt - Kholusia - Tomra: 80 (temporaire), Norvrandt - Rak'tika - Astropole des K'mul: 80 (temporaire)
+Points de récolte: Norvrandt - Grand-Lac - Dents-de-pierre: 80 (éphémère), Norvrandt - Kholusia - Tomra: 80 (éphémère), Norvrandt - Rak'tika - Astropole des K'mul: 80 (éphémère)
 
 Nom: Mica blanc
 Classe: Mineur
@@ -2817,7 +2817,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 60
 Catégorie: Pierre
-Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Voor Sian Siran: 60 (temporaire)
+Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Voor Sian Siran: 60 (intact)
 
 Nom: Milli-maïs
 Classe: Botaniste
@@ -2852,7 +2852,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 60
 Catégorie: Pierre
-Points de récolte: Abalathia - Azys Lla - Quadrant bêta: 60 (temporaire)
+Points de récolte: Abalathia - Azys Lla - Quadrant bêta: 60 (intact)
 
 Nom: Minerai d'adamant d'affinage final
 Classe: Mineur
@@ -2873,21 +2873,21 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 60
 Catégorie: Pierre
-Points de récolte: Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (temporaire)
+Points de récolte: Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (intact)
 
 Nom: Minerai d'hématite
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 57
 Catégorie: Pierre
-Points de récolte: Dravania - Arrière-pays dravanien - Quartier des Sages: 60 (temporaire)
+Points de récolte: Dravania - Arrière-pays dravanien - Quartier des Sages: 60 (intact)
 
 Nom: Minerai d'or
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Thanalan - Thanalan oriental - Mur incandescent: 50 (temporaire)
+Points de récolte: Thanalan - Thanalan oriental - Mur incandescent: 50 (intact)
 
 Nom: Minerai d'or extraordinaire de restauration (4e phase)
 Classe: Mineur
@@ -2929,7 +2929,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 80
 Catégorie: Pierre
-Points de récolte: Norvrandt - Grand-Lac - Île de Ken: 80 (temporaire)
+Points de récolte: Norvrandt - Grand-Lac - Île de Ken: 80 (intact)
 
 Nom: Minerai de bronze titané
 Classe: Mineur
@@ -2943,35 +2943,35 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 71
 Catégorie: Divers
-Points de récolte: Norvrandt - Grand-Lac - Le Ceinturon: 75 (temporaire)
+Points de récolte: Norvrandt - Grand-Lac - Le Ceinturon: 75 (intact)
 
 Nom: Minerai de béryllium
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 80
 Catégorie: Pierre
-Points de récolte: Norvrandt - Il Mheg - Temple de Saint-Fathric: 80 (temporaire)
+Points de récolte: Norvrandt - Il Mheg - Temple de Saint-Fathric: 80 (intact)
 
 Nom: Minerai de chalcocite
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 53
 Catégorie: Pierre
-Points de récolte: Dravania - Avant-pays dravanien - Terres fumantes: 55 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Terres fumantes: 55 (intact)
 
 Nom: Minerai de chalcocite collectionnable
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 53
 Catégorie: Divers
-Points de récolte: Dravania - Avant-pays dravanien - Terres fumantes: 55 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Terres fumantes: 55 (intact)
 
 Nom: Minerai de chromite
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 70
 Catégorie: Pierre
-Points de récolte: Gyr Abania - Les Pics - Blêmeroche: 70 (temporaire)
+Points de récolte: Gyr Abania - Les Pics - Blêmeroche: 70 (intact)
 
 Nom: Minerai de cobalt
 Classe: Mineur
@@ -2985,7 +2985,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 80
 Catégorie: Pierre
-Points de récolte: Norvrandt - Grand-Lac - Île de Ken: 80 (temporaire)
+Points de récolte: Norvrandt - Grand-Lac - Île de Ken: 80 (intact)
 
 Nom: Minerai de cuivre
 Classe: Mineur
@@ -2999,14 +2999,14 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 50 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 50 (intact)
 
 Nom: Minerai de cuprite
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 59
 Catégorie: Pierre
-Points de récolte: Dravania - Arrière-pays dravanien - Quartier des Sages: 60 (temporaire)
+Points de récolte: Dravania - Arrière-pays dravanien - Quartier des Sages: 60 (intact)
 
 Nom: Minerai de cuprite supérieur de restauration (4e phase)
 Classe: Mineur
@@ -3027,7 +3027,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 80
 Catégorie: Pierre
-Points de récolte: Norvrandt - Rak'tika - La Coquille brisée: 80 (temporaire)
+Points de récolte: Norvrandt - Rak'tika - La Coquille brisée: 80 (intact)
 
 Nom: Minerai de durargent
 Classe: Mineur
@@ -3069,49 +3069,49 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Thanalan - Thanalan septentrional - Poussée de Raubahn: 50 (temporaire)
+Points de récolte: Thanalan - Thanalan septentrional - Poussée de Raubahn: 50 (intact)
 
 Nom: Minerai de graçargent
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 70
 Catégorie: Pierre
-Points de récolte: Othard - Steppe d'Azim - Retraite de Nhaama: 70 (temporaire)
+Points de récolte: Othard - Steppe d'Azim - Retraite de Nhaama: 70 (intact)
 
 Nom: Minerai de graçargent collectionnable
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 69
 Catégorie: Divers
-Points de récolte: Othard - Steppe d'Azim - Mer de fanes: 70 (temporaire)
+Points de récolte: Othard - Steppe d'Azim - Mer de fanes: 70 (intact)
 
 Nom: Minerai de limonite
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 54
 Catégorie: Pierre
-Points de récolte: Dravania - Avant-pays dravanien - Terres fumantes: 55 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Terres fumantes: 55 (intact)
 
 Nom: Minerai de limonite collectionnable
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 55
 Catégorie: Divers
-Points de récolte: Dravania - Avant-pays dravanien - Terres fumantes: 55 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Terres fumantes: 55 (intact)
 
 Nom: Minerai de luminium
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 60
 Catégorie: Pierre
-Points de récolte: Abalathia - Azys Lla - Quadrant alpha: 60 (temporaire)
+Points de récolte: Abalathia - Azys Lla - Quadrant alpha: 60 (intact)
 
 Nom: Minerai de lumithrite
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 60
 Catégorie: Pierre
-Points de récolte: Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (temporaire)
+Points de récolte: Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (intact)
 
 Nom: Minerai de mithril
 Classe: Mineur
@@ -3146,56 +3146,56 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 70
 Catégorie: Pierre
-Points de récolte: Othard - Mer de Rubis - Côte orientale d'Othard: 70 (temporaire)
+Points de récolte: Othard - Mer de Rubis - Côte orientale d'Othard: 70 (intact)
 
 Nom: Minerai de palladium
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 70
 Catégorie: Pierre
-Points de récolte: Othard - Yanxia - Doma: 70 (temporaire)
+Points de récolte: Othard - Yanxia - Doma: 70 (intact)
 
 Nom: Minerai de platine
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Thanalan - Thanalan méridional - Eaux-Mortes: 50 (temporaire)
+Points de récolte: Thanalan - Thanalan méridional - Eaux-Mortes: 50 (intact)
 
 Nom: Minerai de pyrite
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 51
 Catégorie: Pierre
-Points de récolte: Dravania - Avant-pays dravanien - Terres fumantes: 55 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Terres fumantes: 55 (intact)
 
 Nom: Minerai de pyrite collectionnable
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 51
 Catégorie: Divers
-Points de récolte: Dravania - Avant-pays dravanien - Terres fumantes: 55 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Terres fumantes: 55 (intact)
 
 Nom: Minerai de pérennéclat
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 70
 Catégorie: Pierre
-Points de récolte: Gyr Abania - Les Lacs - Lac Seld: 70 (temporaire)
+Points de récolte: Gyr Abania - Les Lacs - Lac Seld: 70 (intact)
 
 Nom: Minerai de smithsonite
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 60
 Catégorie: Pierre
-Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Le Gantelet: 60 (temporaire)
+Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Le Gantelet: 60 (intact)
 
 Nom: Minerai de sombracier
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Coerthas - Hautes terres du Coerthas central - Tête du dragon: 50 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas central - Tête du dragon: 50 (intact)
 
 Nom: Minerai de titane
 Classe: Mineur
@@ -3209,21 +3209,21 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 60
 Catégorie: Pierre
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Les Jumeaux: 60 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Les Jumeaux: 60 (intact)
 
 Nom: Minerai de tungstène
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 80
 Catégorie: Pierre
-Points de récolte: Norvrandt - La Tempête - Crypte du Sans-branchies: 80 (temporaire)
+Points de récolte: Norvrandt - La Tempête - Crypte du Sans-branchies: 80 (intact)
 
 Nom: Minerai de tungstène collectionnable
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 80
 Catégorie: Divers
-Points de récolte: Norvrandt - La Tempête - Baïne: 80 (temporaire)
+Points de récolte: Norvrandt - La Tempête - Baïne: 80 (intact)
 
 Nom: Minerai de zinc
 Classe: Mineur
@@ -3237,7 +3237,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 60
 Catégorie: Pierre
-Points de récolte: Dravania - Arrière-pays dravanien - Quartier des Sages: 60 (temporaire)
+Points de récolte: Dravania - Arrière-pays dravanien - Quartier des Sages: 60 (intact)
 
 Nom: Minerai des flammes évanescentes de restauration (3e phase)
 Classe: Mineur
@@ -3258,7 +3258,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 70
 Catégorie: Pierre
-Points de récolte: Gyr Abania - Les Marges - Virdjala: 70 (temporaire)
+Points de récolte: Gyr Abania - Les Marges - Virdjala: 70 (intact)
 
 Nom: Minerai sur commande de restauration (2e phase)
 Classe: Mineur
@@ -3286,7 +3286,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Mascotte
-Points de récolte: Forêt de Sombrelinceul - Forêt de l'est - Jardinet du miel: 50 (temporaire)
+Points de récolte: Forêt de Sombrelinceul - Forêt de l'est - Jardinet du miel: 50 (intact)
 
 Nom: Minium
 Classe: Mineur
@@ -3300,7 +3300,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 59
 Catégorie: Ingrédient
-Points de récolte: Dravania - Arrière-pays dravanien - Quartier des Sages: 60 (temporaire)
+Points de récolte: Dravania - Arrière-pays dravanien - Quartier des Sages: 60 (intact)
 
 Nom: Mormorion brut
 Classe: Mineur
@@ -3356,7 +3356,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 60
 Catégorie: Pierre
-Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Le Gantelet: 60 (temporaire)
+Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Le Gantelet: 60 (intact)
 
 Nom: Nid d'abeilles géantes
 Classe: Botaniste
@@ -3405,14 +3405,14 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 80
 Catégorie: Pierre
-Points de récolte: Norvrandt - La Tempête - Gorges de Caliban: 80 (temporaire)
+Points de récolte: Norvrandt - La Tempête - Gorges de Caliban: 80 (intact)
 
 Nom: Onyx brut collectionnable
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 80
 Catégorie: Divers
-Points de récolte: Norvrandt - La Tempête - Marge continentale de Norvrandt: 80 (temporaire)
+Points de récolte: Norvrandt - La Tempête - Marge continentale de Norvrandt: 80 (intact)
 
 Nom: Opale brute
 Classe: Mineur
@@ -3433,21 +3433,21 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Ingrédient
-Points de récolte: Noscea - Haute-Noscea - Lac d'Airain: 50 (temporaire)
+Points de récolte: Noscea - Haute-Noscea - Lac d'Airain: 50 (intact)
 
 Nom: Origan
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 56
 Catégorie: Ingrédient
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (temporaire), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (éphémère)
 
 Nom: Orties indigo
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 70
 Catégorie: Tissu
-Points de récolte: Othard - Steppe d'Azim - Onsal Hakair: 70 (temporaire)
+Points de récolte: Othard - Steppe d'Azim - Onsal Hakair: 70 (intact)
 
 Nom: Os de dragon fossilisé
 Classe: Mineur
@@ -3461,7 +3461,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 80
 Catégorie: Réactif
-Points de récolte: Norvrandt - Kholusia - Chute de l'Huile blanche: 80 (temporaire)
+Points de récolte: Norvrandt - Kholusia - Chute de l'Huile blanche: 80 (intact)
 
 Nom: Paille
 Classe: Botaniste
@@ -3489,7 +3489,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 60
 Catégorie: Ingrédient
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Les Jumeaux: 60 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Les Jumeaux: 60 (intact)
 
 Nom: Penne de la Mer de nuages
 Classe: Botaniste
@@ -3510,7 +3510,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 66
 Catégorie: Pierre
-Points de récolte: Othard - Yanxia - Vallée aux Prismes: 70 (temporaire)
+Points de récolte: Othard - Yanxia - Vallée aux Prismes: 70 (éphémère)
 
 Nom: Persil frisé
 Classe: Botaniste
@@ -3538,7 +3538,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 80
 Catégorie: Ingrédient
-Points de récolte: Norvrandt - Kholusia - L'Aigrette: 80 (temporaire)
+Points de récolte: Norvrandt - Kholusia - L'Aigrette: 80 (intact)
 
 Nom: Petit ver
 Classe: Mineur
@@ -3594,7 +3594,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 58
 Catégorie: Pierre
-Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (temporaire), Dravania - Arrière-pays dravanien - Quartier des Fabricateurs: 60 (temporaire), Dravania - L'Écume des cieux de Dravania - L'Isolé: 60 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (éphémère), Dravania - Arrière-pays dravanien - Quartier des Fabricateurs: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - L'Isolé: 60 (éphémère)
 
 Nom: Pierre de foudre
 Classe: Mineur
@@ -3608,21 +3608,21 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 80
 Catégorie: Pierre
-Points de récolte: Norvrandt - Grand-Lac - Porte de l'Exarque: 80 (temporaire), Norvrandt - Rak'tika - Astropole des K'mul: 80 (temporaire)
+Points de récolte: Norvrandt - Grand-Lac - Porte de l'Exarque: 80 (éphémère), Norvrandt - Rak'tika - Astropole des K'mul: 80 (éphémère)
 
 Nom: Pierre de foudre grondante
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 80
 Catégorie: Pierre
-Points de récolte: Norvrandt - Kholusia - Komra: 80 (temporaire)
+Points de récolte: Norvrandt - Kholusia - Komra: 80 (éphémère)
 
 Nom: Pierre de foudre intense
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 58
 Catégorie: Pierre
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Pont du Fer noir: 60 (temporaire), Abalathia - L'Écume des cieux d'Abalathia - Ok' Gundu: 60 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Pont du Fer noir: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Gundu: 60 (éphémère)
 
 Nom: Pierre de glace
 Classe: Mineur
@@ -3636,7 +3636,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 76
 Catégorie: Pierre
-Points de récolte: Norvrandt - Rak'tika - Astropole des K'mul: 80 (temporaire)
+Points de récolte: Norvrandt - Rak'tika - Astropole des K'mul: 80 (éphémère)
 
 Nom: Pierre de soleil brute
 Classe: Mineur
@@ -3671,21 +3671,21 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 79
 Catégorie: Divers
-Points de récolte: Norvrandt - La Tempête - Baïne: 80 (temporaire)
+Points de récolte: Norvrandt - La Tempête - Baïne: 80 (intact)
 
 Nom: Pierre irradiante
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 76
 Catégorie: Pierre
-Points de récolte: Norvrandt - Grand-Lac - Porte de l'Exarque: 80 (temporaire)
+Points de récolte: Norvrandt - Grand-Lac - Porte de l'Exarque: 80 (éphémère)
 
 Nom: Pierre ponce
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Noscea - Noscea orientale - Ravine des Cueillepluies: 50 (temporaire)
+Points de récolte: Noscea - Noscea orientale - Ravine des Cueillepluies: 50 (intact)
 
 Nom: Pigment arc-en-ciel
 Classe: Botaniste
@@ -3888,7 +3888,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Tissu
-Points de récolte: Noscea - Noscea occidentale - Quartpierre: 50 (temporaire)
+Points de récolte: Noscea - Noscea occidentale - Quartpierre: 50 (intact)
 
 Nom: Plume de tetrax
 Classe: Botaniste
@@ -3923,7 +3923,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Ingrédient
-Points de récolte: Noscea - Noscea occidentale - Quartpierre: 50 (temporaire)
+Points de récolte: Noscea - Noscea occidentale - Quartpierre: 50 (intact)
 
 Nom: Pois de jade
 Classe: Botaniste
@@ -3979,7 +3979,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 71
 Catégorie: Divers
-Points de récolte: Norvrandt - Il Mheg - Route de la laine: 75 (temporaire)
+Points de récolte: Norvrandt - Il Mheg - Route de la laine: 75 (intact)
 
 Nom: Popoto
 Classe: Botaniste
@@ -3993,7 +3993,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 76
 Catégorie: Ingrédient
-Points de récolte: Norvrandt - Amh Araeng - La Queuequeue: 80 (temporaire)
+Points de récolte: Norvrandt - Amh Araeng - La Queuequeue: 80 (intact)
 
 Nom: Popoto des montagnes
 Classe: Botaniste
@@ -4042,7 +4042,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 63
 Catégorie: Ingrédient
-Points de récolte: Othard - Yanxia - Bassin rutilant: 65 (temporaire)
+Points de récolte: Othard - Yanxia - Bassin rutilant: 65 (intact)
 
 Nom: Pousse noscéenne
 Classe: Botaniste
@@ -4070,21 +4070,21 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Thanalan - Thanalan septentrional - Brumebleue: 50 (temporaire)
+Points de récolte: Thanalan - Thanalan septentrional - Brumebleue: 50 (intact)
 
 Nom: Princesse-du-thé
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 66
 Catégorie: Réactif
-Points de récolte: Othard - Yanxia - Bassin rutilant: 70 (temporaire)
+Points de récolte: Othard - Yanxia - Bassin rutilant: 70 (éphémère)
 
 Nom: Prune d'Othard
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 70
 Catégorie: Ingrédient
-Points de récolte: Othard - Steppe d'Azim - Onsal Hakair: 70 (temporaire)
+Points de récolte: Othard - Steppe d'Azim - Onsal Hakair: 70 (intact)
 
 Nom: Prunes sylphes
 Classe: Botaniste
@@ -4098,7 +4098,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Thanalan - Thanalan central - Roncenoire: 50 (temporaire)
+Points de récolte: Thanalan - Thanalan central - Roncenoire: 50 (intact)
 
 Nom: Péridot brut
 Classe: Mineur
@@ -4112,56 +4112,56 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 78
 Catégorie: Pierre
-Points de récolte: Norvrandt - Grand-Lac - Ivraie: 80 (temporaire)
+Points de récolte: Norvrandt - Grand-Lac - Ivraie: 80 (intact)
 
 Nom: Pétalite brute collectionnable
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 75
 Catégorie: Divers
-Points de récolte: Norvrandt - Grand-Lac - Le Ceinturon: 75 (temporaire)
+Points de récolte: Norvrandt - Grand-Lac - Le Ceinturon: 75 (intact)
 
 Nom: Quartz bleu
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 60
 Catégorie: Pierre
-Points de récolte: Dravania - Arrière-pays dravanien - Quartier académique: 60 (temporaire)
+Points de récolte: Dravania - Arrière-pays dravanien - Quartier académique: 60 (intact)
 
 Nom: Quartz de l'ombre
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 80
 Catégorie: Pierre
-Points de récolte: Norvrandt - Kholusia - Komra: 80 (temporaire)
+Points de récolte: Norvrandt - Kholusia - Komra: 80 (éphémère)
 
 Nom: Quartz jaune
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 52
 Catégorie: Pierre
-Points de récolte: Dravania - L'Écume des cieux de Dravania - Eil Tohm: 55 (temporaire)
+Points de récolte: Dravania - L'Écume des cieux de Dravania - Eil Tohm: 55 (intact)
 
 Nom: Quartz rouge
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 58
 Catégorie: Pierre
-Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Le Gantelet: 60 (temporaire)
+Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Le Gantelet: 60 (intact)
 
 Nom: Quartz vert
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 55
 Catégorie: Pierre
-Points de récolte: Dravania - L'Écume des cieux de Dravania - Eil Tohm: 55 (temporaire)
+Points de récolte: Dravania - L'Écume des cieux de Dravania - Eil Tohm: 55 (intact)
 
 Nom: Quartz violet
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 60
 Catégorie: Pierre
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 60 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Deux-Rivières: 60 (intact)
 
 Nom: Quartzite
 Classe: Mineur
@@ -4217,21 +4217,21 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 66
 Catégorie: Ingrédient
-Points de récolte: Othard - Yanxia - Vallée aux Prismes: 70 (temporaire)
+Points de récolte: Othard - Yanxia - Vallée aux Prismes: 70 (intact)
 
 Nom: Rhodolite
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 70
 Catégorie: Pierre
-Points de récolte: Gyr Abania - Les Lacs - Hautes berges: 70 (temporaire)
+Points de récolte: Gyr Abania - Les Lacs - Hautes berges: 70 (éphémère)
 
 Nom: Rhodonite brute
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 70
 Catégorie: Pierre
-Points de récolte: Gyr Abania - Les Pics - Rocrouillé: 70 (temporaire)
+Points de récolte: Gyr Abania - Les Pics - Rocrouillé: 70 (intact)
 
 Nom: Riz bomba
 Classe: Botaniste
@@ -4259,14 +4259,14 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Thanalan - Thanalan oriental - Bois du Renouveau: 50 (temporaire)
+Points de récolte: Thanalan - Thanalan oriental - Bois du Renouveau: 50 (intact)
 
 Nom: Roche astrale
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Coerthas - Hautes terres du Coerthas central - Tête du dragon: 50 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas central - Tête du dragon: 50 (intact)
 
 Nom: Roche des flammes évanescentes de restauration (2e phase)
 Classe: Mineur
@@ -4280,7 +4280,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Forêt de Sombrelinceul - Forêt du sud - Bas-Chemins: 50 (temporaire)
+Points de récolte: Forêt de Sombrelinceul - Forêt du sud - Bas-Chemins: 50 (intact)
 
 Nom: Rolanbaie
 Classe: Botaniste
@@ -4294,7 +4294,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Réactif
-Points de récolte: Forêt de Sombrelinceul - Forêt de l'est - Neuf-Lierres: 50 (temporaire)
+Points de récolte: Forêt de Sombrelinceul - Forêt de l'est - Neuf-Lierres: 50 (intact)
 
 Nom: Rondin d'acajou
 Classe: Botaniste
@@ -4322,7 +4322,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 80
 Catégorie: Bois
-Points de récolte: Norvrandt - Il Mheg - Bergerie d'Anden: 80 (temporaire)
+Points de récolte: Norvrandt - Il Mheg - Bergerie d'Anden: 80 (intact)
 
 Nom: Rondin d'orme
 Classe: Botaniste
@@ -4336,28 +4336,28 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 70
 Catégorie: Bois
-Points de récolte: Gyr Abania - Les Pics - Rocrouillé: 70 (temporaire)
+Points de récolte: Gyr Abania - Les Pics - Rocrouillé: 70 (intact)
 
 Nom: Rondin d'urunday collectionnable
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 80
 Catégorie: Divers
-Points de récolte: Gyr Abania - Les Pics - Chutes de Bruyères: 80 (temporaire)
+Points de récolte: Gyr Abania - Les Pics - Chutes de Bruyères: 80 (intact)
 
 Nom: Rondin d'ébène
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Bois
-Points de récolte: Noscea - Noscea centrale - Dérive du Zéphyr: 50 (temporaire)
+Points de récolte: Noscea - Noscea centrale - Dérive du Zéphyr: 50 (intact)
 
 Nom: Rondin d'épicéa
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Bois
-Points de récolte: Coerthas - Hautes terres du Coerthas central - Providence: 50 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas central - Providence: 50 (intact)
 
 Nom: Rondin d'épicéa remarquable de restauration (4e phase)
 Classe: Botaniste
@@ -4441,7 +4441,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 53
 Catégorie: Divers
-Points de récolte: Dravania - Avant-pays dravanien - Terres fumantes: 55 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Terres fumantes: 55 (intact)
 
 Nom: Rondin de châtaignier sombre d'affinage
 Classe: Botaniste
@@ -4469,14 +4469,14 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 73
 Catégorie: Divers
-Points de récolte: Norvrandt - Kholusia - Arche ciselée: 75 (temporaire)
+Points de récolte: Norvrandt - Kholusia - Arche ciselée: 75 (intact)
 
 Nom: Rondin de cyprès
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Bois
-Points de récolte: Forêt de Sombrelinceul - Forêt centrale - Brancharquée: 50 (temporaire)
+Points de récolte: Forêt de Sombrelinceul - Forêt centrale - Brancharquée: 50 (intact)
 
 Nom: Rondin de cèdre
 Classe: Botaniste
@@ -4525,14 +4525,14 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 80
 Catégorie: Bois
-Points de récolte: Norvrandt - Amh Araeng - Garik: 80 (temporaire)
+Points de récolte: Norvrandt - Amh Araeng - Garik: 80 (intact)
 
 Nom: Rondin de kaya
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 70
 Catégorie: Bois
-Points de récolte: Gyr Abania - Les Lacs - Hautes berges: 70 (temporaire)
+Points de récolte: Gyr Abania - Les Lacs - Hautes berges: 70 (intact)
 
 Nom: Rondin de mélèze
 Classe: Botaniste
@@ -4546,7 +4546,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 61
 Catégorie: Divers
-Points de récolte: Othard - Mer de Rubis - Isari: 65 (temporaire)
+Points de récolte: Othard - Mer de Rubis - Isari: 65 (intact)
 
 Nom: Rondin de noyer
 Classe: Botaniste
@@ -4574,7 +4574,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 69
 Catégorie: Divers
-Points de récolte: Othard - Yanxia - Doma: 70 (temporaire)
+Points de récolte: Othard - Yanxia - Doma: 70 (intact)
 
 Nom: Rondin de plaqueminier
 Classe: Botaniste
@@ -4595,28 +4595,28 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 75
 Catégorie: Divers
-Points de récolte: Norvrandt - Il Mheg - Route de la laine: 75 (temporaire)
+Points de récolte: Norvrandt - Il Mheg - Route de la laine: 75 (intact)
 
 Nom: Rondin de santal blanc
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 80
 Catégorie: Bois
-Points de récolte: Norvrandt - Rak'tika - La Nostalgie de Mjrl: 80 (temporaire)
+Points de récolte: Norvrandt - Rak'tika - La Nostalgie de Mjrl: 80 (intact)
 
 Nom: Rondin de saule noir
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 70
 Catégorie: Bois
-Points de récolte: Gyr Abania - Les Marges - Chutes de la Pique: 70 (temporaire)
+Points de récolte: Gyr Abania - Les Marges - Chutes de la Pique: 70 (intact)
 
 Nom: Rondin de teck
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 60
 Catégorie: Bois
-Points de récolte: Dravania - Arrière-pays dravanien - Quartier académique: 60 (temporaire)
+Points de récolte: Dravania - Arrière-pays dravanien - Quartier académique: 60 (intact)
 
 Nom: Rondin de teck des sables
 Classe: Botaniste
@@ -4630,7 +4630,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 77
 Catégorie: Divers
-Points de récolte: Norvrandt - Amh Araeng - Collines d'Ambre du Centre: 80 (temporaire)
+Points de récolte: Norvrandt - Amh Araeng - Collines d'Ambre du Centre: 80 (intact)
 
 Nom: Rondin de zelkova
 Classe: Botaniste
@@ -4644,14 +4644,14 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Bois
-Points de récolte: Forêt de Sombrelinceul - Forêt centrale - Larmeverte: 50 (temporaire)
+Points de récolte: Forêt de Sombrelinceul - Forêt centrale - Larmeverte: 50 (intact)
 
 Nom: Rondin odorant
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Bois
-Points de récolte: Forêt de Sombrelinceul - Forêt du sud - Hauts-Chemins: 50 (temporaire)
+Points de récolte: Forêt de Sombrelinceul - Forêt du sud - Hauts-Chemins: 50 (intact)
 
 Nom: Rouge de Norvrandt
 Classe: Botaniste
@@ -4672,7 +4672,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Noscea - Basse-Noscea - Baie de Moraby: 50 (temporaire)
+Points de récolte: Noscea - Basse-Noscea - Baie de Moraby: 50 (intact)
 
 Nom: Rubis étoilé brut
 Classe: Mineur
@@ -4721,7 +4721,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 59
 Catégorie: Divers
-Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (intact)
 
 Nom: Résine de pin
 Classe: Botaniste
@@ -4735,7 +4735,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 67
 Catégorie: Divers
-Points de récolte: Othard - Yanxia - Doma: 70 (temporaire)
+Points de récolte: Othard - Yanxia - Doma: 70 (intact)
 
 Nom: Sable d'argent
 Classe: Mineur
@@ -4756,14 +4756,14 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 59
 Catégorie: Divers
-Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - La Fenêtre bleue: 60 (temporaire)
+Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - La Fenêtre bleue: 60 (intact)
 
 Nom: Sable d'or
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Thanalan - Thanalan oriental - Bois du Renouveau: 50 (temporaire)
+Points de récolte: Thanalan - Thanalan oriental - Bois du Renouveau: 50 (intact)
 
 Nom: Sable d'or franc
 Classe: Mineur
@@ -4987,7 +4987,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Noscea - Basse-Noscea - Baie de Moraby: 50 (temporaire)
+Points de récolte: Noscea - Basse-Noscea - Baie de Moraby: 50 (intact)
 
 Nom: Saphir étoilé brut
 Classe: Mineur
@@ -5036,35 +5036,35 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 60
 Catégorie: Ingrédient
-Points de récolte: Dravania - Avant-pays dravanien - Forêt des chocobos: 60 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Forêt des chocobos: 60 (intact)
 
 Nom: Sauge officinale
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 80
 Catégorie: Réactif
-Points de récolte: Norvrandt - Grand-Lac - Dents-de-pierre: 80 (temporaire)
+Points de récolte: Norvrandt - Grand-Lac - Dents-de-pierre: 80 (éphémère)
 
 Nom: Sauge sclarée
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 60
 Catégorie: Ingrédient
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (temporaire), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (éphémère)
 
 Nom: Sauge verveine
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 60
 Catégorie: Ingrédient
-Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (temporaire), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (temporaire)
+Points de récolte: Coerthas - Hautes terres du Coerthas occidental - Rougebord: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Vundu Mok: 60 (éphémère)
 
 Nom: Schörl
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 66
 Catégorie: Pierre
-Points de récolte: Othard - Steppe d'Azim - Calcul de Ragill: 70 (temporaire)
+Points de récolte: Othard - Steppe d'Azim - Calcul de Ragill: 70 (éphémère)
 
 Nom: Schörl d'affinage
 Classe: Mineur
@@ -5099,14 +5099,14 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 69
 Catégorie: Réactif
-Points de récolte: Gyr Abania - Les Lacs - Lac Seld: 70 (temporaire)
+Points de récolte: Gyr Abania - Les Lacs - Lac Seld: 70 (intact)
 
 Nom: Sel de mer collectionnable
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 77
 Catégorie: Divers
-Points de récolte: Norvrandt - La Tempête - Marge continentale de Norvrandt: 80 (temporaire)
+Points de récolte: Norvrandt - La Tempête - Marge continentale de Norvrandt: 80 (intact)
 
 Nom: Sel gemme
 Classe: Mineur
@@ -5120,7 +5120,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 56
 Catégorie: Ingrédient
-Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Le Gantelet: 60 (temporaire)
+Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Le Gantelet: 60 (intact)
 
 Nom: Sel gemme extraordinaire de restauration (4e phase)
 Classe: Mineur
@@ -5134,7 +5134,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 50
 Catégorie: Réactif
-Points de récolte: Noscea - Noscea orientale - Ravine des Cueillepluies: 50 (temporaire)
+Points de récolte: Noscea - Noscea orientale - Ravine des Cueillepluies: 50 (intact)
 
 Nom: Sel gemme supérieur de restauration (4e phase)
 Classe: Mineur
@@ -5162,7 +5162,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 63
 Catégorie: Divers
-Points de récolte: Othard - Mer de Rubis - Okinoiwa: 65 (temporaire)
+Points de récolte: Othard - Mer de Rubis - Okinoiwa: 65 (intact)
 
 Nom: Silice
 Classe: Mineur
@@ -5218,14 +5218,14 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 63
 Catégorie: Pierre
-Points de récolte: Othard - Mer de Rubis - Côte orientale d'Othard: 65 (temporaire)
+Points de récolte: Othard - Mer de Rubis - Côte orientale d'Othard: 65 (intact)
 
 Nom: Spinelle étoilé brut collectionnable
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 63
 Catégorie: Divers
-Points de récolte: Othard - Mer de Rubis - Marmite à crabes: 65 (temporaire)
+Points de récolte: Othard - Mer de Rubis - Marmite à crabes: 65 (intact)
 
 Nom: Spécialités de Kholusia
 Classe: Botaniste
@@ -5267,7 +5267,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 60
 Catégorie: Réactif
-Points de récolte: Dravania - L'Écume des cieux de Dravania - Ohl Tahn: 60 (temporaire)
+Points de récolte: Dravania - L'Écume des cieux de Dravania - Ohl Tahn: 60 (intact)
 
 Nom: Sève d'érable
 Classe: Botaniste
@@ -5281,7 +5281,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 80
 Catégorie: Réactif
-Points de récolte: Norvrandt - Rak'tika - La Nostalgie de Mjrl: 80 (temporaire)
+Points de récolte: Norvrandt - Rak'tika - La Nostalgie de Mjrl: 80 (intact)
 
 Nom: Sève de bouleau
 Classe: Botaniste
@@ -5295,14 +5295,14 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 51
 Catégorie: Divers
-Points de récolte: Dravania - Avant-pays dravanien - Terres fumantes: 55 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Terres fumantes: 55 (intact)
 
 Nom: Sève de mélèze collectionnable
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 65
 Catégorie: Divers
-Points de récolte: Othard - Mer de Rubis - Isari: 65 (temporaire)
+Points de récolte: Othard - Mer de Rubis - Isari: 65 (intact)
 
 Nom: Sève des vents évanescents de restauration (3e phase)
 Classe: Botaniste
@@ -5316,7 +5316,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 70
 Catégorie: Réactif
-Points de récolte: Gyr Abania - Les Marges - Chutes de la Pique: 70 (temporaire)
+Points de récolte: Gyr Abania - Les Marges - Chutes de la Pique: 70 (intact)
 
 Nom: Sève sur commande de restauration (2e phase)
 Classe: Botaniste
@@ -5330,7 +5330,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Réactif
-Points de récolte: Forêt de Sombrelinceul - Forêt du nord - Sources de l'Aulne: 50 (temporaire)
+Points de récolte: Forêt de Sombrelinceul - Forêt du nord - Sources de l'Aulne: 50 (intact)
 
 Nom: Sésame
 Classe: Botaniste
@@ -5386,21 +5386,21 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 76
 Catégorie: Pierre
-Points de récolte: Norvrandt - Kholusia - Tomra: 80 (temporaire)
+Points de récolte: Norvrandt - Kholusia - Tomra: 80 (éphémère)
 
 Nom: Terreau de Yanxia
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 70
 Catégorie: Pierre
-Points de récolte: Gyr Abania - Les Lacs - Hautes berges: 70 (temporaire), Othard - Steppe d'Azim - Calcul de Ragill: 70 (temporaire)
+Points de récolte: Gyr Abania - Les Lacs - Hautes berges: 70 (éphémère), Othard - Steppe d'Azim - Calcul de Ragill: 70 (éphémère)
 
 Nom: Terreau de Yanxia
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 70
 Catégorie: Pierre
-Points de récolte: Othard - Yanxia - Vallée aux Prismes: 70 (temporaire)
+Points de récolte: Othard - Yanxia - Vallée aux Prismes: 70 (éphémère)
 
 Nom: Terreau de feuilles
 Classe: Botaniste
@@ -5414,7 +5414,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 60
 Catégorie: Réactif
-Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (temporaire), Dravania - Arrière-pays dravanien - Arboretum Sainte-Mocianne: 60 (temporaire), Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (éphémère), Dravania - Arrière-pays dravanien - Arboretum Sainte-Mocianne: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (éphémère)
 
 Nom: Terreau noscéen I
 Classe: Mineur
@@ -5435,7 +5435,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 50
 Catégorie: Jardinage
-Points de récolte: Noscea - Noscea centrale - Dérive du Zéphyr: 50 (temporaire)
+Points de récolte: Noscea - Noscea centrale - Dérive du Zéphyr: 50 (intact)
 
 Nom: Terreau sombrelinçois I
 Classe: Mineur
@@ -5456,7 +5456,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 50
 Catégorie: Jardinage
-Points de récolte: Forêt de Sombrelinceul - Forêt du sud - Bas-Chemins: 50 (temporaire)
+Points de récolte: Forêt de Sombrelinceul - Forêt du sud - Bas-Chemins: 50 (intact)
 
 Nom: Terreau thanalanais I
 Classe: Mineur
@@ -5477,7 +5477,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 50
 Catégorie: Jardinage
-Points de récolte: Thanalan - Thanalan occidental - Martelterre: 50 (temporaire)
+Points de récolte: Thanalan - Thanalan occidental - Martelterre: 50 (intact)
 
 Nom: Thym
 Classe: Botaniste
@@ -5491,7 +5491,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 50
 Catégorie: Bois
-Points de récolte: Noscea - Haute-Noscea - Lac d'Airain: 50 (temporaire)
+Points de récolte: Noscea - Haute-Noscea - Lac d'Airain: 50 (intact)
 
 Nom: Tige de prêle d'hiver sur commande de restauration (4e phase)
 Classe: Botaniste
@@ -5512,7 +5512,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Ingrédient
-Points de récolte: Noscea - Noscea orientale - Ravine des Cueillepluies: 50 (temporaire)
+Points de récolte: Noscea - Noscea orientale - Ravine des Cueillepluies: 50 (intact)
 
 Nom: Tomate rubis
 Classe: Botaniste
@@ -5533,7 +5533,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Thanalan - Thanalan septentrional - Poussée de Raubahn: 50 (temporaire)
+Points de récolte: Thanalan - Thanalan septentrional - Poussée de Raubahn: 50 (intact)
 
 Nom: Tortue terrestre extraordinaire de restauration (4e phase)
 Classe: Botaniste
@@ -5547,7 +5547,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 58
 Catégorie: Réactif
-Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (temporaire), Dravania - Arrière-pays dravanien - Arboretum Sainte-Mocianne: 60 (temporaire), Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (temporaire)
+Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (éphémère), Dravania - Arrière-pays dravanien - Arboretum Sainte-Mocianne: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (éphémère)
 
 Nom: Tourmaline brute
 Classe: Mineur
@@ -5589,28 +5589,28 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Réactif
-Points de récolte: Forêt de Sombrelinceul - Forêt de l'est - Massif de ronces: 50 (temporaire)
+Points de récolte: Forêt de Sombrelinceul - Forêt de l'est - Massif de ronces: 50 (intact)
 
 Nom: Triphane brute
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 60
 Catégorie: Pierre
-Points de récolte: Gyr Abania - Les Marges - Roches rayées: 60 (temporaire)
+Points de récolte: Gyr Abania - Les Marges - Roches rayées: 60 (intact)
 
 Nom: Triphane brute collectionnable
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 61
 Catégorie: Divers
-Points de récolte: Gyr Abania - Les Marges - Ruisseau aux Mirages: 65 (temporaire)
+Points de récolte: Gyr Abania - Les Marges - Ruisseau aux Mirages: 65 (intact)
 
 Nom: Triphylite brute
 Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 76
 Catégorie: Pierre
-Points de récolte: Norvrandt - Amh Araeng - La Louche: 80 (temporaire)
+Points de récolte: Norvrandt - Amh Araeng - La Louche: 80 (intact)
 
 Nom: Truffe blanche
 Classe: Botaniste
@@ -5624,7 +5624,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 50
 Catégorie: Ingrédient
-Points de récolte: Thanalan - Thanalan oriental - Les Os desséchés: 50 (temporaire)
+Points de récolte: Thanalan - Thanalan oriental - Les Os desséchés: 50 (intact)
 
 Nom: Tubercule de popoto
 Classe: Botaniste
@@ -5659,21 +5659,21 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Divers
-Points de récolte: Noscea - Basse-Noscea - Baie de Moraby: 50 (temporaire), Thanalan - Thanalan central - Roncenoire: 50 (temporaire), Thanalan - Thanalan oriental - Mur incandescent: 50 (temporaire), Thanalan - Thanalan méridional - Eaux-Mortes: 50 (temporaire), Thanalan - Thanalan septentrional - Brumebleue: 50 (temporaire), Thanalan - Thanalan septentrional - Poussée de Raubahn: 50 (temporaire), Coerthas - Hautes terres du Coerthas central - Tête du dragon: 50 (temporaire)
+Points de récolte: Noscea - Basse-Noscea - Baie de Moraby: 50 (intact), Thanalan - Thanalan central - Roncenoire: 50 (intact), Thanalan - Thanalan oriental - Mur incandescent: 50 (intact), Thanalan - Thanalan méridional - Eaux-Mortes: 50 (intact), Thanalan - Thanalan septentrional - Brumebleue: 50 (intact), Thanalan - Thanalan septentrional - Poussée de Raubahn: 50 (intact), Coerthas - Hautes terres du Coerthas central - Tête du dragon: 50 (intact)
 
 Nom: Verveine de Yanxia
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 70
 Catégorie: Ingrédient
-Points de récolte: Gyr Abania - Les Lacs - Jardins de la Reine: 70 (temporaire)
+Points de récolte: Gyr Abania - Les Lacs - Jardins de la Reine: 70 (éphémère)
 
 Nom: Verveine de Yanxia
 Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 70
 Catégorie: Ingrédient
-Points de récolte: Othard - Yanxia - Bassin rutilant: 70 (temporaire), Othard - Steppe d'Azim - Retraite de Nhaama: 70 (temporaire)
+Points de récolte: Othard - Yanxia - Bassin rutilant: 70 (éphémère), Othard - Steppe d'Azim - Retraite de Nhaama: 70 (éphémère)
 
 Nom: Veuve des vents
 Classe: Botaniste
@@ -5687,7 +5687,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 60
 Catégorie: Bois
-Points de récolte: Dravania - L'Écume des cieux de Dravania - Ohl Tahn: 60 (temporaire)
+Points de récolte: Dravania - L'Écume des cieux de Dravania - Ohl Tahn: 60 (intact)
 
 Nom: Vipère des prés
 Classe: Botaniste
@@ -5869,7 +5869,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 80
 Catégorie: Pierre
-Points de récolte: Norvrandt - La Tempête - Grotte purpurine: 80 (temporaire)
+Points de récolte: Norvrandt - La Tempête - Grotte purpurine: 80 (intact)
 
 Nom: Éclat de terre
 Classe: Botaniste
@@ -5932,14 +5932,14 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 60
 Catégorie: Bois
-Points de récolte: Abalathia - Azys Lla - Quadrant bêta: 60 (temporaire)
+Points de récolte: Abalathia - Azys Lla - Quadrant bêta: 60 (intact)
 
 Nom: Écorce d'acacia durcie
 Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 80
 Catégorie: Bois
-Points de récolte: Norvrandt - Grand-Lac - Suppliciante: 80 (temporaire)
+Points de récolte: Norvrandt - Grand-Lac - Suppliciante: 80 (intact)
 
 Nom: Élément nécessaire à une fermentation
 Classe: Botaniste
@@ -5974,7 +5974,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 50
 Catégorie: Pierre
-Points de récolte: Thanalan - Thanalan central - Roncenoire: 50 (temporaire)
+Points de récolte: Thanalan - Thanalan central - Roncenoire: 50 (intact)
 
 Nom: Épices de la Steppe d'Azim
 Classe: Botaniste
@@ -6016,7 +6016,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 70
 Catégorie: Pierre
-Points de récolte: Othard - Mer de Rubis - Côte orientale d'Othard: 70 (temporaire)
+Points de récolte: Othard - Mer de Rubis - Côte orientale d'Othard: 70 (intact)
 
 Nom: Œil-de-tigre brut
 Classe: Mineur

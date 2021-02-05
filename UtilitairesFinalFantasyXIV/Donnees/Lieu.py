@@ -28,11 +28,14 @@ class Lieu(SousElement):
 
     def texteUtilisateur(self):
 
-        def _temporaire(intact, ephemere):
-            return str(" (temporaire)") if intact or ephemere else str()
+        def _intact(intact):
+            return str(" (intact)") if intact else str()
 
-        return str("%s - %s - %s: %s%s" % (self.region, self.zone, self.nom, self.niveau,
-                                           _temporaire(self.intact, self.ephemere)))
+        def _ephemere(ephemere):
+            return str(" (éphémère)") if ephemere else str()
+
+        return str("%s - %s - %s: %s%s%s" % (self.region, self.zone, self.nom, self.niveau,
+                                             _intact(self.intact), _ephemere(self.ephemere)))
 
     @staticmethod
     def creer(texte):
