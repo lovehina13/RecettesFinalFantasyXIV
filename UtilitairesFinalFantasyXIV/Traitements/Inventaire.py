@@ -10,8 +10,8 @@
 import math
 from UtilitairesFinalFantasyXIV.Collections.Recette import CollectionRecettes
 from UtilitairesFinalFantasyXIV.Collections.Recolte import CollectionRecoltes
-from UtilitairesFinalFantasyXIV.Donnees.Lieu import Lieu
 from UtilitairesFinalFantasyXIV.Donnees.Objet import Objet, Objets
+from UtilitairesFinalFantasyXIV.Donnees.Recolte import Recolte
 from UtilitairesFinalFantasyXIV.Structure.Filtre import Filtres
 from UtilitairesFinalFantasyXIV.Structure.Traitement import Traitement
 
@@ -73,14 +73,11 @@ class TraitementGestionInventaire(TraitementCollectionInventaire):
                         objets.recuperer(nomCristal).quantite += cristal.quantite * quantiteRecette
             return objets
 
-        def _recupererLieu(objet, collectionRecoltes):
-            if objet.nom in collectionRecoltes.elements:
-                for lieu in collectionRecoltes.recuperer(objet.nom).pointsRecolte.lister():
-                    return lieu
-            return None
+        def _recupererRecolte(objet, collectionRecoltes):
+            return collectionRecoltes.recuperer(objet.nom) if objet.nom in collectionRecoltes.elements else None
 
-        def _lieu(lieu):
-            return str("%s" % lieu.texteUtilisateur() if isinstance(lieu, Lieu) else "???")
+        def _recolte(recolte):
+            return str("%s: %s" % (recolte.classe, recolte.pointsRecolte.lister()[0].texteUtilisateur()) if isinstance(recolte, Recolte) else "???")
 
         super().executer()
         texte = list()
@@ -88,8 +85,8 @@ class TraitementGestionInventaire(TraitementCollectionInventaire):
         collectionRecettes = self.collectionRecettes.unicite()
         collectionRecoltes = self.collectionRecoltes.unicite()
         objets = _recupererObjets(recettes, collectionRecettes)
-        lieux = {objet.nom: _recupererLieu(objet, collectionRecoltes) for objet in objets.lister()}
+        recoltes = {objet.nom: _recupererRecolte(objet, collectionRecoltes) for objet in objets.lister()}
         for objet in sorted(objets.lister(), key=lambda item: item.nom):
-            texte.append(str("%s: %d (%s)" % (objet.nom, objet.quantite, _lieu(lieux[objet.nom]))))
+            texte.append(str("%s: %d (%s)" % (objet.nom, objet.quantite, _recolte(recoltes[objet.nom]))))
         self.afficher("\n".join(texte))
         open(self.fichierOut, "w", encoding="utf-8").write("\n".join(texte) + "\n")
