@@ -313,6 +313,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 468
 Degré: 2
 
+Nom: Agonia amélioré
+Classe: Orfèvre
+Niveau: 80
+Livre: Orfèvrerie experte VII
+Catégorie: Arme de mage rouge
+Matériaux: 4 Barre iridescente, 1 Madrier de santal blanc, 1 Onyx, 1 Éclat de cristal d'Hadès, 8 Demi-matéria de l'artisan
+Cristaux: 7 Cristal de vent, 7 Cristal de feu
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2140
+Degré: 3
+
 Nom: Ahriman en peluche
 Classe: Couturier
 Niveau: 40
@@ -837,6 +852,21 @@ Qualité maximum: 6255
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 1320 ou plus, Contrôle requis : 1220 ou plus, Haute qualité impossible
 Degré: 3
+
+Nom: Aischune améliorée
+Classe: Forgeron
+Niveau: 80
+Livre: Métallurgie experte VII
+Catégorie: Arme de samouraï
+Matériaux: 4 Lingot d'acier au tungstène, 1 Étoffe mousseuse, 1 Lingot de mithril noble, 1 Éclat de cristal d'Hadès, 8 Demi-matéria de l'artisan
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2140
+Degré: 2
 
 Nom: Alambic
 Classe: Armurier
@@ -3010,7 +3040,7 @@ Difficulté: 1106
 Solidité: 70
 Qualité maximum: 8298
 Qualité: 50 max.
-Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
+Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 2
 
 Nom: Arc du Fiélon
@@ -3386,6 +3416,21 @@ Solidité: 80
 Qualité maximum: 1731
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 150
+Degré: 3
+
+Nom: Arc-luth de Byakko flamboyant
+Classe: Menuisier
+Niveau: 70
+Livre: Menuiserie experte VI
+Catégorie: Arme d'archer
+Matériaux: 3 Madrier de kaya, 2 Lingot de chromite, 2 Lingot de molybdène, 1 Crinière du Tigre blanc, 5 Demi-cristal
+Cristaux: 7 Cristal de vent, 7 Cristal de glace
+Total fabriqué: 1
+Difficulté: 2657
+Solidité: 70
+Qualité maximum: 12511
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
 Degré: 3
 
 Nom: Arche des séismes
@@ -4766,6 +4811,246 @@ Solidité: 35
 Qualité maximum: 11736
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1079, Haute qualité impossible, Gain d'expérience impossible
+Degré: 1
+
+Nom: Articles de goûter dînatoire
+Classe: Alchimiste
+Niveau: 75
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour articles de goûter dinatoire
+Cristaux: 4 Cristal d'eau, 2 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3467
+Solidité: 60
+Qualité maximum: 11921
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1539, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Articles de goûter dînatoire
+Classe: Armurier
+Niveau: 75
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour articles de goûter dinatoire
+Cristaux: 4 Cristal de glace, 2 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3467
+Solidité: 60
+Qualité maximum: 11921
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1539, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Articles de goûter dînatoire
+Classe: Couturier
+Niveau: 75
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour articles de goûter dinatoire
+Cristaux: 4 Cristal de foudre, 2 Cristal de vent
+Total fabriqué: 1
+Difficulté: 3467
+Solidité: 60
+Qualité maximum: 11921
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1539, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Articles de goûter dînatoire
+Classe: Cuisinier
+Niveau: 75
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour articles de goûter dinatoire
+Cristaux: 4 Cristal de feu, 2 Cristal d'eau
+Total fabriqué: 1
+Difficulté: 3467
+Solidité: 60
+Qualité maximum: 11921
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1539, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Articles de goûter dînatoire
+Classe: Forgeron
+Niveau: 75
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour articles de goûter dinatoire
+Cristaux: 4 Cristal de feu, 2 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3467
+Solidité: 60
+Qualité maximum: 11921
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1539, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Articles de goûter dînatoire
+Classe: Menuisier
+Niveau: 75
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour articles de goûter dinatoire
+Cristaux: 4 Cristal de vent, 2 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3467
+Solidité: 60
+Qualité maximum: 11921
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1539, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Articles de goûter dînatoire
+Classe: Orfèvre
+Niveau: 75
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour articles de goûter dinatoire
+Cristaux: 4 Cristal de vent, 2 Cristal de feu
+Total fabriqué: 1
+Difficulté: 3467
+Solidité: 60
+Qualité maximum: 11921
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1539, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Articles de goûter dînatoire
+Classe: Tanneur
+Niveau: 75
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour articles de goûter dinatoire
+Cristaux: 4 Cristal de terre, 2 Cristal de vent
+Total fabriqué: 1
+Difficulté: 3467
+Solidité: 60
+Qualité maximum: 11921
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1539, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Articles du quotidien
+Classe: Alchimiste
+Niveau: 71
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour articles du quotidien
+Cristaux: 4 Cristal d'eau, 2 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3149
+Solidité: 60
+Qualité maximum: 10468
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1320, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Articles du quotidien
+Classe: Armurier
+Niveau: 71
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour articles du quotidien
+Cristaux: 4 Cristal de glace, 2 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3149
+Solidité: 60
+Qualité maximum: 10468
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1320, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Articles du quotidien
+Classe: Couturier
+Niveau: 71
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour articles du quotidien
+Cristaux: 4 Cristal de foudre, 2 Cristal de vent
+Total fabriqué: 1
+Difficulté: 3149
+Solidité: 60
+Qualité maximum: 10468
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1320, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Articles du quotidien
+Classe: Cuisinier
+Niveau: 71
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour articles du quotidien
+Cristaux: 4 Cristal de feu, 2 Cristal d'eau
+Total fabriqué: 1
+Difficulté: 3149
+Solidité: 60
+Qualité maximum: 10468
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1320, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Articles du quotidien
+Classe: Forgeron
+Niveau: 71
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour articles du quotidien
+Cristaux: 4 Cristal de feu, 2 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3149
+Solidité: 60
+Qualité maximum: 10468
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1320, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Articles du quotidien
+Classe: Menuisier
+Niveau: 71
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour articles du quotidien
+Cristaux: 4 Cristal de vent, 2 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3149
+Solidité: 60
+Qualité maximum: 10468
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1320, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Articles du quotidien
+Classe: Orfèvre
+Niveau: 71
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour articles du quotidien
+Cristaux: 4 Cristal de vent, 2 Cristal de feu
+Total fabriqué: 1
+Difficulté: 3149
+Solidité: 60
+Qualité maximum: 10468
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1320, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Articles du quotidien
+Classe: Tanneur
+Niveau: 71
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour articles du quotidien
+Cristaux: 4 Cristal de terre, 2 Cristal de vent
+Total fabriqué: 1
+Difficulté: 3149
+Solidité: 60
+Qualité maximum: 10468
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1320, Synthèse collectionnable uniquement
 Degré: 1
 
 Nom: Assiette-repas sur commande de restauration (3e phase)
@@ -9763,6 +10048,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 78
 Degré: 4
 
+Nom: Barde Adamas
+Classe: Armurier
+Niveau: 80
+Livre: Armurerie experte VIII
+Catégorie: Autre
+Matériaux: 1 Morceau de blindage de l'Arme Diamant, 2 Lingot de duralium, 1 Barre solsticiale, 2 Étoffe de coton nain
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5543
+Solidité: 70
+Qualité maximum: 28331
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2620, Haute qualité impossible
+Degré: 3
+
 Nom: Barde Rubinus
 Classe: Armurier
 Niveau: 80
@@ -9790,7 +10090,7 @@ Difficulté: 5543
 Solidité: 70
 Qualité maximum: 28331
 Qualité: 50 max.
-Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2620, Haute qualité impossible
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2620, Haute qualité impossible
 Degré: 3
 
 Nom: Barde d'Hadès
@@ -16513,6 +16813,141 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 2480 ou plus, Contrôle requis : 2195 ou plus
 Degré: 2
 
+Nom: Boucle d'oreille orchidée papillon blanc
+Classe: Alchimiste
+Niveau: 73
+Livre: 
+Catégorie: Boucle d'oreille
+Matériaux: 1 Orchidées papillons blanches, 1 Graisse d'ours, 1 Eau de source des hauts plateaux
+Cristaux: 6 Cristal d'eau, 6 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3348
+Solidité: 80
+Qualité maximum: 14062
+Qualité: 50 max.
+Conditions: Habileté recommandée : 1457
+Degré: 1
+
+Nom: Boucle d'oreille orchidée papillon bleu
+Classe: Alchimiste
+Niveau: 73
+Livre: 
+Catégorie: Boucle d'oreille
+Matériaux: 1 Orchidées papillons bleues, 1 Graisse d'ours, 1 Eau de source des hauts plateaux
+Cristaux: 6 Cristal d'eau, 6 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3348
+Solidité: 80
+Qualité maximum: 14062
+Qualité: 50 max.
+Conditions: Habileté recommandée : 1457
+Degré: 1
+
+Nom: Boucle d'oreille orchidée papillon jaune
+Classe: Alchimiste
+Niveau: 73
+Livre: 
+Catégorie: Boucle d'oreille
+Matériaux: 1 Orchidées papillons jaunes, 1 Graisse d'ours, 1 Eau de source des hauts plateaux
+Cristaux: 6 Cristal d'eau, 6 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3348
+Solidité: 80
+Qualité maximum: 14062
+Qualité: 50 max.
+Conditions: Habileté recommandée : 1457
+Degré: 1
+
+Nom: Boucle d'oreille orchidée papillon multicolore
+Classe: Alchimiste
+Niveau: 73
+Livre: 
+Catégorie: Boucle d'oreille
+Matériaux: 1 Orchidées papillons multicolores, 1 Graisse d'ours, 1 Eau de source des hauts plateaux
+Cristaux: 6 Cristal d'eau, 6 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3348
+Solidité: 80
+Qualité maximum: 14062
+Qualité: 50 max.
+Conditions: Habileté recommandée : 1457
+Degré: 1
+
+Nom: Boucle d'oreille orchidée papillon noir
+Classe: Alchimiste
+Niveau: 73
+Livre: 
+Catégorie: Boucle d'oreille
+Matériaux: 1 Orchidées papillons noires, 1 Graisse d'ours, 1 Eau de source des hauts plateaux
+Cristaux: 6 Cristal d'eau, 6 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3348
+Solidité: 80
+Qualité maximum: 14062
+Qualité: 50 max.
+Conditions: Habileté recommandée : 1457
+Degré: 1
+
+Nom: Boucle d'oreille orchidée papillon orange
+Classe: Alchimiste
+Niveau: 73
+Livre: 
+Catégorie: Boucle d'oreille
+Matériaux: 1 Orchidées papillons orange, 1 Graisse d'ours, 1 Eau de source des hauts plateaux
+Cristaux: 6 Cristal d'eau, 6 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3348
+Solidité: 80
+Qualité maximum: 14062
+Qualité: 50 max.
+Conditions: Habileté recommandée : 1457
+Degré: 1
+
+Nom: Boucle d'oreille orchidée papillon rouge
+Classe: Alchimiste
+Niveau: 73
+Livre: 
+Catégorie: Boucle d'oreille
+Matériaux: 1 Orchidées papillons rouges, 1 Graisse d'ours, 1 Eau de source des hauts plateaux
+Cristaux: 6 Cristal d'eau, 6 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3348
+Solidité: 80
+Qualité maximum: 14062
+Qualité: 50 max.
+Conditions: Habileté recommandée : 1457
+Degré: 1
+
+Nom: Boucle d'oreille orchidée papillon vert
+Classe: Alchimiste
+Niveau: 73
+Livre: 
+Catégorie: Boucle d'oreille
+Matériaux: 1 Orchidées papillons vertes, 1 Graisse d'ours, 1 Eau de source des hauts plateaux
+Cristaux: 6 Cristal d'eau, 6 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3348
+Solidité: 80
+Qualité maximum: 14062
+Qualité: 50 max.
+Conditions: Habileté recommandée : 1457
+Degré: 1
+
+Nom: Boucle d'oreille orchidée papillon violet
+Classe: Alchimiste
+Niveau: 73
+Livre: 
+Catégorie: Boucle d'oreille
+Matériaux: 1 Orchidées papillons violettes, 1 Graisse d'ours, 1 Eau de source des hauts plateaux
+Cristaux: 6 Cristal d'eau, 6 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3348
+Solidité: 80
+Qualité maximum: 14062
+Qualité: 50 max.
+Conditions: Habileté recommandée : 1457
+Degré: 1
+
 Nom: Boucle d'oreille primordiale d'attaquant
 Classe: Orfèvre
 Niveau: 60
@@ -18868,6 +19303,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 67
 Degré: 3
 
+Nom: Bouclier de Byakko flamboyant
+Classe: Armurier
+Niveau: 70
+Livre: Armurerie experte VI
+Catégorie: Bouclier
+Matériaux: 2 Lingot de chromite, 1 Cuir de gazelle, 1 Crinière du Tigre blanc, 2 Demi-cristal
+Cristaux: 7 Cristal de glace, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 2657
+Solidité: 70
+Qualité maximum: 12511
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
+
 Nom: Bouclier de Dravanien
 Classe: Armurier
 Niveau: 60
@@ -18955,7 +19405,7 @@ Difficulté: 1106
 Solidité: 70
 Qualité maximum: 8298
 Qualité: 50 max.
-Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
+Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 2
 
 Nom: Bouclier du Fiélon
@@ -23533,6 +23983,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 136, Haute qualité impossible
 Degré: 2
 
+Nom: Buste Arme Diamant
+Classe: Armurier
+Niveau: 80
+Livre: Armurerie experte VIII
+Catégorie: Mobilier de table
+Matériaux: 1 Morceau de blindage de l'Arme Diamant, 2 Lingot de duralium, 1 Barre solsticiale, 2 Lingot de mithril noble
+Cristaux: 3 Agrégat de glace, 3 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 5543
+Solidité: 70
+Qualité maximum: 28331
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2620, Haute qualité impossible
+Degré: 2
+
 Nom: Buste Arme Rubis
 Classe: Armurier
 Niveau: 80
@@ -23560,7 +24025,7 @@ Difficulté: 5543
 Solidité: 70
 Qualité maximum: 28331
 Qualité: 50 max.
-Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2620, Haute qualité impossible
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2620, Haute qualité impossible
 Degré: 2
 
 Nom: Buste présentoir
@@ -23740,7 +24205,7 @@ Difficulté: 1106
 Solidité: 70
 Qualité maximum: 8298
 Qualité: 50 max.
-Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
+Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 2
 
 Nom: Bâton du Fiélon
@@ -25918,6 +26383,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 50
 Degré: 3
 
+Nom: Canne de Byakko flamboyante
+Classe: Orfèvre
+Niveau: 70
+Livre: Orfèvrerie experte VI
+Catégorie: Arme à deux mains d'élémentaliste
+Matériaux: 3 Lingot de palladium, 2 Cuir de vrai griffon, 2 Rhodonite, 1 Crinière du Tigre blanc, 5 Demi-cristal
+Cristaux: 7 Cristal de vent, 7 Cristal de feu
+Total fabriqué: 1
+Difficulté: 2657
+Solidité: 70
+Qualité maximum: 12511
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
+
 Nom: Canne de Dravanien
 Classe: Orfèvre
 Niveau: 60
@@ -26050,7 +26530,7 @@ Difficulté: 1106
 Solidité: 70
 Qualité maximum: 8298
 Qualité: 50 max.
-Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
+Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 2
 
 Nom: Canne du Fiélon
@@ -31510,7 +31990,7 @@ Difficulté: 1106
 Solidité: 70
 Qualité maximum: 8298
 Qualité: 50 max.
-Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
+Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 2
 
 Nom: Chant du Fiélon
@@ -32623,6 +33103,21 @@ Qualité: 75 max.
 Conditions: Habileté recommandée : 1498
 Degré: 3
 
+Nom: Chapeau des nouvelles frontières
+Classe: Couturier
+Niveau: 80
+Livre: Couture experte VIII
+Catégorie: Tête
+Matériaux: 1 Étoffe des nouvelles frontières, 3 Étoffe de gardénia
+Cristaux: 7 Cristal de foudre, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 5543
+Solidité: 70
+Qualité maximum: 28331
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2620
+Degré: 2
+
 Nom: Chapeau des ressources esthétique
 Classe: Couturier
 Niveau: 80
@@ -33642,6 +34137,21 @@ Qualité maximum: 25863
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 2480
 Degré: 3
+
+Nom: Chaussures des nouvelles frontières
+Classe: Tanneur
+Niveau: 80
+Livre: Tannerie experte VIII
+Catégorie: Pieds
+Matériaux: 1 Étoffe des nouvelles frontières, 2 Cuir de lion marsupial, 1 Madrier de hêtre argenté
+Cristaux: 7 Cristal de terre, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 5543
+Solidité: 70
+Qualité maximum: 28331
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2620
+Degré: 2
 
 Nom: Chaussures des ressources en cuir de smilodon
 Classe: Tanneur
@@ -35473,6 +35983,36 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 136, Haute qualité impossible
 Degré: 2
 
+Nom: Cloison à fenêtre
+Classe: Menuisier
+Niveau: 80
+Livre: 
+Catégorie: Meuble
+Matériaux: 6 Madrier de gaïac, 4 Étoffe de coton nain, 3 Verre en cristal
+Cristaux: 7 Cristal de vent, 7 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 3
+
+Nom: Cloison à fenêtre ronde
+Classe: Menuisier
+Niveau: 80
+Livre: 
+Catégorie: Meuble
+Matériaux: 6 Madrier de gaïac, 6 Rondin de hêtre, 3 Pot de mortier
+Cristaux: 7 Cristal de vent, 7 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 3
+
 Nom: Cloison à porte sombrelinçoise
 Classe: Menuisier
 Niveau: 50
@@ -35681,6 +36221,21 @@ Solidité: 80
 Qualité maximum: 5783
 Qualité: 50 max.
 Conditions: Habileté requise : 451 ou plus, Contrôle requis : 407 ou plus, Synthèse rapide : Habileté >= 620
+Degré: 2
+
+Nom: Codex de Byakko flamboyant
+Classe: Alchimiste
+Niveau: 70
+Livre: Alchimie experte VI
+Catégorie: Arme d'érudit
+Matériaux: 2 Cuir de vrai griffon, 3 Madrier de kaya, 2 Encre de palladium enchantée, 1 Crinière du Tigre blanc, 5 Demi-cristal
+Cristaux: 7 Cristal d'eau, 7 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 2657
+Solidité: 70
+Qualité maximum: 12511
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
 Degré: 2
 
 Nom: Codex de Dravanien
@@ -46858,6 +47413,366 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1100, Synthèse collectionnable uniquement
 Degré: 1
 
+Nom: Composant pour outil resplendissant I (alchimiste)
+Classe: Alchimiste
+Niveau: 80
+Livre: Alchimie experte VIII
+Catégorie: Divers
+Matériaux: 1 Matériau pour outil resplendissant I (alchimiste)
+Cristaux: 4 Agrégat d'eau, 2 Agrégat de foudre
+Total fabriqué: 1
+Difficulté: 12089
+Solidité: 55
+Qualité maximum: 75378
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant I (armurier)
+Classe: Armurier
+Niveau: 80
+Livre: Armurerie experte VIII
+Catégorie: Divers
+Matériaux: 1 Matériau pour outil resplendissant I (armurier)
+Cristaux: 4 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 12089
+Solidité: 55
+Qualité maximum: 75378
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant I (couturier)
+Classe: Couturier
+Niveau: 80
+Livre: Couture experte VIII
+Catégorie: Divers
+Matériaux: 1 Matériau pour outil resplendissant I (couturier)
+Cristaux: 4 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 12089
+Solidité: 55
+Qualité maximum: 75378
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant I (cuisinier)
+Classe: Cuisinier
+Niveau: 80
+Livre: Cuisine experte VIII
+Catégorie: Divers
+Matériaux: 1 Matériau pour outil resplendissant I (cuisinier)
+Cristaux: 4 Agrégat de feu, 2 Agrégat d'eau
+Total fabriqué: 1
+Difficulté: 12089
+Solidité: 55
+Qualité maximum: 75378
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant I (forgeron)
+Classe: Forgeron
+Niveau: 80
+Livre: Métallurgie experte VIII
+Catégorie: Divers
+Matériaux: 1 Matériau pour outil resplendissant I (forgeron)
+Cristaux: 4 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 12089
+Solidité: 55
+Qualité maximum: 75378
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant I (menuisier)
+Classe: Menuisier
+Niveau: 80
+Livre: Menuiserie experte VIII
+Catégorie: Divers
+Matériaux: 1 Matériau pour outil resplendissant I (menuisier)
+Cristaux: 4 Agrégat de vent, 2 Agrégat de glace
+Total fabriqué: 1
+Difficulté: 12089
+Solidité: 55
+Qualité maximum: 75378
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant I (orfèvre)
+Classe: Orfèvre
+Niveau: 80
+Livre: Orfèvrerie experte VIII
+Catégorie: Divers
+Matériaux: 1 Matériau pour outil resplendissant I (orfèvre)
+Cristaux: 4 Agrégat de vent, 2 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 12089
+Solidité: 55
+Qualité maximum: 75378
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant I (tanneur)
+Classe: Tanneur
+Niveau: 80
+Livre: Tannerie experte VIII
+Catégorie: Divers
+Matériaux: 1 Matériau pour outil resplendissant I (tanneur)
+Cristaux: 4 Agrégat de terre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 12089
+Solidité: 55
+Qualité maximum: 75378
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant II (alchimiste)
+Classe: Alchimiste
+Niveau: 80
+Livre: Alchimie experte VIII
+Catégorie: Divers
+Matériaux: 2 Matériau pour outil resplendissant II (alchimiste)
+Cristaux: 4 Agrégat d'eau, 2 Agrégat de foudre
+Total fabriqué: 1
+Difficulté: 12132
+Solidité: 55
+Qualité maximum: 78180
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant II (armurier)
+Classe: Armurier
+Niveau: 80
+Livre: Armurerie experte VIII
+Catégorie: Divers
+Matériaux: 2 Matériau pour outil resplendissant II (armurier)
+Cristaux: 4 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 12132
+Solidité: 55
+Qualité maximum: 78180
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant II (couturier)
+Classe: Couturier
+Niveau: 80
+Livre: Couture experte VIII
+Catégorie: Divers
+Matériaux: 2 Matériau pour outil resplendissant II (couturier)
+Cristaux: 4 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 12132
+Solidité: 55
+Qualité maximum: 78180
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant II (cuisinier)
+Classe: Cuisinier
+Niveau: 80
+Livre: Cuisine experte VIII
+Catégorie: Divers
+Matériaux: 2 Matériau pour outil resplendissant II (cuisinier)
+Cristaux: 4 Agrégat de feu, 2 Agrégat d'eau
+Total fabriqué: 1
+Difficulté: 12132
+Solidité: 55
+Qualité maximum: 78180
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant II (forgeron)
+Classe: Forgeron
+Niveau: 80
+Livre: Métallurgie experte VIII
+Catégorie: Divers
+Matériaux: 2 Matériau pour outil resplendissant II (forgeron)
+Cristaux: 4 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 12132
+Solidité: 55
+Qualité maximum: 78180
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant II (menuisier)
+Classe: Menuisier
+Niveau: 80
+Livre: Menuiserie experte VIII
+Catégorie: Divers
+Matériaux: 2 Matériau pour outil resplendissant II (menuisier)
+Cristaux: 4 Agrégat de vent, 2 Agrégat de glace
+Total fabriqué: 1
+Difficulté: 12132
+Solidité: 55
+Qualité maximum: 78180
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant II (orfèvre)
+Classe: Orfèvre
+Niveau: 80
+Livre: Orfèvrerie experte VIII
+Catégorie: Divers
+Matériaux: 2 Matériau pour outil resplendissant II (orfèvre)
+Cristaux: 4 Agrégat de vent, 2 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 12132
+Solidité: 55
+Qualité maximum: 78180
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant II (tanneur)
+Classe: Tanneur
+Niveau: 80
+Livre: Tannerie experte VIII
+Catégorie: Divers
+Matériaux: 2 Matériau pour outil resplendissant II (tanneur)
+Cristaux: 4 Agrégat de terre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 12132
+Solidité: 55
+Qualité maximum: 78180
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant III (alchimiste)
+Classe: Alchimiste
+Niveau: 80
+Livre: Alchimie experte VIII
+Catégorie: Divers
+Matériaux: 2 Matériau pour outil resplendissant III (alchimiste)
+Cristaux: 4 Agrégat d'eau, 2 Agrégat de foudre
+Total fabriqué: 1
+Difficulté: 13024
+Solidité: 60
+Qualité maximum: 85033
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant III (armurier)
+Classe: Armurier
+Niveau: 80
+Livre: Armurerie experte VIII
+Catégorie: Divers
+Matériaux: 2 Matériau pour outil resplendissant III (armurier)
+Cristaux: 4 Agrégat de glace, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 13024
+Solidité: 60
+Qualité maximum: 85033
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant III (couturier)
+Classe: Couturier
+Niveau: 80
+Livre: Couture experte VIII
+Catégorie: Divers
+Matériaux: 2 Matériau pour outil resplendissant III (couturier)
+Cristaux: 4 Agrégat de foudre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 13024
+Solidité: 60
+Qualité maximum: 85033
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant III (cuisinier)
+Classe: Cuisinier
+Niveau: 80
+Livre: Cuisine experte VIII
+Catégorie: Divers
+Matériaux: 2 Matériau pour outil resplendissant III (cuisinier)
+Cristaux: 4 Agrégat de feu, 2 Agrégat d'eau
+Total fabriqué: 1
+Difficulté: 13024
+Solidité: 60
+Qualité maximum: 85033
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant III (forgeron)
+Classe: Forgeron
+Niveau: 80
+Livre: Métallurgie experte VIII
+Catégorie: Divers
+Matériaux: 2 Matériau pour outil resplendissant III (forgeron)
+Cristaux: 4 Agrégat de feu, 2 Agrégat de terre
+Total fabriqué: 1
+Difficulté: 13024
+Solidité: 60
+Qualité maximum: 85033
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant III (menuisier)
+Classe: Menuisier
+Niveau: 80
+Livre: Menuiserie experte VIII
+Catégorie: Divers
+Matériaux: 2 Matériau pour outil resplendissant III (menuisier)
+Cristaux: 4 Agrégat de vent, 2 Agrégat de glace
+Total fabriqué: 1
+Difficulté: 13024
+Solidité: 60
+Qualité maximum: 85033
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant III (orfèvre)
+Classe: Orfèvre
+Niveau: 80
+Livre: Orfèvrerie experte VIII
+Catégorie: Divers
+Matériaux: 2 Matériau pour outil resplendissant III (orfèvre)
+Cristaux: 4 Agrégat de vent, 2 Agrégat de feu
+Total fabriqué: 1
+Difficulté: 13024
+Solidité: 60
+Qualité maximum: 85033
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Composant pour outil resplendissant III (tanneur)
+Classe: Tanneur
+Niveau: 80
+Livre: Tannerie experte VIII
+Catégorie: Divers
+Matériaux: 2 Matériau pour outil resplendissant III (tanneur)
+Cristaux: 4 Agrégat de terre, 2 Agrégat de vent
+Total fabriqué: 1
+Difficulté: 13024
+Solidité: 60
+Qualité maximum: 85033
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
+Degré: 1
+
 Nom: Composant pour recette ishgardaise
 Classe: Alchimiste
 Niveau: 66
@@ -48251,6 +49166,21 @@ Solidité: 80
 Qualité maximum: 1013
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 136, Haute qualité impossible
+Degré: 3
+
+Nom: Comptoir en brique
+Classe: Alchimiste
+Niveau: 80
+Livre: 
+Catégorie: Table
+Matériaux: 5 Brique klinker, 4 Brique, 3 Madrier de gaïac, 2 Pot de mortier
+Cristaux: 7 Cristal d'eau, 7 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
 Degré: 3
 
 Nom: Comptoir noscéen
@@ -51011,6 +51941,21 @@ Solidité: 70
 Qualité maximum: 4007
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 718 ou plus, Contrôle requis : 695 ou plus, Haute qualité impossible
+Degré: 3
+
+Nom: Crâne de tyrannosaure
+Classe: Orfèvre
+Niveau: 80
+Livre: 
+Catégorie: Mobilier mural
+Matériaux: 1 Os d'animal ancestral, 2 Madrier de gaïac, 2 Pot de mortier
+Cristaux: 7 Cristal de vent, 7 Cristal de feu
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
 Degré: 3
 
 Nom: Crème aigre
@@ -53923,6 +54868,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 67
 Degré: 1
 
+Nom: Deima amélioré
+Classe: Orfèvre
+Niveau: 80
+Livre: Orfèvrerie experte VII
+Catégorie: Arme d'archer
+Matériaux: 4 Barre iridescente, 1 Madrier de santal blanc, 1 Pépite de mithril noble, 1 Éclat de cristal d'Hadès, 8 Demi-matéria de l'artisan
+Cristaux: 7 Cristal de vent, 7 Cristal de feu
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2140
+Degré: 2
+
 Nom: Demi-cloison noscéenne
 Classe: Menuisier
 Niveau: 20
@@ -56113,6 +57073,21 @@ Qualité: 50 max.
 Conditions: Contrôle requis : 318 ou plus, Synthèse rapide : Contrôle >= 374
 Degré: 3
 
+Nom: Déjeuner ishgardais
+Classe: Cuisinier
+Niveau: 80
+Livre: 
+Catégorie: Mobilier de table
+Matériaux: 2 Riz bomba, 1 Jeunes épinards brume, 2 Œuf de loriquet arc-en-ciel, 1 Tomate sanguine
+Cristaux: 7 Cristal de feu, 7 Cristal d'eau
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 1
+
 Nom: Déjeuner noscéen
 Classe: Cuisinier
 Niveau: 56
@@ -56788,6 +57763,36 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 2000 ou plus, Contrôle requis : 1860 ou plus, Haute qualité impossible
 Degré: 2
 
+Nom: Ekplexis améliorée
+Classe: Forgeron
+Niveau: 80
+Livre: Métallurgie experte VII
+Catégorie: Arme de machiniste
+Matériaux: 3 Lingot d'acier au tungstène, 2 Barre iridescente, 2 Sable noir pourpré, 1 Éclat de cristal d'Hadès, 8 Demi-matéria de l'artisan
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2140
+Degré: 2
+
+Nom: Eleos amélioré
+Classe: Forgeron
+Niveau: 80
+Livre: Métallurgie experte VII
+Catégorie: Arme de chevalier noir
+Matériaux: 4 Lingot d'acier au tungstène, 1 Barre iridescente, 1 Pépite de mithril noble, 1 Éclat de cristal d'Hadès, 8 Demi-matéria de l'artisan
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2140
+Degré: 2
+
 Nom: Elmo en acier
 Classe: Armurier
 Niveau: 31
@@ -56967,6 +57972,21 @@ Qualité maximum: 8196
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1539, Gain d'expérience impossible
 Degré: 1
+
+Nom: Enclume de forgeron
+Classe: Forgeron
+Niveau: 80
+Livre: 
+Catégorie: Meuble de jardin
+Matériaux: 8 Lingot de mithril noble, 8 Lingot d'acier noble
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 3
 
 Nom: Encre azur enchantée
 Classe: Alchimiste
@@ -57418,6 +58438,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 391 ou plus, Contrôle requis : 374 ou plus
 Degré: 3
 
+Nom: Enochlesis amélioré
+Classe: Alchimiste
+Niveau: 80
+Livre: Alchimie experte VII
+Catégorie: Arme d'érudit
+Matériaux: 2 Cuir de chalicotherium, 3 Madrier de santal blanc, 1 Encre de mithril sombre enchantée, 1 Éclat de cristal d'Hadès, 8 Demi-matéria de l'artisan
+Cristaux: 7 Cristal d'eau, 7 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2140
+Degré: 2
+
 Nom: Enseigne murale (kura-zukuri)
 Classe: Armurier
 Niveau: 68
@@ -57613,6 +58648,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 150, Haute qualité impossible
 Degré: 2
 
+Nom: Epikairekakia amélioré
+Classe: Alchimiste
+Niveau: 80
+Livre: Alchimie experte VII
+Catégorie: Arme d'arcaniste
+Matériaux: 3 Cuir de chalicotherium, 2 Madrier de santal blanc, 1 Encre de mithril sombre enchantée, 1 Éclat de cristal d'Hadès, 8 Demi-matéria de l'artisan
+Cristaux: 7 Cristal d'eau, 7 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2140
+Degré: 2
+
 Nom: Escabeau
 Classe: Menuisier
 Niveau: 30
@@ -57716,6 +58766,21 @@ Solidité: 80
 Qualité maximum: 9131
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 2
+
+Nom: Escarpins des nouvelles frontières
+Classe: Tanneur
+Niveau: 80
+Livre: Tannerie experte VIII
+Catégorie: Pieds
+Matériaux: 1 Étoffe des nouvelles frontières, 2 Cuir de lion marsupial, 1 Madrier de hêtre argenté
+Cristaux: 7 Cristal de terre, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 5543
+Solidité: 70
+Qualité maximum: 28331
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2620
 Degré: 2
 
 Nom: Escuchon de compagnie libre
@@ -58183,6 +59248,21 @@ Qualité: 50 max.
 Conditions: Contrôle requis : 318 ou plus, Synthèse rapide : Contrôle >= 374
 Degré: 1
 
+Nom: Estoc de Byakko flamboyant
+Classe: Orfèvre
+Niveau: 70
+Livre: Orfèvrerie experte VI
+Catégorie: Arme de mage rouge
+Matériaux: 3 Lingot de palladium, 1 Lingot de chromite, 2 Rhodonite, 1 Crinière du Tigre blanc, 5 Demi-cristal
+Cristaux: 7 Cristal de vent, 7 Cristal de feu
+Total fabriqué: 1
+Difficulté: 2657
+Solidité: 70
+Qualité maximum: 12511
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
+
 Nom: Estoc en palladium
 Classe: Orfèvre
 Niveau: 69
@@ -58226,6 +59306,21 @@ Solidité: 70
 Qualité maximum: 4007
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 718 ou plus, Contrôle requis : 695 ou plus, Haute qualité impossible
+Degré: 3
+
+Nom: Eulabeia amélioré
+Classe: Armurier
+Niveau: 80
+Livre: Armurerie experte VII
+Catégorie: Bouclier
+Matériaux: 2 Lingot d'acier au tungstène, 1 Onyx, 1 Éclat de cristal d'Hadès, 3 Demi-matéria de l'artisan
+Cristaux: 7 Cristal de glace, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2140
 Degré: 3
 
 Nom: Faluche de menuisier
@@ -58422,6 +59517,21 @@ Qualité maximum: 1670
 Qualité: 50 max.
 Conditions: Habileté recommandée : 121
 Degré: 2
+
+Nom: Faucilles de Byakko flamboyantes
+Classe: Forgeron
+Niveau: 70
+Livre: Métallurgie experte VI
+Catégorie: Arme de surineur
+Matériaux: 4 Lingot de chromite, 1 Cuir de vrai griffon, 2 Lingot de molybdène, 1 Crinière du Tigre blanc, 5 Demi-cristal
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 2657
+Solidité: 70
+Qualité maximum: 12511
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
 
 Nom: Faussar des flammes
 Classe: Forgeron
@@ -59578,6 +60688,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 129, Haute qualité impossible
 Degré: 4
 
+Nom: Feu de camp de voyageur
+Classe: Alchimiste
+Niveau: 80
+Livre: 
+Catégorie: Mascotte
+Matériaux: 4 Cendres de grenado, 6 Rondin de teck des sables, 4 Tuf volcanique
+Cristaux: 7 Cristal d'eau, 7 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 1
+
 Nom: Feu de la Déesse
 Classe: Forgeron
 Niveau: 60
@@ -59620,7 +60745,7 @@ Difficulté: 1106
 Solidité: 70
 Qualité maximum: 8298
 Qualité: 50 max.
-Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
+Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 2
 
 Nom: Feu du Fiélon
@@ -63463,6 +64588,21 @@ Qualité: 75 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 2140 ou plus, Contrôle requis : 1990 ou plus
 Degré: 3
 
+Nom: Gants d'apparat des nouvelles frontières
+Classe: Couturier
+Niveau: 80
+Livre: Couture experte VIII
+Catégorie: Mains
+Matériaux: 1 Étoffe des nouvelles frontières, 3 Étoffe de gardénia
+Cristaux: 7 Cristal de foudre, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 5543
+Solidité: 70
+Qualité maximum: 28331
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2620
+Degré: 2
+
 Nom: Gants d'apparat en coton
 Classe: Couturier
 Niveau: 21
@@ -67033,6 +68173,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 50, Haute qualité impossible
 Degré: 2
 
+Nom: Glacière
+Classe: Menuisier
+Niveau: 80
+Livre: 
+Catégorie: Mobilier de table
+Matériaux: 1 Glacière cassée, 2 Madrier de gaïac, 2 Pierre de glace
+Cristaux: 7 Cristal de vent, 7 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 2
+
 Nom: Glacière sur commande de restauration (4e phase)
 Classe: Menuisier
 Niveau: 80
@@ -68068,6 +69223,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 150, Haute qualité impossible
 Degré: 2
 
+Nom: Grande hache de Byakko flamboyante
+Classe: Forgeron
+Niveau: 70
+Livre: Métallurgie experte VI
+Catégorie: Arme de maraudeur
+Matériaux: 4 Lingot de chromite, 1 Cuir de vrai griffon, 2 Pépite de palladium, 1 Crinière du Tigre blanc, 5 Demi-cristal
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 2657
+Solidité: 70
+Qualité maximum: 12511
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
+
 Nom: Grande hache de Suzaku flamboyante
 Classe: Forgeron
 Niveau: 70
@@ -68218,6 +69388,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 391 ou plus, Contrôle requis : 374 ou plus
 Degré: 2
 
+Nom: Grande épée de Byakko flamboyante
+Classe: Forgeron
+Niveau: 70
+Livre: Métallurgie experte VI
+Catégorie: Arme de chevalier noir
+Matériaux: 4 Lingot de chromite, 1 Lingot de palladium, 2 Lingot de molybdène, 1 Crinière du Tigre blanc, 5 Demi-cristal
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 2657
+Solidité: 70
+Qualité maximum: 12511
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
+
 Nom: Grande épée de Shinryu flamboyante
 Classe: Forgeron
 Niveau: 70
@@ -68260,7 +69445,7 @@ Difficulté: 1106
 Solidité: 70
 Qualité maximum: 8298
 Qualité: 50 max.
-Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
+Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 2
 
 Nom: Grande épée du Fiélon
@@ -68831,6 +70016,21 @@ Solidité: 80
 Qualité maximum: 4980
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 391 ou plus, Contrôle requis : 374 ou plus
+Degré: 2
+
+Nom: Grimoire de Byakko flamboyant
+Classe: Alchimiste
+Niveau: 70
+Livre: Alchimie experte VI
+Catégorie: Arme d'arcaniste
+Matériaux: 3 Cuir de vrai griffon, 2 Madrier de kaya, 2 Encre de palladium enchantée, 1 Crinière du Tigre blanc, 5 Demi-cristal
+Cristaux: 7 Cristal d'eau, 7 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 2657
+Solidité: 70
+Qualité maximum: 12511
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
 Degré: 2
 
 Nom: Grimoire de Dravanien
@@ -70435,7 +71635,7 @@ Difficulté: 1106
 Solidité: 70
 Qualité maximum: 8298
 Qualité: 50 max.
-Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
+Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 2
 
 Nom: Hache du Fiélon
@@ -72583,6 +73783,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1388, Synthèse collectionnable uniquement
 Degré: 3
 
+Nom: Himeros amélioré
+Classe: Orfèvre
+Niveau: 80
+Livre: Orfèvrerie experte VII
+Catégorie: Arme d'astromancien
+Matériaux: 4 Barre iridescente, 1 Lingot d'acier au tungstène, 1 Onyx, 1 Éclat de cristal d'Hadès, 8 Demi-matéria de l'artisan
+Cristaux: 7 Cristal de vent, 7 Cristal de feu
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2140
+Degré: 3
+
 Nom: Hoplon
 Classe: Armurier
 Niveau: 5
@@ -74128,6 +75343,21 @@ Qualité: 75 max.
 Conditions: Habileté recommandée : 1621
 Degré: 4
 
+Nom: Jaque des nouvelles frontières
+Classe: Tanneur
+Niveau: 80
+Livre: Tannerie experte VIII
+Catégorie: Torse
+Matériaux: 2 Étoffe des nouvelles frontières, 3 Cuir de lion marsupial, 1 Étoffe de gardénia
+Cristaux: 7 Cristal de terre, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 5543
+Solidité: 70
+Qualité maximum: 28331
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2620
+Degré: 2
+
 Nom: Jaque en coton nain
 Classe: Couturier
 Niveau: 80
@@ -75463,6 +76693,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 391 ou plus, Contrôle requis : 374 ou plus
 Degré: 2
 
+Nom: Katana de Byakko flamboyant
+Classe: Forgeron
+Niveau: 70
+Livre: Métallurgie experte VI
+Catégorie: Arme de samouraï
+Matériaux: 4 Lingot de chromite, 1 Cuir de vrai griffon, 2 Lingot de molybdène, 1 Crinière du Tigre blanc, 5 Demi-cristal
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 2657
+Solidité: 70
+Qualité maximum: 12511
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
+
 Nom: Katana de Shinryu flamboyant
 Classe: Forgeron
 Niveau: 70
@@ -75535,7 +76780,7 @@ Difficulté: 1106
 Solidité: 70
 Qualité maximum: 8298
 Qualité: 50 max.
-Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
+Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 2
 
 Nom: Katana du Fiélon
@@ -75687,6 +76932,21 @@ Qualité maximum: 4114
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 314, Synthèse collectionnable uniquement
 Degré: 2
+
+Nom: Kelesis améliorée
+Classe: Orfèvre
+Niveau: 80
+Livre: Orfèvrerie experte VII
+Catégorie: Arme à deux mains d'élémentaliste
+Matériaux: 3 Barre iridescente, 2 Étoffe mousseuse, 1 Onyx, 1 Éclat de cristal d'Hadès, 8 Demi-matéria de l'artisan
+Cristaux: 7 Cristal de vent, 7 Cristal de feu
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2140
+Degré: 3
 
 Nom: Khakkhara de Seiryû flamboyant
 Classe: Orfèvre
@@ -76510,7 +77770,7 @@ Difficulté: 1106
 Solidité: 70
 Qualité maximum: 8298
 Qualité: 50 max.
-Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
+Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 2
 
 Nom: Lame en molybdène
@@ -76992,6 +78252,21 @@ Qualité maximum: 1053
 Qualité: 50 max.
 Conditions: Habileté recommandée : 94
 Degré: 2
+
+Nom: Lance de Byakko flamboyante
+Classe: Menuisier
+Niveau: 70
+Livre: Menuiserie experte VI
+Catégorie: Arme d'hast
+Matériaux: 3 Madrier de kaya, 2 Lingot de chromite, 2 Lingot de molybdène, 1 Crinière du Tigre blanc, 5 Demi-cristal
+Cristaux: 7 Cristal de vent, 7 Cristal de glace
+Total fabriqué: 1
+Difficulté: 2657
+Solidité: 70
+Qualité maximum: 12511
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
 
 Nom: Lance de Dravanien
 Classe: Menuisier
@@ -80651,6 +81926,21 @@ Solidité: 80
 Qualité maximum: 8081
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1662, Haute qualité impossible
+Degré: 3
+
+Nom: Lustre gland-des-nuages
+Classe: Alchimiste
+Niveau: 80
+Livre: 
+Catégorie: Luminaire
+Matériaux: 6 Gland-des-nuages, 4 Verre en cristal, 3 Glu végétale
+Cristaux: 7 Cristal d'eau, 7 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
 Degré: 3
 
 Nom: Lustre ishgardais
@@ -86533,6 +87823,126 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1063
 Degré: 1
 
+Nom: Matériel créatif
+Classe: Alchimiste
+Niveau: 77
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel créatif
+Cristaux: 4 Cristal d'eau, 2 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3586
+Solidité: 60
+Qualité maximum: 12593
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1621, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel créatif
+Classe: Armurier
+Niveau: 77
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel créatif
+Cristaux: 4 Cristal de glace, 2 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3586
+Solidité: 60
+Qualité maximum: 12593
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1621, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel créatif
+Classe: Couturier
+Niveau: 77
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel créatif
+Cristaux: 4 Cristal de foudre, 2 Cristal de vent
+Total fabriqué: 1
+Difficulté: 3586
+Solidité: 60
+Qualité maximum: 12593
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1621, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel créatif
+Classe: Cuisinier
+Niveau: 77
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel créatif
+Cristaux: 4 Cristal de feu, 2 Cristal d'eau
+Total fabriqué: 1
+Difficulté: 3586
+Solidité: 60
+Qualité maximum: 12593
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1621, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel créatif
+Classe: Forgeron
+Niveau: 77
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel créatif
+Cristaux: 4 Cristal de feu, 2 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3586
+Solidité: 60
+Qualité maximum: 12593
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1621, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel créatif
+Classe: Menuisier
+Niveau: 77
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel créatif
+Cristaux: 4 Cristal de vent, 2 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3586
+Solidité: 60
+Qualité maximum: 12593
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1621, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel créatif
+Classe: Orfèvre
+Niveau: 77
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel créatif
+Cristaux: 4 Cristal de vent, 2 Cristal de feu
+Total fabriqué: 1
+Difficulté: 3586
+Solidité: 60
+Qualité maximum: 12593
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1621, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel créatif
+Classe: Tanneur
+Niveau: 77
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel créatif
+Cristaux: 4 Cristal de terre, 2 Cristal de vent
+Total fabriqué: 1
+Difficulté: 3586
+Solidité: 60
+Qualité maximum: 12593
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1621, Synthèse collectionnable uniquement
+Degré: 1
+
 Nom: Matériel d'entraînement
 Classe: Alchimiste
 Niveau: 50
@@ -87253,6 +88663,126 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 176, Haute qualité impossible, Gain d'expérience impossible
 Degré: 1
 
+Nom: Matériel de rééducation
+Classe: Alchimiste
+Niveau: 73
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel de rééducation
+Cristaux: 4 Cristal d'eau, 2 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3348
+Solidité: 60
+Qualité maximum: 11249
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1457, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel de rééducation
+Classe: Armurier
+Niveau: 73
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel de rééducation
+Cristaux: 4 Cristal de glace, 2 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3348
+Solidité: 60
+Qualité maximum: 11249
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1457, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel de rééducation
+Classe: Couturier
+Niveau: 73
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel de rééducation
+Cristaux: 4 Cristal de foudre, 2 Cristal de vent
+Total fabriqué: 1
+Difficulté: 3348
+Solidité: 60
+Qualité maximum: 11249
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1457, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel de rééducation
+Classe: Cuisinier
+Niveau: 73
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel de rééducation
+Cristaux: 4 Cristal de feu, 2 Cristal d'eau
+Total fabriqué: 1
+Difficulté: 3348
+Solidité: 60
+Qualité maximum: 11249
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1457, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel de rééducation
+Classe: Forgeron
+Niveau: 73
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel de rééducation
+Cristaux: 4 Cristal de feu, 2 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3348
+Solidité: 60
+Qualité maximum: 11249
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1457, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel de rééducation
+Classe: Menuisier
+Niveau: 73
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel de rééducation
+Cristaux: 4 Cristal de vent, 2 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3348
+Solidité: 60
+Qualité maximum: 11249
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1457, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel de rééducation
+Classe: Orfèvre
+Niveau: 73
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel de rééducation
+Cristaux: 4 Cristal de vent, 2 Cristal de feu
+Total fabriqué: 1
+Difficulté: 3348
+Solidité: 60
+Qualité maximum: 11249
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1457, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel de rééducation
+Classe: Tanneur
+Niveau: 73
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel de rééducation
+Cristaux: 4 Cristal de terre, 2 Cristal de vent
+Total fabriqué: 1
+Difficulté: 3348
+Solidité: 60
+Qualité maximum: 11249
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1457, Synthèse collectionnable uniquement
+Degré: 1
+
 Nom: Matériel de vannerie
 Classe: Alchimiste
 Niveau: 50
@@ -87371,6 +88901,126 @@ Solidité: 80
 Qualité maximum: 1980
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 176, Haute qualité impossible, Gain d'expérience impossible
+Degré: 1
+
+Nom: Matériel médical
+Classe: Alchimiste
+Niveau: 72
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel médical
+Cristaux: 4 Cristal d'eau, 2 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3248
+Solidité: 60
+Qualité maximum: 10928
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1388, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel médical
+Classe: Armurier
+Niveau: 72
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel médical
+Cristaux: 4 Cristal de glace, 2 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3248
+Solidité: 60
+Qualité maximum: 10928
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1388, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel médical
+Classe: Couturier
+Niveau: 72
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel médical
+Cristaux: 4 Cristal de foudre, 2 Cristal de vent
+Total fabriqué: 1
+Difficulté: 3248
+Solidité: 60
+Qualité maximum: 10928
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1388, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel médical
+Classe: Cuisinier
+Niveau: 72
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel médical
+Cristaux: 4 Cristal de feu, 2 Cristal d'eau
+Total fabriqué: 1
+Difficulté: 3248
+Solidité: 60
+Qualité maximum: 10928
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1388, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel médical
+Classe: Forgeron
+Niveau: 72
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel médical
+Cristaux: 4 Cristal de feu, 2 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3248
+Solidité: 60
+Qualité maximum: 10928
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1388, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel médical
+Classe: Menuisier
+Niveau: 72
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel médical
+Cristaux: 4 Cristal de vent, 2 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3248
+Solidité: 60
+Qualité maximum: 10928
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1388, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel médical
+Classe: Orfèvre
+Niveau: 72
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel médical
+Cristaux: 4 Cristal de vent, 2 Cristal de feu
+Total fabriqué: 1
+Difficulté: 3248
+Solidité: 60
+Qualité maximum: 10928
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1388, Synthèse collectionnable uniquement
+Degré: 1
+
+Nom: Matériel médical
+Classe: Tanneur
+Niveau: 72
+Livre: 
+Catégorie: Divers
+Matériaux: 1 Matériaux pour matériel médical
+Cristaux: 4 Cristal de terre, 2 Cristal de vent
+Total fabriqué: 1
+Difficulté: 3248
+Solidité: 60
+Qualité maximum: 10928
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1388, Synthèse collectionnable uniquement
 Degré: 1
 
 Nom: Matériel pour les fondations
@@ -87612,6 +89262,21 @@ Qualité maximum: 6116
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1069, Gain d'expérience impossible
 Degré: 1
+
+Nom: Menis améliorée
+Classe: Forgeron
+Niveau: 80
+Livre: Métallurgie experte VII
+Catégorie: Arme d'hast
+Matériaux: 3 Lingot d'acier au tungstène, 2 Madrier de santal blanc, 1 Onyx, 1 Éclat de cristal d'Hadès, 8 Demi-matéria de l'artisan
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2140
+Degré: 3
 
 Nom: Mercure
 Classe: Alchimiste
@@ -88316,6 +89981,21 @@ Solidité: 70
 Qualité maximum: 7874
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Contrôle requis : 589 ou plus
+Degré: 3
+
+Nom: Misos amélioré
+Classe: Forgeron
+Niveau: 80
+Livre: Métallurgie experte VII
+Catégorie: Arme de gladiateur
+Matériaux: 2 Lingot d'acier au tungstène, 1 Barre iridescente, 1 Onyx, 1 Éclat de cristal d'Hadès, 5 Demi-matéria de l'artisan
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2140
 Degré: 3
 
 Nom: Miséricorde
@@ -91828,6 +93508,21 @@ Qualité: 50 max.
 Conditions: Habileté requise : 1500 ou plus, Contrôle requis : 1350 ou plus, Synthèse rapide : Habileté >= 1650
 Degré: 1
 
+Nom: Odune améliorée
+Classe: Forgeron
+Niveau: 80
+Livre: Métallurgie experte VII
+Catégorie: Arme de pistosabreur
+Matériaux: 4 Lingot d'acier au tungstène, 1 Barre iridescente, 1 Lingot de mithril noble, 1 Éclat de cristal d'Hadès, 8 Demi-matéria de l'artisan
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2140
+Degré: 2
+
 Nom: Offrande piégée
 Classe: Alchimiste
 Niveau: 59
@@ -91947,6 +93642,21 @@ Qualité maximum: 1834
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 580, Gain d'expérience impossible
 Degré: 1
+
+Nom: Oknos amélioré
+Classe: Menuisier
+Niveau: 80
+Livre: Menuiserie experte VII
+Catégorie: Arme à deux mains d'occultiste
+Matériaux: 3 Madrier de santal blanc, 2 Barre iridescente, 1 Onyx, 1 Éclat de cristal d'Hadès, 8 Demi-matéria de l'artisan
+Cristaux: 7 Cristal de vent, 7 Cristal de glace
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2140
+Degré: 3
 
 Nom: Omble grillé
 Classe: Cuisinier
@@ -93268,6 +94978,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 325, Haute qualité impossible
 Degré: 2
 
+Nom: Panier de pommes pixies
+Classe: Cuisinier
+Niveau: 80
+Livre: 
+Catégorie: Mobilier de table
+Matériaux: 5 Pomme pixie, 1 Jus de raisin
+Cristaux: 7 Cristal de feu, 7 Cristal d'eau
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 2
+
 Nom: Panier de sandwichs
 Classe: Cuisinier
 Niveau: 17
@@ -94003,6 +95728,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 2480
 Degré: 3
 
+Nom: Pantalon des nouvelles frontières
+Classe: Couturier
+Niveau: 80
+Livre: Couture experte VIII
+Catégorie: Jambes
+Matériaux: 2 Étoffe des nouvelles frontières, 3 Étoffe de gardénia, 1 Cuir de lion marsupial
+Cristaux: 7 Cristal de foudre, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 5543
+Solidité: 70
+Qualité maximum: 28331
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2620
+Degré: 2
+
 Nom: Pantalon des ressources en akaso
 Classe: Couturier
 Niveau: 61
@@ -94660,7 +96400,7 @@ Difficulté: 1106
 Solidité: 70
 Qualité maximum: 8298
 Qualité: 50 max.
-Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
+Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 2
 
 Nom: Parole du Fiélon
@@ -96778,6 +98518,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
 Degré: 1
 
+Nom: Phthonos améliorés
+Classe: Forgeron
+Niveau: 80
+Livre: Métallurgie experte VII
+Catégorie: Arme de surineur
+Matériaux: 3 Lingot d'acier au tungstène, 2 Barre iridescente, 1 Lingot de mithril noble, 1 Éclat de cristal d'Hadès, 8 Demi-matéria de l'artisan
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2140
+Degré: 2
+
 Nom: Picatrix
 Classe: Alchimiste
 Niveau: 8
@@ -97705,7 +99460,7 @@ Difficulté: 1106
 Solidité: 70
 Qualité maximum: 8298
 Qualité: 50 max.
-Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
+Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 2
 
 Nom: Pique du Fiélon
@@ -99493,6 +101248,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 391 ou plus, Contrôle requis : 374 ou plus
 Degré: 2
 
+Nom: Poings de Byakko flamboyants
+Classe: Forgeron
+Niveau: 70
+Livre: Métallurgie experte VI
+Catégorie: Arme de pugiliste
+Matériaux: 4 Lingot de chromite, 1 Cuir de vrai griffon, 2 Lingot de molybdène, 1 Crinière du Tigre blanc, 5 Demi-cristal
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 2657
+Solidité: 70
+Qualité maximum: 12511
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
+
 Nom: Poings de Dravanien
 Classe: Forgeron
 Niveau: 60
@@ -99550,7 +101320,7 @@ Difficulté: 1106
 Solidité: 70
 Qualité maximum: 8298
 Qualité: 50 max.
-Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
+Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 2
 
 Nom: Poings du Fiélon
@@ -99820,7 +101590,7 @@ Difficulté: 1106
 Solidité: 70
 Qualité maximum: 8298
 Qualité: 50 max.
-Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
+Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 2
 
 Nom: Pointes du Fiélon
@@ -100348,6 +102118,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 99, Haute qualité impossible
 Degré: 3
 
+Nom: Porte-armure
+Classe: Armurier
+Niveau: 80
+Livre: 
+Catégorie: Mobilier de table
+Matériaux: 1 Armure rouillée, 2 Lingot de mithril noble, 2 Pierre de pavement
+Cristaux: 7 Cristal de glace, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 2
+
 Nom: Porte-chapeau
 Classe: Menuisier
 Niveau: 55
@@ -100437,6 +102222,21 @@ Qualité maximum: 469
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 78, Haute qualité impossible
 Degré: 3
+
+Nom: Porte-verres
+Classe: Menuisier
+Niveau: 80
+Livre: 
+Catégorie: Mobilier mural
+Matériaux: 4 Madrier de gaïac, 3 Verre à vin, 1 Assortiment de liqueurs
+Cristaux: 7 Cristal de vent, 7 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 4
 
 Nom: Portique morbol
 Classe: Tanneur
@@ -104950,7 +106750,7 @@ Difficulté: 1106
 Solidité: 70
 Qualité maximum: 8298
 Qualité: 50 max.
-Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
+Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 2
 
 Nom: Rapière du Fiélon
@@ -107413,6 +109213,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 2480 ou plus, Contrôle requis : 2195 ou plus, Recettes avancées, Synthèse collectionnable uniquement
 Degré: 1
 
+Nom: Revolver de Byakko flamboyant
+Classe: Forgeron
+Niveau: 70
+Livre: Métallurgie experte VI
+Catégorie: Arme de machiniste
+Matériaux: 3 Lingot de chromite, 2 Lingot de palladium, 2 Lingot de molybdène, 1 Crinière du Tigre blanc, 5 Demi-cristal
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 2657
+Solidité: 70
+Qualité maximum: 12511
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
+
 Nom: Revolver en adamantium
 Classe: Forgeron
 Niveau: 58
@@ -107472,6 +109287,21 @@ Qualité maximum: 36208
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 2480 ou plus, Contrôle requis : 2195 ou plus
 Degré: 2
+
+Nom: Revêtement mural bleu tempête
+Classe: Alchimiste
+Niveau: 80
+Livre: 
+Catégorie: Tapisserie
+Matériaux: 6 Pépite de mithril noble, 6 Pierre de pavement, 4 Granit, 4 Pot de mortier
+Cristaux: 7 Cristal d'eau, 7 Cristal de foudre
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 3
 
 Nom: Revêtement mural carrelé
 Classe: Orfèvre
@@ -108853,6 +110683,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 1050
 Degré: 3
 
+Nom: Robe des nouvelles frontières
+Classe: Couturier
+Niveau: 80
+Livre: Couture experte VIII
+Catégorie: Torse
+Matériaux: 2 Étoffe des nouvelles frontières, 4 Étoffe de gardénia
+Cristaux: 7 Cristal de foudre, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 5543
+Solidité: 70
+Qualité maximum: 28331
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2620
+Degré: 2
+
 Nom: Robe des ressources en cuir de zonure
 Classe: Tanneur
 Niveau: 77
@@ -110143,6 +111988,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 587, Haute qualité impossible
 Degré: 2
 
+Nom: Rouleau "In the Arms of War"
+Classe: Alchimiste
+Niveau: 80
+Livre: Alchimie experte VIII
+Catégorie: Rouleau pour orchestrion
+Matériaux: 1 Rouleau d'orchestrion vierge III, 1 Encre de mithril sombre enchantée, 1 Rouleau abîmé "In the Arms of War"
+Cristaux: 3 Agrégat d'eau, 3 Agrégat de foudre
+Total fabriqué: 1
+Difficulté: 5543
+Solidité: 70
+Qualité maximum: 28331
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2620, Haute qualité impossible
+Degré: 2
+
 Nom: Rouleau "Infinity"
 Classe: Alchimiste
 Niveau: 60
@@ -110455,7 +112315,7 @@ Difficulté: 4943
 Solidité: 70
 Qualité maximum: 12931
 Qualité: 50 max.
-Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2480, Haute qualité impossible
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2480, Haute qualité impossible
 Degré: 2
 
 Nom: Rouleau "The Corpse Hall"
@@ -110818,6 +112678,21 @@ Qualité: 50 max.
 Conditions: Habileté recommandée : 587, Haute qualité impossible
 Degré: 1
 
+Nom: Rouleau de moquette jaune crème
+Classe: Couturier
+Niveau: 80
+Livre: 
+Catégorie: Sol
+Matériaux: 8 Étoffe de laine d'ovim, 4 Étoffe de coton nain, 4 Madrier de gaïac, 4 Pot de mortier
+Cristaux: 7 Cristal de foudre, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 4
+
 Nom: Ruban d'attaquant en ramie
 Classe: Couturier
 Niveau: 54
@@ -110967,6 +112842,21 @@ Qualité maximum: 3951
 Qualité: 50 max.
 Conditions: Habileté recommandée : 468
 Degré: 3
+
+Nom: Ruban des nouvelles frontières
+Classe: Couturier
+Niveau: 80
+Livre: Couture experte VIII
+Catégorie: Tête
+Matériaux: 1 Étoffe des nouvelles frontières, 3 Étoffe de gardénia
+Cristaux: 7 Cristal de foudre, 7 Cristal de vent
+Total fabriqué: 1
+Difficulté: 5543
+Solidité: 70
+Qualité maximum: 28331
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 2620
+Degré: 2
 
 Nom: Ruban en étoffe arc-en-ciel collectionnable
 Classe: Couturier
@@ -116608,6 +118498,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 391 ou plus, Contrôle requis : 374 ou plus
 Degré: 3
 
+Nom: Sceptre de Byakko flamboyant
+Classe: Orfèvre
+Niveau: 70
+Livre: Orfèvrerie experte VI
+Catégorie: Arme à deux mains d'occultiste
+Matériaux: 3 Lingot de palladium, 2 Lingot de chromite, 2 Rhodonite, 1 Crinière du Tigre blanc, 5 Demi-cristal
+Cristaux: 7 Cristal de vent, 7 Cristal de feu
+Total fabriqué: 1
+Difficulté: 2657
+Solidité: 70
+Qualité maximum: 12511
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
+
 Nom: Sceptre de Dravanien
 Classe: Orfèvre
 Niveau: 60
@@ -120718,6 +122623,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 106, Haute qualité impossible
 Degré: 3
 
+Nom: Table d'avant-poste
+Classe: Forgeron
+Niveau: 80
+Livre: 
+Catégorie: Meuble de jardin
+Matériaux: 7 Lingot de mithril noble, 3 Madrier de gaïac, 3 Lingot de bronze titané, 3 Pépite de mana-argent
+Cristaux: 28 Cristal de feu, 28 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 2
+
 Nom: Table de Grand-Lac
 Classe: Menuisier
 Niveau: 78
@@ -121048,6 +122968,36 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
 Degré: 2
 
+Nom: Table touret
+Classe: Menuisier
+Niveau: 80
+Livre: 
+Catégorie: Mobilier de table
+Matériaux: 8 Madrier de gaïac, 6 Madrier de teck des sables
+Cristaux: 7 Cristal de vent, 7 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 2
+
+Nom: Table à carreaux et chaises
+Classe: Menuisier
+Niveau: 80
+Livre: 
+Catégorie: Table
+Matériaux: 8 Madrier de gaïac, 4 Madrier de teck des sables, 4 Étoffe de coton nain
+Cristaux: 7 Cristal de vent, 7 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 3
+
 Nom: Table à manger
 Classe: Menuisier
 Niveau: 26
@@ -121182,6 +123132,21 @@ Qualité maximum: 792
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 106, Haute qualité impossible
 Degré: 3
+
+Nom: Tableau d'informations : taverne
+Classe: Forgeron
+Niveau: 80
+Livre: 
+Catégorie: Mobilier de table
+Matériaux: 4 Lingot de mithril noble, 2 Madrier de gaïac, 1 Teinture vermillon terne, 1 Teinture jaune désert
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 2
 
 Nom: Tableau mural Suzaku
 Classe: Menuisier
@@ -122217,6 +124182,21 @@ Qualité maximum: 2646
 Qualité: 50 max.
 Conditions: Contrôle requis : 255 ou plus, Synthèse rapide : Contrôle >= 318
 Degré: 3
+
+Nom: Tasse de café filtre
+Classe: Cuisinier
+Niveau: 80
+Livre: 
+Catégorie: Mobilier de table
+Matériaux: 4 Grains de café, 2 Eau souterraine
+Cristaux: 7 Cristal de feu, 7 Cristal d'eau
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 1
 
 Nom: Tassette d'abatteur en adamantium
 Classe: Armurier
@@ -126311,6 +128291,21 @@ Solidité: 70
 Qualité maximum: 7874
 Qualité: 50 max.
 Conditions: Habileté requise : 620 ou plus, Synthèse rapide : Habileté >= 718
+Degré: 2
+
+Nom: Thumosis améliorée
+Classe: Forgeron
+Niveau: 80
+Livre: Métallurgie experte VII
+Catégorie: Arme de maraudeur
+Matériaux: 3 Lingot d'acier au tungstène, 2 Barre iridescente, 1 Lingot de mithril noble, 1 Éclat de cristal d'Hadès, 8 Demi-matéria de l'artisan
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2140
 Degré: 2
 
 Nom: Thé de la Steppe
@@ -131383,6 +133378,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
 Degré: 2
 
+Nom: Vitrine de violons
+Classe: Menuisier
+Niveau: 80
+Livre: 
+Catégorie: Mobilier de table
+Matériaux: 1 Vitrine vide, 7 Madrier d'épicéa, 4 Madrier d'érable, 3 Boyaux de mouton
+Cristaux: 28 Cristal de vent, 28 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 2
+
 Nom: Vitrine de vêtements
 Classe: Couturier
 Niveau: 80
@@ -131726,6 +133736,36 @@ Solidité: 70
 Qualité maximum: 11960
 Qualité: 50 max.
 Conditions: Habileté requise : 1100 ou plus, Contrôle requis : 1080 ou plus, Synthèse rapide : Habileté >= 1320
+Degré: 2
+
+Nom: Zelos améliorés
+Classe: Forgeron
+Niveau: 80
+Livre: Métallurgie experte VII
+Catégorie: Arme de pugiliste
+Matériaux: 4 Lingot d'acier au tungstène, 1 Cuir de chalicotherium, 1 Lingot de mithril noble, 1 Éclat de cristal d'Hadès, 8 Demi-matéria de l'artisan
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2140
+Degré: 2
+
+Nom: Zelotupia améliorées
+Classe: Forgeron
+Niveau: 80
+Livre: Métallurgie experte VII
+Catégorie: Arme de danseur
+Matériaux: 4 Lingot d'acier au tungstène, 1 Cuir de chalicotherium, 1 Pépite de mithril noble, 1 Éclat de cristal d'Hadès, 8 Demi-matéria de l'artisan
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 4343
+Solidité: 70
+Qualité maximum: 23395
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 2140
 Degré: 2
 
 Nom: Zircon
@@ -134233,6 +136273,21 @@ Qualité: 50 max.
 Conditions: Contrôle requis : 318 ou plus, Synthèse rapide : Contrôle >= 374
 Degré: 3
 
+Nom: Éphéméride de Byakko flamboyante
+Classe: Orfèvre
+Niveau: 70
+Livre: Orfèvrerie experte VI
+Catégorie: Arme d'astromancien
+Matériaux: 3 Lingot de palladium, 2 Lingot de chromite, 2 Rhodonite, 1 Crinière du Tigre blanc, 5 Demi-cristal
+Cristaux: 7 Cristal de vent, 7 Cristal de feu
+Total fabriqué: 1
+Difficulté: 2657
+Solidité: 70
+Qualité maximum: 12511
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
+Degré: 3
+
 Nom: Éphéméridosphère de Seiryû flamboyante
 Classe: Orfèvre
 Niveau: 70
@@ -134531,6 +136586,21 @@ Solidité: 70
 Qualité maximum: 8298
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
+Degré: 3
+
+Nom: Épée de pierre de Byakko flamboyante
+Classe: Forgeron
+Niveau: 70
+Livre: Métallurgie experte VI
+Catégorie: Arme de gladiateur
+Matériaux: 2 Lingot de chromite, 1 Cuir de vrai griffon, 1 Pépite de palladium, 1 Crinière du Tigre blanc, 3 Demi-cristal
+Cristaux: 7 Cristal de feu, 7 Cristal de terre
+Total fabriqué: 1
+Difficulté: 2657
+Solidité: 70
+Qualité maximum: 12511
+Qualité: 50 max.
+Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté recommandée : 1320
 Degré: 3
 
 Nom: Épée droite de Seiryû flamboyante
@@ -135073,6 +137143,21 @@ Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 2620 ou plus, Contrôle requis : 2540 ou plus, Recettes avancées, Synthèse collectionnable uniquement
 Degré: 1
 
+Nom: Établi de forge
+Classe: Armurier
+Niveau: 80
+Livre: 
+Catégorie: Meuble de jardin
+Matériaux: 8 Brique klinker, 4 Lingot de mithril noble, 4 Coke de houille
+Cristaux: 28 Cristal de glace, 28 Cristal de terre
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
+Degré: 2
+
 Nom: Établi de menuiserie
 Classe: Menuisier
 Niveau: 50
@@ -135131,6 +137216,21 @@ Solidité: 80
 Qualité maximum: 2490
 Qualité: 50 max.
 Conditions: Synthèse rapide impossible, Habileté requise : 391 ou plus, Contrôle requis : 374 ou plus, Haute qualité impossible
+Degré: 2
+
+Nom: Étagère de bar
+Classe: Menuisier
+Niveau: 80
+Livre: 
+Catégorie: Table
+Matériaux: 10 Madrier de gaïac, 6 Assortiment de liqueurs
+Cristaux: 28 Cristal de vent, 28 Cristal de glace
+Total fabriqué: 1
+Difficulté: 3943
+Solidité: 80
+Qualité maximum: 9131
+Qualité: 50 max.
+Conditions: Synthèse rapide impossible, Habileté recommandée : 1866, Haute qualité impossible
 Degré: 2
 
 Nom: Étagère de cuisine murale
@@ -136195,7 +138295,7 @@ Difficulté: 1106
 Solidité: 70
 Qualité maximum: 8298
 Qualité: 50 max.
-Conditions: Recette de spécialiste, Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
+Conditions: Synthèse rapide impossible, Habileté requise : 850 ou plus, Contrôle requis : 820 ou plus
 Degré: 2
 
 Nom: Étoile du Fiélon

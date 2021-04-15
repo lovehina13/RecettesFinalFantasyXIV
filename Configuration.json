@@ -7,7 +7,7 @@
     },
     "pageRecettes": {
         "activer": false,
-        "nombrePages": 183,
+        "nombrePages": 185,
         "fichierSortie": "Recettes.csv"
     },
     "pageRecoltes": {

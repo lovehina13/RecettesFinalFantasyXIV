@@ -248,7 +248,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 70
 Catégorie: Réactif
-Points de récolte: Norvrandt - Amh Araeng - Auberge du Grand Départ: 70
+Points de récolte: Norvrandt - Amh Araeng - La Barbichette: 70
 
 Nom: Alun noir
 Classe: Mineur
@@ -999,6 +999,76 @@ Niveau: 80
 Catégorie: Tissu
 Points de récolte: Abalathia - Le Diadème - Le Diadème: ??
 
+Nom: Composants d'articles de goûter dînatoire
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 75
+Catégorie: Divers
+Points de récolte: Gyr Abania - Les Pics - Pleur caché: 75
+
+Nom: Composants d'articles de goûter dînatoire
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 75
+Catégorie: Divers
+Points de récolte: Othard - Mer de Rubis - Le Kobayashi Maru: 75
+
+Nom: Composants d'articles du quotidien
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 71
+Catégorie: Divers
+Points de récolte: Dravania - Arrière-pays dravanien - Quartier des Fabricateurs: 75
+
+Nom: Composants d'articles du quotidien
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 71
+Catégorie: Divers
+Points de récolte: Dravania - Arrière-pays dravanien - Quartier académique: 75
+
+Nom: Composants de matériel créatif
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 77
+Catégorie: Divers
+Points de récolte: Othard - Steppe d'Azim - Onsal Hakair: 80
+
+Nom: Composants de matériel créatif
+Classe: Mineur
+Sous-classe: Extraction de pierre
+Niveau: 77
+Catégorie: Divers
+Points de récolte: Othard - Steppe d'Azim - Kahkol Iloh: 80
+
+Nom: Composants de matériel de rééducation
+Classe: Botaniste
+Sous-classe: Coupe
+Niveau: 73
+Catégorie: Divers
+Points de récolte: Gyr Abania - Les Marges - Virdjala: 75
+
+Nom: Composants de matériel de rééducation
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 73
+Catégorie: Divers
+Points de récolte: Gyr Abania - Les Marges - Vira Nilya: 75
+
+Nom: Composants de matériel médical
+Classe: Botaniste
+Sous-classe: Fauche
+Niveau: 72
+Catégorie: Divers
+Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Le Nidifice: 75
+
+Nom: Composants de matériel médical
+Classe: Mineur
+Sous-classe: Extraction de minerai
+Niveau: 72
+Catégorie: Divers
+Points de récolte: Abalathia - L'Écume des cieux d'Abalathia - Dos-brisé: 75
+
 Nom: Corail collectionnable
 Classe: Botaniste
 Sous-classe: Coupe
@@ -1130,7 +1200,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Noscea - Noscea centrale - Le Coude de Trois-Malms: 30, Noscea - Noscea centrale - Estival: 50, Dravania - Avant-pays dravanien - Terres fumantes: 55, Dravania - Avant-pays dravanien - Les Cent Râles: 75, Gyr Abania - Les Marges - Confins est: 65, Gyr Abania - Les Marges - Ternebois: 70, Norvrandt - Amh Araeng - La Louche: 80
+Points de récolte: Noscea - Noscea centrale - Le Coude de Trois-Malms: 30, Noscea - Noscea centrale - Estival: 50, Dravania - Avant-pays dravanien - Terres fumantes: 55, Dravania - Avant-pays dravanien - Les Cent Râles: 75, Gyr Abania - Les Marges - Confins est: 65, Gyr Abania - Les Marges - Ternebois: 70, Gyr Abania - Les Marges - Virdjala: 75, Norvrandt - Amh Araeng - La Louche: 80
 
 Nom: Cristal de feu
 Classe: Botaniste
@@ -1179,7 +1249,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Thanalan - Thanalan méridional - Eaux-Mortes: 30, Coerthas - Hautes terres du Coerthas occidental - Pont du Fer noir: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Gundu: 60 (éphémère), Othard - Steppe d'Azim - Onsal Hakair: 70
+Points de récolte: Thanalan - Thanalan méridional - Eaux-Mortes: 30, Coerthas - Hautes terres du Coerthas occidental - Pont du Fer noir: 60 (éphémère), Abalathia - L'Écume des cieux d'Abalathia - Ok' Gundu: 60 (éphémère), Othard - Steppe d'Azim - Onsal Hakair: 70, Othard - Steppe d'Azim - Kahkol Iloh: 80
 
 Nom: Cristal de glace
 Classe: Botaniste
@@ -1221,7 +1291,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (éphémère), Dravania - Arrière-pays dravanien - Arboretum Sainte-Mocianne: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - Colonie des Maîtres terriens: 55, Dravania - L'Écume des cieux de Dravania - Fort-Heaume: 60, Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - Ohl Tahn: 65, Othard - Steppe d'Azim - Retraite de Nhaama: 70, Norvrandt - Grand-Lac - Forêt du Berger égaré: 75, Norvrandt - Grand-Lac - Dents-de-pierre: 80 (éphémère), Norvrandt - Grand-Lac - Ivraie: 80
+Points de récolte: Dravania - Avant-pays dravanien - Déclin d'Avalonia: 60 (éphémère), Dravania - Arrière-pays dravanien - Arboretum Sainte-Mocianne: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - Colonie des Maîtres terriens: 55, Dravania - L'Écume des cieux de Dravania - Fort-Heaume: 60, Dravania - L'Écume des cieux de Dravania - Clos-Vert: 60 (éphémère), Dravania - L'Écume des cieux de Dravania - Ohl Tahn: 65, Othard - Steppe d'Azim - Retraite de Nhaama: 70, Othard - Steppe d'Azim - Onsal Hakair: 80, Norvrandt - Grand-Lac - Forêt du Berger égaré: 75, Norvrandt - Grand-Lac - Dents-de-pierre: 80 (éphémère), Norvrandt - Grand-Lac - Ivraie: 80
 
 Nom: Cristal de terre
 Classe: Mineur
@@ -1242,7 +1312,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Forêt de Sombrelinceul - Forêt centrale - Brancharquée: 30, Othard - Yanxia - Envol du Héron: 65, Norvrandt - Rak'tika - Solide Serment: 75
+Points de récolte: Forêt de Sombrelinceul - Forêt centrale - Brancharquée: 30, Dravania - Arrière-pays dravanien - Quartier des Fabricateurs: 75, Othard - Yanxia - Envol du Héron: 65, Norvrandt - Rak'tika - Solide Serment: 75
 
 Nom: Cristal de vent
 Classe: Botaniste
@@ -1256,14 +1326,14 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Dravania - Arrière-pays dravanien - Quartier des Fabricateurs: 60, Gyr Abania - Les Marges - Confins est: 60, Gyr Abania - Les Marges - Roches rayées: 65
+Points de récolte: Dravania - Arrière-pays dravanien - Quartier des Fabricateurs: 60, Dravania - Arrière-pays dravanien - Quartier académique: 75, Gyr Abania - Les Marges - Confins est: 60, Gyr Abania - Les Marges - Roches rayées: 65, Gyr Abania - Les Marges - Vira Nilya: 75
 
 Nom: Cristal de vent
 Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 26
 Catégorie: Cristal
-Points de récolte: Forêt de Sombrelinceul - Forêt de l'est - Neuf-Lierres: 30, Forêt de Sombrelinceul - Forêt de l'est - Massif de ronces: 50, Norvrandt - Amh Araeng - Auberge du Grand Départ: 70, Norvrandt - Amh Araeng - Grandes mines de Biran: 80
+Points de récolte: Forêt de Sombrelinceul - Forêt de l'est - Neuf-Lierres: 30, Forêt de Sombrelinceul - Forêt de l'est - Massif de ronces: 50, Norvrandt - Amh Araeng - La Barbichette: 70, Norvrandt - Amh Araeng - Grandes mines de Biran: 80
 
 Nom: Cristal des foudres évanescentes de restauration (2e phase)
 Classe: Mineur
@@ -3951,7 +4021,7 @@ Classe: Botaniste
 Sous-classe: Fauche
 Niveau: 80
 Catégorie: Divers
-Points de récolte: Norvrandt - Amh Araeng - Plaine d'Ambre: 80
+Points de récolte: Norvrandt - Amh Araeng - Auberge du Grand Départ: 80
 
 Nom: Pomme de fée
 Classe: Botaniste
@@ -4973,7 +5043,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 70
 Catégorie: Réactif
-Points de récolte: Norvrandt - Amh Araeng - Auberge du Grand Départ: 70
+Points de récolte: Norvrandt - Amh Araeng - La Barbichette: 70
 
 Nom: Sangsue des landes
 Classe: Botaniste
@@ -5582,7 +5652,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 70
 Catégorie: Autre
-Points de récolte: Norvrandt - Amh Araeng - Auberge du Grand Départ: 70
+Points de récolte: Norvrandt - Amh Araeng - La Barbichette: 70
 
 Nom: Trille
 Classe: Botaniste
@@ -5876,7 +5946,7 @@ Classe: Botaniste
 Sous-classe: Coupe
 Niveau: 1
 Catégorie: Cristal
-Points de récolte: Noscea - Basse-Noscea - La Cédrière: 10, Noscea - Basse-Noscea - La Cédrière: 20, Forêt de Sombrelinceul - Forêt du nord - Ruines de Gelmorra: 5, Forêt de Sombrelinceul - Forêt du nord - Futaie des Murmures: 5, Forêt de Sombrelinceul - Forêt du nord - Futaie des Murmures: 10, Forêt de Sombrelinceul - Forêt du nord - Sommière de la Paix: 30
+Points de récolte: Noscea - Basse-Noscea - La Cédrière: 10, Noscea - Basse-Noscea - La Cédrière: 20, Forêt de Sombrelinceul - Forêt du nord - Futaie des Murmures: 5, Forêt de Sombrelinceul - Forêt du nord - La Fierté: 5, Forêt de Sombrelinceul - Forêt du nord - Futaie des Murmures: 10, Forêt de Sombrelinceul - Forêt du nord - Sommière de la Paix: 30
 
 Nom: Éclat de terre
 Classe: Botaniste
@@ -5890,7 +5960,7 @@ Classe: Mineur
 Sous-classe: Extraction de minerai
 Niveau: 1
 Catégorie: Cristal
-Points de récolte: Noscea - Basse-Noscea - La Cédrière: 10, Noscea - Haute-Noscea - Lac d'Airain: 45, Forêt de Sombrelinceul - Forêt du nord - Ruines de Gelmorra: 5, Forêt de Sombrelinceul - Forêt du nord - Futaie des Murmures: 10, Forêt de Sombrelinceul - Forêt du nord - Sommière de la Paix: 20
+Points de récolte: Noscea - Basse-Noscea - La Cédrière: 10, Noscea - Haute-Noscea - Lac d'Airain: 45, Forêt de Sombrelinceul - Forêt du nord - Sommière de la Paix: 5, Forêt de Sombrelinceul - Forêt du nord - Futaie des Murmures: 10, Forêt de Sombrelinceul - Forêt du nord - Sommière de la Paix: 20
 
 Nom: Éclat de terre
 Classe: Mineur
@@ -5967,7 +6037,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 70
 Catégorie: Divers
-Points de récolte: Norvrandt - Amh Araeng - Auberge du Grand Départ: 70
+Points de récolte: Norvrandt - Amh Araeng - La Barbichette: 70
 
 Nom: Émeraude brute
 Classe: Mineur
@@ -6002,7 +6072,7 @@ Classe: Mineur
 Sous-classe: Extraction de pierre
 Niveau: 70
 Catégorie: Divers
-Points de récolte: Norvrandt - Amh Araeng - Auberge du Grand Départ: 70
+Points de récolte: Norvrandt - Amh Araeng - La Barbichette: 70
 
 Nom: Épinards des Cieldalaes
 Classe: Botaniste
